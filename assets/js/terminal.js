@@ -11,7 +11,7 @@ function next(delay) {
 }
 $(document).ready(function() {
     $('.command').each(function(i) {
-        var delay = ((i + 1) * 3000);
+        var delay = ((i + 1) * 1000);
 
         setTimeout(function() {
             execute();

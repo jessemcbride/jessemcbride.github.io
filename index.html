@@ -1,7 +1,13 @@
 <!DOCTYPE html>
-<html class="full" lang="en">
-<!-- Make sure the <html> tag is set to the .full CSS class. Change the background image in the full.css file. -->
+<!-- Reading another person's HTML just feels wrong, right?
 
+Sorry I made you load Bootstrap. It's been a few years since I've touched this
+page.
+
+Stay safe.
+
+-->
+<html class="full" lang="en">
 <head>
 
     <meta charset="utf-8">
@@ -49,17 +55,10 @@
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="nav-collapse">
-                <ul class="nav navbar-nav">
-                    <li id="projects">
-                        <a href="projects">Projects</a>
-                    </li>
-                    <li id="blog">
-                        <a href="blog">Blog</a>
-                    </li>
-                </ul>
                 <ul class="nav navbar-nav navbar-right">
                       <li><a href="https://github.com/jessemcbride"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-                      <li><a href="https://www.linkedin.com/in/jesse-mcbride-985488116/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+		      <li><a href="https://twitter.com/justajwalker"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                      <li><a href="https://www.linkedin.com/in/jesse-mcbride-985488116/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li> 
                       <li><a href="mailto:hi@jessemcbride.me"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
                 </ul>
             </div>
@@ -72,26 +71,25 @@
         <div class="row">
             <div class="col-md-10 col-sm-12 shell">
             	<div class="command current">
-	                <h1 class="prompt"><span class="hostname">jesse@mcbride</span>:<span class="path">~</span>$ <span class="type">whoami</span><span class="blinking-cursor">|</span></h1>
+	                <h1 class="prompt"><span class="hostname">jessemcbride</span>:<span class="path">~</span>$ <span class="type">whoami</span><span class="blinking-cursor">|</span></h1>
 	                <p class="content" style="display:none" data-tag="whoami">
-	                	I'm a web developer and programmer living in Orlando, Florida. I'm usually building web applications with Django, but I'll occasionally pretend to write more useful things. I'm interested in online learning, automation, and data visualization.
+Hi, I'm Jesse. I'm a full-stack software developer from Orlando, FL. Since 2015, I've been working with the University of Central Florida's Center for Distributed Learning building ed tech that helps to power one of the largest universities in the US.
 	                </p>
 	            </div>
 	            <div class="command hidden">
-	                <h1 class="prompt"><span class="hostname">jesse@mcbride</span>:<span class="path">~</span>$ <span class="type">cat skills.txt</span><span class="blinking-cursor">|</span></h1>
+	                <h1 class="prompt"><span class="hostname">jessemcbride</span>:<span class="path">~</span>$ <span class="type">cat skills.txt</span><span class="blinking-cursor">|</span></h1>
 	                <div class="content" style="display:none" data-tag="toolkit">
 	                	<p>Languages: Python, Java, JavaScript</p>
-	                	<p>VCS: git (<em>preferably</em>), SVN</p>
-                        <p>Frameworks: Django, Flask, unittest, jQuery</p>
-                        <p>Tools: Docker, Vagrant, Jenkins</p>
+	                	<p>Technologies: Git, Docker, AWS, GitLab CI, Travis CI, Nginx, Apache, Celery, Redis, RabbitMQ, MySQL, PostgreSQL</p>
+				<p>Web Frameworks and Libraries: Django, Django REST Framework, Flask, Vue.js, TailwindCSS</p>
+				<p>Code Quality: TDD, coverage.py, pytest, unittest, mypy, flake8, pylint, black, isort, Jest, ESLint, Prettier</p>
 	                </div>
 	            </div>
                 <div class="command hidden">
-                    <h1 class="prompt"><span class="hostname">jesse@mcbride</span>:<span class="path">~</span>$ <span class="type">cat contact.txt</span><span class="blinking-cursor">|</span></h1>
+                    <h1 class="prompt"><span class="hostname">jessemcbride</span>:<span class="path">~</span>$ <span class="type">cat contact.txt</span><span class="blinking-cursor">|</span></h1>
                     <div class="content" style="display:none" data-tag="contact">
                         <p>Email: hi@jessemcbride.me</p>
                         <p>Phone: (407) 205-2982</p>
-                        <p>PGP: <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x58E8A04943F47CEB">0x58E8A04943F47CEB</a></p>
                     </div>
                 </div>
             </div>
@@ -107,5 +105,15 @@
     <script src="assets/js/bootstrap.min.js"></script>
 
     <script src="assets/js/terminal.js"></script>
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107576669-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107576669-1');
+</script>
 </body>
 </html>
