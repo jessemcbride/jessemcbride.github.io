@@ -1,91 +1,58 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
 body {
-	background: #2C001E;
-	color: #FFF;
-	font-family: 'Ubuntu Mono', sans-serif;
-	font-size: 18px;
-}
-.navbar {
-	font-family: 'Ubuntu', sans-serif;
-}
-.prompt {
-        overflow-wrap: break-word;
-}
-.header {
-	margin-top: 15px;
-}
-.header a {
-	color: #FFF;
-}
-.hostname {
-	color: #51d040;
-}
-.path { 
-	color: #606a87;
-}
-.content {
- width: 80%;
-}
-.blinking-cursor {
-  color: #2E3D48;
-  font-weight: bolder;
-  -webkit-animation: 1s blink step-end infinite;
-  -moz-animation: 1s blink step-end infinite;
-  -ms-animation: 1s blink step-end infinite;
-  -o-animation: 1s blink step-end infinite;
-  animation: 1s blink step-end infinite;
+    background: #0a0a1a;
+    overflow: hidden;
+    font-family: 'Ubuntu', sans-serif;
 }
 
-@keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
+#forest-canvas {
+    display: block;
+    width: 100vw;
+    height: 100vh;
 }
 
-@-moz-keyframes blink {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
+.site-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 28px;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.35), transparent);
 }
 
-@-webkit-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
+.brand {
+    color: rgba(255,255,255,0.9);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.5);
 }
 
-@-ms-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
 }
 
-@-o-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
+.nav-links a {
+    color: rgba(255,255,255,0.8);
+    display: flex;
+    align-items: center;
+    transition: color 0.2s, opacity 0.2s;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.5);
 }
 
-@-webkit-keyframes typing {
-    from { width: 100% }
-    to { width:0 }
+.nav-links a:hover {
+    color: #fff;
+    opacity: 1;
 }
 
-@-webkit-keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: black }
+.nav-links svg {
+    filter: drop-shadow(0 1px 3px rgba(0,0,0,0.4));
 }
