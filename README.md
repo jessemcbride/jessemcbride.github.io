@@ -1,6 +1,6 @@
 # Jesse’s space
 
-A personal GitHub Pages site rebuilt from `js.mhtml`, with its original dark scrapbook design, seven recovered album covers, editable projects, Spotify listening, public GitHub activity, and a searchable CanvasAPI archive.
+A personal GitHub Pages site rebuilt from `js.mhtml`, with its original dark scrapbook design, seven recovered album covers, editable projects, Spotify listening, public GitHub activity.
 
 **Start here: Node 24+, then `npm run dev`.** Open <http://127.0.0.1:4321/> for the site or <http://127.0.0.1:4321/manage> for the local editor. No application dependencies or API credentials are needed to preview or build.
 
@@ -104,10 +104,8 @@ For subsequent edits, use `npm run deploy` or your normal commit-and-push workfl
 | --- | --- | --- |
 | Listening patterns and monthly observations | Spotify recent-history API | Aggregated each run, after authorization |
 | Public GitHub activity | Configured GitHub username | Every scheduled run; upstream events may lag |
-| CanvasAPI stars and forks | `ucfopen/canvasapi` | Every scheduled run |
 | Bio, projects, now note, RuneScape note | `content/site.json` | When you edit and deploy |
 | Handpicked record shelf | `content/music.json` | When you edit and deploy; fallback when disconnected |
-| 298 CanvasAPI dependents | `content/canvasapi.json` | Historical imported snapshot, explicitly labeled |
 
 The cron expression `17 12 * * *` runs daily at 12:17 UTC (8:17am EDT / 7:17am EST). GitHub Actions can delay or drop scheduled jobs. Public-repository schedules may be disabled after 60 days without activity; check the Actions tab if updates stop. [GitHub scheduling documentation](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)
 
@@ -128,9 +126,8 @@ Set `domain` in the local editor or `content/site.json` to your hostname, for ex
 ```text
 content/site.json       Profile, paragraphs, projects, integration toggles
 content/music.json      Your fallback record shelf
-content/canvasapi.json  Historical dependents archive
 public/style.css       Recovered styles and additions
-public/app.js          Browser behavior and archive search
+public/app.js          Browser behavior and feed updates
 public/view.js         Shared safe feed rendering
 public/assets/         Images and favicon
 src/page.mjs           Server-rendered page template

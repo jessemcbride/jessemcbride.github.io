@@ -1,4 +1,4 @@
-import { esc, link, music, github, canvasStats } from './view.js';
+import { music, github } from './view.js';
 
 const getJSON = async path => {
   const response = await fetch(new URL(path, import.meta.url), { cache: 'no-store', signal: AbortSignal.timeout(10000) });
@@ -11,7 +11,6 @@ function renderFeeds() {
   document.querySelector('#music-content').innerHTML = music(content.integrations.spotify ? activity.spotify : { status: 'disabled' }, content.favorites, Date.now(), content.history);
   const gh = document.querySelector('#github-content');
   if (gh) gh.innerHTML = github(activity.github, content.github);
-  document.querySelector('#canvas-stats').innerHTML = canvasStats(content.integrations.canvasapi ? activity.canvasapi : {});
 }
 let refreshing = false;
 async function refresh() {
@@ -43,16 +42,3 @@ const observer = new IntersectionObserver(entries => {
   }
 }, { rootMargin: '-5% 0px -55% 0px', threshold: 0 });
 document.querySelectorAll('main > section, #home').forEach(s => observer.observe(s));
-let repositories = [], limit = 12;
-const search = document.querySelector('#repo-search'), sort = document.querySelector('#repo-sort'), more = document.querySelector('#load-more');
-function renderRepos() {
-  const query = search.value.toLowerCase().trim();
-  const matches = repositories.filter(r => `${r.owner}/${r.name}`.toLowerCase().includes(query)).sort(sort.value === 'name' ? (a, b) => a.name.localeCompare(b.name) : (a, b) => b.stars - a.stars);
-  document.querySelector('#repo-results').innerHTML = matches.slice(0, limit).map(r => `<article class="archive-repo">${link(`https://github.com/${r.owner}/${r.name}`, `<strong>${esc(r.name)}</strong><span>${esc(r.owner)}</span>`)}<span class="repo-stars">☆ ${esc(r.stars)}</span></article>`).join('');
-  document.querySelector('#repo-count').textContent = matches.length ? `Showing ${Math.min(limit, matches.length)} of ${matches.length} projects` : 'No projects match. Try another name or owner.';
-  more.hidden = matches.length <= limit;
-}
-search.addEventListener('input', () => { limit = 12; renderRepos(); });
-sort.addEventListener('change', () => { limit = 12; renderRepos(); });
-more.addEventListener('click', () => { limit += 12; renderRepos(); });
-getJSON('./data/canvasapi.json').then(data => { repositories = data.repositories; renderRepos(); }).catch(() => { document.querySelector('#repo-count').textContent = 'The archive could not load. Please try refreshing the page.'; });

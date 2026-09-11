@@ -6,7 +6,6 @@ import { page } from '../src/page.mjs';
 export async function build() {
   const site = validateSite(await readJSON('content/site.json'));
   const favorites = validateMusic(await readJSON('content/music.json'));
-  const canvas = await readJSON('content/canvasapi.json');
   const activity = await readActivity();
   let history = null;
   try { history = await readJSON('content/listening-history.json'); } catch (e) { if (e.code !== 'ENOENT') throw e; }
@@ -18,10 +17,9 @@ export async function build() {
   await rm('dist', { recursive: true, force: true });
   await mkdir('dist/data', { recursive: true });
   await cp('public', 'dist', { recursive: true });
-  await writeFile('dist/index.html', page(site, favorites, activity, canvas, history));
+  await writeFile('dist/index.html', page(site, favorites, activity, history));
   await writeFile('dist/data/activity.json', JSON.stringify(activity));
   await writeFile('dist/data/content.json', JSON.stringify({ github: site.github, favorites, history, integrations: site.integrations }));
-  await writeFile('dist/data/canvasapi.json', JSON.stringify(canvas));
   await writeFile('dist/.nojekyll', '');
   await writeFile('dist/404.html', '<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Page not found</title><body style="background:#0d0b10;color:#ddd6dc;font:20px Georgia;padding:10vw"><h1>This corner is empty.</h1><p>The page you requested does not exist. Use your browser’s back button to return.</p></body></html>');
   if (site.domain) await writeFile('dist/CNAME', site.domain + '\n');

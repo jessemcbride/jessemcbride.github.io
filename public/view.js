@@ -45,11 +45,6 @@ export function github(feed = {}, name = '', now = Date.now()) {
   const events = feed.events || [];
   return `<div class="section-meta"><span>Out in the open</span><span>${esc(status(feed, now))}</span></div>${events.length ? `<ol class="activity-list">${events.map(e => `<li><span class="activity-dot" aria-hidden="true">✧</span><div><p>${esc(e.action)} ${link(e.url, esc(e.repo))}</p><time datetime="${esc(e.date)}">${esc(ago(e.date, now))}</time></div></li>`).join('')}</ol>` : `<p class="empty-note">No recent public activity to show. You can still find my work ${link(`https://github.com/${name}`, 'on GitHub ↗')}.</p>`}<p class="fine-print">Public activity only. GitHub’s activity feed can lag behind new commits.</p>`;
 }
-export function canvasStats(feed = {}, now = Date.now()) {
-  if (!feed.updatedAt) return '<p class="fine-print">Live repository stats will appear after the first successful check.</p>';
-  return `<div class="repo-stats"><span><strong>${Number(feed.stars).toLocaleString('en-US')}</strong> stars</span><span><strong>${Number(feed.forks).toLocaleString('en-US')}</strong> forks</span><span>${esc(status(feed, now))}</span></div>`;
-}
-
 export function listeningHistory(history) {
   const years = history.years;
   const number = n => Math.round(n).toLocaleString('en-US');

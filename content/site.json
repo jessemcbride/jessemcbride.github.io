@@ -61,6 +61,6 @@
   "integrations": {
     "spotify": true,
     "github": true,
-    "canvasapi": true
+    "canvasapi": false
   }
 }

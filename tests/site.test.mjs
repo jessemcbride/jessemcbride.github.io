@@ -22,10 +22,10 @@ before(async () => {
 });
 after(async () => { if (server) { server.close(); await once(server, 'close'); } process.chdir(root); });
 
-test('Build is useful without JavaScript and preserves the archive content', async () => {
+test('Build is useful without JavaScript and omits the removed CanvasAPI section', async () => {
   const html = await readFile('dist/index.html', 'utf8');
   assert.match(html, /Tomato Knight/); assert.match(html, /Momma/); assert.match(html, /staff software engineer at Apple/);
-  assert.match(html, /298 archived projects/); assert.doesNotMatch(html, /jesse-house\.jwmcbride\.chatgpt\.site/);
+  assert.doesNotMatch(html, /built with CanvasAPI|id="canvasapi"|repo-search/); assert.doesNotMatch(html, /jesse-house\.jwmcbride\.chatgpt\.site/);
 });
 test('Every local HTML asset exists and resolves under a GitHub Pages project path', async () => {
   const html = await readFile('dist/index.html', 'utf8');
