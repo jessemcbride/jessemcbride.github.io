@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Motorbike",
+    "artist": "Momma",
+    "url": "https://open.spotify.com/track/2k0pTJX5uO4oWd60ISGV4z",
+    "image": "./assets/music/momma-household-name.webp",
+    "album": "Household Name \u2014 Momma"
+  },
+  {
+    "title": "Cramps",
+    "artist": "Slow Pulp",
+    "url": "https://open.spotify.com/track/0Q0GhCEqLzxX72UGo0AKge",
+    "image": "./assets/music/slow-pulp-yard.webp",
+    "album": "Yard \u2014 Slow Pulp"
+  },
+  {
+    "title": "Chores",
+    "artist": "feeble little horse",
+    "url": "https://open.spotify.com/track/6Z7iEn0fnabkVCgnR50YbA",
+    "image": "./assets/music/feeble-little-horse-hayday.webp",
+    "album": "Hayday \u2014 feeble little horse"
+  },
+  {
+    "title": "Drunk II",
+    "artist": "Mannequin Pussy",
+    "url": "https://open.spotify.com/track/4j1OTpSF5ejqYPKwqHvlzM",
+    "image": "./assets/music/mannequin-pussy-patience.webp",
+    "album": "Patience \u2014 Mannequin Pussy"
+  },
+  {
+    "title": "Brooklyn Bridge",
+    "artist": "Twen",
+    "url": "https://open.spotify.com/track/281r8B9PWLqu46O0Yc447h",
+    "image": "./assets/music/twen-one-stop-shop.webp",
+    "album": "One Stop Shop \u2014 Twen"
+  },
+  {
+    "title": "Comes In Waves",
+    "artist": "Pool Kids",
+    "url": "https://open.spotify.com/track/1BsOw1VLCqiJKgrrmFYUMg",
+    "image": "./assets/music/pool-kids.webp",
+    "album": "Pool Kids \u2014 Pool Kids"
+  },
+  {
+    "title": "A Decade Under the Influence",
+    "artist": "Taking Back Sunday",
+    "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI",
+    "image": "./assets/music/taking-back-sunday-where-you-want-to-be.webp",
+    "album": "Where You Want To Be \u2014 Taking Back Sunday"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "jesse-garden",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/dev.mjs --preview",
+    "test": "node --test tests/*.test.mjs",
+    "check": "npm test && npm run build",
+    "music:import": "node scripts/import-listening.mjs",
+    "refresh": "node --env-file-if-exists=.env scripts/refresh.mjs",
+    "spotify:connect": "node --env-file-if-exists=.env scripts/spotify-connect.mjs",
+    "deploy": "node scripts/deploy.mjs",
+    "doctor": "node --env-file-if-exists=.env scripts/doctor.mjs"
+  }
+}

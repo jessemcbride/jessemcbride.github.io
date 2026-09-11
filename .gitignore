@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.cache/
+.DS_Store
+old/
+js.mhtml
+*.log
+data/activity.json
+data/*.tmp
+
+# Keep raw Spotify history exports local.
+Streaming_History_*.json
+endsong*.json

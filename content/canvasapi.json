@@ -1,0 +1,1793 @@
+{
+  "note": "Imported from the supplied CanvasAPI dependents snapshot. This is a historical selection, not a complete or live dependency count.",
+  "repositories": [
+    {
+      "owner": "realprogrammersusevim",
+      "name": "canvas_grades",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "ASU-CSE230-P4-Capstone-Project",
+      "name": "AI-driven-self-paced-course-for-Assembly-CSE-230-",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "snorkel-ai",
+      "name": "Toolathlon",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "eigent-ai",
+      "name": "toolathlon_gym",
+      "stars": 132,
+      "forks": 9
+    },
+    {
+      "owner": "bastazo",
+      "name": "agoge",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "FleischerResearchLab",
+      "name": "CanvasGroupy",
+      "stars": 1,
+      "forks": 1
+    },
+    {
+      "owner": "chancemelby",
+      "name": "cyberarena",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "realprogrammersusevim",
+      "name": "canvas_todo",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "valkyrie1248",
+      "name": "Canvas-Accessibility-Audits",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "polyipseity",
+      "name": "ext.canvas-student-data-export",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "SkjalgS",
+      "name": "CanvasAnnouncementBot",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Max-Ratcliff",
+      "name": "CanvasCal",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "rapa-mit",
+      "name": "CanvasBeaver",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "kfl",
+      "name": "staffeli_nt",
+      "stars": 9,
+      "forks": 9
+    },
+    {
+      "owner": "ets-berkeley-edu",
+      "name": "nessie",
+      "stars": 6,
+      "forks": 12
+    },
+    {
+      "owner": "Tan28-art",
+      "name": "ABET-Tools",
+      "stars": 2,
+      "forks": 1
+    },
+    {
+      "owner": "base2ML",
+      "name": "canvas-ta-assistant",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "justicedundas",
+      "name": "HebrewVocabulary",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "drscotthawley",
+      "name": "botograder",
+      "stars": 3,
+      "forks": 0
+    },
+    {
+      "owner": "suncloudsmoon",
+      "name": "canvas-download",
+      "stars": 1,
+      "forks": 1
+    },
+    {
+      "owner": "dnicholson314",
+      "name": "lugach",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "bain-cs111",
+      "name": "bain-cs111.github.io",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "BYU-CS-Course-Ops",
+      "name": "mdx-canvas",
+      "stars": 1,
+      "forks": 1
+    },
+    {
+      "owner": "jonespm",
+      "name": "canvas-app-explorer",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "JzckWu",
+      "name": "MATA",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "tl-its-umich-edu",
+      "name": "canvas-course-manager-next",
+      "stars": 12,
+      "forks": 11
+    },
+    {
+      "owner": "kalyan12344",
+      "name": "DruvAI",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "cgumb",
+      "name": "canvas-scraper",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "kovaxis",
+      "name": "bdd-manage",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "jperrello",
+      "name": "Auto-Student",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "burik0112",
+      "name": "RattanMaster",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "EduQuest-AI-Inc",
+      "name": "eduquest-backend",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "norrisaftcc",
+      "name": "tool-grader",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "s2e-lab",
+      "name": "SALLM",
+      "stars": 15,
+      "forks": 1
+    },
+    {
+      "owner": "JoshFran",
+      "name": "CopilotCanvasAPI",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "sahilpardasani",
+      "name": "Canvas_to_do_automation",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "julianprester",
+      "name": "kannwas",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "dzliu",
+      "name": "rc_files",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "JaHe03",
+      "name": "Canvas-Discord-Bot",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "aLadNamedPat",
+      "name": "simpleDreamer",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "terryyz",
+      "name": "X-Repo2Run",
+      "stars": 4,
+      "forks": 2
+    },
+    {
+      "owner": "pnguyenfetchai",
+      "name": "study_assistant",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Willebrew",
+      "name": "canvas-pal",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "freemocap",
+      "name": "skellybot-analysis",
+      "stars": 1,
+      "forks": 1
+    },
+    {
+      "owner": "MatviievMark",
+      "name": "glide",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "dc74089",
+      "name": "schooldash",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "BAGoldstein2003",
+      "name": "Recipe.AI",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "silentshaikh",
+      "name": "data_encryption",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "lukebrevoort",
+      "name": "CanvasToNotion",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "pbjames",
+      "name": "canvy",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "RedLeafe",
+      "name": "CanvasAlert",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "coolfrancy",
+      "name": "AssignTrack",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "JoshHveem",
+      "name": "canvasapiutils",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "LuminousDy",
+      "name": "PLP-PM-2025-2-27-GRP6-QAnvas",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "wesleywu20",
+      "name": "ece120_automata",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Cal-CS-61A-Staff",
+      "name": "sections",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "rtreharne",
+      "name": "django-lti",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "guigocamara",
+      "name": "JourneyJot",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "sahusgupta",
+      "name": "thesys-ai",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "AdityaPrakash-26",
+      "name": "Canvas-MCP",
+      "stars": 3,
+      "forks": 0
+    },
+    {
+      "owner": "justin-mello",
+      "name": "CDDCourseExporter",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "henryukwu55",
+      "name": "ai_feedback_generator",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "The-Randalorian",
+      "name": "rando-ga-test-harness",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "adityavidyadharan",
+      "name": "SyllabusHub",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "hoquesumya",
+      "name": "StudyLink",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "jchencxh",
+      "name": "Scaling-Web-Agents",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "R1yanW1ang",
+      "name": "AI_Plagiarism_checker",
+      "stars": 5,
+      "forks": 0
+    },
+    {
+      "owner": "UZ9",
+      "name": "canvas-grade-manager",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "shiva9596",
+      "name": "lmschatbotai",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "HudsonGri",
+      "name": "llm-os-agent",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "m4tthw-xu",
+      "name": "fabman-invitation",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "vasantsaladi",
+      "name": "ud_hacks",
+      "stars": 0,
+      "forks": 2
+    },
+    {
+      "owner": "yehaisong",
+      "name": "canvas-tools-ai",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "abrown41",
+      "name": "canvas_selector",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "atharva789",
+      "name": "fox",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "zetaminer",
+      "name": "Canvas_SBG",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "esinocchi",
+      "name": "Canvas-Classmate",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "elblanco2",
+      "name": "Check-Student-Inactivity",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Vibha-Murthy",
+      "name": "aspire-backend",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "VedantUpadhyay",
+      "name": "Canvas-Automate-assigning-assignments",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "tmonck",
+      "name": "canvas_lms_integration",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "Aidan-McNay",
+      "name": "courseflow",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "steveschofield",
+      "name": "canvas-lms",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "danmalone326",
+      "name": "canvas-attachment-download",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "UNCCharlotteSuperFabLab",
+      "name": "ManagmentSystem",
+      "stars": 1,
+      "forks": 2
+    },
+    {
+      "owner": "josearcos2023",
+      "name": "thesisBackCanvasApi",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "eyhc1",
+      "name": "canvas-grader",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "hitazuranahiro",
+      "name": "CanvasLMS-Wrapper",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "banneddb",
+      "name": "MasterDealer",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "marcelopc2",
+      "name": "canvas_tab_organizator",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Ariamestra",
+      "name": "Picata-Streamlit",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "ahnsv",
+      "name": "csci3360-group-proj",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "jasonhemann",
+      "name": "canvas-roster-project",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "jmshima01",
+      "name": "CanvasAIAssistant",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "tl-its-umich-edu",
+      "name": "instructor-tools",
+      "stars": 6,
+      "forks": 9
+    },
+    {
+      "owner": "sahilsaoji",
+      "name": "eagletask",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "JOwen-ster",
+      "name": "canvasbotworkshop",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "tomasohCHOM",
+      "name": "canvasbot",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "darrelllong",
+      "name": "CSE-13S",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "NSP909",
+      "name": "vm",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "javiermtzo99",
+      "name": "SmartSearch",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "JOwen-ster",
+      "name": "Discord.py-Bot-TEMPLATE",
+      "stars": 3,
+      "forks": 1
+    },
+    {
+      "owner": "rapa0020",
+      "name": "Canvas_Comment_Extractor",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "abus-sh",
+      "name": "ITSC-4155-Project",
+      "stars": 2,
+      "forks": 2
+    },
+    {
+      "owner": "alphavector",
+      "name": "all",
+      "stars": 6,
+      "forks": 0
+    },
+    {
+      "owner": "enwask",
+      "name": "understudy",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "xbaro",
+      "name": "PeLP",
+      "stars": 0,
+      "forks": 2
+    },
+    {
+      "owner": "jeannieMo",
+      "name": "COMS-4153-Project-CourseEnrollment-Microservice",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "NSP909",
+      "name": "hackUMBC",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Jerrick-Santos",
+      "name": "DATA101-Disasters-Mapping",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Magnetize8953",
+      "name": "scanner-push",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "pateyu",
+      "name": "StudyBot",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "cushdog",
+      "name": "course-hub-api",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "rndmcnlly",
+      "name": "GradeSlop",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "apurbzz-1994",
+      "name": "canvaslms-subaccount-visualiser",
+      "stars": 10,
+      "forks": 3
+    },
+    {
+      "owner": "UBC-LFS",
+      "name": "canvas_quiz_extender",
+      "stars": 0,
+      "forks": 2
+    },
+    {
+      "owner": "ngshijun",
+      "name": "canvas-automater",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "gato365",
+      "name": "project-75-emans-wordle",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "jbrudenell",
+      "name": "Pittscord",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "JackKarp",
+      "name": "TOLEDoen",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Pranav-Karra-3301",
+      "name": "canvas-to-notion",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "samogden",
+      "name": "GradingAssistant",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "Teamable-Analytics",
+      "name": "teamable-backend",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "Lyn4ever29",
+      "name": "pipy_server",
+      "stars": 3,
+      "forks": 1
+    },
+    {
+      "owner": "e3wei",
+      "name": "canvas-scripts",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Vlad2000Andrei",
+      "name": "CN_QuizStat",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "synthghost",
+      "name": "canvas-mastery-toolkit",
+      "stars": 6,
+      "forks": 0
+    },
+    {
+      "owner": "champlain-college",
+      "name": "canvas-course-creation-script",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "MikeTheGreat",
+      "name": "MikesGradingTool",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Aidan-B1409",
+      "name": "engr103-autograder",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "yajan-singh",
+      "name": "CanvasAiHelper",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "jimwitte",
+      "name": "rubriclab",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Bn-Fang",
+      "name": "ADHD_Calendar",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "jblumberg",
+      "name": "Canvas_Scripts",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "htfam",
+      "name": "app-prototype",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "nathanbronson",
+      "name": "BetterCanvas",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "jwmds23",
+      "name": "SongPopularity",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "1143051639Luke",
+      "name": "Project-RAG_Pipeline_On_Canvas",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "uvucs",
+      "name": "canvas-insights",
+      "stars": 5,
+      "forks": 7
+    },
+    {
+      "owner": "Ikshv",
+      "name": "cont_cam",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "carson7005",
+      "name": "School-Calendar",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "lauragondu",
+      "name": "Autocorrelation",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "urielmorningstar",
+      "name": "discord-bot-covenofmud1",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "abhiramg2021",
+      "name": "cotion",
+      "stars": 1,
+      "forks": 1
+    },
+    {
+      "owner": "justicedundas",
+      "name": "DownloadCanvasFiles",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "chains-project",
+      "name": "1000py",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "dddkhoa",
+      "name": "VinUni-QR-Attendance",
+      "stars": 1,
+      "forks": 1
+    },
+    {
+      "owner": "rtreharne",
+      "name": "django-docker-secure",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "upenn",
+      "name": "teaching-dashboard",
+      "stars": 4,
+      "forks": 0
+    },
+    {
+      "owner": "upenn",
+      "name": "python_canvas",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Christopher-P",
+      "name": "canvas-lab-manager",
+      "stars": 1,
+      "forks": 1
+    },
+    {
+      "owner": "aw-kwok",
+      "name": "task.fy",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "Computing-Collective",
+      "name": "TODO",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "shivams",
+      "name": "tamu_tautomation_121",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "Jerrick-Santos",
+      "name": "ML-PyAPI",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "it-graduaten",
+      "name": "CanvasUtilities",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "tl-its-umich-edu",
+      "name": "Canvas_subaccount_script",
+      "stars": 2,
+      "forks": 3
+    },
+    {
+      "owner": "Krithik1",
+      "name": "Canvas-Api-Calls",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Center-for-AI-Innovation",
+      "name": "ai-ta-backend",
+      "stars": 28,
+      "forks": 13
+    },
+    {
+      "owner": "Apps247",
+      "name": "Automatic-Excel-Grades-To-Canvas",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "KTH",
+      "name": "github-canvas-integration-progsoc",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "samithShetty",
+      "name": "CanvasGraderTool",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "unrealJune",
+      "name": "430Bot",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "mKiloLA",
+      "name": "pull-canvas-groups",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "ram-meegada",
+      "name": "mail-project-django",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "johntfoster",
+      "name": "github-canvas-grader",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "JorenSynaeveTM",
+      "name": "CanvasCourseScaffolder",
+      "stars": 1,
+      "forks": 3
+    },
+    {
+      "owner": "HullaBrian",
+      "name": "DueDiligence",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "upenn",
+      "name": "gradescope-canvas-crawler",
+      "stars": 3,
+      "forks": 0
+    },
+    {
+      "owner": "rtreharne",
+      "name": "docker-django-base",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "jonnieeg13",
+      "name": "Bot",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "Shom770",
+      "name": "discord-task-manager",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "dc74089",
+      "name": "justcanora",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "it-graduaten",
+      "name": "github-webhook-listener",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "montesclarosglennbenedict",
+      "name": "Canvas-Discord-Bot",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "spuggy08",
+      "name": "Python-Projects",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "dgwn",
+      "name": "cyclops",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Harvard-ATG",
+      "name": "canvas-access-lambda-layer",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "flatiron-school",
+      "name": "dsc-api-tools",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "cchay2",
+      "name": "Bifrost",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "KennethTrinh",
+      "name": "CornellCanvas",
+      "stars": 2,
+      "forks": 1
+    },
+    {
+      "owner": "SJSU-CS-systems-group",
+      "name": "canvas_sak",
+      "stars": 2,
+      "forks": 2
+    },
+    {
+      "owner": "aditya-arcot",
+      "name": "Python-Telegram-Bot",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "ets-berkeley-edu",
+      "name": "hartsfield",
+      "stars": 0,
+      "forks": 3
+    },
+    {
+      "owner": "parker-g",
+      "name": "ParkBot",
+      "stars": 3,
+      "forks": 1
+    },
+    {
+      "owner": "emerginganalytics",
+      "name": "cyberarena",
+      "stars": 19,
+      "forks": 8
+    },
+    {
+      "owner": "RuiGene",
+      "name": "stock_search",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "LofiTurtle",
+      "name": "CanvasTrello",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "rtreharne",
+      "name": "canvasadmin",
+      "stars": 2,
+      "forks": 1
+    },
+    {
+      "owner": "davidfokkema",
+      "name": "canvas-course-tools",
+      "stars": 7,
+      "forks": 3
+    },
+    {
+      "owner": "prokaj",
+      "name": "canvas",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "ets-berkeley-edu",
+      "name": "ripley",
+      "stars": 0,
+      "forks": 9
+    },
+    {
+      "owner": "rhinopotamus",
+      "name": "python-canvas-ddc",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "lucas-salas",
+      "name": "exsciscraper",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "kiranw1000",
+      "name": "Notion-Canvas-Sync",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "tl-its-umich-edu",
+      "name": "canvas-course-manager",
+      "stars": 1,
+      "forks": 7
+    },
+    {
+      "owner": "Wang-Zhongwei",
+      "name": "Publish-Grades",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "KameronKeller",
+      "name": "canvas-to-trello",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "tl-its-umich-edu",
+      "name": "peer-review-data",
+      "stars": 1,
+      "forks": 1
+    },
+    {
+      "owner": "jedieaston",
+      "name": "canvas-exporter",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "ndegroot",
+      "name": "canvasrobot",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "BenjaminHinchliff",
+      "name": "canvas-todo",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "dbosk",
+      "name": "nytid",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "eduridden",
+      "name": "Canvas_Customizations",
+      "stars": 3,
+      "forks": 0
+    },
+    {
+      "owner": "LeeTeng2001",
+      "name": "SJTU-Canvas-Downloader",
+      "stars": 23,
+      "forks": 1
+    },
+    {
+      "owner": "XiongPengNUS",
+      "name": "canvasplus",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "pbeyersdorf",
+      "name": "CanvasPeerReviews",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "andrewhinh",
+      "name": "bingsoo",
+      "stars": 1,
+      "forks": 2
+    },
+    {
+      "owner": "bennettscience",
+      "name": "canvas-learning-mastery",
+      "stars": 9,
+      "forks": 0
+    },
+    {
+      "owner": "Andrew923",
+      "name": "TreeBot",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "ofloveandhate",
+      "name": "markdown2canvas",
+      "stars": 9,
+      "forks": 5
+    },
+    {
+      "owner": "Ethan0429",
+      "name": "utk-auth",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "ubccapico",
+      "name": "course-reset-script",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "ardo715",
+      "name": "MurderBot",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "mike-matera",
+      "name": "cloud-linux",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "jimwitte",
+      "name": "canvas-bot",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "ndegroot",
+      "name": "word2quiz",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "UBC-LFS",
+      "name": "Canvas-Flexible-Assessment",
+      "stars": 4,
+      "forks": 1
+    },
+    {
+      "owner": "SJSU-CS-systems-group",
+      "name": "CodEval",
+      "stars": 2,
+      "forks": 2
+    },
+    {
+      "owner": "UvA-FNWI",
+      "name": "coach3",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "KTH",
+      "name": "github-canvas-integration-devops",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "withchristopher",
+      "name": "scrape-canvas",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "SUNET",
+      "name": "te-canvas",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "sgeinitz",
+      "name": "canvigator",
+      "stars": 4,
+      "forks": 4
+    },
+    {
+      "owner": "hammad-mohi",
+      "name": "RUHack2021",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "ucfopen",
+      "name": "quiz-extensions",
+      "stars": 16,
+      "forks": 8
+    },
+    {
+      "owner": "dbosk",
+      "name": "canvaslms",
+      "stars": 5,
+      "forks": 3
+    },
+    {
+      "owner": "a2975667",
+      "name": "canvas_grader",
+      "stars": 5,
+      "forks": 0
+    },
+    {
+      "owner": "jakob1379",
+      "name": "Canvas-Code-Correction",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "dbwebb-se",
+      "name": "umbridge",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "VolunteerCanvasGamification",
+      "name": "canvas-gamification",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "dc74089",
+      "name": "mrcanora",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "tl-its-umich-edu",
+      "name": "canvas-update-job",
+      "stars": 0,
+      "forks": 2
+    },
+    {
+      "owner": "plomgrading",
+      "name": "plom",
+      "stars": 16,
+      "forks": 4
+    },
+    {
+      "owner": "tl-its-umich-edu",
+      "name": "canvas-catalog-quiz-report",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "cdavidshaffer",
+      "name": "CPSC4970-Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "BoYanZh",
+      "name": "Joint-Teapot",
+      "stars": 24,
+      "forks": 11
+    },
+    {
+      "owner": "ubccapico",
+      "name": "canvascli",
+      "stars": 8,
+      "forks": 1
+    },
+    {
+      "owner": "CalebEverett",
+      "name": "finm33150-final-project",
+      "stars": 11,
+      "forks": 4
+    },
+    {
+      "owner": "vahtras",
+      "name": "canvas-nbgrader",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "alanzchen",
+      "name": "Canvas-Tools",
+      "stars": 3,
+      "forks": 0
+    },
+    {
+      "owner": "samithShetty",
+      "name": "Canvas-Discord-Bot",
+      "stars": 12,
+      "forks": 7
+    },
+    {
+      "owner": "ubccapico",
+      "name": "canvas-quiz-scripts",
+      "stars": 5,
+      "forks": 2
+    },
+    {
+      "owner": "ets-berkeley-edu",
+      "name": "squiggy",
+      "stars": 1,
+      "forks": 7
+    },
+    {
+      "owner": "davekats",
+      "name": "canvas-student-data-export",
+      "stars": 255,
+      "forks": 49
+    },
+    {
+      "owner": "lhprep",
+      "name": "canvas-export",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "mmohindra",
+      "name": "mmohindra_pset0",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Tu1026",
+      "name": "UBC-tools-on-heroku",
+      "stars": 2,
+      "forks": 2
+    },
+    {
+      "owner": "bennettscience",
+      "name": "canvaslms-scripts",
+      "stars": 13,
+      "forks": 0
+    },
+    {
+      "owner": "Gigahawk",
+      "name": "canvas-file-scraper",
+      "stars": 16,
+      "forks": 11
+    },
+    {
+      "owner": "jlumbroso",
+      "name": "pylifttk",
+      "stars": 14,
+      "forks": 5
+    },
+    {
+      "owner": "tl-its-umich-edu",
+      "name": "online_meeting_report_script",
+      "stars": 2,
+      "forks": 2
+    },
+    {
+      "owner": "tl-its-umich-edu",
+      "name": "submission_rubric_assessment",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "Tu1026",
+      "name": "Canvas-scraper-for-UBC",
+      "stars": 5,
+      "forks": 0
+    },
+    {
+      "owner": "mfbutner",
+      "name": "CanvasPeerReviewManager",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "whbruce",
+      "name": "cchs-canvas",
+      "stars": 3,
+      "forks": 0
+    },
+    {
+      "owner": "john-hix",
+      "name": "scrape-canvas",
+      "stars": 37,
+      "forks": 16
+    },
+    {
+      "owner": "Gator-Bytes-Foundation",
+      "name": "p4hApp",
+      "stars": 5,
+      "forks": 0
+    },
+    {
+      "owner": "canvas-gamification",
+      "name": "canvas-weight-calculator",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "0x7B5",
+      "name": "CanvasTodoist",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "AdamSwenson",
+      "name": "CanvasHacks",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "j2kun",
+      "name": "canvas-scripts",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "DanielNghiem",
+      "name": "canvas-python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "ets-berkeley-edu",
+      "name": "diablo",
+      "stars": 2,
+      "forks": 9
+    },
+    {
+      "owner": "chrisjobando",
+      "name": "Canvas-Grader",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "skyzh",
+      "name": "canvas_grab",
+      "stars": 227,
+      "forks": 31
+    },
+    {
+      "owner": "HenryNebula",
+      "name": "canvas_file_sync",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "stanfordjournalism",
+      "name": "stanford-progj-admin",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "maomihz",
+      "name": "canvas-sync",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "blakebiz",
+      "name": "CanvasScheduler",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "dsavransky",
+      "name": "grading",
+      "stars": 6,
+      "forks": 4
+    },
+    {
+      "owner": "canvas-gamification",
+      "name": "canvas-gamification",
+      "stars": 5,
+      "forks": 17
+    },
+    {
+      "owner": "marksherman",
+      "name": "eclearn-api",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "hartt28",
+      "name": "alexa-assignment-deadlines",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "Hazelfire",
+      "name": "canvas",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "ucfopen",
+      "name": "faculty-tools",
+      "stars": 10,
+      "forks": 5
+    },
+    {
+      "owner": "mfhodges",
+      "name": "CRF2",
+      "stars": 1,
+      "forks": 1
+    },
+    {
+      "owner": "tc-imba",
+      "name": "canvas-auto-rubric",
+      "stars": 30,
+      "forks": 4
+    },
+    {
+      "owner": "jonathanchu33",
+      "name": "canvas-site-locator",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "vanatteveldt",
+      "name": "dejavu",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "ubc",
+      "name": "getting-started-with-the-canvas-api-with-python",
+      "stars": 13,
+      "forks": 8
+    },
+    {
+      "owner": "jalgroy",
+      "name": "canvascli",
+      "stars": 6,
+      "forks": 0
+    },
+    {
+      "owner": "aircury",
+      "name": "canvas-sqs-salesforce",
+      "stars": 2,
+      "forks": 1
+    },
+    {
+      "owner": "cs3157",
+      "name": "boatswain",
+      "stars": 7,
+      "forks": 4
+    },
+    {
+      "owner": "UvA-FNWI",
+      "name": "UvA-Workflow-Nbgrader-Canvas",
+      "stars": 0,
+      "forks": 1
+    },
+    {
+      "owner": "shavavo",
+      "name": "Canvas-Data-Viz",
+      "stars": 2,
+      "forks": 1
+    },
+    {
+      "owner": "cschaffner",
+      "name": "canvas-api",
+      "stars": 0,
+      "forks": 5
+    },
+    {
+      "owner": "ubccapico",
+      "name": "team-formation-script",
+      "stars": 0,
+      "forks": 2
+    },
+    {
+      "owner": "nickwu241",
+      "name": "alexa-assignment-deadlines",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "ucfopen",
+      "name": "due-date-changer",
+      "stars": 9,
+      "forks": 3
+    },
+    {
+      "owner": "OU-PACS-AT",
+      "name": "pacs-portal",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "ubccapico",
+      "name": "canvas_api_examples",
+      "stars": 5,
+      "forks": 2
+    },
+    {
+      "owner": "tl-its-umich-edu",
+      "name": "my-learning-analytics",
+      "stars": 36,
+      "forks": 39
+    },
+    {
+      "owner": "rjadr",
+      "name": "canvas-course-to-pdf",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "ucfopen",
+      "name": "VAST",
+      "stars": 11,
+      "forks": 6
+    },
+    {
+      "owner": "terhorst",
+      "name": "coal_hmm_review",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "owner": "Tobiaqs",
+      "name": "canvas-submit",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "rowdyrotifer",
+      "name": "clanvas",
+      "stars": 55,
+      "forks": 7
+    }
+  ]
+}

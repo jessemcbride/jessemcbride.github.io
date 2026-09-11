@@ -1,0 +1,30 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { execFileSync } from 'node:child_process';
+import { mkdtemp, mkdir, writeFile, readFile, unlink } from 'node:fs/promises';
+import { join } from 'node:path';
+import { tmpdir } from 'node:os';
+
+test('Feed state round-trips through a separate branch without changing main', async () => {
+  const temp = await mkdtemp(join(tmpdir(), 'jesse-state-test-'));
+  const remote = join(temp, 'remote.git'), repo = join(temp, 'repo');
+  const script = join(process.cwd(), 'scripts/feed-state.mjs');
+  const run = (cmd, args, cwd = temp) => execFileSync(cmd, args, { cwd, encoding: 'utf8', stdio: ['pipe', 'pipe', 'pipe'] }).trim();
+  run('git', ['init', '--bare', remote]); run('git', ['clone', remote, repo]);
+  run('git', ['config', 'user.name', 'Test'], repo); run('git', ['config', 'user.email', 'test@example.com'], repo);
+  await writeFile(join(repo, 'README.md'), 'Source branch');
+  run('git', ['add', 'README.md'], repo); run('git', ['commit', '-m', 'Initial source'], repo);
+  const original = run('git', ['rev-parse', 'HEAD'], repo);
+  run(process.execPath, [script, 'restore'], repo);
+  await mkdir(join(repo, 'data')); const path = join(repo, 'data/activity.json');
+  const first = { version: 1, github: { status: 'ok', events: [] } };
+  await writeFile(path, JSON.stringify(first) + '\n'); run(process.execPath, [script, 'save'], repo);
+  await unlink(path); run(process.execPath, [script, 'restore'], repo);
+  assert.deepEqual(JSON.parse(await readFile(path, 'utf8')), first);
+  const second = { ...first, generatedAt: '2026-09-05T00:00:00Z' };
+  await writeFile(path, JSON.stringify(second) + '\n'); run(process.execPath, [script, 'save'], repo);
+  await unlink(path); run(process.execPath, [script, 'restore'], repo);
+  assert.deepEqual(JSON.parse(await readFile(path, 'utf8')), second);
+  assert.equal(run('git', ['rev-parse', 'HEAD'], repo), original);
+  assert.equal(run('git', ['status', '--short'], repo), '?? data/');
+});

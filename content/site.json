@@ -1,0 +1,66 @@
+{
+  "title": "Jesse’s space",
+  "name": "Jesse McBride",
+  "firstName": "jesse",
+  "lastName": "mcbride.",
+  "role": "Software engineer.",
+  "location": "Orlando, Florida",
+  "description": "Jesse McBride. Software, music, and small worlds. A personal website from Orlando.",
+  "github": "jessemcbride",
+  "email": "mcbjesse@gmail.com",
+  "domain": "",
+  "about": [
+    "I’m a staff software engineer at Apple, with a background in embedded security. I like turning complicated systems into something people can understand and use.",
+    "Before Apple, I built web applications and education tools at the University of Central Florida, where I led development of [CanvasAPI](https://github.com/ucfopen/canvasapi). I studied information technology at UCF and earned an MBA at Rollins.",
+    "Outside work: yoga, learning Spanish, Tolkien, space, and games with a strong sense of place. I make my own things under APT404."
+  ],
+  "now": {
+    "note": "Software, music, and small worlds.",
+    "game": "I am a bot",
+    "gameNote": "Song of the Elves and Morytania Hard complete. Smolcano appreciation, always."
+  },
+  "projects": [
+    {
+      "title": "Tomato Knight",
+      "summary": "Focus sessions restore a little world called Everpatch: gardens, villages, and a map to explore with a small knight.",
+      "body": [
+        "I wanted a focus timer with a world worth returning to. In Tomato Knight, real focus sessions restore Everpatch: gardens, villages, a map to uncover, and a small knight with things to do.",
+        "The important bit: doing a little real work should feel like making a little progress in the world."
+      ],
+      "status": "in progress",
+      "url": ""
+    },
+    {
+      "title": "Say What",
+      "summary": "A game about the people in the room. Answer questions, vote on superlatives, and see what your friends say.",
+      "body": [
+        "A game built around the people in the room. Answer questions, vote on who fits a superlative, and find out how your friends see each other. I like that the group brings most of the game with them."
+      ],
+      "status": "Available",
+      "url": "https://playsaywhat.com/"
+    },
+    {
+      "title": "Tala",
+      "summary": "A yoga companion I’m building for choosing a flow and getting on with the practice.",
+      "body": [
+        "I wanted a yoga companion that feels calm and easy to use. Tala is a place to choose a flow, settle into a rhythm, and get on with the practice."
+      ],
+      "status": "in progress",
+      "url": ""
+    },
+    {
+      "title": "CanvasAPI",
+      "summary": "A Python toolkit for the Canvas learning platform.",
+      "body": [
+        "I led development of CanvasAPI at UCF. These days, it has a life of its own: integrations, research tools, and projects built by people around the world."
+      ],
+      "status": "Open source",
+      "url": "https://github.com/ucfopen/canvasapi"
+    }
+  ],
+  "integrations": {
+    "spotify": true,
+    "github": true,
+    "canvasapi": true
+  }
+}
