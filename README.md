@@ -10,18 +10,18 @@ The scheduler is already defined in [`.github/workflows/pages.yml`](.github/work
 
 ### One-time setup
 
-Spotify already works in the local `.env`; you do not need to reconnect or download your history. This checkout still needs a GitHub remote.
+Spotify already works in the local `.env`; you do not need to reconnect or download your history. The site repository is `jessemcbride/jessemcbride.github.io`, with `master` as its default branch and `jesse.garden` as its domain.
 
 1. Create an empty GitHub repository for the site. In its **Settings → Secrets and variables → Actions**, add three repository secrets using the corresponding values from your local `.env`: `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN`. Paste only each value, without surrounding quotes. Keep `.env` local.
 2. In **Settings → Pages**, choose **GitHub Actions** as the source. Enable Actions if the repository prompts you to do so. [GitHub’s Pages setup](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 3. From this project directory, connect and push the site:
 
    ```sh
-   git remote add origin git@github.com:OWNER/REPOSITORY.git
+   git remote add origin git@github.com:jessemcbride/jessemcbride.github.io.git
    npm run deploy
    ```
 
-   Replace `OWNER/REPOSITORY` with your repository. The helper runs checks, shows the destination, asks before committing, and pushes the site files. Make sure the pushed branch is the repository’s default branch (`main` in this checkout).
+   Skip `git remote add` when `origin` is already configured. The helper runs checks, shows the destination, asks before committing, and pushes the site files. Make sure the pushed branch is the repository’s default branch (`master` for this repository).
 4. Open **Actions → Update and deploy Pages**. Check that both `build` and `deploy` succeed. In the **Refresh public activity** log, look for `spotify: ok`; a successful deployment alone does not guarantee Spotify is connected. Use **Run workflow** on the default branch for an immediate retry or refresh.
 5. Open the URL shown by the deploy job. The record shelf is always visible; **liner notes · the listening over time** contains the accumulating history. Later scheduled runs keep it updated automatically.
 

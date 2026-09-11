@@ -46,8 +46,9 @@ test('Custom domains produce CNAME and removing the domain removes it', async ()
   const next = structuredClone(content.site); next.domain = 'jesse.garden';
   await writeFile('content/site.json', JSON.stringify(next)); await build();
   assert.equal(await readFile('dist/CNAME', 'utf8'), 'jesse.garden\n');
-  await writeFile('content/site.json', JSON.stringify(content.site)); await build();
+  await writeFile('content/site.json', JSON.stringify({ ...content.site, domain: '' })); await build();
   await assert.rejects(access('dist/CNAME'));
+  await writeFile('content/site.json', JSON.stringify(content.site)); await build();
 });
 test('Disabling a feed removes it from the public snapshot and GitHub UI', async () => {
   const next = structuredClone(content.site); next.integrations.github = false;
