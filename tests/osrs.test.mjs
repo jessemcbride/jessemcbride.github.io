@@ -29,3 +29,10 @@ test('Collection items are escaped and notable endpoint failure preserves the lo
   assert.match(html, /&lt;Smolcano&gt;/); assert.doesNotMatch(html, /<Smolcano>/);
   assert.match(html, /cache\/item\/icon\/24495.png/);
 });
+
+test('Initial collection sync deduplicates shared category items and has no recent drops', async () => {
+  const response = { data: { player: 'nonduality', total_collections_finished: 1, items: [{ id: 23760, name: 'Smolcano', count: 1 }, { id: 23760, name: 'Smolcano', count: 1 }] } };
+  const log = await collectionLogFeed('Nonduality', async url => new Response(JSON.stringify(url.includes('recent_items') ? { error: { Code: 403, Message: 'Player has not received any new items after their initial sync.' } } : response)));
+  assert.equal(log.items.length, 1); assert.equal(log.items[0].count, 1);
+  assert.deepEqual(log.notable, []); assert.equal(log.notableUnavailable, undefined);
+});

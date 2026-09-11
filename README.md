@@ -70,7 +70,7 @@ An optional `music:import` command remains available for extended-history export
 
 ## Nonduality’s OSRS character sheet
 
-The account is **Nonduality**, formerly **I am a bot**. Its character sheet includes the OSRS skill icons (including Sailing), total and combat levels, ranked boss completions, clue count, and the collection-slot count exposed by the hiscores. Skills and boss counts come from [Wise Old Man](https://docs.wiseoldman.net/api/players/player-endpoints). Each scheduled refresh updates the current username before reading its snapshot, avoiding an old record belonging to a previous name holder. The source timestamp is shown on the site.
+The account is **Nonduality**, formerly **I am a bot**. The collection log leads: six verified finds appear as an item-art shelf, with Smolcano first when owned. The full collection is expandable. Skill icons (including Sailing), total and combat levels, boss completions and clues live in collapsed account notes. Skills and boss counts come from [Wise Old Man](https://docs.wiseoldman.net/api/players/player-endpoints). Each scheduled refresh updates the current username before reading its snapshot, avoiding an old record belonging to a previous name holder. The source timestamp is shown on the site.
 
 No API key is needed. `npm run refresh` updates both the `wiseOldMan` and `collectionLog` feeds; the existing GitHub Actions schedule handles them automatically. They fail independently and retain their last successful snapshots. The local editor’s **wiseOldMan automatic updates** checkbox controls both. `content/site.json` → `now.game` controls the current username.
 

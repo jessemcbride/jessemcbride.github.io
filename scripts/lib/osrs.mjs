@@ -21,7 +21,10 @@ export function collectionSnapshot(response, username) {
   }
   const data = response?.data;
   if (!data || normalize(data.player) !== normalize(username) || count(data.total_collections_finished) === null) throw new FeedError('invalid collection response');
-  const items = Object.values(data.items || {}).filter(i => Number.isInteger(Number(i.id)) && Number(i.id) > 0 && Number(i.count) > 0).map(i => ({ id: Number(i.id), name: String(i.name || `Item ${i.id}`), count: Number(i.count) }));
+  const entries = Object.values(data.items || {}).filter(i => Number.isInteger(Number(i.id)) && Number(i.id) > 0 && Number(i.count) > 0).map(i => ({ id: Number(i.id), name: String(i.name || `Item ${i.id}`), count: Number(i.count) }));
+  const unique = new Map();
+  for (const item of entries) if (!unique.has(item.id) || unique.get(item.id).count < item.count) unique.set(item.id, item);
+  const items = [...unique.values()];
   return { username, availability: 'synced', obtained: data.total_collections_finished, available: count(data.total_collections_available), syncedAt: data.last_checked || null, items };
 }
 export async function collectionLogFeed(username, fetcher = fetch) {
@@ -31,6 +34,7 @@ export async function collectionLogFeed(username, fetcher = fetch) {
   // Recent drops fail independently from the complete collection snapshot.
   try {
     const response = await requestJSON(`https://templeosrs.com/api/collection-log/player_recent_items.php?${new URLSearchParams({ player: username, count: '8', onlynotable: '1' })}`, { headers }, fetcher);
+    if (Number(response?.error?.Code) === 403) { log.notable = []; return log; }
     if (!response?.data || response.error) throw new Error();
     log.notable = Object.values(response.data).filter(i => Number.isInteger(Number(i.id)) && i.name && (i.notable_item === true || Number(i.notable_item) === 1)).map(i => ({ id: Number(i.id), name: String(i.name), date: Number.isFinite(Number(i.date_unix)) ? new Date(Number(i.date_unix) * 1000).toISOString() : null }));
   } catch { log.notableUnavailable = true; }
