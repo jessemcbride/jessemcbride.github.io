@@ -1,0 +1,55 @@
+.bank-page { background: #151318; }
+.bank-wrap { max-width: 820px; margin: 0 auto; padding: 36px 24px 64px; }
+.bank-back { color: #b4a4bc; font: .75rem/1.5 'Courier New', monospace; text-decoration: none; }
+.bank-back:hover { color: #e2d4e8; }
+.bank-intro { margin: 44px 0 28px; }
+.bank-intro h1 { font: 400 clamp(2.2rem, 6vw, 3.7rem)/1.15 Georgia, serif; color: #ddd0e4; margin: 8px 0 12px; letter-spacing: -1px; }
+.bank-intro h1 em { font-weight: 400; color: #b99dc6; }
+.bank-intro > p:last-child { color: #a99bae; font-size: .8rem; line-height: 1.7; }
+.bank-window { background: #211e25; border: 1px solid #65586e; box-shadow: 0 0 0 4px #19171d, 0 0 0 5px #39313f, 0 18px 65px #0004; }
+.bank-titlebar { display: flex; justify-content: space-between; gap: 12px; padding: 15px 18px; border-bottom: 1px solid #4c4253; background: #302936; color: #d3bddf; font: .8rem/1.5 'Courier New', monospace; }
+.bank-titlebar > span:first-child { display: flex; align-items: center; gap: 10px; }
+.bank-titlebar img { object-fit: contain; image-rendering: pixelated; }
+#bank-total { color: #a799b0; font-size: .65rem; align-self: center; white-space: nowrap; }
+.bank-toolbar { padding: 18px 18px 0; }
+.bank-tabs { display: flex; gap: 6px; }
+.bank-tabs button { color: #af9bbb; background: #28232e; border: 1px solid #494051; border-bottom: 2px solid #494051; padding: 9px 13px; font: .7rem/1.3 'Courier New', monospace; cursor: pointer; }
+.bank-tabs button[aria-pressed=true] { color: #ebd8bb; border-bottom-color: #c9b08b; background: #37303d; }
+.bank-search { display: flex; align-items: center; gap: 10px; margin: 15px 0 0; }
+.bank-search label { font: .6rem/1.5 'Courier New', monospace; color: #b4a4bc; }
+.bank-search label[for=bank-query] { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.bank-search input, .bank-search select { min-width: 0; background: #19161e; color: #d7c9df; border: 1px solid #443a4c; padding: 9px 10px; font: .7rem/1.4 'Courier New', monospace; }
+.bank-search input { flex: 1; width: 100%; }
+.bank-search select { max-width: 145px; }
+.bank-results { color: #a99bae; font: .6rem/1.5 'Courier New', monospace; padding: 14px 20px 6px; }
+.bank-grid { display: grid; grid-template-columns: repeat(8, minmax(0, 1fr)); gap: 7px; padding: 10px 18px 24px; max-height: 520px; overflow-y: auto; scrollbar-color: #6f5c7b #211e25; }
+.bank-slot { display: flex; position: relative; min-width: 0; height: 66px; align-items: center; justify-content: center; text-decoration: none; border: 1px solid transparent; border-radius: 2px; background: #ffffff02; }
+.bank-slot:hover { border-color: #685473; background: #322839; }
+.bank-slot[aria-current=true] { border-color: #b7a078; background: #3a303b; }
+.bank-slot img { width: 36px; height: 32px; object-fit: contain; image-rendering: pixelated; filter: drop-shadow(1px 3px 2px #0008); }
+.bank-quantity { position: absolute; top: 4px; left: 5px; color: #e2d48c; font: .65rem/1 'Courier New', monospace; text-shadow: 1px 1px #000; z-index: 1; }
+.bank-slot-name { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.bank-slot:focus-visible { outline: 2px solid #d7bddf; outline-offset: -2px; }
+.bank-empty { grid-column: 1 / -1; padding: 50px 12px; text-align: center; color: #b4a4bc; font: .8rem/1.7 'Courier New', monospace; }
+.bank-inspector { display: flex; gap: 22px; align-items: center; min-height: 116px; padding: 20px 24px; border-top: 1px solid #4c4253; background: #1c1921; }
+.bank-inspector > img { width: 72px; height: 64px; object-fit: contain; image-rendering: pixelated; flex-shrink: 0; }
+.bank-inspector h2 { font: italic 1.3rem/1.4 Georgia, serif; color: #e0cee8; margin: 0 0 5px; }
+.bank-inspector p, .bank-inspector a { color: #b4a4bc; font: .65rem/1.7 'Courier New', monospace; }
+.bank-inspector a { display: inline-block; margin-top: 8px; color: #cbb6d4; }
+.bank-bottom { border-top: 1px solid #332b3b; padding: 12px 18px; font: .55rem/1.7 'Courier New', monospace; color: #a99bae; }
+.bank-provenance { color: #a99bae; font: .65rem/1.8 'Courier New', monospace; margin: 24px 0; }
+.bank-provenance a { color: #bfa9cb; }
+.bank-account { max-width: 380px; margin-top: 32px; }
+@media(max-width:550px) {
+ .bank-wrap { padding: 24px 16px 40px; }
+ .bank-titlebar { padding: 12px; font-size: .65rem; }
+ .bank-grid { grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 3px; padding: 8px 8px 18px; max-height: 450px; }
+ .bank-slot { height: 56px; }
+ .bank-toolbar { padding: 12px 10px 0; }
+ .bank-tabs button { padding: 8px 10px; font-size: .65rem; }
+ .bank-search { gap: 6px; }
+ .bank-search label[for=bank-sort] { display: none; }
+ .bank-search select { max-width: 124px; }
+ .bank-inspector { padding: 18px 12px; gap: 12px; }
+ .bank-inspector h2 { font-size: 1.1rem; }
+}

@@ -332,24 +332,9 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 .game-note .osrs-account-details > summary { font-size: .75rem; color: #b4a4bc; }
 .game-note .osrs-account-details .osrs-summary { margin-top: 14px; }
 
-/* Collection art drifts through the page, without tiles or a panel behind it. */
-.osrs-marquee { margin: 12px 0 18px; }
-.osrs-marquee-control { display: flex; justify-content: flex-end; align-items: center; gap: 6px; color: #a99ab2; font: .55rem/1.5 'Courier New', monospace; cursor: pointer; }
-.osrs-marquee-control input { width: 11px; height: 11px; accent-color: #bfa9cb; }
-.osrs-marquee-window { overflow: hidden; padding: 14px 0 5px; mask-image: linear-gradient(to right, transparent, #000 6%, #000 94%, transparent); }
-.osrs-marquee-track { display: flex; width: max-content; animation: collection-drift 80s linear infinite; }
-.osrs-marquee-group { display: flex; flex-shrink: 0; gap: 20px; padding-right: 20px; }
-.osrs-marquee .osrs-item { width: 78px; padding: 12px 2px; gap: 12px; background: transparent; }
-.osrs-marquee .osrs-item img { width: 48px; height: 44px; object-fit: contain; image-rendering: pixelated; filter: drop-shadow(0 4px 5px #0005); }
-.osrs-marquee .osrs-item span { color: #b4a4bc; font-size: .55rem; max-width: 78px; }
-.osrs-marquee .osrs-item:hover img { transform: translateY(-3px); }
-.osrs-marquee:has(input:checked) .osrs-marquee-track,
-.osrs-marquee:hover .osrs-marquee-track,
-.osrs-marquee:focus-within .osrs-marquee-track { animation-play-state: paused; }
-@keyframes collection-drift { to { transform: translateX(-50%); } }
-@media(prefers-reduced-motion: reduce) {
-  .osrs-marquee-track { animation: none; }
-  .osrs-marquee-window { overflow-x: auto; mask-image: none; }
-  .osrs-marquee-group[aria-hidden], .osrs-marquee-control { display: none; }
-  .osrs-marquee .osrs-item:hover img { transform: none; }
-}
+/* A quiet doorway to the collection. */
+.bank-door { display: flex; gap: 14px; align-items: center; margin-top: 20px; padding: 16px 0; border-top: 1px dotted #514657; border-bottom: 1px dotted #514657; text-decoration: none; color: #cbb6d4; font: italic 1.1rem/1.4 Georgia, serif; }
+.bank-door img { image-rendering: pixelated; object-fit: contain; }
+.bank-door > span:nth-child(2) { flex: 1; }
+.bank-door small { display: block; color: #a99bae; font: .6rem/1.7 'Courier New', monospace; margin-top: 5px; }
+.bank-door:hover { color: #e5d4ed; border-color: #9b82aa; }

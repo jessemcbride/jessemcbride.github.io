@@ -1,6 +1,7 @@
 import { cp, mkdir, writeFile, rm } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
 import { readJSON, readActivity, validateSite, validateMusic } from './lib/content.mjs';
+import { bankPage } from '../src/bank.mjs';
 import { page } from '../src/page.mjs';
 
 export async function build() {
@@ -18,6 +19,7 @@ export async function build() {
   await rm('dist', { recursive: true, force: true });
   await mkdir('dist/data', { recursive: true });
   await cp('public', 'dist', { recursive: true });
+  await writeFile('dist/bank.html', bankPage(site, activity));
   await writeFile('dist/index.html', page(site, favorites, activity, history));
   await writeFile('dist/data/activity.json', JSON.stringify(activity));
   await writeFile('dist/data/content.json', JSON.stringify({ github: site.github, game: site.now.game, gameNote: site.now.gameNote, favorites, history, integrations: site.integrations }));
