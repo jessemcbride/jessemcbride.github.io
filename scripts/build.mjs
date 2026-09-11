@@ -13,13 +13,14 @@ export async function build() {
   if (!site.integrations.spotify) activity.spotify = { status: 'disabled' };
   if (!site.integrations.github) activity.github = { status: 'disabled' };
   if (!site.integrations.canvasapi) activity.canvasapi = { status: 'disabled' };
+  if (site.integrations.wiseOldMan === false) { activity.wiseOldMan = { status: 'disabled' }; activity.collectionLog = { status: 'disabled' }; }
   // Explicit allowlist: source archives, editor, credentials and scripts are never published.
   await rm('dist', { recursive: true, force: true });
   await mkdir('dist/data', { recursive: true });
   await cp('public', 'dist', { recursive: true });
   await writeFile('dist/index.html', page(site, favorites, activity, history));
   await writeFile('dist/data/activity.json', JSON.stringify(activity));
-  await writeFile('dist/data/content.json', JSON.stringify({ github: site.github, favorites, history, integrations: site.integrations }));
+  await writeFile('dist/data/content.json', JSON.stringify({ github: site.github, game: site.now.game, gameNote: site.now.gameNote, favorites, history, integrations: site.integrations }));
   await writeFile('dist/.nojekyll', '');
   await writeFile('dist/404.html', '<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Page not found</title><body style="background:#0d0b10;color:#ddd6dc;font:20px Georgia;padding:10vw"><h1>This corner is empty.</h1><p>The page you requested does not exist. Use your browser’s back button to return.</p></body></html>');
   if (site.domain) await writeFile('dist/CNAME', site.domain + '\n');

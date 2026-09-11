@@ -1,3 +1,4 @@
+import { osrs } from './osrs.js';
 import { music, github } from './view.js';
 
 const getJSON = async path => {
@@ -9,6 +10,8 @@ let content, activity;
 function renderFeeds() {
   if (!content || !activity) return;
   document.querySelector('#music-content').innerHTML = music(content.integrations.spotify ? activity.spotify : { status: 'disabled' }, content.favorites, Date.now(), content.history);
+  const account = document.querySelector('#osrs-content');
+  if (account) account.innerHTML = osrs(content.integrations.wiseOldMan === false ? { status: 'disabled' } : activity.wiseOldMan, content.integrations.wiseOldMan === false ? {} : activity.collectionLog, content.game, content.gameNote);
   const gh = document.querySelector('#github-content');
   if (gh) gh.innerHTML = github(activity.github, content.github);
 }

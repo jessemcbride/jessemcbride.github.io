@@ -16,7 +16,7 @@
   ],
   "now": {
     "note": "Software, music, and small worlds.",
-    "game": "I am a bot",
+    "game": "Nonduality",
     "gameNote": "Song of the Elves and Morytania Hard complete. Smolcano appreciation, always."
   },
   "projects": [
@@ -61,6 +61,7 @@
   "integrations": {
     "spotify": true,
     "github": true,
-    "canvasapi": false
+    "canvasapi": false,
+    "wiseOldMan": true
   }
 }

@@ -68,6 +68,18 @@ These are **captured plays**, not complete listening totals: the recent-history 
 
 An optional `music:import` command remains available for extended-history exports, but the live API statistics take precedence and imports are not required. Turning off Spotify removes its public statistics on the next build.
 
+## Nonduality’s OSRS character sheet
+
+The account is **Nonduality**, formerly **I am a bot**. Its character sheet includes the OSRS skill icons (including Sailing), total and combat levels, ranked boss completions, clue count, and the collection-slot count exposed by the hiscores. Skills and boss counts come from [Wise Old Man](https://docs.wiseoldman.net/api/players/player-endpoints). Each scheduled refresh updates the current username before reading its snapshot, avoiding an old record belonging to a previous name holder. The source timestamp is shown on the site.
+
+No API key is needed. `npm run refresh` updates both the `wiseOldMan` and `collectionLog` feeds; the existing GitHub Actions schedule handles them automatically. They fail independently and retain their last successful snapshots. The local editor’s **wiseOldMan automatic updates** checkbox controls both. `content/site.json` → `now.game` controls the current username.
+
+Individual collection items, pets and notable drops come from [TempleOSRS](https://templeosrs.com/api_doc.php), because Wise Old Man exposes the collection-slot total but not individual drops. To enable them, install the **TempleOSRS** plugin from RuneLite’s Plugin Hub, open your in-game collection log, and use its sync button. Updating the TempleOSRS profile alone does not upload collection items. Follow the [TempleOSRS sync guide](https://templeosrs.com/faq.php), including its advice about previous holders of a renamed account.
+
+Once synced, the next site refresh displays the collection with item icons. Recent notable finds include TempleOSRS-flagged rare items and pets obtained after the initial sync; existing items appear in the full collection instead. No drop rates or ownership claims are inferred from boss kill counts. The “Smolcano” note is a personal note, not proof of a pet drop.
+
+Skill and boss icons are bundled under `public/assets/osrs/` with credits. Item icons are served by RuneLite and link to their OSRS Wiki item pages.
+
 ## Connect Spotify once
 
 1. Create an app in the [Spotify developer dashboard](https://developer.spotify.com/dashboard). Select Web API. Register **exactly** `http://127.0.0.1:8888/callback` as a redirect URI. Spotify requires a literal loopback IP, not `localhost`, for HTTP redirects. [Redirect documentation](https://developer.spotify.com/documentation/web-api/concepts/redirect_uri)
@@ -103,6 +115,7 @@ For subsequent edits, use `npm run deploy` or your normal commit-and-push workfl
 | Content | Source | Update behavior |
 | --- | --- | --- |
 | Listening patterns and monthly observations | Spotify recent-history API | Aggregated each run, after authorization |
+| OSRS skills, bosses and collection log | Wise Old Man + TempleOSRS | Every scheduled run; items require RuneLite sync |
 | Public GitHub activity | Configured GitHub username | Every scheduled run; upstream events may lag |
 | Bio, projects, now note, RuneScape note | `content/site.json` | When you edit and deploy |
 | Handpicked record shelf | `content/music.json` | When you edit and deploy; fallback when disconnected |

@@ -1,0 +1,6 @@
+OSRS skill, boss, collection-log and ironman icons: Jagex, via Wise Old Man.
+Source: https://github.com/wise-old-man/wise-old-man/tree/master/app/public/img
+Downloaded 2026-09-11. Artwork remains the property of Jagex.
+Collection item icons are served by RuneLite: https://static.runelite.net/cache/item/icon/
+Wise Old Man provides hiscores snapshots; TempleOSRS provides synced collection logs.
+This personal site is not affiliated with Jagex, Wise Old Man or RuneLite.

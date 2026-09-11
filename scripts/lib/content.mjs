@@ -22,6 +22,7 @@ export function validateSite(site) {
   if (!Array.isArray(site.about) || site.about.some(x => typeof x !== 'string')) throw new Error('about must be an array of paragraphs');
   if (!site.now || ['note', 'game', 'gameNote'].some(k => typeof site.now[k] !== 'string')) throw new Error('now must contain note, game and gameNote strings');
   if (!site.integrations || ['spotify', 'github', 'canvasapi'].some(k => typeof site.integrations[k] !== 'boolean')) throw new Error('integrations must contain spotify, github and canvasapi booleans');
+  if (site.integrations.wiseOldMan !== undefined && typeof site.integrations.wiseOldMan !== 'boolean') throw new Error('wiseOldMan must be a boolean');
   if (!Array.isArray(site.projects) || site.projects.some(p => !p.title || !p.summary || !Array.isArray(p.body) || p.body.some(x => typeof x !== 'string') || (p.url && safeURL(p.url) === '#'))) throw new Error('Each project needs title, summary, body paragraphs, and an optional HTTPS URL');
   return site;
 }
