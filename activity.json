@@ -1,21 +1,579 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-11T01:35:42.525Z",
+  "generatedAt": "2026-09-11T01:40:14.843Z",
   "spotify": {
-    "status": "unconfigured"
+    "current": null,
+    "isPlaying": false,
+    "recent": [
+      {
+        "id": "4FgvyHa45VsJZLd0U46dm8",
+        "title": "Drool",
+        "artist": "It Looks Sad.",
+        "album": "Sky Lake",
+        "image": "https://i.scdn.co/image/ab67616d0000b273546f255f612dcfdba4495e35",
+        "url": "https://open.spotify.com/track/4FgvyHa45VsJZLd0U46dm8",
+        "durationMs": 184213,
+        "playedAt": "2026-09-11T01:27:22.903Z"
+      },
+      {
+        "id": "2nnBSJPdc7soYafkJCRO1b",
+        "title": "Shuffle Around",
+        "artist": "Joe Vann",
+        "album": "Found in the Smoke",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
+        "url": "https://open.spotify.com/track/2nnBSJPdc7soYafkJCRO1b",
+        "durationMs": 167354,
+        "playedAt": "2026-09-11T01:27:22.653Z"
+      },
+      {
+        "id": "3LIVWGhQka0I90PP354wWu",
+        "title": "If It Makes You Feel Right",
+        "artist": "Joe Vann",
+        "album": "For Everyone",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e52864bac3144ea9dc6e8a30",
+        "url": "https://open.spotify.com/track/3LIVWGhQka0I90PP354wWu",
+        "durationMs": 235000,
+        "playedAt": "2026-09-09T23:13:29.265Z"
+      },
+      {
+        "id": "7so9qcrkMJxKBMSHDPFlIz",
+        "title": "Sublet",
+        "artist": "Runnner",
+        "album": "Fan On",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b494bd98c6eab10e307495b7",
+        "url": "https://open.spotify.com/track/7so9qcrkMJxKBMSHDPFlIz",
+        "durationMs": 170322,
+        "playedAt": "2026-09-09T17:25:22.120Z"
+      },
+      {
+        "id": "4FEeXeFasspC0aaNObINNK",
+        "title": "Swirl",
+        "artist": "Charlie Martin",
+        "album": "Imaginary People",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f332d2a1127ab85210601a8",
+        "url": "https://open.spotify.com/track/4FEeXeFasspC0aaNObINNK",
+        "durationMs": 156903,
+        "playedAt": "2026-09-09T17:22:31.285Z"
+      },
+      {
+        "id": "2mbqBIr7xBP9bc9ncCxaAV",
+        "title": "Houseplants",
+        "artist": "Joe Vann",
+        "album": "Found in the Smoke",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
+        "url": "https://open.spotify.com/track/2mbqBIr7xBP9bc9ncCxaAV",
+        "durationMs": 143500,
+        "playedAt": "2026-09-09T17:19:53.866Z"
+      },
+      {
+        "id": "74tf0r3eNDcYE9ubhVZ7Nu",
+        "title": "Happiness",
+        "artist": "Joe Vann",
+        "album": "Thoughts/Daydreams",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735e9378088fde5b457645f954",
+        "url": "https://open.spotify.com/track/74tf0r3eNDcYE9ubhVZ7Nu",
+        "durationMs": 160500,
+        "playedAt": "2026-09-09T17:17:29.847Z"
+      },
+      {
+        "id": "25oZz4EMuOOkRBwmYZmruv",
+        "title": "For You",
+        "artist": "Joe Vann",
+        "album": "Found in the Smoke",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
+        "url": "https://open.spotify.com/track/25oZz4EMuOOkRBwmYZmruv",
+        "durationMs": 187625,
+        "playedAt": "2026-09-09T17:14:48.830Z"
+      }
+    ],
+    "observed": {
+      "months": [
+        {
+          "month": "2026-09",
+          "plays": 50,
+          "artists": [
+            {
+              "id": "24M8W1AklCxyWTKjrJZDQ8",
+              "name": "It Looks Sad.",
+              "url": "https://open.spotify.com/artist/24M8W1AklCxyWTKjrJZDQ8",
+              "plays": 2
+            },
+            {
+              "id": "4sjzQ6LenQjUsRb6g0sHuq",
+              "name": "Joe Vann",
+              "url": "https://open.spotify.com/artist/4sjzQ6LenQjUsRb6g0sHuq",
+              "plays": 24
+            },
+            {
+              "id": "7adlRX57hqe6Pc4YHrSGG0",
+              "name": "Runnner",
+              "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0",
+              "plays": 1
+            },
+            {
+              "id": "4FAFa9p2vpYWRZdUpcAKH4",
+              "name": "Charlie Martin",
+              "url": "https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4",
+              "plays": 1
+            },
+            {
+              "id": "24XtlMhEMNdi822vi0MhY1",
+              "name": "Taking Back Sunday",
+              "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
+              "plays": 9
+            },
+            {
+              "id": "4o0pNHbyj36LPvukNqEug0",
+              "name": "The Maine",
+              "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0",
+              "plays": 1
+            },
+            {
+              "id": "2cAXhrWAztXGwk6r15ibW2",
+              "name": "Charlotte Sands",
+              "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2",
+              "plays": 1
+            },
+            {
+              "id": "3Ayl7mCk0nScecqOzvNp6s",
+              "name": "Jimmy Eat World",
+              "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s",
+              "plays": 1
+            },
+            {
+              "id": "126FigDBtqwS2YsOYMTPQe",
+              "name": "Hawthorne Heights",
+              "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe",
+              "plays": 2
+            },
+            {
+              "id": "51J0q8S7W3kIEYHQi3EPqk",
+              "name": "Bayside",
+              "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk",
+              "plays": 1
+            },
+            {
+              "id": "3NChzMpu9exTlNPiqUQ2DE",
+              "name": "Thrice",
+              "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE",
+              "plays": 1
+            },
+            {
+              "id": "55VydwMyCuGcavwPuhutPL",
+              "name": "The Used",
+              "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL",
+              "plays": 2
+            },
+            {
+              "id": "1NUOfvAhA9AvsF1ISMkgHX",
+              "name": "Saosin",
+              "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
+              "plays": 2
+            },
+            {
+              "id": "168dgYui7ExaU612eooDF1",
+              "name": "Brand New",
+              "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1",
+              "plays": 1
+            },
+            {
+              "id": "3WfJ1OtrWI7RViX9DMyEGy",
+              "name": "Mayday Parade",
+              "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy",
+              "plays": 1
+            },
+            {
+              "id": "7AsPubxWM5tfW4hTZEL3aP",
+              "name": "Cute Is What We Aim For",
+              "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP",
+              "plays": 1
+            },
+            {
+              "id": "5ojhEavq6altxW8fWIlLum",
+              "name": "Escape the Fate",
+              "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum",
+              "plays": 1
+            }
+          ],
+          "tracks": [
+            {
+              "id": "4FgvyHa45VsJZLd0U46dm8",
+              "title": "Drool",
+              "artist": "It Looks Sad.",
+              "url": "https://open.spotify.com/track/4FgvyHa45VsJZLd0U46dm8",
+              "image": "https://i.scdn.co/image/ab67616d0000b273546f255f612dcfdba4495e35",
+              "plays": 2
+            },
+            {
+              "id": "2nnBSJPdc7soYafkJCRO1b",
+              "title": "Shuffle Around",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/2nnBSJPdc7soYafkJCRO1b",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
+              "plays": 3
+            },
+            {
+              "id": "3LIVWGhQka0I90PP354wWu",
+              "title": "If It Makes You Feel Right",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/3LIVWGhQka0I90PP354wWu",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e52864bac3144ea9dc6e8a30",
+              "plays": 2
+            },
+            {
+              "id": "7so9qcrkMJxKBMSHDPFlIz",
+              "title": "Sublet",
+              "artist": "Runnner",
+              "url": "https://open.spotify.com/track/7so9qcrkMJxKBMSHDPFlIz",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b494bd98c6eab10e307495b7",
+              "plays": 1
+            },
+            {
+              "id": "4FEeXeFasspC0aaNObINNK",
+              "title": "Swirl",
+              "artist": "Charlie Martin",
+              "url": "https://open.spotify.com/track/4FEeXeFasspC0aaNObINNK",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735f332d2a1127ab85210601a8",
+              "plays": 1
+            },
+            {
+              "id": "2mbqBIr7xBP9bc9ncCxaAV",
+              "title": "Houseplants",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/2mbqBIr7xBP9bc9ncCxaAV",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
+              "plays": 1
+            },
+            {
+              "id": "74tf0r3eNDcYE9ubhVZ7Nu",
+              "title": "Happiness",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/74tf0r3eNDcYE9ubhVZ7Nu",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735e9378088fde5b457645f954",
+              "plays": 1
+            },
+            {
+              "id": "25oZz4EMuOOkRBwmYZmruv",
+              "title": "For You",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/25oZz4EMuOOkRBwmYZmruv",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
+              "plays": 1
+            },
+            {
+              "id": "6QelrCwPnu5AzJmyBjZwRv",
+              "title": "Cut It Out",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/6QelrCwPnu5AzJmyBjZwRv",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e52864bac3144ea9dc6e8a30",
+              "plays": 1
+            },
+            {
+              "id": "58FPIZljK3Vznd2ipmXDaA",
+              "title": "Up and At 'Em",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/58FPIZljK3Vznd2ipmXDaA",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735e9378088fde5b457645f954",
+              "plays": 1
+            },
+            {
+              "id": "44qD7fhmpLd7QvBOjQ1jWz",
+              "title": "Has To Go",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/44qD7fhmpLd7QvBOjQ1jWz",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
+              "plays": 1
+            },
+            {
+              "id": "4EaC5P0g0LAtCYOco1Vqj5",
+              "title": "When I Was Young",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/4EaC5P0g0LAtCYOco1Vqj5",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735e9378088fde5b457645f954",
+              "plays": 1
+            },
+            {
+              "id": "6hBwhQjOgytD11Kyhe5won",
+              "title": "ULS",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/6hBwhQjOgytD11Kyhe5won",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ede765b206694317dc5ca441",
+              "plays": 1
+            },
+            {
+              "id": "02UcFSRWFpWJPRG6BtfuBP",
+              "title": "Actor",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/02UcFSRWFpWJPRG6BtfuBP",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
+              "plays": 1
+            },
+            {
+              "id": "7qUs6unQjugpJMxTX1m8YW",
+              "title": "Eyes Open Eyes Close",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/7qUs6unQjugpJMxTX1m8YW",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735e9378088fde5b457645f954",
+              "plays": 1
+            },
+            {
+              "id": "0QpZlgHM4E0nvVw4gy6S35",
+              "title": "The Bells",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/0QpZlgHM4E0nvVw4gy6S35",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ede765b206694317dc5ca441",
+              "plays": 1
+            },
+            {
+              "id": "4YBFjCIo0zHwd7BuEifvMW",
+              "title": "The Open Window",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/4YBFjCIo0zHwd7BuEifvMW",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735e9378088fde5b457645f954",
+              "plays": 1
+            },
+            {
+              "id": "4QL6cFR6WQbVRgP2kQ1rXj",
+              "title": "Tumbling Along",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/4QL6cFR6WQbVRgP2kQ1rXj",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735e9378088fde5b457645f954",
+              "plays": 1
+            },
+            {
+              "id": "3PkcrqdZh7lSCPEay8gZWr",
+              "title": "Prism",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/3PkcrqdZh7lSCPEay8gZWr",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d6b30c0a034f198d30013aae",
+              "plays": 1
+            },
+            {
+              "id": "1AFbXgrsD9Cy1Uk22itNbL",
+              "title": "The Words",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/1AFbXgrsD9Cy1Uk22itNbL",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e52864bac3144ea9dc6e8a30",
+              "plays": 1
+            },
+            {
+              "id": "40v6vPGjghxi16ZLWaoKrf",
+              "title": "For Everyone",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/40v6vPGjghxi16ZLWaoKrf",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e52864bac3144ea9dc6e8a30",
+              "plays": 1
+            },
+            {
+              "id": "6Rfnzna2ghJdh0Zkhn9czh",
+              "title": "Can You Be Mine",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/6Rfnzna2ghJdh0Zkhn9czh",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
+              "plays": 1
+            },
+            {
+              "id": "5wzP8M9t521ohSruhbUoWG",
+              "title": "Sweetheart",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/5wzP8M9t521ohSruhbUoWG",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e52864bac3144ea9dc6e8a30",
+              "plays": 1
+            },
+            {
+              "id": "3HDmFpAmtYxoJG971tS5Bu",
+              "title": "Leave That Town",
+              "artist": "Joe Vann",
+              "url": "https://open.spotify.com/track/3HDmFpAmtYxoJG971tS5Bu",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e52864bac3144ea9dc6e8a30",
+              "plays": 1
+            },
+            {
+              "id": "6um5ccNzX7k3SRsVnLupvI",
+              "title": "A Decade Under The Influence",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
+              "plays": 3
+            },
+            {
+              "id": "1JFPraHovseDzutd6BOIry",
+              "title": "Timberwolves At New Jersey - Remastered",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/1JFPraHovseDzutd6BOIry",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731fc8bc00af1c877377d1dcf8",
+              "plays": 1
+            },
+            {
+              "id": "3rfTFA4AGu8r2BXqpjKbcf",
+              "title": "Loved You A Little - with Taking Back Sunday and Charlotte Sands",
+              "artist": "The Maine, Taking Back Sunday, Charlotte Sands",
+              "url": "https://open.spotify.com/track/3rfTFA4AGu8r2BXqpjKbcf",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738cc46550aafdc34930689440",
+              "plays": 1
+            },
+            {
+              "id": "5heRy6IDNiQXDJf1tZ6SUc",
+              "title": "Liar (It Takes One To Know One)",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
+              "plays": 1
+            },
+            {
+              "id": "429IbFR4yp2J81CeTwF5iY",
+              "title": "Sweetness",
+              "artist": "Jimmy Eat World",
+              "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY",
+              "image": "https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6",
+              "plays": 1
+            },
+            {
+              "id": "58kxWzZNk5RftBK6kqiRJm",
+              "title": "Pens And Needles",
+              "artist": "Hawthorne Heights",
+              "url": "https://open.spotify.com/track/58kxWzZNk5RftBK6kqiRJm",
+              "image": "https://i.scdn.co/image/ab67616d0000b27353537f76fc9b81d7d067fa43",
+              "plays": 1
+            },
+            {
+              "id": "5GDhZIimrLEJAgV7zVshSG",
+              "title": "There's No 'I' In Team - Remastered",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731fc8bc00af1c877377d1dcf8",
+              "plays": 1
+            },
+            {
+              "id": "27O9FuS1UIm6ZyLplgLQAH",
+              "title": "Devotion And Desire",
+              "artist": "Bayside",
+              "url": "https://open.spotify.com/track/27O9FuS1UIm6ZyLplgLQAH",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b258d3374d135b36f1a9afa1",
+              "plays": 1
+            },
+            {
+              "id": "0arNrzPygksLY2pEbRgBjw",
+              "title": "The Artist In The Ambulance",
+              "artist": "Thrice",
+              "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730bcd7ee4590cc999e3a529fe",
+              "plays": 1
+            },
+            {
+              "id": "5kbXvXRsxSe6IzRpIFeURw",
+              "title": "Let It Bleed",
+              "artist": "The Used",
+              "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b5bc4686d08a5812a63f180d",
+              "plays": 1
+            },
+            {
+              "id": "71U9X93wy4BQGyvmjFqApv",
+              "title": "Voices",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415",
+              "plays": 1
+            },
+            {
+              "id": "6r2EjEQh33dR5Ofxf5r79T",
+              "title": "One-Eighty By Summer",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
+              "plays": 1
+            },
+            {
+              "id": "4V0he7zYfJLEjfCDfojToB",
+              "title": "Seventy Times 7",
+              "artist": "Brand New",
+              "url": "https://open.spotify.com/track/4V0he7zYfJLEjfCDfojToB",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730a608ae3f3b2d721703ce22f",
+              "plays": 1
+            },
+            {
+              "id": "6QitaJF6Vj2O8sxf8VxsRI",
+              "title": "When I Get Home You're So Dead",
+              "artist": "Mayday Parade",
+              "url": "https://open.spotify.com/track/6QitaJF6Vj2O8sxf8VxsRI",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f7a58da348455480bf248fd5",
+              "plays": 1
+            },
+            {
+              "id": "6uzuW7L1t1UhnzbfXwtMtQ",
+              "title": "The Curse of Curves",
+              "artist": "Cute Is What We Aim For",
+              "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273364f9ffb7ceaf0e191cdb8c3",
+              "plays": 1
+            },
+            {
+              "id": "6IxQ0PdozaZKch1m8tGCwb",
+              "title": "All That I've Got",
+              "artist": "The Used",
+              "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b5bc4686d08a5812a63f180d",
+              "plays": 1
+            },
+            {
+              "id": "6pYzQWbPT3zw4F8Y5euTfl",
+              "title": "My Blue Heaven",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/6pYzQWbPT3zw4F8Y5euTfl",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
+              "plays": 1
+            },
+            {
+              "id": "3y5f6SfCuDjYOzeSbKP72p",
+              "title": "3rd Measurement in C",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e5b2d0d373f0b902a93b91a",
+              "plays": 1
+            },
+            {
+              "id": "50NQdrO55nqwZrDwKny5NH",
+              "title": "Not Good Enough For Truth In Cliché",
+              "artist": "Escape the Fate",
+              "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732541614ba5551322c8a1a478",
+              "plays": 1
+            },
+            {
+              "id": "3tNF4ktNoFYVbzd5LAgfMY",
+              "title": "Saying Sorry",
+              "artist": "Hawthorne Heights",
+              "url": "https://open.spotify.com/track/3tNF4ktNoFYVbzd5LAgfMY",
+              "image": "https://i.scdn.co/image/ab67616d0000b27353537f76fc9b81d7d067fa43",
+              "plays": 1
+            }
+          ]
+        }
+      ],
+      "lastPlayedAt": "2026-09-11T01:27:22.903Z",
+      "lastKeys": [
+        "[1789090042903,\"4FgvyHa45VsJZLd0U46dm8\"]"
+      ],
+      "from": "2026-09-08T21:25:30.393Z",
+      "through": "2026-09-11T01:27:22.903Z"
+    },
+    "status": "ok",
+    "checkedAt": "2026-09-11T01:40:14.843Z",
+    "updatedAt": "2026-09-11T01:40:14.843Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-09-11T01:35:42.525Z",
-    "updatedAt": "2026-09-11T01:35:42.525Z"
+    "checkedAt": "2026-09-11T01:40:14.843Z",
+    "updatedAt": "2026-09-11T01:40:14.843Z"
   },
   "canvasapi": {
     "stars": 675,
     "forks": 192,
-    "updatedAt": "2026-09-11T01:35:42.525Z",
+    "updatedAt": "2026-09-11T01:40:14.843Z",
     "url": "https://github.com/ucfopen/canvasapi",
     "status": "ok",
-    "checkedAt": "2026-09-11T01:35:42.525Z"
+    "checkedAt": "2026-09-11T01:40:14.843Z"
   }
 }
