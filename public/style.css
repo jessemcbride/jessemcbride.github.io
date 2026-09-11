@@ -306,32 +306,50 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 .game-note { min-width: 0; }
 .osrs-heading { margin-bottom: 14px; }
 .osrs-caption { font: .65rem/1.5 'Courier New', monospace; color: #b4a4bc; }
-.osrs-heading h2 { display: flex; align-items: center; gap: 10px; margin: 7px 0 2px; font: italic 2rem/1.2 Georgia, serif; color: #d6c2a2; }
+.osrs-heading h2 { display: flex; align-items: center; gap: 10px; margin: 7px 0 2px; font: italic 2rem/1.2 Georgia, serif; color: #d4c3db; }
 .osrs-heading img, .osrs-skills img, .osrs-bosses img, .osrs-items img { object-fit: contain; image-rendering: pixelated; flex-shrink: 0; }
 .osrs-heading p, .game-note .osrs-summary { font: .65rem/1.8 'Courier New', monospace; color: #b7aaa0; }
-.osrs-skills { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 3px; margin: 15px 0; padding: 8px; background: #24221e; border: 1px solid #514939; box-shadow: inset 0 0 0 3px #191815; }
-.osrs-skill { display: flex; align-items: center; justify-content: space-between; gap: 4px; min-width: 0; padding: 7px 5px; background: #302b24; border-bottom: 1px solid #171512; }
+.osrs-skills { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 3px; margin: 15px 0; padding: 8px; background: transparent; border: 1px dotted #514657; }
+.osrs-skill { display: flex; align-items: center; justify-content: space-between; gap: 4px; min-width: 0; padding: 7px 5px; background: #211d26; border-bottom: 1px solid #302735; }
 .osrs-skill-name { display: flex; flex-direction: column; gap: 4px; color: #c8bca5; font: .5rem/1.2 'Courier New', monospace; }
 .osrs-skill-name img { width: 21px; height: 21px; }
 .game-note .osrs-skill strong { font: 1rem/1 'Courier New', monospace; color: #ead488; text-shadow: 1px 1px #000; }
 .game-note .osrs-note { font-size: .75rem; line-height: 1.7; margin: 12px 0; }
 .game-note .osrs-details { margin: 15px 0 0; }
-.game-note .osrs-details summary { font: italic .9rem/1.5 Georgia, serif; color: #c7b794; }
+.game-note .osrs-details summary { font: italic .9rem/1.5 Georgia, serif; color: #bfa9cb; }
 .osrs-bosses { list-style: none; padding: 0; margin: 14px 0; }
 .osrs-bosses li { display: flex; align-items: center; gap: 10px; padding: 6px 0; border-bottom: 1px dotted #40382e; font-size: .7rem; }
 .osrs-bosses li span { flex: 1; }
 .osrs-bosses li strong { font-size: .7rem; }
 .osrs-items { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; margin: 12px 0; max-height: 360px; overflow: auto; }
-.osrs-item { display: flex; flex-direction: column; align-items: center; gap: 8px; text-align: center; text-decoration: none; padding: 10px 4px; background: #24221e; font: .6rem/1.5 'Courier New', monospace; overflow-wrap: anywhere; }
-.osrs-item:hover { background: #363025; }
-.osrs-details h3 { margin-top: 14px; font: italic 1rem Georgia, serif; color: #c7b794; }
+.osrs-item { display: flex; flex-direction: column; align-items: center; gap: 8px; text-align: center; text-decoration: none; padding: 10px 4px; background: transparent; font: .6rem/1.5 'Courier New', monospace; overflow-wrap: anywhere; }
+.osrs-item:hover { background: #241e2b; }
+.osrs-details h3 { margin-top: 14px; font: italic 1rem Georgia, serif; color: #bfa9cb; }
 .game-note .osrs-source { margin-top: 20px; font: .6rem/1.8 'Courier New', monospace; color: #b4a4bc; }
-.osrs-source a { color: #c7b794; }
+.osrs-source a { color: #bfa9cb; }
 
-.osrs-treasures { max-height: none; overflow: visible; gap: 12px; margin: 18px 0 22px; }
-.osrs-treasures .osrs-item { padding: 18px 6px 12px; background: #29251f; border: 1px solid #49402f; box-shadow: inset 0 0 0 3px #211e19; }
-.osrs-treasures .osrs-item img { width: 48px; height: 44px; margin-bottom: 5px; }
-.osrs-treasures .osrs-item:first-child { background: #343025; border-color: #776445; transform: rotate(-2deg); }
 .osrs-account-details { padding-top: 12px; border-top: 1px dotted #40382e; }
-.game-note .osrs-account-details > summary { font-size: .75rem; color: #a99c86; }
+.game-note .osrs-account-details > summary { font-size: .75rem; color: #b4a4bc; }
 .game-note .osrs-account-details .osrs-summary { margin-top: 14px; }
+
+/* Collection art drifts through the page, without tiles or a panel behind it. */
+.osrs-marquee { margin: 12px 0 18px; }
+.osrs-marquee-control { display: flex; justify-content: flex-end; align-items: center; gap: 6px; color: #a99ab2; font: .55rem/1.5 'Courier New', monospace; cursor: pointer; }
+.osrs-marquee-control input { width: 11px; height: 11px; accent-color: #bfa9cb; }
+.osrs-marquee-window { overflow: hidden; padding: 14px 0 5px; mask-image: linear-gradient(to right, transparent, #000 6%, #000 94%, transparent); }
+.osrs-marquee-track { display: flex; width: max-content; animation: collection-drift 80s linear infinite; }
+.osrs-marquee-group { display: flex; flex-shrink: 0; gap: 20px; padding-right: 20px; }
+.osrs-marquee .osrs-item { width: 78px; padding: 12px 2px; gap: 12px; background: transparent; }
+.osrs-marquee .osrs-item img { width: 48px; height: 44px; object-fit: contain; image-rendering: pixelated; filter: drop-shadow(0 4px 5px #0005); }
+.osrs-marquee .osrs-item span { color: #b4a4bc; font-size: .55rem; max-width: 78px; }
+.osrs-marquee .osrs-item:hover img { transform: translateY(-3px); }
+.osrs-marquee:has(input:checked) .osrs-marquee-track,
+.osrs-marquee:hover .osrs-marquee-track,
+.osrs-marquee:focus-within .osrs-marquee-track { animation-play-state: paused; }
+@keyframes collection-drift { to { transform: translateX(-50%); } }
+@media(prefers-reduced-motion: reduce) {
+  .osrs-marquee-track { animation: none; }
+  .osrs-marquee-window { overflow-x: auto; mask-image: none; }
+  .osrs-marquee-group[aria-hidden], .osrs-marquee-control { display: none; }
+  .osrs-marquee .osrs-item:hover img { transform: none; }
+}

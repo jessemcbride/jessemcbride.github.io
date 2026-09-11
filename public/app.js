@@ -11,7 +11,11 @@ function renderFeeds() {
   if (!content || !activity) return;
   document.querySelector('#music-content').innerHTML = music(content.integrations.spotify ? activity.spotify : { status: 'disabled' }, content.favorites, Date.now(), content.history);
   const account = document.querySelector('#osrs-content');
-  if (account) account.innerHTML = osrs(content.integrations.wiseOldMan === false ? { status: 'disabled' } : activity.wiseOldMan, content.integrations.wiseOldMan === false ? {} : activity.collectionLog, content.game, content.gameNote);
+  const accountState = JSON.stringify([activity.wiseOldMan, activity.collectionLog, content.game, content.gameNote, content.integrations.wiseOldMan]);
+  if (account && accountState !== account.dataset.snapshot) {
+    account.dataset.snapshot = accountState;
+    account.innerHTML = osrs(content.integrations.wiseOldMan === false ? { status: 'disabled' } : activity.wiseOldMan, content.integrations.wiseOldMan === false ? {} : activity.collectionLog, content.game, content.gameNote);
+  }
   const gh = document.querySelector('#github-content');
   if (gh) gh.innerHTML = github(activity.github, content.github);
 }
