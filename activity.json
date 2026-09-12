@@ -1,96 +1,96 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-11T16:29:52.592Z",
+  "generatedAt": "2026-09-12T15:32:55.040Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "4FgvyHa45VsJZLd0U46dm8",
-        "title": "Drool",
-        "artist": "It Looks Sad.",
-        "album": "Sky Lake",
-        "image": "https://i.scdn.co/image/ab67616d0000b273546f255f612dcfdba4495e35",
-        "url": "https://open.spotify.com/track/4FgvyHa45VsJZLd0U46dm8",
-        "durationMs": 184213,
-        "playedAt": "2026-09-11T01:27:22.903Z"
+        "id": "6uWrlY3Tuh7Eb8trggaWcs",
+        "title": "Pretty Pretty",
+        "artist": "Dead Poetic",
+        "album": "Vices",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
+        "url": "https://open.spotify.com/track/6uWrlY3Tuh7Eb8trggaWcs",
+        "durationMs": 174520,
+        "playedAt": "2026-09-12T02:18:39.372Z"
       },
       {
-        "id": "2nnBSJPdc7soYafkJCRO1b",
-        "title": "Shuffle Around",
-        "artist": "Joe Vann",
-        "album": "Found in the Smoke",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
-        "url": "https://open.spotify.com/track/2nnBSJPdc7soYafkJCRO1b",
-        "durationMs": 167354,
-        "playedAt": "2026-09-11T01:27:22.653Z"
+        "id": "01TkPibzV3zmYjkuGhBZXJ",
+        "title": "Long Forgotten",
+        "artist": "Dead Poetic",
+        "album": "Vices",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
+        "url": "https://open.spotify.com/track/01TkPibzV3zmYjkuGhBZXJ",
+        "durationMs": 200413,
+        "playedAt": "2026-09-12T02:15:44.877Z"
       },
       {
-        "id": "3LIVWGhQka0I90PP354wWu",
-        "title": "If It Makes You Feel Right",
-        "artist": "Joe Vann",
-        "album": "For Everyone",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e52864bac3144ea9dc6e8a30",
-        "url": "https://open.spotify.com/track/3LIVWGhQka0I90PP354wWu",
-        "durationMs": 235000,
-        "playedAt": "2026-09-09T23:13:29.265Z"
+        "id": "5yUWpANiH2Vw9v6t6FahUt",
+        "title": "In Coma",
+        "artist": "Dead Poetic",
+        "album": "Vices",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
+        "url": "https://open.spotify.com/track/5yUWpANiH2Vw9v6t6FahUt",
+        "durationMs": 239706,
+        "playedAt": "2026-09-12T00:16:14.904Z"
       },
       {
-        "id": "7so9qcrkMJxKBMSHDPFlIz",
-        "title": "Sublet",
-        "artist": "Runnner",
-        "album": "Fan On",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b494bd98c6eab10e307495b7",
-        "url": "https://open.spotify.com/track/7so9qcrkMJxKBMSHDPFlIz",
-        "durationMs": 170322,
-        "playedAt": "2026-09-09T17:25:22.120Z"
+        "id": "6w55Z97tyLR4igxbuIE0bZ",
+        "title": "Narcotic",
+        "artist": "Dead Poetic",
+        "album": "Vices",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
+        "url": "https://open.spotify.com/track/6w55Z97tyLR4igxbuIE0bZ",
+        "durationMs": 180333,
+        "playedAt": "2026-09-12T00:12:15.199Z"
       },
       {
-        "id": "4FEeXeFasspC0aaNObINNK",
-        "title": "Swirl",
-        "artist": "Charlie Martin",
-        "album": "Imaginary People",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735f332d2a1127ab85210601a8",
-        "url": "https://open.spotify.com/track/4FEeXeFasspC0aaNObINNK",
-        "durationMs": 156903,
-        "playedAt": "2026-09-09T17:22:31.285Z"
+        "id": "3vE59JcohH0qjzVFg3TnuY",
+        "title": "Self-Destruct & Die (The Pacifist)",
+        "artist": "Dead Poetic",
+        "album": "Vices",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
+        "url": "https://open.spotify.com/track/3vE59JcohH0qjzVFg3TnuY",
+        "durationMs": 215746,
+        "playedAt": "2026-09-12T00:09:14.848Z"
       },
       {
-        "id": "2mbqBIr7xBP9bc9ncCxaAV",
-        "title": "Houseplants",
-        "artist": "Joe Vann",
-        "album": "Found in the Smoke",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
-        "url": "https://open.spotify.com/track/2mbqBIr7xBP9bc9ncCxaAV",
-        "durationMs": 143500,
-        "playedAt": "2026-09-09T17:19:53.866Z"
+        "id": "22QyJJgibWEtYCXxTQlbOh",
+        "title": "one4u",
+        "artist": "DJ_Dave",
+        "album": "one4u",
+        "image": "https://i.scdn.co/image/ab67616d0000b27311d6814323bfb241aab82a73",
+        "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh",
+        "durationMs": 255428,
+        "playedAt": "2026-09-11T18:59:09.517Z"
       },
       {
-        "id": "74tf0r3eNDcYE9ubhVZ7Nu",
-        "title": "Happiness",
-        "artist": "Joe Vann",
-        "album": "Thoughts/Daydreams",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735e9378088fde5b457645f954",
-        "url": "https://open.spotify.com/track/74tf0r3eNDcYE9ubhVZ7Nu",
-        "durationMs": 160500,
-        "playedAt": "2026-09-09T17:17:29.847Z"
+        "id": "3UJnqR944GyU71cU8US7wp",
+        "title": "Play Me",
+        "artist": "Fcukers",
+        "album": "Ö",
+        "image": "https://i.scdn.co/image/ab67616d0000b27386b7c80f34422c3c287f698e",
+        "url": "https://open.spotify.com/track/3UJnqR944GyU71cU8US7wp",
+        "durationMs": 169411,
+        "playedAt": "2026-09-11T18:54:53.556Z"
       },
       {
-        "id": "25oZz4EMuOOkRBwmYZmruv",
-        "title": "For You",
-        "artist": "Joe Vann",
-        "album": "Found in the Smoke",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d25348750fa2fb1315e59a20",
-        "url": "https://open.spotify.com/track/25oZz4EMuOOkRBwmYZmruv",
-        "durationMs": 187625,
-        "playedAt": "2026-09-09T17:14:48.830Z"
+        "id": "0VSnVU4YP5YJ6zZXuMoOBs",
+        "title": "Tight Dress",
+        "artist": "Kaila",
+        "album": "Tight Dress",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a5857bb0778a9796dc23f466",
+        "url": "https://open.spotify.com/track/0VSnVU4YP5YJ6zZXuMoOBs",
+        "durationMs": 200015,
+        "playedAt": "2026-09-11T18:52:03.628Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 50,
+          "plays": 74,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -193,6 +193,60 @@
               "name": "Escape the Fate",
               "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum",
               "plays": 1
+            },
+            {
+              "id": "14NIQxiBiZtbmZMXUwS6KD",
+              "name": "Dead Poetic",
+              "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD",
+              "plays": 6
+            },
+            {
+              "id": "78ZgfyDjF59qBIWrGHRdme",
+              "name": "DJ_Dave",
+              "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme",
+              "plays": 1
+            },
+            {
+              "id": "3UtzOHYm3lQALkKzVD4wyO",
+              "name": "Fcukers",
+              "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO",
+              "plays": 2
+            },
+            {
+              "id": "6DlHoO5AWaPN0sLDws9Fyo",
+              "name": "Kaila",
+              "url": "https://open.spotify.com/artist/6DlHoO5AWaPN0sLDws9Fyo",
+              "plays": 1
+            },
+            {
+              "id": "4QM5QCHicznALtX885CnZC",
+              "name": "Slayyyter",
+              "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
+              "plays": 3
+            },
+            {
+              "id": "3MekbRujJg5VZThubOlrkR",
+              "name": "Ninajirachi",
+              "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR",
+              "plays": 1
+            },
+            {
+              "id": "4gvjmrtzydbMpyJaXUtwvP",
+              "name": "Addison Rae",
+              "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP",
+              "plays": 1
+            },
+            {
+              "id": "2qanRMyA5bNuTvz1dK45OP",
+              "name": "ADÉLA",
+              "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP",
+              "plays": 1
+            },
+            {
+              "id": "1kkyfIopIiVvaPHHlbsfac",
+              "name": "Movements",
+              "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac",
+              "plays": 8
             }
           ],
           "tracks": [
@@ -547,23 +601,205 @@
               "url": "https://open.spotify.com/track/3tNF4ktNoFYVbzd5LAgfMY",
               "image": "https://i.scdn.co/image/ab67616d0000b27353537f76fc9b81d7d067fa43",
               "plays": 1
+            },
+            {
+              "id": "6uWrlY3Tuh7Eb8trggaWcs",
+              "title": "Pretty Pretty",
+              "artist": "Dead Poetic",
+              "url": "https://open.spotify.com/track/6uWrlY3Tuh7Eb8trggaWcs",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
+              "plays": 1
+            },
+            {
+              "id": "01TkPibzV3zmYjkuGhBZXJ",
+              "title": "Long Forgotten",
+              "artist": "Dead Poetic",
+              "url": "https://open.spotify.com/track/01TkPibzV3zmYjkuGhBZXJ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
+              "plays": 2
+            },
+            {
+              "id": "5yUWpANiH2Vw9v6t6FahUt",
+              "title": "In Coma",
+              "artist": "Dead Poetic",
+              "url": "https://open.spotify.com/track/5yUWpANiH2Vw9v6t6FahUt",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
+              "plays": 1
+            },
+            {
+              "id": "6w55Z97tyLR4igxbuIE0bZ",
+              "title": "Narcotic",
+              "artist": "Dead Poetic",
+              "url": "https://open.spotify.com/track/6w55Z97tyLR4igxbuIE0bZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
+              "plays": 1
+            },
+            {
+              "id": "3vE59JcohH0qjzVFg3TnuY",
+              "title": "Self-Destruct & Die (The Pacifist)",
+              "artist": "Dead Poetic",
+              "url": "https://open.spotify.com/track/3vE59JcohH0qjzVFg3TnuY",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
+              "plays": 1
+            },
+            {
+              "id": "22QyJJgibWEtYCXxTQlbOh",
+              "title": "one4u",
+              "artist": "DJ_Dave",
+              "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh",
+              "image": "https://i.scdn.co/image/ab67616d0000b27311d6814323bfb241aab82a73",
+              "plays": 1
+            },
+            {
+              "id": "3UJnqR944GyU71cU8US7wp",
+              "title": "Play Me",
+              "artist": "Fcukers",
+              "url": "https://open.spotify.com/track/3UJnqR944GyU71cU8US7wp",
+              "image": "https://i.scdn.co/image/ab67616d0000b27386b7c80f34422c3c287f698e",
+              "plays": 1
+            },
+            {
+              "id": "0VSnVU4YP5YJ6zZXuMoOBs",
+              "title": "Tight Dress",
+              "artist": "Kaila",
+              "url": "https://open.spotify.com/track/0VSnVU4YP5YJ6zZXuMoOBs",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a5857bb0778a9796dc23f466",
+              "plays": 1
+            },
+            {
+              "id": "3FZoov0ORtnr8TznSNI1y2",
+              "title": "brand new chanel$",
+              "artist": "Slayyyter",
+              "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8",
+              "plays": 1
+            },
+            {
+              "id": "1xqT27jSG1Y15vOXfsV0gv",
+              "title": "iPod Touch",
+              "artist": "Ninajirachi",
+              "url": "https://open.spotify.com/track/1xqT27jSG1Y15vOXfsV0gv",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733b9b742c5c525af6e6767d87",
+              "plays": 1
+            },
+            {
+              "id": "7B3BwNecBhKvNwSMOOl7Gk",
+              "title": "Fame is a Gun",
+              "artist": "Addison Rae",
+              "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk",
+              "image": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593",
+              "plays": 1
+            },
+            {
+              "id": "1KoTSKG0vs2vbzMvrbpWjp",
+              "title": "L.U.C.K.Y",
+              "artist": "Fcukers",
+              "url": "https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp",
+              "image": "https://i.scdn.co/image/ab67616d0000b27386b7c80f34422c3c287f698e",
+              "plays": 1
+            },
+            {
+              "id": "70cHKK8bHAfJrOGVnfRG9J",
+              "title": "Nicole Kidman",
+              "artist": "ADÉLA",
+              "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ac9d5d5263e9f03802d6864c",
+              "plays": 1
+            },
+            {
+              "id": "6Xp2Zm2sJLdODReZWBBifO",
+              "title": "DANCE...",
+              "artist": "Slayyyter",
+              "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+              "plays": 1
+            },
+            {
+              "id": "6LMdNshhDtSq5pUSlPjTsE",
+              "title": "crank 2",
+              "artist": "Slayyyter",
+              "url": "https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f",
+              "plays": 1
+            },
+            {
+              "id": "7G2uBd0CDs4RFgRH118CgW",
+              "title": "III at Ease",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/7G2uBd0CDs4RFgRH118CgW",
+              "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+              "plays": 1
+            },
+            {
+              "id": "0pdmG6XHXq9p9FvZ36LEUz",
+              "title": "Pulse",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/0pdmG6XHXq9p9FvZ36LEUz",
+              "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+              "plays": 3
+            },
+            {
+              "id": "4jhbBCHWjQqWD4cifyuAcA",
+              "title": "Colorblind",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA",
+              "image": "https://i.scdn.co/image/ab67616d0000b273222a7f5b3077122bca25eef0",
+              "plays": 1
+            },
+            {
+              "id": "4jKonocCzh6JbKfmoANcix",
+              "title": "Happier Now",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/4jKonocCzh6JbKfmoANcix",
+              "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+              "plays": 1
+            },
+            {
+              "id": "4RuzC6HMgMz7lnxA0heUcG",
+              "title": "Separate",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/4RuzC6HMgMz7lnxA0heUcG",
+              "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+              "plays": 1
+            },
+            {
+              "id": "4pdPJQqQNWuDQ6Swl2mW2u",
+              "title": "Full Circle",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u",
+              "image": "https://i.scdn.co/image/ab67616d0000b273222a7f5b3077122bca25eef0",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-11T01:27:22.903Z",
+      "lastPlayedAt": "2026-09-12T02:18:39.372Z",
       "lastKeys": [
-        "[1789090042903,\"4FgvyHa45VsJZLd0U46dm8\"]"
+        "[1789179519372,\"6uWrlY3Tuh7Eb8trggaWcs\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-11T01:27:22.903Z"
+      "through": "2026-09-12T02:18:39.372Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-11T16:29:52.592Z",
-    "updatedAt": "2026-09-11T16:29:52.592Z"
+    "checkedAt": "2026-09-12T15:32:55.040Z",
+    "updatedAt": "2026-09-12T15:32:55.040Z"
   },
   "github": {
     "events": [
+      {
+        "id": "20861857988",
+        "action": "Pushed code to",
+        "repo": "jessemcbride/jessemcbride.github.io",
+        "url": "https://github.com/jessemcbride/jessemcbride.github.io",
+        "date": "2026-09-11T01:33:58Z"
+      },
+      {
+        "id": "20860531406",
+        "action": "Pushed code to",
+        "repo": "jessemcbride/jessemcbride.github.io",
+        "url": "https://github.com/jessemcbride/jessemcbride.github.io",
+        "date": "2026-09-11T01:35:28Z"
+      },
       {
         "id": "20783277811",
         "action": "Pushed code to",
@@ -594,8 +830,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-11T16:29:52.592Z",
-    "updatedAt": "2026-09-11T16:29:52.592Z"
+    "checkedAt": "2026-09-12T15:32:55.040Z",
+    "updatedAt": "2026-09-12T15:32:55.040Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -605,156 +841,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-11T16:29:53.967Z",
+    "snapshotAt": "2026-09-12T15:32:56.221Z",
     "skills": [
       {
         "key": "overall",
         "value": 1761,
-        "rank": 185900,
-        "xp": 32813930
+        "rank": 186018,
+        "xp": 32840466
       },
       {
         "key": "attack",
         "value": 73,
-        "rank": 233696,
-        "xp": 1042348
+        "rank": 233817,
+        "xp": 1042684
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212303,
-        "xp": 1112358
+        "rank": 212317,
+        "xp": 1115795
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 226716,
+        "rank": 226841,
         "xp": 2431117
       },
       {
         "key": "hitpoints",
         "value": 82,
-        "rank": 217037,
-        "xp": 2649170
+        "rank": 216975,
+        "xp": 2656344
       },
       {
         "key": "ranged",
         "value": 75,
-        "rank": 234479,
-        "xp": 1326457
+        "rank": 234225,
+        "xp": 1333912
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 172397,
+        "rank": 172491,
         "xp": 793103
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177844,
-        "xp": 2963885
+        "rank": 177818,
+        "xp": 2968466
       },
       {
         "key": "cooking",
         "value": 70,
-        "rank": 265059,
-        "xp": 809288
+        "rank": 264967,
+        "xp": 810233
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 272665,
-        "xp": 861071
+        "rank": 272744,
+        "xp": 861281
       },
       {
         "key": "fletching",
         "value": 65,
-        "rank": 299128,
+        "rank": 299259,
         "xp": 473130
       },
       {
         "key": "fishing",
         "value": 70,
-        "rank": 295032,
-        "xp": 811162
+        "rank": 295037,
+        "xp": 811792
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196861,
+        "rank": 196916,
         "xp": 6672785
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 217456,
-        "xp": 820036
+        "rank": 217478,
+        "xp": 820766
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197185,
-        "xp": 846513
+        "rank": 197212,
+        "xp": 847243
       },
       {
         "key": "mining",
         "value": 71,
-        "rank": 276528,
-        "xp": 867523
+        "rank": 276634,
+        "xp": 867733
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 176109,
-        "xp": 875792
+        "rank": 176193,
+        "xp": 875862
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 173043,
+        "rank": 173133,
         "xp": 1337672
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 235897,
+        "rank": 236012,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 206522,
+        "rank": 206609,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 189948,
-        "xp": 1545011
+        "rank": 190031,
+        "xp": 1545039
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 148077,
+        "rank": 148157,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 231121,
+        "rank": 231262,
         "xp": 943372
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 163331,
+        "rank": 163407,
         "xp": 801419
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 89749,
+        "rank": 89950,
         "xp": 390196
       }
     ],
@@ -767,27 +1003,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 146293
+        "rank": 146371
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 50689
+        "rank": 50812
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 79731
+        "rank": 79791
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89006
+        "rank": 89052
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 58738
+        "rank": 58762
       },
       {
         "key": "giant_mole",
@@ -797,17 +1033,17 @@
       {
         "key": "hespori",
         "value": 23,
-        "rank": 139333
+        "rank": 139386
       },
       {
         "key": "lunar_chests",
         "value": 109,
-        "rank": 88949
+        "rank": 89050
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 26964
+        "rank": 27175
       },
       {
         "key": "obor",
@@ -817,12 +1053,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 77973
+        "rank": 78025
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 106333
+        "rank": 106384
       },
       {
         "key": "the_gauntlet",
@@ -831,8 +1067,8 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 40,
-        "rank": 98631
+        "value": 43,
+        "rank": 98058
       },
       {
         "key": "tztok_jad",
@@ -842,12 +1078,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163415
+        "rank": 163475
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49258
+        "rank": 49279
       }
     ],
     "activities": [
@@ -864,27 +1100,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 157381
+        "rank": 157440
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 90820
+        "rank": 90864
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 115665
+        "rank": 115699
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 148488
+        "rank": 148531
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 161380
+        "rank": 161421
       },
       {
         "key": "clue_scrolls_elite",
@@ -899,7 +1135,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82001
+        "rank": 82013
       },
       {
         "key": "pvp_arena",
@@ -914,7 +1150,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 115068
+        "rank": 115158
       },
       {
         "key": "colosseum_glory",
@@ -928,8 +1164,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-11T16:29:52.592Z",
-    "updatedAt": "2026-09-11T16:29:52.592Z"
+    "checkedAt": "2026-09-12T15:32:55.040Z",
+    "updatedAt": "2026-09-12T15:32:55.040Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -1871,7 +2107,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-11T16:29:52.592Z",
-    "updatedAt": "2026-09-11T16:29:52.592Z"
+    "checkedAt": "2026-09-12T15:32:55.040Z",
+    "updatedAt": "2026-09-12T15:32:55.040Z"
   }
 }
