@@ -1,96 +1,96 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-13T16:18:42.557Z",
+  "generatedAt": "2026-09-14T18:05:08.384Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "2q4rjDy9WhaN3o9MvDbO21",
-        "title": "Kiss Me Thru The Phone",
-        "artist": "Soulja Boy, Sammie",
-        "album": "iSouljaBoyTellem",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736aef62bd0a60aac7df9a9e37",
-        "url": "https://open.spotify.com/track/2q4rjDy9WhaN3o9MvDbO21",
-        "durationMs": 193386,
-        "playedAt": "2026-09-12T16:17:19.083Z"
+        "id": "0R3TWpoxAhT3HDXM7tpRzS",
+        "title": "Ghostride",
+        "artist": "Crumb",
+        "album": "Jinx",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736d9fb491fa8815157aa54a84",
+        "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS",
+        "durationMs": 126120,
+        "playedAt": "2026-09-14T17:53:53.256Z"
       },
       {
-        "id": "5R8dQOPq8haW94K7mgERlO",
-        "title": "Poker Face",
-        "artist": "Lady Gaga",
-        "album": "The Fame",
-        "image": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
-        "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO",
-        "durationMs": 237200,
-        "playedAt": "2026-09-12T16:14:05.199Z"
+        "id": "4avSF93B7deHMMR1fSYdee",
+        "title": "Eris (Wait)",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/4avSF93B7deHMMR1fSYdee",
+        "durationMs": 118260,
+        "playedAt": "2026-09-14T17:51:46.411Z"
       },
       {
-        "id": "6Rb0ptOEjBjPPQUlQtQGbL",
-        "title": "Hotel Room Service",
-        "artist": "Pitbull",
-        "album": "Pitbull Starring In Rebelution",
-        "image": "https://i.scdn.co/image/ab67616d0000b27317db13c5730433ca2f0088e0",
-        "url": "https://open.spotify.com/track/6Rb0ptOEjBjPPQUlQtQGbL",
-        "durationMs": 237640,
-        "playedAt": "2026-09-12T16:10:01.315Z"
+        "id": "7FmpGCXVD5CeFkbFgjkNe3",
+        "title": "Worn Down",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/7FmpGCXVD5CeFkbFgjkNe3",
+        "durationMs": 155462,
+        "playedAt": "2026-09-14T17:49:48.197Z"
       },
       {
-        "id": "2bLqfJjuC5syrsgDsZfGmn",
-        "title": "The Way I Are",
-        "artist": "Timbaland, Keri Hilson, D.O.E.",
-        "album": "Shock Value",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734ed674ab91bdc566534f9285",
-        "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn",
-        "durationMs": 179120,
-        "playedAt": "2026-09-12T16:06:03.164Z"
+        "id": "0zHDv0mH8XLB22SoMnhYZz",
+        "title": "The Better Half",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/0zHDv0mH8XLB22SoMnhYZz",
+        "durationMs": 235105,
+        "playedAt": "2026-09-14T17:47:12.709Z"
       },
       {
-        "id": "2ygMBIctKIAfbEBcT9065L",
-        "title": "Pump It",
-        "artist": "Black Eyed Peas",
-        "album": "Monkey Business",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c6710b4a52539506c30e5354",
-        "url": "https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L",
-        "durationMs": 213066,
-        "playedAt": "2026-09-12T16:03:03.508Z"
+        "id": "1lLdJqarIvtSMNYt9xUc7O",
+        "title": "Billie Toppy (2025)",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/1lLdJqarIvtSMNYt9xUc7O",
+        "durationMs": 196833,
+        "playedAt": "2026-09-14T17:43:17.643Z"
       },
       {
-        "id": "6ErhIMzMLJ7QFoJmOUamyN",
-        "title": "Bite to Break Skin",
-        "artist": "Senses Fail",
-        "album": "Let It Enfold You",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b2a74364c1f622f26b14881e",
-        "url": "https://open.spotify.com/track/6ErhIMzMLJ7QFoJmOUamyN",
-        "durationMs": 211320,
-        "playedAt": "2026-09-12T15:59:03.687Z"
+        "id": "01V9eIxh3ctGIuRxcS7Ppg",
+        "title": "In My Years",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/01V9eIxh3ctGIuRxcS7Ppg",
+        "durationMs": 197086,
+        "playedAt": "2026-09-14T17:40:00.802Z"
       },
       {
-        "id": "5FyALN0Bjs0JXfYu39NhqM",
-        "title": "The Dreamclub Murders",
-        "artist": "Dead Poetic",
-        "album": "New Medicines",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b882ec6465c6f88d8093a34",
-        "url": "https://open.spotify.com/track/5FyALN0Bjs0JXfYu39NhqM",
-        "durationMs": 229546,
-        "playedAt": "2026-09-12T15:53:17.425Z"
+        "id": "4hrL6mHfQ6JjnLt83vLkpl",
+        "title": "Where I Sit",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/4hrL6mHfQ6JjnLt83vLkpl",
+        "durationMs": 195877,
+        "playedAt": "2026-09-14T17:36:43.792Z"
       },
       {
-        "id": "0qiTTTGk8Phrax8DUrv9jz",
-        "title": "Sinless City",
-        "artist": "Dead Poetic",
-        "album": "Vices",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
-        "url": "https://open.spotify.com/track/0qiTTTGk8Phrax8DUrv9jz",
-        "durationMs": 253200,
-        "playedAt": "2026-09-12T15:50:31.275Z"
+        "id": "50ASFow3YrVJJpqdzaM1YD",
+        "title": "Carried Away",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD",
+        "durationMs": 207500,
+        "playedAt": "2026-09-14T17:33:13.186Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 84,
+          "plays": 132,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -246,7 +246,7 @@
               "id": "1kkyfIopIiVvaPHHlbsfac",
               "name": "Movements",
               "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac",
-              "plays": 8
+              "plays": 10
             },
             {
               "id": "6GMYJwaziB4ekv1Y6wCDWS",
@@ -312,6 +312,162 @@
               "id": "7hJcb9fa4alzcOq3EaNPoG",
               "name": "Snoop Dogg",
               "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG",
+              "plays": 1
+            },
+            {
+              "id": "4kSGbjWGxTchKpIxXPJv0B",
+              "name": "Crumb",
+              "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B",
+              "plays": 1
+            },
+            {
+              "id": "3zmfs9cQwzJl575W1ZYXeT",
+              "name": "Men I Trust",
+              "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT",
+              "plays": 13
+            },
+            {
+              "id": "1Tsag5J854qxeOo2apszug",
+              "name": "Silverstein",
+              "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug",
+              "plays": 13
+            },
+            {
+              "id": "6GhcI55xfZf5vqmmNqYzxW",
+              "name": "The Paradox",
+              "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW",
+              "plays": 8
+            },
+            {
+              "id": "3GzWhE2xadJiW8MqRKIVSK",
+              "name": "Underoath",
+              "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK",
+              "plays": 1
+            },
+            {
+              "id": "5B2GfbXgossZt9SE08Iqn6",
+              "name": "Aaron Gillespie",
+              "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6",
+              "plays": 1
+            },
+            {
+              "id": "4exLIFE8sISLr28sqG1qNX",
+              "name": "Travis Barker",
+              "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX",
+              "plays": 1
+            },
+            {
+              "id": "1wmiQ6ytATiGnJs6uFluKO",
+              "name": "Jay Som",
+              "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO",
+              "plays": 1
+            },
+            {
+              "id": "64YO6kjOrspjCGA2GQwsT0",
+              "name": "Soft Glas",
+              "url": "https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0",
+              "plays": 1
+            },
+            {
+              "id": "2JFTRDi5v7JtqoouVe1z5D",
+              "name": "Slow Pulp",
+              "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D",
+              "plays": 2
+            },
+            {
+              "id": "2oQX8QiMXOyuqbcZEFsZfm",
+              "name": "El Alfa",
+              "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm",
+              "plays": 3
+            },
+            {
+              "id": "01nUdqwuIHCHLZNP2TvYVF",
+              "name": "Boy Wonder CF",
+              "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF",
+              "plays": 1
+            },
+            {
+              "id": "5fJsY7afrbsyzJj9wdzJMh",
+              "name": "Tito \"El Bambino\"",
+              "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh",
+              "plays": 1
+            },
+            {
+              "id": "1Qote9MpqMZluWzYGifZUg",
+              "name": "Randy",
+              "url": "https://open.spotify.com/artist/1Qote9MpqMZluWzYGifZUg",
+              "plays": 1
+            },
+            {
+              "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+              "name": "J Balvin",
+              "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5",
+              "plays": 1
+            },
+            {
+              "id": "4RSyJzf7ef6Iu2rnLdabNq",
+              "name": "Willy William",
+              "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq",
+              "plays": 1
+            },
+            {
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
+              "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+              "plays": 1
+            },
+            {
+              "id": "0eet2VBconGGtNYJ0CBgHu",
+              "name": "Eloy",
+              "url": "https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu",
+              "plays": 1
+            },
+            {
+              "id": "7qYeIN2r4H1kBvr0Gm9Iav",
+              "name": "Randy Nota Loca",
+              "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav",
+              "plays": 1
+            },
+            {
+              "id": "1pgDilWYDWLoOgGjf1iHNu",
+              "name": "Zion",
+              "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu",
+              "plays": 1
+            },
+            {
+              "id": "4IMAo2UQchVFyPH24PAjUs",
+              "name": "Jowell & Randy",
+              "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs",
+              "plays": 1
+            },
+            {
+              "id": "1tfhFc2Y8iplDKCteuXjCY",
+              "name": "El Cherry Scom",
+              "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY",
+              "plays": 1
+            },
+            {
+              "id": "7arQA31aZVS8yS6zUveWzb",
+              "name": "CJ",
+              "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb",
+              "plays": 1
+            },
+            {
+              "id": "1TtXnWcUs0FCkaZDPGYHdf",
+              "name": "Darell",
+              "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf",
+              "plays": 1
+            },
+            {
+              "id": "3RtNN1VnooWEn3KQk03DUL",
+              "name": "Noriel",
+              "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL",
+              "plays": 1
+            },
+            {
+              "id": "0AkpPlFLnr0VQwZQeMGht0",
+              "name": "Modjo",
+              "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0",
               "plays": 1
             }
           ],
@@ -802,7 +958,7 @@
               "artist": "Movements",
               "url": "https://open.spotify.com/track/0pdmG6XHXq9p9FvZ36LEUz",
               "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "4jhbBCHWjQqWD4cifyuAcA",
@@ -915,20 +1071,380 @@
               "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk",
               "image": "https://i.scdn.co/image/ab67616d0000b2734d1f7819d08e1011170f3c6d",
               "plays": 1
+            },
+            {
+              "id": "0R3TWpoxAhT3HDXM7tpRzS",
+              "title": "Ghostride",
+              "artist": "Crumb",
+              "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736d9fb491fa8815157aa54a84",
+              "plays": 1
+            },
+            {
+              "id": "4avSF93B7deHMMR1fSYdee",
+              "title": "Eris (Wait)",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/4avSF93B7deHMMR1fSYdee",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "7FmpGCXVD5CeFkbFgjkNe3",
+              "title": "Worn Down",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/7FmpGCXVD5CeFkbFgjkNe3",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "0zHDv0mH8XLB22SoMnhYZz",
+              "title": "The Better Half",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/0zHDv0mH8XLB22SoMnhYZz",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "1lLdJqarIvtSMNYt9xUc7O",
+              "title": "Billie Toppy (2025)",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/1lLdJqarIvtSMNYt9xUc7O",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "01V9eIxh3ctGIuRxcS7Ppg",
+              "title": "In My Years",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/01V9eIxh3ctGIuRxcS7Ppg",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "4hrL6mHfQ6JjnLt83vLkpl",
+              "title": "Where I Sit",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/4hrL6mHfQ6JjnLt83vLkpl",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "50ASFow3YrVJJpqdzaM1YD",
+              "title": "Carried Away",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "3DjcaX0PRpvbC19ffTsz9z",
+              "title": "Husk (2025)",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/3DjcaX0PRpvbC19ffTsz9z",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "5RHhmGMV3FKxRa63AIfIgZ",
+              "title": "Another Stone",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "13UqmpJo3DKZOJkGA6aH5U",
+              "title": "Ring Of Past (2025)",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/13UqmpJo3DKZOJkGA6aH5U",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "6R2YSITVeRTFwDczaxSnQS",
+              "title": "Hard To See",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/6R2YSITVeRTFwDczaxSnQS",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "04H7h3KJAQp9JHCSPGlp9A",
+              "title": "Come Back Down",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/04H7h3KJAQp9JHCSPGlp9A",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "2HcMkGeghyXdJRT1g85u0t",
+              "title": "To Ease You",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/2HcMkGeghyXdJRT1g85u0t",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "6Yy1jLQpHx5QmV4RpnuhYh",
+              "title": "Massachusetts",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/6Yy1jLQpHx5QmV4RpnuhYh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732e14511aed77bec0eff01b11",
+              "plays": 2
+            },
+            {
+              "id": "1qRAtQjuQdABlBLi9W8dOc",
+              "title": "Flowerbed",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/1qRAtQjuQdABlBLi9W8dOc",
+              "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+              "plays": 1
+            },
+            {
+              "id": "36BcBleg7Sgzc54xMPwimr",
+              "title": "Giving Up",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/36BcBleg7Sgzc54xMPwimr",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ea6e6f676b39b921d6491e3a",
+              "plays": 1
+            },
+            {
+              "id": "0AewVERy05Wc4VCj08B5do",
+              "title": "Your Sword Versus My Dagger",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/0AewVERy05Wc4VCj08B5do",
+              "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+              "plays": 2
+            },
+            {
+              "id": "3pap8PquQ7L1mW6xlL1tjF",
+              "title": "That’s Not Fair",
+              "artist": "The Paradox",
+              "url": "https://open.spotify.com/track/3pap8PquQ7L1mW6xlL1tjF",
+              "image": "https://i.scdn.co/image/ab67616d0000b273db8644cebf19c971a485d800",
+              "plays": 1
+            },
+            {
+              "id": "4Kn4mOGh33qnjNU3tVUOi2",
+              "title": "Negative Space",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/4Kn4mOGh33qnjNU3tVUOi2",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734e595e81cb68df8129bdbfcc",
+              "plays": 1
+            },
+            {
+              "id": "2NUhNx2hAXw26P0THIbn1w",
+              "title": "Infinite",
+              "artist": "Silverstein, Underoath, Aaron Gillespie",
+              "url": "https://open.spotify.com/track/2NUhNx2hAXw26P0THIbn1w",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ccc1b0e777584c921fd1b09a",
+              "plays": 1
+            },
+            {
+              "id": "0bEmGyj4ESK3J4U9fMM9Th",
+              "title": "Bleeds No More",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/0bEmGyj4ESK3J4U9fMM9Th",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ea6e6f676b39b921d6491e3a",
+              "plays": 1
+            },
+            {
+              "id": "6NDoBIaqTHdcudaR8RDJNw",
+              "title": "My Heroine",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw",
+              "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+              "plays": 1
+            },
+            {
+              "id": "7c4vXxglI2zKzs99geaEuh",
+              "title": "The Afterglow",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/7c4vXxglI2zKzs99geaEuh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e689f11c533e960800dfd25",
+              "plays": 1
+            },
+            {
+              "id": "1CKfTyQ4JMJxM9HFlvz187",
+              "title": "Smashed Into Pieces",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ea6e6f676b39b921d6491e3a",
+              "plays": 1
+            },
+            {
+              "id": "29dljceloiAgAeARUwZ3QC",
+              "title": "Smile In Your Sleep",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC",
+              "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+              "plays": 1
+            },
+            {
+              "id": "5OM5Cm3KsgD90GdRoLBu8A",
+              "title": "Ultraviolet",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/5OM5Cm3KsgD90GdRoLBu8A",
+              "image": "https://i.scdn.co/image/ab67616d0000b27370252e530bae5508ff763f1f",
+              "plays": 1
+            },
+            {
+              "id": "6KeyiDe4mTcz75j60mMdkM",
+              "title": "Imani",
+              "artist": "The Paradox",
+              "url": "https://open.spotify.com/track/6KeyiDe4mTcz75j60mMdkM",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c78bcb83d95d2934ceb90412",
+              "plays": 1
+            },
+            {
+              "id": "0ZrA247YJ9XkdNK5L6533W",
+              "title": "Do It Again",
+              "artist": "The Paradox",
+              "url": "https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W",
+              "image": "https://i.scdn.co/image/ab67616d0000b27376d53e0f27db46e908b31597",
+              "plays": 1
+            },
+            {
+              "id": "6FVeZfWkYtDiyyq93dBSXU",
+              "title": "Ms. Lauren",
+              "artist": "The Paradox",
+              "url": "https://open.spotify.com/track/6FVeZfWkYtDiyyq93dBSXU",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cd1c508c10599ded7e0d4891",
+              "plays": 1
+            },
+            {
+              "id": "0d1VAPSDzDRZMNIndiC2x2",
+              "title": "I Kinda Like That",
+              "artist": "The Paradox",
+              "url": "https://open.spotify.com/track/0d1VAPSDzDRZMNIndiC2x2",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734dee30515ff8ef69b47a8852",
+              "plays": 1
+            },
+            {
+              "id": "78APbsosmvDYIwZHjzC5ZE",
+              "title": "Bender (feat. Travis Barker)",
+              "artist": "The Paradox, Travis Barker",
+              "url": "https://open.spotify.com/track/78APbsosmvDYIwZHjzC5ZE",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bd698641b6ed8ee14237e429",
+              "plays": 1
+            },
+            {
+              "id": "354WZaV3u6cuzTG2PmpYwm",
+              "title": "Get The Message",
+              "artist": "The Paradox",
+              "url": "https://open.spotify.com/track/354WZaV3u6cuzTG2PmpYwm",
+              "image": "https://i.scdn.co/image/ab67616d0000b27335aa760de8c12a6578dbd75b",
+              "plays": 1
+            },
+            {
+              "id": "1oABrgkUeG6UEtaBcCBqKn",
+              "title": "What You Need",
+              "artist": "Jay Som, Soft Glas",
+              "url": "https://open.spotify.com/track/1oABrgkUeG6UEtaBcCBqKn",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734e8f32343aef69db5124b30d",
+              "plays": 1
+            },
+            {
+              "id": "71LE6SBGVcXdIhHxJ6Nb8c",
+              "title": "Not for Nothing",
+              "artist": "Slow Pulp",
+              "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a135b3d89186d41441742d0b",
+              "plays": 1
+            },
+            {
+              "id": "6kNcp1ZJPtDPbzJ6nuaKvx",
+              "title": "Better Man",
+              "artist": "Slow Pulp",
+              "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733eec16dc383167eeb4eb1b03",
+              "plays": 1
+            },
+            {
+              "id": "4o9DRmcnHX2V4aPHinhfrP",
+              "title": "Sientate en Ese Deo",
+              "artist": "El Alfa",
+              "url": "https://open.spotify.com/track/4o9DRmcnHX2V4aPHinhfrP",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736032996512ae7971a32777b9",
+              "plays": 1
+            },
+            {
+              "id": "12nxXb0ABx0anVAQJQWnqU",
+              "title": "Siente El Boom (feat. Randy)",
+              "artist": "Boy Wonder CF, Tito \"El Bambino\", Randy",
+              "url": "https://open.spotify.com/track/12nxXb0ABx0anVAQJQWnqU",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e5afb354deaef85c02abe6d2",
+              "plays": 1
+            },
+            {
+              "id": "7COfe3P7KgfwDwIRB8LIDw",
+              "title": "Mi Gente",
+              "artist": "J Balvin, Willy William",
+              "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dda2b86297d3bfb519f8b785",
+              "plays": 1
+            },
+            {
+              "id": "6J5kc12BW5HuP3d7C3vvx8",
+              "title": "EoO",
+              "artist": "Bad Bunny",
+              "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+              "plays": 1
+            },
+            {
+              "id": "3IAmbUs1NB8XwfhNYUXuLA",
+              "title": "Fuera Del Planeta (Remix)",
+              "artist": "Eloy, Randy Nota Loca, Zion, Jowell & Randy",
+              "url": "https://open.spotify.com/track/3IAmbUs1NB8XwfhNYUXuLA",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735592adc56e63d9e6ec60a30f",
+              "plays": 1
+            },
+            {
+              "id": "4zTSSrtsaVVjT3RZKQ1Gqn",
+              "title": "La Mamá de la Mamá",
+              "artist": "El Alfa, El Cherry Scom, CJ",
+              "url": "https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733242fdd0d5f5c1dfe49ce924",
+              "plays": 1
+            },
+            {
+              "id": "1BIXs6CdkPRLytuqoXs6XN",
+              "title": "4K",
+              "artist": "El Alfa, Darell, Noriel",
+              "url": "https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN",
+              "image": "https://i.scdn.co/image/ab67616d0000b27334f87322d0e0b663ac8cb6d7",
+              "plays": 1
+            },
+            {
+              "id": "1y6lq1wrAspWEgRJmYb11S",
+              "title": "Do Me Like That",
+              "artist": "The Paradox",
+              "url": "https://open.spotify.com/track/1y6lq1wrAspWEgRJmYb11S",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f4a8ede33cc7b69ef0ec1910",
+              "plays": 1
+            },
+            {
+              "id": "49X0LAl6faAusYq02PRAY6",
+              "title": "Lady - Hear Me Tonight",
+              "artist": "Modjo",
+              "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6",
+              "image": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-12T16:17:19.083Z",
+      "lastPlayedAt": "2026-09-14T17:53:53.256Z",
       "lastKeys": [
-        "[1789229839083,\"2q4rjDy9WhaN3o9MvDbO21\"]"
+        "[1789408433256,\"0R3TWpoxAhT3HDXM7tpRzS\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-12T16:17:19.083Z"
+      "through": "2026-09-14T17:53:53.256Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-13T16:18:42.557Z",
-    "updatedAt": "2026-09-13T16:18:42.557Z"
+    "checkedAt": "2026-09-14T18:05:08.384Z",
+    "updatedAt": "2026-09-14T18:05:08.384Z"
   },
   "github": {
     "events": [
@@ -976,8 +1492,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-13T16:18:42.557Z",
-    "updatedAt": "2026-09-13T16:18:42.557Z"
+    "checkedAt": "2026-09-14T18:05:08.384Z",
+    "updatedAt": "2026-09-14T18:05:08.384Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -987,156 +1503,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-13T16:18:43.686Z",
+    "snapshotAt": "2026-09-14T18:05:10.287Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1764,
-        "rank": 185234,
-        "xp": 33099706
+        "value": 1765,
+        "rank": 185045,
+        "xp": 33155643
       },
       {
         "key": "attack",
         "value": 73,
-        "rank": 233816,
-        "xp": 1046594
+        "rank": 233930,
+        "xp": 1047482
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212340,
-        "xp": 1119378
+        "rank": 212235,
+        "xp": 1126872
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 226964,
+        "rank": 227104,
         "xp": 2431117
       },
       {
         "key": "hitpoints",
-        "value": 82,
-        "rank": 216853,
-        "xp": 2664884
+        "value": 83,
+        "rank": 216571,
+        "xp": 2679820
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 233923,
-        "xp": 1341323
+        "rank": 233200,
+        "xp": 1355295
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 172600,
+        "rank": 172703,
         "xp": 793103
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177777,
-        "xp": 2974772
+        "rank": 177608,
+        "xp": 2984826
       },
       {
         "key": "cooking",
         "value": 70,
-        "rank": 264901,
-        "xp": 811193
+        "rank": 264513,
+        "xp": 813593
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 272851,
-        "xp": 861501
+        "rank": 272882,
+        "xp": 861991
       },
       {
         "key": "fletching",
         "value": 66,
-        "rank": 283078,
+        "rank": 283217,
         "xp": 532829
       },
       {
         "key": "fishing",
         "value": 70,
-        "rank": 295046,
-        "xp": 812482
+        "rank": 294966,
+        "xp": 813992
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196406,
+        "rank": 196462,
         "xp": 6712785
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 217520,
-        "xp": 821496
+        "rank": 217462,
+        "xp": 823241
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197258,
-        "xp": 847973
+        "rank": 197123,
+        "xp": 849718
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 269540,
-        "xp": 918003
+        "rank": 269593,
+        "xp": 918493
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 176282,
-        "xp": 876121
+        "rank": 176366,
+        "xp": 876271
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 164836,
+        "rank": 164925,
         "xp": 1387685
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 236149,
+        "rank": 236277,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 206713,
+        "rank": 206823,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 189619,
-        "xp": 1560243
+        "rank": 189698,
+        "xp": 1560306
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 148244,
+        "rank": 148327,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 231413,
+        "rank": 231536,
         "xp": 943372
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 161264,
+        "rank": 161379,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 90154,
+        "rank": 90384,
         "xp": 390196
       }
     ],
@@ -1149,27 +1665,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 146447
+        "rank": 146527
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 50934
+        "rank": 51026
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 79854
+        "rank": 79904
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89087
+        "rank": 89121
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 58801
+        "rank": 58835
       },
       {
         "key": "giant_mole",
@@ -1179,17 +1695,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137289
+        "rank": 137299
       },
       {
         "key": "lunar_chests",
         "value": 109,
-        "rank": 89165
+        "rank": 89276
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 27423
+        "rank": 27637
       },
       {
         "key": "obor",
@@ -1199,12 +1715,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78120
+        "rank": 78179
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 106458
+        "rank": 106525
       },
       {
         "key": "the_gauntlet",
@@ -1213,8 +1729,8 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 45,
-        "rank": 97801
+        "value": 49,
+        "rank": 97197
       },
       {
         "key": "tztok_jad",
@@ -1224,12 +1740,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163543
+        "rank": 163594
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49301
+        "rank": 49324
       }
     ],
     "activities": [
@@ -1246,27 +1762,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 157502
+        "rank": 157576
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 90893
+        "rank": 90958
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 115735
+        "rank": 115768
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 148592
+        "rank": 148642
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 161470
+        "rank": 161522
       },
       {
         "key": "clue_scrolls_elite",
@@ -1281,7 +1797,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82036
+        "rank": 82046
       },
       {
         "key": "pvp_arena",
@@ -1296,7 +1812,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 115248
+        "rank": 115316
       },
       {
         "key": "colosseum_glory",
@@ -1310,8 +1826,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-13T16:18:42.557Z",
-    "updatedAt": "2026-09-13T16:18:42.557Z"
+    "checkedAt": "2026-09-14T18:05:08.384Z",
+    "updatedAt": "2026-09-14T18:05:08.384Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -2253,7 +2769,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-13T16:18:42.557Z",
-    "updatedAt": "2026-09-13T16:18:42.557Z"
+    "checkedAt": "2026-09-14T18:05:08.384Z",
+    "updatedAt": "2026-09-14T18:05:08.384Z"
   }
 }
