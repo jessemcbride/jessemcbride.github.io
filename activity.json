@@ -1,10 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T17:00:39.179Z",
+  "generatedAt": "2026-09-16T16:57:19.783Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "1SuOntVW9kcY5NAzTqC2s7",
+        "title": "Typing...",
+        "artist": "Kaonashi",
+        "album": "Typing...",
+        "image": "https://i.scdn.co/image/ab67616d0000b27330435f51574a44115a80db69",
+        "url": "https://open.spotify.com/track/1SuOntVW9kcY5NAzTqC2s7",
+        "durationMs": 174253,
+        "playedAt": "2026-09-16T03:52:27.818Z"
+      },
       {
         "id": "0CtPILcMn9wMvPjVoq2Rh6",
         "title": "Dissolve Me",
@@ -74,23 +84,13 @@
         "url": "https://open.spotify.com/track/1lLdJqarIvtSMNYt9xUc7O",
         "durationMs": 196833,
         "playedAt": "2026-09-14T17:43:17.643Z"
-      },
-      {
-        "id": "01V9eIxh3ctGIuRxcS7Ppg",
-        "title": "In My Years",
-        "artist": "Men I Trust",
-        "album": "Equus Caballus",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
-        "url": "https://open.spotify.com/track/01V9eIxh3ctGIuRxcS7Ppg",
-        "durationMs": 197086,
-        "playedAt": "2026-09-14T17:40:00.802Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 134,
+          "plays": 135,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -474,6 +474,12 @@
               "id": "7iyWvxyp2SxGg3L66TmHbO",
               "name": "Twen",
               "url": "https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO",
+              "plays": 1
+            },
+            {
+              "id": "60Zpxsk0QxhPEyyvWfSv0I",
+              "name": "Kaonashi",
+              "url": "https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I",
               "plays": 1
             }
           ],
@@ -1453,20 +1459,28 @@
               "url": "https://open.spotify.com/track/48kjJJiIOGBhCX3Bnz8qJe",
               "image": "https://i.scdn.co/image/ab67616d0000b273ded6416fdfd6529b9afaf72f",
               "plays": 1
+            },
+            {
+              "id": "1SuOntVW9kcY5NAzTqC2s7",
+              "title": "Typing...",
+              "artist": "Kaonashi",
+              "url": "https://open.spotify.com/track/1SuOntVW9kcY5NAzTqC2s7",
+              "image": "https://i.scdn.co/image/ab67616d0000b27330435f51574a44115a80db69",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-15T13:49:05.993Z",
+      "lastPlayedAt": "2026-09-16T03:52:27.818Z",
       "lastKeys": [
-        "[1789480145993,\"0CtPILcMn9wMvPjVoq2Rh6\"]"
+        "[1789530747818,\"1SuOntVW9kcY5NAzTqC2s7\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-15T13:49:05.993Z"
+      "through": "2026-09-16T03:52:27.818Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-15T17:00:39.179Z",
-    "updatedAt": "2026-09-15T17:00:39.179Z"
+    "checkedAt": "2026-09-16T16:57:19.783Z",
+    "updatedAt": "2026-09-16T16:57:19.783Z"
   },
   "github": {
     "events": [
@@ -1514,8 +1528,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-15T17:00:39.179Z",
-    "updatedAt": "2026-09-15T17:00:39.179Z"
+    "checkedAt": "2026-09-16T16:57:19.783Z",
+    "updatedAt": "2026-09-16T16:57:19.783Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -1525,156 +1539,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-15T17:00:44.413Z",
+    "snapshotAt": "2026-09-16T16:57:21.839Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1766,
-        "rank": 184838,
-        "xp": 33200849
+        "value": 1767,
+        "rank": 184593,
+        "xp": 33229415
       },
       {
         "key": "attack",
         "value": 73,
-        "rank": 234036,
-        "xp": 1047818
+        "rank": 233839,
+        "xp": 1061028
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212285,
-        "xp": 1129121
+        "rank": 212359,
+        "xp": 1130117
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 227200,
-        "xp": 2431117
+        "rank": 227172,
+        "xp": 2434586
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 216534,
-        "xp": 2684520
+        "rank": 216467,
+        "xp": 2691093
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 232985,
-        "xp": 1360075
+        "rank": 233034,
+        "xp": 1360883
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 172768,
+        "rank": 172848,
         "xp": 793103
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177569,
-        "xp": 2988932
+        "rank": 177592,
+        "xp": 2990509
       },
       {
         "key": "cooking",
-        "value": 70,
-        "rank": 264459,
-        "xp": 814283
+        "value": 71,
+        "rank": 264300,
+        "xp": 815141
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 272957,
+        "rank": 273070,
         "xp": 862131
       },
       {
         "key": "fletching",
         "value": 66,
-        "rank": 280373,
+        "rank": 280493,
         "xp": 546996
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294924,
+        "rank": 295018,
         "xp": 814482
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196509,
+        "rank": 196565,
         "xp": 6712785
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 217489,
+        "rank": 217578,
         "xp": 823736
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197168,
+        "rank": 197264,
         "xp": 850213
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 267859,
+        "rank": 267973,
         "xp": 930983
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 176427,
+        "rank": 176486,
         "xp": 876321
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 164973,
+        "rank": 165033,
         "xp": 1387685
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 236384,
+        "rank": 236494,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 206885,
+        "rank": 206964,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 189760,
+        "rank": 189830,
         "xp": 1560324
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 148382,
+        "rank": 148440,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 231625,
-        "xp": 943372
+        "rank": 231633,
+        "xp": 944447
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 161458,
+        "rank": 161524,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 90571,
+        "rank": 90739,
         "xp": 390196
       }
     ],
@@ -1687,27 +1701,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 146572
+        "rank": 146637
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 51127
+        "rank": 51210
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 79963
+        "rank": 80016
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89148
+        "rank": 89169
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 58858
+        "rank": 58885
       },
       {
         "key": "giant_mole",
@@ -1717,17 +1731,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137315
+        "rank": 137351
       },
       {
         "key": "lunar_chests",
-        "value": 109,
-        "rank": 89357
+        "value": 111,
+        "rank": 88899
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 27824
+        "rank": 28006
       },
       {
         "key": "obor",
@@ -1737,12 +1751,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78210
+        "rank": 78257
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 106560
+        "rank": 106603
       },
       {
         "key": "the_gauntlet",
@@ -1752,7 +1766,7 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 50,
-        "rank": 97109
+        "rank": 97168
       },
       {
         "key": "tztok_jad",
@@ -1762,12 +1776,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163619
+        "rank": 163671
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49333
+        "rank": 49347
       }
     ],
     "activities": [
@@ -1784,27 +1798,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 157633
+        "rank": 157696
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 90983
+        "rank": 91024
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 115803
+        "rank": 115843
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 148673
+        "rank": 148711
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 161562
+        "rank": 161598
       },
       {
         "key": "clue_scrolls_elite",
@@ -1819,7 +1833,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82053
+        "rank": 82067
       },
       {
         "key": "pvp_arena",
@@ -1834,7 +1848,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 115362
+        "rank": 115417
       },
       {
         "key": "colosseum_glory",
@@ -1848,8 +1862,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-15T17:00:39.179Z",
-    "updatedAt": "2026-09-15T17:00:39.179Z"
+    "checkedAt": "2026-09-16T16:57:19.783Z",
+    "updatedAt": "2026-09-16T16:57:19.783Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -2791,7 +2805,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-15T17:00:39.179Z",
-    "updatedAt": "2026-09-15T17:00:39.179Z"
+    "checkedAt": "2026-09-16T16:57:19.783Z",
+    "updatedAt": "2026-09-16T16:57:19.783Z"
   }
 }
