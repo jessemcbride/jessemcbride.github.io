@@ -1,10 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-18T16:25:01.271Z",
+  "generatedAt": "2026-09-19T15:54:04.824Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "4tOJDJFuD8irQJAMkljOIG",
+        "title": "Slow Burn",
+        "artist": "Sweet Pill",
+        "album": "Still There’s a Glow",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
+        "url": "https://open.spotify.com/track/4tOJDJFuD8irQJAMkljOIG",
+        "durationMs": 134785,
+        "playedAt": "2026-09-18T17:16:30.225Z"
+      },
+      {
+        "id": "31LNSR2opEaEMCtWbT5X7F",
+        "title": "Glow",
+        "artist": "Sweet Pill",
+        "album": "Still There’s a Glow",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
+        "url": "https://open.spotify.com/track/31LNSR2opEaEMCtWbT5X7F",
+        "durationMs": 281518,
+        "playedAt": "2026-09-18T17:14:15.422Z"
+      },
+      {
+        "id": "1o80CRxx5nH0SlzMaTBuUF",
+        "title": "No Control",
+        "artist": "Sweet Pill",
+        "album": "Still There’s a Glow",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
+        "url": "https://open.spotify.com/track/1o80CRxx5nH0SlzMaTBuUF",
+        "durationMs": 181098,
+        "playedAt": "2026-09-18T17:09:33.923Z"
+      },
+      {
+        "id": "0X1xu6OCVwilWzstmWyXTV",
+        "title": "Shameless",
+        "artist": "Sweet Pill",
+        "album": "Still There’s a Glow",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
+        "url": "https://open.spotify.com/track/0X1xu6OCVwilWzstmWyXTV",
+        "durationMs": 192732,
+        "playedAt": "2026-09-18T17:06:32.818Z"
+      },
+      {
+        "id": "22dSB54PbIpU2mgGqYhCaT",
+        "title": "Sunblind",
+        "artist": "Sweet Pill",
+        "album": "Still There’s a Glow",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
+        "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT",
+        "durationMs": 168365,
+        "playedAt": "2026-09-18T17:03:20.110Z"
+      },
+      {
+        "id": "36UZwnwbRnMqw8h2zKqNGj",
+        "title": "Letting Go",
+        "artist": "Sweet Pill",
+        "album": "Still There’s a Glow",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
+        "url": "https://open.spotify.com/track/36UZwnwbRnMqw8h2zKqNGj",
+        "durationMs": 228000,
+        "playedAt": "2026-09-18T16:52:11.730Z"
+      },
       {
         "id": "3Ijy3CBp7vevOxyTvhm83V",
         "title": "Holding On",
@@ -24,73 +84,13 @@
         "url": "https://open.spotify.com/track/7K5h0CXdVVyg7C0XRbFcq8",
         "durationMs": 240784,
         "playedAt": "2026-09-18T15:33:54.369Z"
-      },
-      {
-        "id": "5c08EFxPMmqmCI9UwUspbY",
-        "title": "Copy Of A Copy",
-        "artist": "Dead Poetic",
-        "album": "Vices",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
-        "url": "https://open.spotify.com/track/5c08EFxPMmqmCI9UwUspbY",
-        "durationMs": 165173,
-        "playedAt": "2026-09-18T15:33:18.193Z"
-      },
-      {
-        "id": "211cLvYcXIKnV7WPziGnBM",
-        "title": "Jinx",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/211cLvYcXIKnV7WPziGnBM",
-        "durationMs": 155956,
-        "playedAt": "2026-09-18T15:09:25.409Z"
-      },
-      {
-        "id": "4EnlpTYTHHarnbnfH7naaj",
-        "title": "Rotten",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/4EnlpTYTHHarnbnfH7naaj",
-        "durationMs": 176985,
-        "playedAt": "2026-09-18T15:06:49.416Z"
-      },
-      {
-        "id": "3iNkpbJzm7Nb7mNhEFRC8g",
-        "title": "Makes Me Sick",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/3iNkpbJzm7Nb7mNhEFRC8g",
-        "durationMs": 146042,
-        "playedAt": "2026-09-18T15:02:05.618Z"
-      },
-      {
-        "id": "5UgGIFcH9h78fObAEWlmmv",
-        "title": "What the Devil Is Selling",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/5UgGIFcH9h78fObAEWlmmv",
-        "durationMs": 202437,
-        "playedAt": "2026-09-18T14:59:32.806Z"
-      },
-      {
-        "id": "6Uam0TpYR4Xx0d1WrM9cWf",
-        "title": "Smoke Screen",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/6Uam0TpYR4Xx0d1WrM9cWf",
-        "durationMs": 171808,
-        "playedAt": "2026-09-18T14:56:10.397Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 155,
+          "plays": 162,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -492,7 +492,7 @@
               "id": "0fNyhBvhR5Xw6s0EYQewUa",
               "name": "Sweet Pill",
               "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa",
-              "plays": 13
+              "plays": 20
             }
           ],
           "tracks": [
@@ -1558,7 +1558,7 @@
               "artist": "Sweet Pill",
               "url": "https://open.spotify.com/track/4tOJDJFuD8irQJAMkljOIG",
               "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "31LNSR2opEaEMCtWbT5X7F",
@@ -1566,7 +1566,7 @@
               "artist": "Sweet Pill",
               "url": "https://open.spotify.com/track/31LNSR2opEaEMCtWbT5X7F",
               "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1o80CRxx5nH0SlzMaTBuUF",
@@ -1574,7 +1574,7 @@
               "artist": "Sweet Pill",
               "url": "https://open.spotify.com/track/1o80CRxx5nH0SlzMaTBuUF",
               "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "0X1xu6OCVwilWzstmWyXTV",
@@ -1582,7 +1582,7 @@
               "artist": "Sweet Pill",
               "url": "https://open.spotify.com/track/0X1xu6OCVwilWzstmWyXTV",
               "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "22dSB54PbIpU2mgGqYhCaT",
@@ -1590,7 +1590,7 @@
               "artist": "Sweet Pill",
               "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT",
               "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "61jiDML4u9sjzGB3itprAr",
@@ -1623,20 +1623,28 @@
               "url": "https://open.spotify.com/track/1I4pWxOg8X2uJQQDaM1vkX",
               "image": "https://i.scdn.co/image/ab67616d0000b273cc40e881babf97f6b23d0ce0",
               "plays": 1
+            },
+            {
+              "id": "36UZwnwbRnMqw8h2zKqNGj",
+              "title": "Letting Go",
+              "artist": "Sweet Pill",
+              "url": "https://open.spotify.com/track/36UZwnwbRnMqw8h2zKqNGj",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
+              "plays": 2
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-18T15:37:28.074Z",
+      "lastPlayedAt": "2026-09-18T17:16:30.225Z",
       "lastKeys": [
-        "[1789745848074,\"3Ijy3CBp7vevOxyTvhm83V\"]"
+        "[1789751790225,\"4tOJDJFuD8irQJAMkljOIG\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-18T15:37:28.074Z"
+      "through": "2026-09-18T17:16:30.225Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-18T16:25:01.271Z",
-    "updatedAt": "2026-09-18T16:25:01.271Z"
+    "checkedAt": "2026-09-19T15:54:04.824Z",
+    "updatedAt": "2026-09-19T15:54:04.824Z"
   },
   "github": {
     "events": [
@@ -1684,8 +1692,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-18T16:25:01.271Z",
-    "updatedAt": "2026-09-18T16:25:01.271Z"
+    "checkedAt": "2026-09-19T15:54:04.824Z",
+    "updatedAt": "2026-09-19T15:54:04.824Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -1695,156 +1703,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-18T16:25:03.292Z",
+    "snapshotAt": "2026-09-19T15:54:07.047Z",
     "skills": [
       {
         "key": "overall",
         "value": 1767,
-        "rank": 184776,
+        "rank": 184868,
         "xp": 33263703
       },
       {
         "key": "attack",
         "value": 73,
-        "rank": 233796,
+        "rank": 233911,
         "xp": 1072038
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212581,
+        "rank": 212665,
         "xp": 1130477
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 227384,
+        "rank": 227488,
         "xp": 2434586
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 216416,
+        "rank": 216519,
         "xp": 2699438
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 232988,
+        "rank": 233082,
         "xp": 1365401
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 172932,
+        "rank": 173012,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177527,
+        "rank": 177596,
         "xp": 3000147
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 264503,
+        "rank": 264602,
         "xp": 815141
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 273302,
+        "rank": 273433,
         "xp": 862131
       },
       {
         "key": "fletching",
         "value": 66,
-        "rank": 280720,
+        "rank": 280829,
         "xp": 546996
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 295240,
+        "rank": 295329,
         "xp": 814482
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196609,
+        "rank": 196668,
         "xp": 6712785
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 217764,
+        "rank": 217866,
         "xp": 823736
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197453,
+        "rank": 197556,
         "xp": 850213
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 268226,
+        "rank": 268366,
         "xp": 930983
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 176627,
+        "rank": 176712,
         "xp": 876483
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 165166,
+        "rank": 165239,
         "xp": 1387685
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 236695,
+        "rank": 236788,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 207148,
+        "rank": 207232,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190020,
+        "rank": 190087,
         "xp": 1560324
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 148560,
+        "rank": 148613,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 231830,
+        "rank": 231946,
         "xp": 944447
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 161659,
+        "rank": 161738,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 91089,
+        "rank": 91253,
         "xp": 390196
       }
     ],
@@ -1857,27 +1865,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 146731
+        "rank": 146798
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 51358
+        "rank": 51462
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80100
+        "rank": 80155
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89227
+        "rank": 89266
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 58932
+        "rank": 58967
       },
       {
         "key": "giant_mole",
@@ -1887,17 +1895,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137432
+        "rank": 137475
       },
       {
         "key": "lunar_chests",
         "value": 111,
-        "rank": 89084
+        "rank": 89181
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 28332
+        "rank": 28485
       },
       {
         "key": "obor",
@@ -1907,12 +1915,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78350
+        "rank": 78411
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 106701
+        "rank": 106757
       },
       {
         "key": "the_gauntlet",
@@ -1922,7 +1930,7 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 50,
-        "rank": 97302
+        "rank": 97376
       },
       {
         "key": "the_royal_titans",
@@ -1937,12 +1945,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163685
+        "rank": 163733
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49386
+        "rank": 49411
       }
     ],
     "activities": [
@@ -1959,27 +1967,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 157805
+        "rank": 157856
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91119
+        "rank": 91157
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 115911
+        "rank": 115946
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 148799
+        "rank": 148846
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 161689
+        "rank": 161744
       },
       {
         "key": "clue_scrolls_elite",
@@ -1994,7 +2002,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82097
+        "rank": 82108
       },
       {
         "key": "pvp_arena",
@@ -2009,7 +2017,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 115544
+        "rank": 115621
       },
       {
         "key": "colosseum_glory",
@@ -2023,8 +2031,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-18T16:25:01.271Z",
-    "updatedAt": "2026-09-18T16:25:01.271Z"
+    "checkedAt": "2026-09-19T15:54:04.824Z",
+    "updatedAt": "2026-09-19T15:54:04.824Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -2966,7 +2974,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-18T16:25:01.271Z",
-    "updatedAt": "2026-09-18T16:25:01.271Z"
+    "checkedAt": "2026-09-19T15:54:04.824Z",
+    "updatedAt": "2026-09-19T15:54:04.824Z"
   }
 }
