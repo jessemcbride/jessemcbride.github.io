@@ -1,10 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-19T15:54:04.824Z",
+  "generatedAt": "2026-09-20T16:08:00.615Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "2gViiDfjDK3lCScuq3B6aw",
+        "title": "human props",
+        "artist": "Static Dress",
+        "album": "Injury Episode",
+        "image": "https://i.scdn.co/image/ab67616d0000b273db19c22e98aa5a885f5611c1",
+        "url": "https://open.spotify.com/track/2gViiDfjDK3lCScuq3B6aw",
+        "durationMs": 236097,
+        "playedAt": "2026-09-19T21:48:18.469Z"
+      },
+      {
+        "id": "6slRpyLfmf8l98cxy1jPXt",
+        "title": "Pain Chamber",
+        "artist": "sunbleached",
+        "album": "Pain Chamber",
+        "image": "https://i.scdn.co/image/ab67616d0000b27386be445ac33fd41589c2e1de",
+        "url": "https://open.spotify.com/track/6slRpyLfmf8l98cxy1jPXt",
+        "durationMs": 152995,
+        "playedAt": "2026-09-19T20:09:13.115Z"
+      },
+      {
+        "id": "31mdtbN2VooDM0ybXE41DC",
+        "title": "Severed",
+        "artist": "Love Rarely",
+        "album": "Pain Travels",
+        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+        "url": "https://open.spotify.com/track/31mdtbN2VooDM0ybXE41DC",
+        "durationMs": 192191,
+        "playedAt": "2026-09-19T20:06:39.615Z"
+      },
+      {
+        "id": "4KcJQSNtKzqi42wAdhlIml",
+        "title": "lamb (feat. Kellin Quinn)",
+        "artist": "Julia Wolf, Kellin Quinn",
+        "album": "lamb (feat. Kellin Quinn)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731eb0f19822bd09594fe573e5",
+        "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml",
+        "durationMs": 144906,
+        "playedAt": "2026-09-19T20:03:26.893Z"
+      },
+      {
+        "id": "3T06zkrhmcRklyzHyVZLiP",
+        "title": "Live by the Sword",
+        "artist": "Movements",
+        "album": "Happier Now",
+        "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+        "url": "https://open.spotify.com/track/3T06zkrhmcRklyzHyVZLiP",
+        "durationMs": 219665,
+        "playedAt": "2026-09-19T20:01:01.500Z"
+      },
+      {
+        "id": "0pdmG6XHXq9p9FvZ36LEUz",
+        "title": "Pulse",
+        "artist": "Movements",
+        "album": "Happier Now",
+        "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+        "url": "https://open.spotify.com/track/0pdmG6XHXq9p9FvZ36LEUz",
+        "durationMs": 201601,
+        "playedAt": "2026-09-19T19:57:21.318Z"
+      },
+      {
+        "id": "6Uam0TpYR4Xx0d1WrM9cWf",
+        "title": "Smoke Screen",
+        "artist": "Sweet Pill",
+        "album": "Still There’s a Glow",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
+        "url": "https://open.spotify.com/track/6Uam0TpYR4Xx0d1WrM9cWf",
+        "durationMs": 171808,
+        "playedAt": "2026-09-19T19:09:31.669Z"
+      },
       {
         "id": "4tOJDJFuD8irQJAMkljOIG",
         "title": "Slow Burn",
@@ -14,83 +84,13 @@
         "url": "https://open.spotify.com/track/4tOJDJFuD8irQJAMkljOIG",
         "durationMs": 134785,
         "playedAt": "2026-09-18T17:16:30.225Z"
-      },
-      {
-        "id": "31LNSR2opEaEMCtWbT5X7F",
-        "title": "Glow",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/31LNSR2opEaEMCtWbT5X7F",
-        "durationMs": 281518,
-        "playedAt": "2026-09-18T17:14:15.422Z"
-      },
-      {
-        "id": "1o80CRxx5nH0SlzMaTBuUF",
-        "title": "No Control",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/1o80CRxx5nH0SlzMaTBuUF",
-        "durationMs": 181098,
-        "playedAt": "2026-09-18T17:09:33.923Z"
-      },
-      {
-        "id": "0X1xu6OCVwilWzstmWyXTV",
-        "title": "Shameless",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/0X1xu6OCVwilWzstmWyXTV",
-        "durationMs": 192732,
-        "playedAt": "2026-09-18T17:06:32.818Z"
-      },
-      {
-        "id": "22dSB54PbIpU2mgGqYhCaT",
-        "title": "Sunblind",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT",
-        "durationMs": 168365,
-        "playedAt": "2026-09-18T17:03:20.110Z"
-      },
-      {
-        "id": "36UZwnwbRnMqw8h2zKqNGj",
-        "title": "Letting Go",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/36UZwnwbRnMqw8h2zKqNGj",
-        "durationMs": 228000,
-        "playedAt": "2026-09-18T16:52:11.730Z"
-      },
-      {
-        "id": "3Ijy3CBp7vevOxyTvhm83V",
-        "title": "Holding On",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/3Ijy3CBp7vevOxyTvhm83V",
-        "durationMs": 213714,
-        "playedAt": "2026-09-18T15:37:28.074Z"
-      },
-      {
-        "id": "7K5h0CXdVVyg7C0XRbFcq8",
-        "title": "Tough Love",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/7K5h0CXdVVyg7C0XRbFcq8",
-        "durationMs": 240784,
-        "playedAt": "2026-09-18T15:33:54.369Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 162,
+          "plays": 169,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -246,7 +246,7 @@
               "id": "1kkyfIopIiVvaPHHlbsfac",
               "name": "Movements",
               "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac",
-              "plays": 11
+              "plays": 13
             },
             {
               "id": "6GMYJwaziB4ekv1Y6wCDWS",
@@ -492,7 +492,37 @@
               "id": "0fNyhBvhR5Xw6s0EYQewUa",
               "name": "Sweet Pill",
               "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa",
-              "plays": 20
+              "plays": 21
+            },
+            {
+              "id": "1Lqdsv7Ff4GNq9PM3Yd0vi",
+              "name": "Static Dress",
+              "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi",
+              "plays": 1
+            },
+            {
+              "id": "0zZcSBiteXZuym6ObZ3ZmP",
+              "name": "sunbleached",
+              "url": "https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP",
+              "plays": 1
+            },
+            {
+              "id": "3vfL7qtWVnyObFrObnBkmM",
+              "name": "Love Rarely",
+              "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM",
+              "plays": 1
+            },
+            {
+              "id": "5yvGiZLSWJTPBlZpVbPnEZ",
+              "name": "Julia Wolf",
+              "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ",
+              "plays": 1
+            },
+            {
+              "id": "3M9XAM57a4qFz3v6Lq27t2",
+              "name": "Kellin Quinn",
+              "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2",
+              "plays": 1
             }
           ],
           "tracks": [
@@ -982,7 +1012,7 @@
               "artist": "Movements",
               "url": "https://open.spotify.com/track/0pdmG6XHXq9p9FvZ36LEUz",
               "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
-              "plays": 4
+              "plays": 5
             },
             {
               "id": "4jhbBCHWjQqWD4cifyuAcA",
@@ -1550,7 +1580,7 @@
               "artist": "Sweet Pill",
               "url": "https://open.spotify.com/track/6Uam0TpYR4Xx0d1WrM9cWf",
               "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4tOJDJFuD8irQJAMkljOIG",
@@ -1631,20 +1661,60 @@
               "url": "https://open.spotify.com/track/36UZwnwbRnMqw8h2zKqNGj",
               "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
               "plays": 2
+            },
+            {
+              "id": "2gViiDfjDK3lCScuq3B6aw",
+              "title": "human props",
+              "artist": "Static Dress",
+              "url": "https://open.spotify.com/track/2gViiDfjDK3lCScuq3B6aw",
+              "image": "https://i.scdn.co/image/ab67616d0000b273db19c22e98aa5a885f5611c1",
+              "plays": 1
+            },
+            {
+              "id": "6slRpyLfmf8l98cxy1jPXt",
+              "title": "Pain Chamber",
+              "artist": "sunbleached",
+              "url": "https://open.spotify.com/track/6slRpyLfmf8l98cxy1jPXt",
+              "image": "https://i.scdn.co/image/ab67616d0000b27386be445ac33fd41589c2e1de",
+              "plays": 1
+            },
+            {
+              "id": "31mdtbN2VooDM0ybXE41DC",
+              "title": "Severed",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/31mdtbN2VooDM0ybXE41DC",
+              "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+              "plays": 1
+            },
+            {
+              "id": "4KcJQSNtKzqi42wAdhlIml",
+              "title": "lamb (feat. Kellin Quinn)",
+              "artist": "Julia Wolf, Kellin Quinn",
+              "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731eb0f19822bd09594fe573e5",
+              "plays": 1
+            },
+            {
+              "id": "3T06zkrhmcRklyzHyVZLiP",
+              "title": "Live by the Sword",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/3T06zkrhmcRklyzHyVZLiP",
+              "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-18T17:16:30.225Z",
+      "lastPlayedAt": "2026-09-19T21:48:18.469Z",
       "lastKeys": [
-        "[1789751790225,\"4tOJDJFuD8irQJAMkljOIG\"]"
+        "[1789854498469,\"2gViiDfjDK3lCScuq3B6aw\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-18T17:16:30.225Z"
+      "through": "2026-09-19T21:48:18.469Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-19T15:54:04.824Z",
-    "updatedAt": "2026-09-19T15:54:04.824Z"
+    "checkedAt": "2026-09-20T16:08:00.615Z",
+    "updatedAt": "2026-09-20T16:08:00.615Z"
   },
   "github": {
     "events": [
@@ -1692,8 +1762,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-19T15:54:04.824Z",
-    "updatedAt": "2026-09-19T15:54:04.824Z"
+    "checkedAt": "2026-09-20T16:08:00.615Z",
+    "updatedAt": "2026-09-20T16:08:00.615Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -1703,156 +1773,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-19T15:54:07.047Z",
+    "snapshotAt": "2026-09-20T16:08:01.734Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1767,
-        "rank": 184868,
-        "xp": 33263703
+        "value": 1768,
+        "rank": 184675,
+        "xp": 33283272
       },
       {
         "key": "attack",
         "value": 73,
-        "rank": 233911,
-        "xp": 1072038
+        "rank": 233950,
+        "xp": 1075526
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212665,
-        "xp": 1130477
+        "rank": 212741,
+        "xp": 1131655
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 227488,
+        "rank": 227611,
         "xp": 2434586
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 216519,
-        "xp": 2699438
+        "rank": 216495,
+        "xp": 2704244
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 233082,
-        "xp": 1365401
+        "rank": 232952,
+        "xp": 1370031
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173012,
+        "rank": 173104,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177596,
-        "xp": 3000147
+        "rank": 177586,
+        "xp": 3003320
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 264602,
-        "xp": 815141
+        "rank": 264630,
+        "xp": 815516
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 273433,
-        "xp": 862131
+        "rank": 273548,
+        "xp": 862201
       },
       {
         "key": "fletching",
-        "value": 66,
-        "rank": 280829,
-        "xp": 546996
+        "value": 67,
+        "rank": 280766,
+        "xp": 547987
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 295329,
-        "xp": 814482
+        "rank": 295265,
+        "xp": 814722
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196668,
+        "rank": 196761,
         "xp": 6712785
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 217866,
-        "xp": 823736
+        "rank": 217951,
+        "xp": 823996
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197556,
-        "xp": 850213
+        "rank": 197644,
+        "xp": 850473
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 268366,
-        "xp": 930983
+        "rank": 268501,
+        "xp": 931053
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 176712,
-        "xp": 876483
+        "rank": 176779,
+        "xp": 876503
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 165239,
+        "rank": 165327,
         "xp": 1387685
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 236788,
+        "rank": 236888,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 207232,
+        "rank": 207322,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190087,
-        "xp": 1560324
+        "rank": 190171,
+        "xp": 1560332
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 148613,
+        "rank": 148695,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 231946,
+        "rank": 232072,
         "xp": 944447
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 161738,
+        "rank": 161828,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 91253,
+        "rank": 91422,
         "xp": 390196
       }
     ],
@@ -1865,27 +1935,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 146798
+        "rank": 146867
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 51462
+        "rank": 51576
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80155
+        "rank": 80201
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89266
+        "rank": 89320
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 58967
+        "rank": 59000
       },
       {
         "key": "giant_mole",
@@ -1895,17 +1965,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137475
+        "rank": 137526
       },
       {
         "key": "lunar_chests",
         "value": 111,
-        "rank": 89181
+        "rank": 89278
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 28485
+        "rank": 28680
       },
       {
         "key": "obor",
@@ -1915,12 +1985,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78411
+        "rank": 78464
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 106757
+        "rank": 106810
       },
       {
         "key": "the_gauntlet",
@@ -1929,12 +1999,12 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 50,
-        "rank": 97376
+        "value": 51,
+        "rank": 97088
       },
       {
         "key": "the_royal_titans",
-        "value": 1,
+        "value": 2,
         "rank": null
       },
       {
@@ -1945,12 +2015,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163733
+        "rank": 163801
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49411
+        "rank": 49451
       }
     ],
     "activities": [
@@ -1967,27 +2037,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 157856
+        "rank": 157913
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91157
+        "rank": 91203
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 115946
+        "rank": 115982
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 148846
+        "rank": 148882
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 161744
+        "rank": 161790
       },
       {
         "key": "clue_scrolls_elite",
@@ -2002,7 +2072,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82108
+        "rank": 82126
       },
       {
         "key": "pvp_arena",
@@ -2017,7 +2087,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 115621
+        "rank": 115700
       },
       {
         "key": "colosseum_glory",
@@ -2031,8 +2101,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-19T15:54:04.824Z",
-    "updatedAt": "2026-09-19T15:54:04.824Z"
+    "checkedAt": "2026-09-20T16:08:00.615Z",
+    "updatedAt": "2026-09-20T16:08:00.615Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -2168,12 +2238,12 @@
       },
       {
         "id": 29004,
-        "name": "Eclipse moon chestplate",
+        "name": "Eclipse Moon chestplate",
         "count": 1
       },
       {
         "id": 29010,
-        "name": "Eclipse moon helm",
+        "name": "Eclipse Moon helm",
         "count": 1
       },
       {
@@ -2183,12 +2253,12 @@
       },
       {
         "id": 29019,
-        "name": "Blue moon helm",
+        "name": "Blue Moon helm",
         "count": 1
       },
       {
         "id": 29025,
-        "name": "Blood moon tassets",
+        "name": "Blood Moon tassets",
         "count": 1
       },
       {
@@ -2974,7 +3044,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-19T15:54:04.824Z",
-    "updatedAt": "2026-09-19T15:54:04.824Z"
+    "checkedAt": "2026-09-20T16:08:00.615Z",
+    "updatedAt": "2026-09-20T16:08:00.615Z"
   }
 }
