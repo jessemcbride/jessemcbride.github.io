@@ -1,29 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-21T18:12:55.144Z",
+  "generatedAt": "2026-09-22T16:58:10.246Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "2gViiDfjDK3lCScuq3B6aw",
-        "title": "human props",
-        "artist": "Static Dress",
-        "album": "Injury Episode",
-        "image": "https://i.scdn.co/image/ab67616d0000b273db19c22e98aa5a885f5611c1",
-        "url": "https://open.spotify.com/track/2gViiDfjDK3lCScuq3B6aw",
-        "durationMs": 236097,
-        "playedAt": "2026-09-19T21:48:18.469Z"
+        "id": "7o2CcBCoun96kz0ElBTXkv",
+        "title": "And You Know It",
+        "artist": "Love Rarely",
+        "album": "And You Know It",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a127a6f2a64ac9ab1acd86c",
+        "url": "https://open.spotify.com/track/7o2CcBCoun96kz0ElBTXkv",
+        "durationMs": 198775,
+        "playedAt": "2026-09-22T16:34:56.656Z"
       },
       {
-        "id": "6slRpyLfmf8l98cxy1jPXt",
-        "title": "Pain Chamber",
-        "artist": "sunbleached",
-        "album": "Pain Chamber",
-        "image": "https://i.scdn.co/image/ab67616d0000b27386be445ac33fd41589c2e1de",
-        "url": "https://open.spotify.com/track/6slRpyLfmf8l98cxy1jPXt",
-        "durationMs": 152995,
-        "playedAt": "2026-09-19T20:09:13.115Z"
+        "id": "4mIau5RjhSbqahhKXtt66W",
+        "title": "Entropy",
+        "artist": "Love Rarely",
+        "album": "Lonely People",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736c24851c897571a54b8bbb61",
+        "url": "https://open.spotify.com/track/4mIau5RjhSbqahhKXtt66W",
+        "durationMs": 166064,
+        "playedAt": "2026-09-22T14:38:03.718Z"
+      },
+      {
+        "id": "6Sk1yWcYE6mQ6fLYA2UaHH",
+        "title": "I'll Try",
+        "artist": "Love Rarely",
+        "album": "Pain Travels",
+        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+        "url": "https://open.spotify.com/track/6Sk1yWcYE6mQ6fLYA2UaHH",
+        "durationMs": 180296,
+        "playedAt": "2026-09-22T14:35:17.130Z"
+      },
+      {
+        "id": "08jYTI4ETlL5TcLiOy8Emk",
+        "title": "Haunted",
+        "artist": "Love Rarely",
+        "album": "Pain Travels",
+        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+        "url": "https://open.spotify.com/track/08jYTI4ETlL5TcLiOy8Emk",
+        "durationMs": 187252,
+        "playedAt": "2026-09-22T14:32:16.339Z"
+      },
+      {
+        "id": "4O45xLeZFOMJRlNLCnmV2Z",
+        "title": "Say Yes",
+        "artist": "Love Rarely",
+        "album": "Say Yes",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735e6e2cfe639fc0f46debffba",
+        "url": "https://open.spotify.com/track/4O45xLeZFOMJRlNLCnmV2Z",
+        "durationMs": 152500,
+        "playedAt": "2026-09-22T14:29:08.580Z"
+      },
+      {
+        "id": "07MMpvtDlRkoy6VYx56v24",
+        "title": "Mould",
+        "artist": "Love Rarely",
+        "album": "Pain Travels",
+        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+        "url": "https://open.spotify.com/track/07MMpvtDlRkoy6VYx56v24",
+        "durationMs": 196543,
+        "playedAt": "2026-09-22T14:26:34.330Z"
+      },
+      {
+        "id": "0Vy8jdKgm0r70X6dzQVodD",
+        "title": "Will",
+        "artist": "Love Rarely",
+        "album": "Pain Travels",
+        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+        "url": "https://open.spotify.com/track/0Vy8jdKgm0r70X6dzQVodD",
+        "durationMs": 198983,
+        "playedAt": "2026-09-22T14:23:17.267Z"
       },
       {
         "id": "31mdtbN2VooDM0ybXE41DC",
@@ -33,64 +83,14 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
         "url": "https://open.spotify.com/track/31mdtbN2VooDM0ybXE41DC",
         "durationMs": 192191,
-        "playedAt": "2026-09-19T20:06:39.615Z"
-      },
-      {
-        "id": "4KcJQSNtKzqi42wAdhlIml",
-        "title": "lamb (feat. Kellin Quinn)",
-        "artist": "Julia Wolf, Kellin Quinn",
-        "album": "lamb (feat. Kellin Quinn)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731eb0f19822bd09594fe573e5",
-        "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml",
-        "durationMs": 144906,
-        "playedAt": "2026-09-19T20:03:26.893Z"
-      },
-      {
-        "id": "3T06zkrhmcRklyzHyVZLiP",
-        "title": "Live by the Sword",
-        "artist": "Movements",
-        "album": "Happier Now",
-        "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
-        "url": "https://open.spotify.com/track/3T06zkrhmcRklyzHyVZLiP",
-        "durationMs": 219665,
-        "playedAt": "2026-09-19T20:01:01.500Z"
-      },
-      {
-        "id": "0pdmG6XHXq9p9FvZ36LEUz",
-        "title": "Pulse",
-        "artist": "Movements",
-        "album": "Happier Now",
-        "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
-        "url": "https://open.spotify.com/track/0pdmG6XHXq9p9FvZ36LEUz",
-        "durationMs": 201601,
-        "playedAt": "2026-09-19T19:57:21.318Z"
-      },
-      {
-        "id": "6Uam0TpYR4Xx0d1WrM9cWf",
-        "title": "Smoke Screen",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/6Uam0TpYR4Xx0d1WrM9cWf",
-        "durationMs": 171808,
-        "playedAt": "2026-09-19T19:09:31.669Z"
-      },
-      {
-        "id": "4tOJDJFuD8irQJAMkljOIG",
-        "title": "Slow Burn",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/4tOJDJFuD8irQJAMkljOIG",
-        "durationMs": 134785,
-        "playedAt": "2026-09-18T17:16:30.225Z"
+        "playedAt": "2026-09-22T14:14:51.090Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 169,
+          "plays": 187,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -510,7 +510,7 @@
               "id": "3vfL7qtWVnyObFrObnBkmM",
               "name": "Love Rarely",
               "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM",
-              "plays": 1
+              "plays": 19
             },
             {
               "id": "5yvGiZLSWJTPBlZpVbPnEZ",
@@ -1684,7 +1684,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/31mdtbN2VooDM0ybXE41DC",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4KcJQSNtKzqi42wAdhlIml",
@@ -1701,22 +1701,76 @@
               "url": "https://open.spotify.com/track/3T06zkrhmcRklyzHyVZLiP",
               "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
               "plays": 1
+            },
+            {
+              "id": "7o2CcBCoun96kz0ElBTXkv",
+              "title": "And You Know It",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/7o2CcBCoun96kz0ElBTXkv",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732a127a6f2a64ac9ab1acd86c",
+              "plays": 9
+            },
+            {
+              "id": "4mIau5RjhSbqahhKXtt66W",
+              "title": "Entropy",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/4mIau5RjhSbqahhKXtt66W",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736c24851c897571a54b8bbb61",
+              "plays": 1
+            },
+            {
+              "id": "6Sk1yWcYE6mQ6fLYA2UaHH",
+              "title": "I'll Try",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/6Sk1yWcYE6mQ6fLYA2UaHH",
+              "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+              "plays": 1
+            },
+            {
+              "id": "08jYTI4ETlL5TcLiOy8Emk",
+              "title": "Haunted",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/08jYTI4ETlL5TcLiOy8Emk",
+              "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+              "plays": 1
+            },
+            {
+              "id": "4O45xLeZFOMJRlNLCnmV2Z",
+              "title": "Say Yes",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/4O45xLeZFOMJRlNLCnmV2Z",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735e6e2cfe639fc0f46debffba",
+              "plays": 1
+            },
+            {
+              "id": "07MMpvtDlRkoy6VYx56v24",
+              "title": "Mould",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/07MMpvtDlRkoy6VYx56v24",
+              "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+              "plays": 2
+            },
+            {
+              "id": "0Vy8jdKgm0r70X6dzQVodD",
+              "title": "Will",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/0Vy8jdKgm0r70X6dzQVodD",
+              "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+              "plays": 2
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-19T21:48:18.469Z",
+      "lastPlayedAt": "2026-09-22T16:34:56.656Z",
       "lastKeys": [
-        "[1789854498469,\"2gViiDfjDK3lCScuq3B6aw\"]"
+        "[1790094896656,\"7o2CcBCoun96kz0ElBTXkv\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-19T21:48:18.469Z"
+      "through": "2026-09-22T16:34:56.656Z"
     },
-    "status": "stale",
-    "checkedAt": "2026-09-21T18:12:55.144Z",
-    "updatedAt": "2026-09-20T16:08:00.615Z",
-    "error": "network",
-    "retryAt": null
+    "status": "ok",
+    "checkedAt": "2026-09-22T16:58:10.246Z",
+    "updatedAt": "2026-09-22T16:58:10.246Z"
   },
   "github": {
     "events": [
@@ -1764,8 +1818,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-21T18:12:55.144Z",
-    "updatedAt": "2026-09-21T18:12:55.144Z"
+    "checkedAt": "2026-09-22T16:58:10.246Z",
+    "updatedAt": "2026-09-22T16:58:10.246Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -1775,156 +1829,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-21T18:12:56.733Z",
+    "snapshotAt": "2026-09-22T16:58:11.174Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1768,
-        "rank": 184797,
-        "xp": 33300552
+        "value": 1769,
+        "rank": 184573,
+        "xp": 33450413
       },
       {
         "key": "attack",
-        "value": 73,
-        "rank": 234062,
-        "xp": 1075766
+        "value": 74,
+        "rank": 233278,
+        "xp": 1108054
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212797,
-        "xp": 1133838
+        "rank": 212760,
+        "xp": 1140033
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 227747,
-        "xp": 2434586
+        "rank": 227482,
+        "xp": 2445837
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 216529,
-        "xp": 2708859
+        "rank": 215929,
+        "xp": 2733618
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 232802,
-        "xp": 1374915
+        "rank": 232305,
+        "xp": 1386865
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173198,
+        "rank": 173277,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177590,
-        "xp": 3006229
+        "rank": 177462,
+        "xp": 3013806
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 264561,
-        "xp": 816236
+        "rank": 264118,
+        "xp": 818332
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 273664,
-        "xp": 862341
+        "rank": 273741,
+        "xp": 862491
       },
       {
         "key": "fletching",
         "value": 67,
-        "rank": 280879,
+        "rank": 280999,
         "xp": 547987
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 295227,
-        "xp": 815122
+        "rank": 295189,
+        "xp": 815552
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196756,
-        "xp": 6712785
+        "rank": 196795,
+        "xp": 6712942
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 218024,
-        "xp": 824491
+        "rank": 218064,
+        "xp": 824986
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197698,
-        "xp": 850968
+        "rank": 197741,
+        "xp": 851463
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 268601,
-        "xp": 931193
+        "rank": 268678,
+        "xp": 931333
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 176881,
-        "xp": 876543
+        "rank": 176956,
+        "xp": 876593
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 165391,
-        "xp": 1387685
+        "rank": 159941,
+        "xp": 1437685
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 236998,
+        "rank": 237095,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 207444,
+        "rank": 207521,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190238,
-        "xp": 1560351
+        "rank": 190296,
+        "xp": 1560370
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 148750,
+        "rank": 148813,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 232176,
-        "xp": 944447
+        "rank": 232082,
+        "xp": 946256
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 161936,
+        "rank": 162010,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 91643,
+        "rank": 91790,
         "xp": 390196
       }
     ],
@@ -1937,27 +1991,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 146929
+        "rank": 146978
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 51668
+        "rank": 51742
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80267
+        "rank": 80325
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89362
+        "rank": 89398
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59029
+        "rank": 59045
       },
       {
         "key": "giant_mole",
@@ -1967,17 +2021,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137566
+        "rank": 137622
       },
       {
         "key": "lunar_chests",
-        "value": 111,
-        "rank": 89380
+        "value": 115,
+        "rank": 88422
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 28873
+        "rank": 29024
       },
       {
         "key": "obor",
@@ -1987,12 +2041,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78531
+        "rank": 78582
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 106856
+        "rank": 106911
       },
       {
         "key": "the_gauntlet",
@@ -2001,12 +2055,12 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 53,
-        "rank": 96789
+        "value": 54,
+        "rank": 96693
       },
       {
         "key": "the_royal_titans",
-        "value": 2,
+        "value": 4,
         "rank": null
       },
       {
@@ -2017,12 +2071,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163796
+        "rank": 163823
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49474
+        "rank": 49495
       }
     ],
     "activities": [
@@ -2039,27 +2093,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 157962
+        "rank": 158010
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91241
+        "rank": 91279
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116018
+        "rank": 116056
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 148942
+        "rank": 148987
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 161834
+        "rank": 161872
       },
       {
         "key": "clue_scrolls_elite",
@@ -2074,7 +2128,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82146
+        "rank": 82160
       },
       {
         "key": "pvp_arena",
@@ -2089,7 +2143,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 115750
+        "rank": 115816
       },
       {
         "key": "colosseum_glory",
@@ -2103,8 +2157,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-21T18:12:55.144Z",
-    "updatedAt": "2026-09-21T18:12:55.144Z"
+    "checkedAt": "2026-09-22T16:58:10.246Z",
+    "updatedAt": "2026-09-22T16:58:10.246Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -3046,7 +3100,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-21T18:12:55.144Z",
-    "updatedAt": "2026-09-21T18:12:55.144Z"
+    "checkedAt": "2026-09-22T16:58:10.246Z",
+    "updatedAt": "2026-09-22T16:58:10.246Z"
   }
 }
