@@ -1,96 +1,96 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-22T16:58:10.246Z",
+  "generatedAt": "2026-09-23T17:00:53.923Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "7o2CcBCoun96kz0ElBTXkv",
-        "title": "And You Know It",
-        "artist": "Love Rarely",
-        "album": "And You Know It",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732a127a6f2a64ac9ab1acd86c",
-        "url": "https://open.spotify.com/track/7o2CcBCoun96kz0ElBTXkv",
-        "durationMs": 198775,
-        "playedAt": "2026-09-22T16:34:56.656Z"
+        "id": "0MsVyaHNAYDVPjoRUqlLYU",
+        "title": "Moonlight Lines",
+        "artist": "Movements",
+        "album": "No Good Left To Give",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738629b74fb82237edb43477ce",
+        "url": "https://open.spotify.com/track/0MsVyaHNAYDVPjoRUqlLYU",
+        "durationMs": 216826,
+        "playedAt": "2026-09-23T15:20:47.454Z"
       },
       {
-        "id": "4mIau5RjhSbqahhKXtt66W",
-        "title": "Entropy",
-        "artist": "Love Rarely",
-        "album": "Lonely People",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736c24851c897571a54b8bbb61",
-        "url": "https://open.spotify.com/track/4mIau5RjhSbqahhKXtt66W",
-        "durationMs": 166064,
-        "playedAt": "2026-09-22T14:38:03.718Z"
+        "id": "4dIHOH8RN4DKkWjH5iVTmL",
+        "title": "Dog Radio",
+        "artist": "Polyenso",
+        "album": "One Big Particular Loop",
+        "image": "https://i.scdn.co/image/ab67616d0000b27397377da3dd26a4fe3bc9ea6b",
+        "url": "https://open.spotify.com/track/4dIHOH8RN4DKkWjH5iVTmL",
+        "durationMs": 245600,
+        "playedAt": "2026-09-23T15:10:04.284Z"
       },
       {
-        "id": "6Sk1yWcYE6mQ6fLYA2UaHH",
-        "title": "I'll Try",
+        "id": "7lCNKeEDKHvAhtCVy4I5nh",
+        "title": "Better",
+        "artist": "Hikes",
+        "album": "Into It. Over It. & Hikes Present: Reciprocity",
+        "image": "https://i.scdn.co/image/ab67616d0000b27369cc2f36286bd479ff8df559",
+        "url": "https://open.spotify.com/track/7lCNKeEDKHvAhtCVy4I5nh",
+        "durationMs": 206031,
+        "playedAt": "2026-09-23T15:05:58.164Z"
+      },
+      {
+        "id": "1sG4mwsoptuD8HqXgpXHXd",
+        "title": "Good Morning Fire Eater",
+        "artist": "Copeland",
+        "album": "You Are My Sunshine",
+        "image": "https://i.scdn.co/image/ab67616d0000b27312b645b72c593e4055074fe8",
+        "url": "https://open.spotify.com/track/1sG4mwsoptuD8HqXgpXHXd",
+        "durationMs": 248066,
+        "playedAt": "2026-09-23T15:02:31.624Z"
+      },
+      {
+        "id": "1Hv1VTm8zeOeybub15mA2R",
+        "title": "Smooth Operator - Single Version",
+        "artist": "Sade",
+        "album": "The Best of Sade",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+        "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R",
+        "durationMs": 258693,
+        "playedAt": "2026-09-23T15:01:31.075Z"
+      },
+      {
+        "id": "1Nr2VWP2aAjRUqyqpQS5N4",
+        "title": "Disappear",
         "artist": "Love Rarely",
         "album": "Pain Travels",
         "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/6Sk1yWcYE6mQ6fLYA2UaHH",
-        "durationMs": 180296,
-        "playedAt": "2026-09-22T14:35:17.130Z"
+        "url": "https://open.spotify.com/track/1Nr2VWP2aAjRUqyqpQS5N4",
+        "durationMs": 234251,
+        "playedAt": "2026-09-23T14:58:10.786Z"
       },
       {
-        "id": "08jYTI4ETlL5TcLiOy8Emk",
-        "title": "Haunted",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/08jYTI4ETlL5TcLiOy8Emk",
-        "durationMs": 187252,
-        "playedAt": "2026-09-22T14:32:16.339Z"
+        "id": "29eLonNk3JNVWqu58cr7rq",
+        "title": "Mahè",
+        "artist": "Piero Umiliani",
+        "album": "La ragazza dalla pelle di luna",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fab13dc56058ea0dfb124dc7",
+        "url": "https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq",
+        "durationMs": 162299,
+        "playedAt": "2026-09-23T02:28:23.265Z"
       },
       {
-        "id": "4O45xLeZFOMJRlNLCnmV2Z",
-        "title": "Say Yes",
-        "artist": "Love Rarely",
-        "album": "Say Yes",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735e6e2cfe639fc0f46debffba",
-        "url": "https://open.spotify.com/track/4O45xLeZFOMJRlNLCnmV2Z",
-        "durationMs": 152500,
-        "playedAt": "2026-09-22T14:29:08.580Z"
-      },
-      {
-        "id": "07MMpvtDlRkoy6VYx56v24",
-        "title": "Mould",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/07MMpvtDlRkoy6VYx56v24",
-        "durationMs": 196543,
-        "playedAt": "2026-09-22T14:26:34.330Z"
-      },
-      {
-        "id": "0Vy8jdKgm0r70X6dzQVodD",
-        "title": "Will",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/0Vy8jdKgm0r70X6dzQVodD",
-        "durationMs": 198983,
-        "playedAt": "2026-09-22T14:23:17.267Z"
-      },
-      {
-        "id": "31mdtbN2VooDM0ybXE41DC",
-        "title": "Severed",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/31mdtbN2VooDM0ybXE41DC",
-        "durationMs": 192191,
-        "playedAt": "2026-09-22T14:14:51.090Z"
+        "id": "2tcfbkABIwzpepPyaFsYF4",
+        "title": "Desafinado",
+        "artist": "Stan Getz, João Gilberto",
+        "album": "Getz/Gilberto (Expanded Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c",
+        "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4",
+        "durationMs": 248013,
+        "playedAt": "2026-09-23T01:27:21.294Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 187,
+          "plays": 230,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -246,7 +246,7 @@
               "id": "1kkyfIopIiVvaPHHlbsfac",
               "name": "Movements",
               "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac",
-              "plays": 13
+              "plays": 17
             },
             {
               "id": "6GMYJwaziB4ekv1Y6wCDWS",
@@ -492,7 +492,7 @@
               "id": "0fNyhBvhR5Xw6s0EYQewUa",
               "name": "Sweet Pill",
               "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa",
-              "plays": 21
+              "plays": 24
             },
             {
               "id": "1Lqdsv7Ff4GNq9PM3Yd0vi",
@@ -510,7 +510,7 @@
               "id": "3vfL7qtWVnyObFrObnBkmM",
               "name": "Love Rarely",
               "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM",
-              "plays": 19
+              "plays": 20
             },
             {
               "id": "5yvGiZLSWJTPBlZpVbPnEZ",
@@ -522,6 +522,126 @@
               "id": "3M9XAM57a4qFz3v6Lq27t2",
               "name": "Kellin Quinn",
               "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2",
+              "plays": 1
+            },
+            {
+              "id": "3CLxkDhrB2fgk9OoJtBxl9",
+              "name": "Polyenso",
+              "url": "https://open.spotify.com/artist/3CLxkDhrB2fgk9OoJtBxl9",
+              "plays": 3
+            },
+            {
+              "id": "5luRIEhyaVB12mabNujZHx",
+              "name": "Hikes",
+              "url": "https://open.spotify.com/artist/5luRIEhyaVB12mabNujZHx",
+              "plays": 3
+            },
+            {
+              "id": "31HpswGOiF0Mc2wm11sIoN",
+              "name": "Copeland",
+              "url": "https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN",
+              "plays": 1
+            },
+            {
+              "id": "47zz7sob9NUcODy0BTDvKx",
+              "name": "Sade",
+              "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+              "plays": 1
+            },
+            {
+              "id": "5sD7Cf3SaTVcrg81GQi1Xk",
+              "name": "Piero Umiliani",
+              "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk",
+              "plays": 1
+            },
+            {
+              "id": "0FMucZsEnCxs5pqBjHjIc8",
+              "name": "Stan Getz",
+              "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8",
+              "plays": 2
+            },
+            {
+              "id": "77ZUbcdoU5KCPHNUl8bgQy",
+              "name": "João Gilberto",
+              "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy",
+              "plays": 2
+            },
+            {
+              "id": "5rX2c1zow6hCph8PnnU3kF",
+              "name": "Astrud Gilberto",
+              "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF",
+              "plays": 1
+            },
+            {
+              "id": "3pO5VjZ4wOHCMBXOvbMISG",
+              "name": "Antônio Carlos Jobim",
+              "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG",
+              "plays": 1
+            },
+            {
+              "id": "3z6Gk257P9jNcZbBXJNX5i",
+              "name": "Regina Spektor",
+              "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i",
+              "plays": 1
+            },
+            {
+              "id": "76omHHy8aRMsQkDGWDWr2l",
+              "name": "Pale Lungs",
+              "url": "https://open.spotify.com/artist/76omHHy8aRMsQkDGWDWr2l",
+              "plays": 1
+            },
+            {
+              "id": "3YvQkjWJ5ykJVUNP7YbTy9",
+              "name": "From Indian Lakes",
+              "url": "https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9",
+              "plays": 7
+            },
+            {
+              "id": "5vSV3fKlUjklNyydqxyN0s",
+              "name": "Kurt Travis",
+              "url": "https://open.spotify.com/artist/5vSV3fKlUjklNyydqxyN0s",
+              "plays": 3
+            },
+            {
+              "id": "7mN3Rz6MsJEn9tvScb3xXe",
+              "name": "Hrvrd",
+              "url": "https://open.spotify.com/artist/7mN3Rz6MsJEn9tvScb3xXe",
+              "plays": 3
+            },
+            {
+              "id": "0hxmHf6CqXsOLWgGXjmr7I",
+              "name": "Anthony Green",
+              "url": "https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I",
+              "plays": 3
+            },
+            {
+              "id": "7JPsWnynfZxpOE77M22LdC",
+              "name": "allie",
+              "url": "https://open.spotify.com/artist/7JPsWnynfZxpOE77M22LdC",
+              "plays": 1
+            },
+            {
+              "id": "2fgl3me4n9diODTrVfruF3",
+              "name": "Balance And Composure",
+              "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3",
+              "plays": 2
+            },
+            {
+              "id": "3FCfL4lKWE7vm3mCcOd570",
+              "name": "Trade Wind",
+              "url": "https://open.spotify.com/artist/3FCfL4lKWE7vm3mCcOd570",
+              "plays": 1
+            },
+            {
+              "id": "1YYxodrdAUSYhO8ueGQtXs",
+              "name": "Lydia",
+              "url": "https://open.spotify.com/artist/1YYxodrdAUSYhO8ueGQtXs",
+              "plays": 1
+            },
+            {
+              "id": "6yoW6SfviQ5D4Wa5jGxh7f",
+              "name": "Pool Kids",
+              "url": "https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f",
               "plays": 1
             }
           ],
@@ -1757,20 +1877,364 @@
               "url": "https://open.spotify.com/track/0Vy8jdKgm0r70X6dzQVodD",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
               "plays": 2
+            },
+            {
+              "id": "0MsVyaHNAYDVPjoRUqlLYU",
+              "title": "Moonlight Lines",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/0MsVyaHNAYDVPjoRUqlLYU",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738629b74fb82237edb43477ce",
+              "plays": 1
+            },
+            {
+              "id": "4dIHOH8RN4DKkWjH5iVTmL",
+              "title": "Dog Radio",
+              "artist": "Polyenso",
+              "url": "https://open.spotify.com/track/4dIHOH8RN4DKkWjH5iVTmL",
+              "image": "https://i.scdn.co/image/ab67616d0000b27397377da3dd26a4fe3bc9ea6b",
+              "plays": 1
+            },
+            {
+              "id": "7lCNKeEDKHvAhtCVy4I5nh",
+              "title": "Better",
+              "artist": "Hikes",
+              "url": "https://open.spotify.com/track/7lCNKeEDKHvAhtCVy4I5nh",
+              "image": "https://i.scdn.co/image/ab67616d0000b27369cc2f36286bd479ff8df559",
+              "plays": 1
+            },
+            {
+              "id": "1sG4mwsoptuD8HqXgpXHXd",
+              "title": "Good Morning Fire Eater",
+              "artist": "Copeland",
+              "url": "https://open.spotify.com/track/1sG4mwsoptuD8HqXgpXHXd",
+              "image": "https://i.scdn.co/image/ab67616d0000b27312b645b72c593e4055074fe8",
+              "plays": 1
+            },
+            {
+              "id": "1Hv1VTm8zeOeybub15mA2R",
+              "title": "Smooth Operator - Single Version",
+              "artist": "Sade",
+              "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+              "plays": 1
+            },
+            {
+              "id": "1Nr2VWP2aAjRUqyqpQS5N4",
+              "title": "Disappear",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/1Nr2VWP2aAjRUqyqpQS5N4",
+              "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+              "plays": 1
+            },
+            {
+              "id": "29eLonNk3JNVWqu58cr7rq",
+              "title": "Mahè",
+              "artist": "Piero Umiliani",
+              "url": "https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq",
+              "image": "https://i.scdn.co/image/ab67616d0000b273fab13dc56058ea0dfb124dc7",
+              "plays": 1
+            },
+            {
+              "id": "2tcfbkABIwzpepPyaFsYF4",
+              "title": "Desafinado",
+              "artist": "Stan Getz, João Gilberto",
+              "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4",
+              "image": "https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c",
+              "plays": 1
+            },
+            {
+              "id": "4qGfJb2KByjvzrwo8HNibg",
+              "title": "The Girl From Ipanema - Single Version",
+              "artist": "Stan Getz, João Gilberto, Astrud Gilberto, Antônio Carlos Jobim",
+              "url": "https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg",
+              "image": "https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c",
+              "plays": 1
+            },
+            {
+              "id": "2bbhyUWJ5VjdfI3P4PRLu2",
+              "title": "Samson",
+              "artist": "Regina Spektor",
+              "url": "https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737fd2d3669c086850c0f766e8",
+              "plays": 1
+            },
+            {
+              "id": "2PDDWBc27xCbDcC0MZVD45",
+              "title": "Komorebi",
+              "artist": "Pale Lungs",
+              "url": "https://open.spotify.com/track/2PDDWBc27xCbDcC0MZVD45",
+              "image": "https://i.scdn.co/image/ab67616d0000b27380f18c408970e97282b8a118",
+              "plays": 1
+            },
+            {
+              "id": "45CRICEOrPZe7f57stQKnC",
+              "title": "Sana All",
+              "artist": "Hikes",
+              "url": "https://open.spotify.com/track/45CRICEOrPZe7f57stQKnC",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bd17f68369cc4e9e08082df6",
+              "plays": 1
+            },
+            {
+              "id": "4NBMaIRzUTUUKWivAJGZ9d",
+              "title": "Anything",
+              "artist": "From Indian Lakes",
+              "url": "https://open.spotify.com/track/4NBMaIRzUTUUKWivAJGZ9d",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d049d4545a7f5cdc2f07eff1",
+              "plays": 1
+            },
+            {
+              "id": "1v1bZIioHH0JBLcOqiPzmz",
+              "title": "Desperate",
+              "artist": "Kurt Travis",
+              "url": "https://open.spotify.com/track/1v1bZIioHH0JBLcOqiPzmz",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737533663b00c5ca4775882dd5",
+              "plays": 1
+            },
+            {
+              "id": "6Tw05ea53gVpwXyKYpx30X",
+              "title": "On With Disease",
+              "artist": "Hrvrd",
+              "url": "https://open.spotify.com/track/6Tw05ea53gVpwXyKYpx30X",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732df4b9142998274eb0e86c40",
+              "plays": 1
+            },
+            {
+              "id": "1OgZxrttFuHchxqsepppWV",
+              "title": "Trading Doses",
+              "artist": "Anthony Green",
+              "url": "https://open.spotify.com/track/1OgZxrttFuHchxqsepppWV",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e3be896f3a3a90c55cdf1f05",
+              "plays": 1
+            },
+            {
+              "id": "4le64CWmVJGfMxxLXX37J9",
+              "title": "ETYG",
+              "artist": "allie",
+              "url": "https://open.spotify.com/track/4le64CWmVJGfMxxLXX37J9",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f6d6bdaa2325aa2f28fd644d",
+              "plays": 1
+            },
+            {
+              "id": "5vzw0lyCgERM0yIoL8T30J",
+              "title": "Awful Things",
+              "artist": "From Indian Lakes",
+              "url": "https://open.spotify.com/track/5vzw0lyCgERM0yIoL8T30J",
+              "image": "https://i.scdn.co/image/ab67616d0000b273081b0637c796558981c1c9ed",
+              "plays": 1
+            },
+            {
+              "id": "3vQYmVKygsJbFXbbzO6bRm",
+              "title": "Fever Dream",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm",
+              "image": "https://i.scdn.co/image/ab67616d0000b273222a7f5b3077122bca25eef0",
+              "plays": 1
+            },
+            {
+              "id": "1M66qQYdYhiz6DAGItET1z",
+              "title": "Diamond Eyes",
+              "artist": "Sweet Pill",
+              "url": "https://open.spotify.com/track/1M66qQYdYhiz6DAGItET1z",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b9368400e3af542f39b0c3c3",
+              "plays": 1
+            },
+            {
+              "id": "5vSJywb3w3iuFfgf5ymblM",
+              "title": "Postcard",
+              "artist": "Balance And Composure",
+              "url": "https://open.spotify.com/track/5vSJywb3w3iuFfgf5ymblM",
+              "image": "https://i.scdn.co/image/ab67616d0000b273035d05f9cc627abdbc5b43ae",
+              "plays": 1
+            },
+            {
+              "id": "0QKOyZYX5XMncwW8qDDN8l",
+              "title": "Falling in Rain",
+              "artist": "Polyenso",
+              "url": "https://open.spotify.com/track/0QKOyZYX5XMncwW8qDDN8l",
+              "image": "https://i.scdn.co/image/ab67616d0000b27397377da3dd26a4fe3bc9ea6b",
+              "plays": 1
+            },
+            {
+              "id": "2fxMcH3bAlrjEIgZhkMgye",
+              "title": "My Mouth, My Lips",
+              "artist": "From Indian Lakes",
+              "url": "https://open.spotify.com/track/2fxMcH3bAlrjEIgZhkMgye",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d049d4545a7f5cdc2f07eff1",
+              "plays": 1
+            },
+            {
+              "id": "4Y2hqRFUQGBuoTqsazlllk",
+              "title": "been thinkin'",
+              "artist": "Hikes",
+              "url": "https://open.spotify.com/track/4Y2hqRFUQGBuoTqsazlllk",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d0fdf9a23a5014a380d98f4a",
+              "plays": 1
+            },
+            {
+              "id": "0sOWX86Ju4b4dk8FdmGW64",
+              "title": "Everything Is Horrible",
+              "artist": "Kurt Travis",
+              "url": "https://open.spotify.com/track/0sOWX86Ju4b4dk8FdmGW64",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737533663b00c5ca4775882dd5",
+              "plays": 1
+            },
+            {
+              "id": "3nPF33ZJSluL7cqwywn3Pj",
+              "title": "What We Had",
+              "artist": "Hrvrd",
+              "url": "https://open.spotify.com/track/3nPF33ZJSluL7cqwywn3Pj",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732df4b9142998274eb0e86c40",
+              "plays": 1
+            },
+            {
+              "id": "2dEhwuWWerT5m50dljWmGu",
+              "title": "Right Outside (feat. Chino Moreno)",
+              "artist": "Anthony Green",
+              "url": "https://open.spotify.com/track/2dEhwuWWerT5m50dljWmGu",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d06a28ca028f425ef228a999",
+              "plays": 1
+            },
+            {
+              "id": "03eWbrmzHkd5wuW6svNtyQ",
+              "title": "Ghost",
+              "artist": "From Indian Lakes",
+              "url": "https://open.spotify.com/track/03eWbrmzHkd5wuW6svNtyQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273081b0637c796558981c1c9ed",
+              "plays": 1
+            },
+            {
+              "id": "5bwzWD9iX07CkNtWUb77z4",
+              "title": "Weather Eyes",
+              "artist": "Trade Wind",
+              "url": "https://open.spotify.com/track/5bwzWD9iX07CkNtWUb77z4",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732178ca4d8aad3f46cddbb0ae",
+              "plays": 1
+            },
+            {
+              "id": "6NODZg5BdHffvguB5Qky1v",
+              "title": "Seneca",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738629b74fb82237edb43477ce",
+              "plays": 1
+            },
+            {
+              "id": "2r63FDIX4pta7SEFyE5MdZ",
+              "title": "Dog Song",
+              "artist": "Sweet Pill",
+              "url": "https://open.spotify.com/track/2r63FDIX4pta7SEFyE5MdZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b9368400e3af542f39b0c3c3",
+              "plays": 1
+            },
+            {
+              "id": "5f4cJRc2JpB92ljQRJeA6K",
+              "title": "Body Language",
+              "artist": "Balance And Composure",
+              "url": "https://open.spotify.com/track/5f4cJRc2JpB92ljQRJeA6K",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a783cf89b22f5d3c2a2b15a3",
+              "plays": 1
+            },
+            {
+              "id": "4HMO1igPphD1HUj1e9lL0t",
+              "title": "I Don't Know You",
+              "artist": "From Indian Lakes",
+              "url": "https://open.spotify.com/track/4HMO1igPphD1HUj1e9lL0t",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d049d4545a7f5cdc2f07eff1",
+              "plays": 1
+            },
+            {
+              "id": "7G3DcpGWkEVDWUWx4osEpw",
+              "title": "Always Ending in You",
+              "artist": "Polyenso",
+              "url": "https://open.spotify.com/track/7G3DcpGWkEVDWUWx4osEpw",
+              "image": "https://i.scdn.co/image/ab67616d0000b27397377da3dd26a4fe3bc9ea6b",
+              "plays": 1
+            },
+            {
+              "id": "12lFjGgeD2SmT0xHHcE7bo",
+              "title": "Hospital",
+              "artist": "Lydia",
+              "url": "https://open.spotify.com/track/12lFjGgeD2SmT0xHHcE7bo",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733fea41ca656a1da8df09672e",
+              "plays": 1
+            },
+            {
+              "id": "2F9Lpt7Y9wSKpCPVlfBzq3",
+              "title": "Easy Peasy",
+              "artist": "Kurt Travis",
+              "url": "https://open.spotify.com/track/2F9Lpt7Y9wSKpCPVlfBzq3",
+              "image": "https://i.scdn.co/image/ab67616d0000b273aca90ef2b2159d19b3bf7c53",
+              "plays": 1
+            },
+            {
+              "id": "0U7gBQyN6wG1TwdkhDNNll",
+              "title": "French Girls",
+              "artist": "Hrvrd",
+              "url": "https://open.spotify.com/track/0U7gBQyN6wG1TwdkhDNNll",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732df4b9142998274eb0e86c40",
+              "plays": 1
+            },
+            {
+              "id": "5dvHlfjmu4AaxlTbUYQabN",
+              "title": "Am I Alive",
+              "artist": "From Indian Lakes",
+              "url": "https://open.spotify.com/track/5dvHlfjmu4AaxlTbUYQabN",
+              "image": "https://i.scdn.co/image/ab67616d0000b273081b0637c796558981c1c9ed",
+              "plays": 1
+            },
+            {
+              "id": "75cEvimtxvUEgsvntLpBuM",
+              "title": "Don't Dance",
+              "artist": "Anthony Green",
+              "url": "https://open.spotify.com/track/75cEvimtxvUEgsvntLpBuM",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e3be896f3a3a90c55cdf1f05",
+              "plays": 1
+            },
+            {
+              "id": "3MW6Nrv1iaFPgwlxWTyoDH",
+              "title": "I Hope You're Right",
+              "artist": "Pool Kids",
+              "url": "https://open.spotify.com/track/3MW6Nrv1iaFPgwlxWTyoDH",
+              "image": "https://i.scdn.co/image/ab67616d0000b27347ed88593a1aef0e6f877a2b",
+              "plays": 1
+            },
+            {
+              "id": "6AgtouHw1KrKy1PsoLjY3o",
+              "title": "Daylily",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o",
+              "image": "https://i.scdn.co/image/ab67616d0000b273222a7f5b3077122bca25eef0",
+              "plays": 1
+            },
+            {
+              "id": "4mU5lCYnFfvBngGywNqQgo",
+              "title": "Starchild",
+              "artist": "Sweet Pill",
+              "url": "https://open.spotify.com/track/4mU5lCYnFfvBngGywNqQgo",
+              "image": "https://i.scdn.co/image/ab67616d0000b273979bf7571de6da539b1c38da",
+              "plays": 1
+            },
+            {
+              "id": "04O44ubiHsmxax67XcZgCh",
+              "title": "We Follow",
+              "artist": "From Indian Lakes",
+              "url": "https://open.spotify.com/track/04O44ubiHsmxax67XcZgCh",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d049d4545a7f5cdc2f07eff1",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-22T16:34:56.656Z",
+      "lastPlayedAt": "2026-09-23T15:20:47.454Z",
       "lastKeys": [
-        "[1790094896656,\"7o2CcBCoun96kz0ElBTXkv\"]"
+        "[1790176847454,\"0MsVyaHNAYDVPjoRUqlLYU\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-22T16:34:56.656Z"
+      "through": "2026-09-23T15:20:47.454Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-22T16:58:10.246Z",
-    "updatedAt": "2026-09-22T16:58:10.246Z"
+    "checkedAt": "2026-09-23T17:00:53.923Z",
+    "updatedAt": "2026-09-23T17:00:53.923Z"
   },
   "github": {
     "events": [
@@ -1818,8 +2282,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-22T16:58:10.246Z",
-    "updatedAt": "2026-09-22T16:58:10.246Z"
+    "checkedAt": "2026-09-23T17:00:53.923Z",
+    "updatedAt": "2026-09-23T17:00:53.923Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -1829,156 +2293,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-22T16:58:11.174Z",
+    "snapshotAt": "2026-09-23T17:01:08.348Z",
     "skills": [
       {
         "key": "overall",
         "value": 1769,
-        "rank": 184573,
-        "xp": 33450413
+        "rank": 184677,
+        "xp": 33485601
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 233278,
-        "xp": 1108054
+        "rank": 233349,
+        "xp": 1109646
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212760,
-        "xp": 1140033
+        "rank": 212742,
+        "xp": 1144620
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 227482,
+        "rank": 227595,
         "xp": 2445837
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 215929,
-        "xp": 2733618
+        "rank": 215783,
+        "xp": 2742798
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 232305,
-        "xp": 1386865
+        "rank": 231995,
+        "xp": 1394492
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173277,
+        "rank": 173343,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177462,
-        "xp": 3013806
+        "rank": 177385,
+        "xp": 3019919
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 264118,
-        "xp": 818332
+        "rank": 263895,
+        "xp": 819787
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 273741,
-        "xp": 862491
+        "rank": 273795,
+        "xp": 862901
       },
       {
         "key": "fletching",
         "value": 67,
-        "rank": 280999,
+        "rank": 281136,
         "xp": 547987
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 295189,
-        "xp": 815552
+        "rank": 295029,
+        "xp": 816652
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196795,
+        "rank": 196849,
         "xp": 6712942
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 218064,
-        "xp": 824986
+        "rank": 218037,
+        "xp": 826246
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197741,
-        "xp": 851463
+        "rank": 197693,
+        "xp": 852723
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 268678,
-        "xp": 931333
+        "rank": 268727,
+        "xp": 931753
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 176956,
-        "xp": 876593
+        "rank": 177025,
+        "xp": 876723
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 159941,
+        "rank": 160006,
         "xp": 1437685
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 237095,
+        "rank": 237208,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 207521,
+        "rank": 207608,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190296,
-        "xp": 1560370
+        "rank": 190369,
+        "xp": 1560424
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 148813,
+        "rank": 148883,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 232082,
+        "rank": 232171,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 162010,
+        "rank": 162095,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 91790,
+        "rank": 91951,
         "xp": 390196
       }
     ],
@@ -1991,27 +2455,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 146978
+        "rank": 147038
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 51742
+        "rank": 51816
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80325
+        "rank": 80384
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89398
+        "rank": 89424
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59045
+        "rank": 59071
       },
       {
         "key": "giant_mole",
@@ -2021,17 +2485,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137622
+        "rank": 137673
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 88422
+        "rank": 88491
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 29024
+        "rank": 29178
       },
       {
         "key": "obor",
@@ -2041,12 +2505,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78582
+        "rank": 78635
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 106911
+        "rank": 106968
       },
       {
         "key": "the_gauntlet",
@@ -2055,8 +2519,8 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 54,
-        "rank": 96693
+        "value": 56,
+        "rank": 96403
       },
       {
         "key": "the_royal_titans",
@@ -2071,12 +2535,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163823
+        "rank": 163869
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49495
+        "rank": 49515
       }
     ],
     "activities": [
@@ -2093,27 +2557,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 158010
+        "rank": 158082
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91279
+        "rank": 91322
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116056
+        "rank": 116093
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 148987
+        "rank": 149037
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 161872
+        "rank": 161920
       },
       {
         "key": "clue_scrolls_elite",
@@ -2128,7 +2592,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82160
+        "rank": 82173
       },
       {
         "key": "pvp_arena",
@@ -2143,7 +2607,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 115816
+        "rank": 115880
       },
       {
         "key": "colosseum_glory",
@@ -2157,8 +2621,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-22T16:58:10.246Z",
-    "updatedAt": "2026-09-22T16:58:10.246Z"
+    "checkedAt": "2026-09-23T17:00:53.923Z",
+    "updatedAt": "2026-09-23T17:00:53.923Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -3100,7 +3564,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-22T16:58:10.246Z",
-    "updatedAt": "2026-09-22T16:58:10.246Z"
+    "checkedAt": "2026-09-23T17:00:53.923Z",
+    "updatedAt": "2026-09-23T17:00:53.923Z"
   }
 }
