@@ -1,96 +1,96 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T17:00:53.923Z",
+  "generatedAt": "2026-09-24T17:12:43.252Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "0MsVyaHNAYDVPjoRUqlLYU",
-        "title": "Moonlight Lines",
-        "artist": "Movements",
-        "album": "No Good Left To Give",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738629b74fb82237edb43477ce",
-        "url": "https://open.spotify.com/track/0MsVyaHNAYDVPjoRUqlLYU",
-        "durationMs": 216826,
-        "playedAt": "2026-09-23T15:20:47.454Z"
+        "id": "70MLCfNoBdpSFjlvVTQE7c",
+        "title": "Practice Makes Perfect",
+        "artist": "Cute Is What We Aim For",
+        "album": "Rotation",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738b9fe5f06c95f49b111472e5",
+        "url": "https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c",
+        "durationMs": 224040,
+        "playedAt": "2026-09-24T16:35:53.673Z"
       },
       {
-        "id": "4dIHOH8RN4DKkWjH5iVTmL",
-        "title": "Dog Radio",
-        "artist": "Polyenso",
-        "album": "One Big Particular Loop",
-        "image": "https://i.scdn.co/image/ab67616d0000b27397377da3dd26a4fe3bc9ea6b",
-        "url": "https://open.spotify.com/track/4dIHOH8RN4DKkWjH5iVTmL",
-        "durationMs": 245600,
-        "playedAt": "2026-09-23T15:10:04.284Z"
+        "id": "5eB7w8UZJKjL5XmnC6Pctg",
+        "title": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+        "artist": "Panic! At The Disco",
+        "album": "A Fever You Can't Sweat Out",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733ab3ff3559d2664560e1fdb4",
+        "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg",
+        "durationMs": 200226,
+        "playedAt": "2026-09-24T16:32:09.029Z"
       },
       {
-        "id": "7lCNKeEDKHvAhtCVy4I5nh",
-        "title": "Better",
-        "artist": "Hikes",
-        "album": "Into It. Over It. & Hikes Present: Reciprocity",
-        "image": "https://i.scdn.co/image/ab67616d0000b27369cc2f36286bd479ff8df559",
-        "url": "https://open.spotify.com/track/7lCNKeEDKHvAhtCVy4I5nh",
-        "durationMs": 206031,
-        "playedAt": "2026-09-23T15:05:58.164Z"
+        "id": "3eFx554nKpVNe4otynSsK0",
+        "title": "Niki Fm",
+        "artist": "Hawthorne Heights",
+        "album": "The Silence In Black And White (Re-Issue)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b4b59e1dd1a9c0fa4dc27c61",
+        "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0",
+        "durationMs": 239520,
+        "playedAt": "2026-09-24T16:28:48.282Z"
       },
       {
-        "id": "1sG4mwsoptuD8HqXgpXHXd",
-        "title": "Good Morning Fire Eater",
-        "artist": "Copeland",
-        "album": "You Are My Sunshine",
-        "image": "https://i.scdn.co/image/ab67616d0000b27312b645b72c593e4055074fe8",
-        "url": "https://open.spotify.com/track/1sG4mwsoptuD8HqXgpXHXd",
-        "durationMs": 248066,
-        "playedAt": "2026-09-23T15:02:31.624Z"
+        "id": "1rnuOugmaCQNaYxMhGrSyT",
+        "title": "Spin",
+        "artist": "Taking Back Sunday",
+        "album": "Louder Now (Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
+        "url": "https://open.spotify.com/track/1rnuOugmaCQNaYxMhGrSyT",
+        "durationMs": 219800,
+        "playedAt": "2026-09-24T16:24:48.245Z"
       },
       {
-        "id": "1Hv1VTm8zeOeybub15mA2R",
-        "title": "Smooth Operator - Single Version",
-        "artist": "Sade",
-        "album": "The Best of Sade",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-        "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R",
-        "durationMs": 258693,
-        "playedAt": "2026-09-23T15:01:31.075Z"
+        "id": "6nJssvZSWBXbOhecGecJOy",
+        "title": "Anywhere but Here",
+        "artist": "Mayday Parade",
+        "album": "Anywhere but Here (Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebf30a4f47d1bdbd208ccadf",
+        "url": "https://open.spotify.com/track/6nJssvZSWBXbOhecGecJOy",
+        "durationMs": 190640,
+        "playedAt": "2026-09-24T16:21:07.930Z"
       },
       {
-        "id": "1Nr2VWP2aAjRUqyqpQS5N4",
-        "title": "Disappear",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/1Nr2VWP2aAjRUqyqpQS5N4",
-        "durationMs": 234251,
-        "playedAt": "2026-09-23T14:58:10.786Z"
+        "id": "0ChpoNjXfJPjMvCIN6so6J",
+        "title": "Memory",
+        "artist": "Sugarcult",
+        "album": "Palm Trees and Power Lines",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c",
+        "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J",
+        "durationMs": 226080,
+        "playedAt": "2026-09-24T16:17:56.583Z"
       },
       {
-        "id": "29eLonNk3JNVWqu58cr7rq",
-        "title": "Mahè",
-        "artist": "Piero Umiliani",
-        "album": "La ragazza dalla pelle di luna",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fab13dc56058ea0dfb124dc7",
-        "url": "https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq",
-        "durationMs": 162299,
-        "playedAt": "2026-09-23T02:28:23.265Z"
+        "id": "1VA05nvzaZJAUr8jDigJCL",
+        "title": "Newport Living",
+        "artist": "Cute Is What We Aim For",
+        "album": "The Same Old Blood Rush With A New Touch",
+        "image": "https://i.scdn.co/image/ab67616d0000b273364f9ffb7ceaf0e191cdb8c3",
+        "url": "https://open.spotify.com/track/1VA05nvzaZJAUr8jDigJCL",
+        "durationMs": 211320,
+        "playedAt": "2026-09-24T16:14:09.987Z"
       },
       {
-        "id": "2tcfbkABIwzpepPyaFsYF4",
-        "title": "Desafinado",
-        "artist": "Stan Getz, João Gilberto",
-        "album": "Getz/Gilberto (Expanded Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c",
-        "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4",
-        "durationMs": 248013,
-        "playedAt": "2026-09-23T01:27:21.294Z"
+        "id": "1a9YW7fATU351ok4zWjU7a",
+        "title": "Brick by Boring Brick",
+        "artist": "Paramore",
+        "album": "Brand New Eyes",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
+        "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a",
+        "durationMs": 253946,
+        "playedAt": "2026-09-24T16:10:38.149Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 230,
+          "plays": 260,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -120,7 +120,7 @@
               "id": "24XtlMhEMNdi822vi0MhY1",
               "name": "Taking Back Sunday",
               "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
-              "plays": 9
+              "plays": 10
             },
             {
               "id": "4o0pNHbyj36LPvukNqEug0",
@@ -144,7 +144,7 @@
               "id": "126FigDBtqwS2YsOYMTPQe",
               "name": "Hawthorne Heights",
               "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe",
-              "plays": 2
+              "plays": 6
             },
             {
               "id": "51J0q8S7W3kIEYHQi3EPqk",
@@ -162,13 +162,13 @@
               "id": "55VydwMyCuGcavwPuhutPL",
               "name": "The Used",
               "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL",
-              "plays": 2
+              "plays": 4
             },
             {
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
               "name": "Saosin",
               "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "168dgYui7ExaU612eooDF1",
@@ -180,13 +180,13 @@
               "id": "3WfJ1OtrWI7RViX9DMyEGy",
               "name": "Mayday Parade",
               "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy",
-              "plays": 1
+              "plays": 4
             },
             {
               "id": "7AsPubxWM5tfW4hTZEL3aP",
               "name": "Cute Is What We Aim For",
               "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "5ojhEavq6altxW8fWIlLum",
@@ -300,7 +300,7 @@
               "id": "591yCCsZCLXvaJ0Rg38vLZ",
               "name": "Senses Fail",
               "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "34ZLdDJVv5clP7Ask1zjoP",
@@ -594,7 +594,7 @@
               "id": "3YvQkjWJ5ykJVUNP7YbTy9",
               "name": "From Indian Lakes",
               "url": "https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9",
-              "plays": 7
+              "plays": 8
             },
             {
               "id": "5vSV3fKlUjklNyydqxyN0s",
@@ -643,6 +643,54 @@
               "name": "Pool Kids",
               "url": "https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f",
               "plays": 1
+            },
+            {
+              "id": "20JZFwl6HVl6yg8a4H3ZqK",
+              "name": "Panic! At The Disco",
+              "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK",
+              "plays": 1
+            },
+            {
+              "id": "04RtvnUz0XrUbUZzOA8ZoW",
+              "name": "Sugarcult",
+              "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW",
+              "plays": 1
+            },
+            {
+              "id": "74XFHRwlV6OrjEM0A2NCMF",
+              "name": "Paramore",
+              "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
+              "plays": 5
+            },
+            {
+              "id": "0vWCyXMrrvMlCcepuOJaGI",
+              "name": "BOYS LIKE GIRLS",
+              "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI",
+              "plays": 1
+            },
+            {
+              "id": "1SImpQO0GbjRgvlwCcCtFo",
+              "name": "The Red Jumpsuit Apparatus",
+              "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo",
+              "plays": 1
+            },
+            {
+              "id": "3ao3jf5d70Tf4fPh2bnXVl",
+              "name": "We The Kings",
+              "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl",
+              "plays": 1
+            },
+            {
+              "id": "0KDuKk6YdEu3hR56HtXmxt",
+              "name": "Story Of The Year",
+              "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt",
+              "plays": 1
+            },
+            {
+              "id": "46gyXjRIvN1NL1eCB8GBxo",
+              "name": "All Time Low",
+              "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo",
+              "plays": 3
             }
           ],
           "tracks": [
@@ -924,7 +972,7 @@
               "artist": "Saosin",
               "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv",
               "image": "https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "6r2EjEQh33dR5Ofxf5r79T",
@@ -996,7 +1044,7 @@
               "artist": "Hawthorne Heights",
               "url": "https://open.spotify.com/track/3tNF4ktNoFYVbzd5LAgfMY",
               "image": "https://i.scdn.co/image/ab67616d0000b27353537f76fc9b81d7d067fa43",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "6uWrlY3Tuh7Eb8trggaWcs",
@@ -2221,20 +2269,228 @@
               "url": "https://open.spotify.com/track/04O44ubiHsmxax67XcZgCh",
               "image": "https://i.scdn.co/image/ab67616d0000b273d049d4545a7f5cdc2f07eff1",
               "plays": 1
+            },
+            {
+              "id": "70MLCfNoBdpSFjlvVTQE7c",
+              "title": "Practice Makes Perfect",
+              "artist": "Cute Is What We Aim For",
+              "url": "https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738b9fe5f06c95f49b111472e5",
+              "plays": 1
+            },
+            {
+              "id": "5eB7w8UZJKjL5XmnC6Pctg",
+              "title": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+              "artist": "Panic! At The Disco",
+              "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733ab3ff3559d2664560e1fdb4",
+              "plays": 1
+            },
+            {
+              "id": "3eFx554nKpVNe4otynSsK0",
+              "title": "Niki Fm",
+              "artist": "Hawthorne Heights",
+              "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4b59e1dd1a9c0fa4dc27c61",
+              "plays": 1
+            },
+            {
+              "id": "1rnuOugmaCQNaYxMhGrSyT",
+              "title": "Spin",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/1rnuOugmaCQNaYxMhGrSyT",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
+              "plays": 1
+            },
+            {
+              "id": "6nJssvZSWBXbOhecGecJOy",
+              "title": "Anywhere but Here",
+              "artist": "Mayday Parade",
+              "url": "https://open.spotify.com/track/6nJssvZSWBXbOhecGecJOy",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ebf30a4f47d1bdbd208ccadf",
+              "plays": 1
+            },
+            {
+              "id": "0ChpoNjXfJPjMvCIN6so6J",
+              "title": "Memory",
+              "artist": "Sugarcult",
+              "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c",
+              "plays": 1
+            },
+            {
+              "id": "1VA05nvzaZJAUr8jDigJCL",
+              "title": "Newport Living",
+              "artist": "Cute Is What We Aim For",
+              "url": "https://open.spotify.com/track/1VA05nvzaZJAUr8jDigJCL",
+              "image": "https://i.scdn.co/image/ab67616d0000b273364f9ffb7ceaf0e191cdb8c3",
+              "plays": 1
+            },
+            {
+              "id": "1a9YW7fATU351ok4zWjU7a",
+              "title": "Brick by Boring Brick",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
+              "plays": 1
+            },
+            {
+              "id": "56Tl3UgyZTqfZtvFNS31wm",
+              "title": "The Great Escape",
+              "artist": "BOYS LIKE GIRLS",
+              "url": "https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739d5d8ac73325fec119eecfb3",
+              "plays": 1
+            },
+            {
+              "id": "4wzjNqjKAKDU82e8uMhzmr",
+              "title": "Face Down",
+              "artist": "The Red Jumpsuit Apparatus",
+              "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f98edbc89407338a90437d34",
+              "plays": 1
+            },
+            {
+              "id": "6gxupt6imt0qIdbE8e356n",
+              "title": "Jersey",
+              "artist": "Mayday Parade",
+              "url": "https://open.spotify.com/track/6gxupt6imt0qIdbE8e356n",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f7a58da348455480bf248fd5",
+              "plays": 1
+            },
+            {
+              "id": "7N2PNxzZXxCdAHiAfsklhT",
+              "title": "Check Yes, Juliet",
+              "artist": "We The Kings",
+              "url": "https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT",
+              "image": "https://i.scdn.co/image/ab67616d0000b273755e80dbfa421c0eea3ded37",
+              "plays": 1
+            },
+            {
+              "id": "3VA4sjTMSTTF02hFGmlpJh",
+              "title": "crushcrushcrush",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb",
+              "plays": 1
+            },
+            {
+              "id": "5jZ1Z2GFTf2gwmFc3qiUxs",
+              "title": "The Taste of Ink",
+              "artist": "The Used",
+              "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs",
+              "image": "https://i.scdn.co/image/ab67616d0000b273850d8da4ce418aba90f156d0",
+              "plays": 1
+            },
+            {
+              "id": "2NnqiBe3fmYkYDo0OXe4CQ",
+              "title": "Calling All Cars",
+              "artist": "Senses Fail",
+              "url": "https://open.spotify.com/track/2NnqiBe3fmYkYDo0OXe4CQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e8455cb8cbc2820fff56c038",
+              "plays": 1
+            },
+            {
+              "id": "05qCCJQJiOwvPQBb7akf1R",
+              "title": "Jamie All Over",
+              "artist": "Mayday Parade",
+              "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f7a58da348455480bf248fd5",
+              "plays": 1
+            },
+            {
+              "id": "6g8VLFKHQCbKi6l0XpLKdT",
+              "title": "We Are So Last Year",
+              "artist": "Hawthorne Heights",
+              "url": "https://open.spotify.com/track/6g8VLFKHQCbKi6l0XpLKdT",
+              "image": "https://i.scdn.co/image/ab67616d0000b27353537f76fc9b81d7d067fa43",
+              "plays": 1
+            },
+            {
+              "id": "7mG2RbhyzGsjpQOz568d39",
+              "title": "Pressure",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+              "plays": 1
+            },
+            {
+              "id": "6z2Fx4b0hjqLdsJQOrNxbM",
+              "title": "I Caught Fire",
+              "artist": "The Used",
+              "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b5bc4686d08a5812a63f180d",
+              "plays": 1
+            },
+            {
+              "id": "5sDwxoaXxrffN65UfWPfRR",
+              "title": "Buried a Lie",
+              "artist": "Senses Fail",
+              "url": "https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b2a74364c1f622f26b14881e",
+              "plays": 1
+            },
+            {
+              "id": "0DKNNR9iDjwfCEpMiFXMJq",
+              "title": "Until the Day I Die",
+              "artist": "Story Of The Year",
+              "url": "https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731fe57c82dec10d3dcc87a2c6",
+              "plays": 1
+            },
+            {
+              "id": "3vH6JWa7tKvkk1YBdHCg6m",
+              "title": "This Is Who We Are",
+              "artist": "Hawthorne Heights",
+              "url": "https://open.spotify.com/track/3vH6JWa7tKvkk1YBdHCg6m",
+              "image": "https://i.scdn.co/image/ab67616d0000b27353537f76fc9b81d7d067fa43",
+              "plays": 1
+            },
+            {
+              "id": "0aZJGkkXR3DgaFqo5sB8ot",
+              "title": "Weightless",
+              "artist": "All Time Low",
+              "url": "https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot",
+              "image": "https://i.scdn.co/image/ab67616d0000b27324889965c2b453cbd439a7f6",
+              "plays": 1
+            },
+            {
+              "id": "1JdKrFyoU05abww0Zv0ayQ",
+              "title": "That's What You Get",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb",
+              "plays": 2
+            },
+            {
+              "id": "3d3rJ0qtOU5aNX324mNWfo",
+              "title": "Break Your Little Heart",
+              "artist": "All Time Low",
+              "url": "https://open.spotify.com/track/3d3rJ0qtOU5aNX324mNWfo",
+              "image": "https://i.scdn.co/image/ab67616d0000b27324889965c2b453cbd439a7f6",
+              "plays": 2
+            },
+            {
+              "id": "4XrVJUIUKXssr4ZHm5Vztd",
+              "title": "'Till I Can Walk",
+              "artist": "From Indian Lakes",
+              "url": "https://open.spotify.com/track/4XrVJUIUKXssr4ZHm5Vztd",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d049d4545a7f5cdc2f07eff1",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-23T15:20:47.454Z",
+      "lastPlayedAt": "2026-09-24T16:35:53.673Z",
       "lastKeys": [
-        "[1790176847454,\"0MsVyaHNAYDVPjoRUqlLYU\"]"
+        "[1790267753673,\"70MLCfNoBdpSFjlvVTQE7c\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-23T15:20:47.454Z"
+      "through": "2026-09-24T16:35:53.673Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-23T17:00:53.923Z",
-    "updatedAt": "2026-09-23T17:00:53.923Z"
+    "checkedAt": "2026-09-24T17:12:43.252Z",
+    "updatedAt": "2026-09-24T17:12:43.252Z"
   },
   "github": {
     "events": [
@@ -2282,8 +2538,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-23T17:00:53.923Z",
-    "updatedAt": "2026-09-23T17:00:53.923Z"
+    "checkedAt": "2026-09-24T17:12:43.252Z",
+    "updatedAt": "2026-09-24T17:12:43.252Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -2293,157 +2549,157 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-23T17:01:08.348Z",
+    "snapshotAt": "2026-09-24T17:12:44.200Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1769,
-        "rank": 184677,
-        "xp": 33485601
+        "value": 1770,
+        "rank": 184444,
+        "xp": 33640032
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 233349,
-        "xp": 1109646
+        "rank": 233436,
+        "xp": 1109694
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212742,
-        "xp": 1144620
+        "rank": 212835,
+        "xp": 1145775
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 227595,
+        "rank": 227698,
         "xp": 2445837
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 215783,
-        "xp": 2742798
+        "rank": 215817,
+        "xp": 2745213
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 231995,
-        "xp": 1394492
+        "rank": 231961,
+        "xp": 1397073
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173343,
+        "rank": 173406,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177385,
-        "xp": 3019919
+        "rank": 177401,
+        "xp": 3022824
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 263895,
-        "xp": 819787
+        "rank": 263932,
+        "xp": 820087
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 273795,
-        "xp": 862901
+        "rank": 273879,
+        "xp": 862971
       },
       {
         "key": "fletching",
-        "value": 67,
-        "rank": 281136,
-        "xp": 547987
+        "value": 68,
+        "rank": 260070,
+        "xp": 652313
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 295029,
-        "xp": 816652
+        "rank": 295062,
+        "xp": 816852
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196849,
+        "rank": 196855,
         "xp": 6712942
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 218037,
-        "xp": 826246
+        "rank": 216099,
+        "xp": 851978
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197693,
-        "xp": 852723
+        "rank": 197753,
+        "xp": 852983
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 268727,
-        "xp": 931753
+        "rank": 268814,
+        "xp": 931823
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 177025,
-        "xp": 876723
+        "rank": 177107,
+        "xp": 876743
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 160006,
+        "rank": 160041,
         "xp": 1437685
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 237208,
+        "rank": 237293,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 207608,
+        "rank": 207705,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190369,
-        "xp": 1560424
+        "rank": 190442,
+        "xp": 1560433
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 148883,
+        "rank": 148936,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 232171,
+        "rank": 232265,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 162095,
+        "rank": 162193,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 91951,
-        "xp": 390196
+        "rank": 90903,
+        "xp": 404536
       }
     ],
     "bosses": [
@@ -2455,27 +2711,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 147038
+        "rank": 147093
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 51816
+        "rank": 51879
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80384
+        "rank": 80430
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89424
+        "rank": 89449
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59071
+        "rank": 59096
       },
       {
         "key": "giant_mole",
@@ -2485,17 +2741,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137673
+        "rank": 137725
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 88491
+        "rank": 88578
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 29178
+        "rank": 29350
       },
       {
         "key": "obor",
@@ -2505,12 +2761,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78635
+        "rank": 78688
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 106968
+        "rank": 106994
       },
       {
         "key": "the_gauntlet",
@@ -2519,8 +2775,8 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 56,
-        "rank": 96403
+        "value": 57,
+        "rank": 96339
       },
       {
         "key": "the_royal_titans",
@@ -2535,12 +2791,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163869
+        "rank": 163860
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49515
+        "rank": 49534
       }
     ],
     "activities": [
@@ -2557,27 +2813,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 158082
+        "rank": 158150
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91322
+        "rank": 91364
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116093
+        "rank": 116131
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149037
+        "rank": 149081
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 161920
+        "rank": 161965
       },
       {
         "key": "clue_scrolls_elite",
@@ -2592,7 +2848,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82173
+        "rank": 82184
       },
       {
         "key": "pvp_arena",
@@ -2607,7 +2863,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 115880
+        "rank": 115923
       },
       {
         "key": "colosseum_glory",
@@ -2621,8 +2877,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-23T17:00:53.923Z",
-    "updatedAt": "2026-09-23T17:00:53.923Z"
+    "checkedAt": "2026-09-24T17:12:43.252Z",
+    "updatedAt": "2026-09-24T17:12:43.252Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -3564,7 +3820,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-23T17:00:53.923Z",
-    "updatedAt": "2026-09-23T17:00:53.923Z"
+    "checkedAt": "2026-09-24T17:12:43.252Z",
+    "updatedAt": "2026-09-24T17:12:43.252Z"
   }
 }
