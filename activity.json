@@ -1,96 +1,96 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-24T17:12:43.252Z",
+  "generatedAt": "2026-09-25T17:12:44.911Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "70MLCfNoBdpSFjlvVTQE7c",
-        "title": "Practice Makes Perfect",
-        "artist": "Cute Is What We Aim For",
-        "album": "Rotation",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738b9fe5f06c95f49b111472e5",
-        "url": "https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c",
-        "durationMs": 224040,
-        "playedAt": "2026-09-24T16:35:53.673Z"
+        "id": "0eWCEmTklzDA8u3vWsCWBZ",
+        "title": "The Cali Buds",
+        "artist": "A Skylit Drive",
+        "album": "Identity On Fire",
+        "image": "https://i.scdn.co/image/ab67616d0000b27319958c59035ccf3ec13ea06f",
+        "url": "https://open.spotify.com/track/0eWCEmTklzDA8u3vWsCWBZ",
+        "durationMs": 218520,
+        "playedAt": "2026-09-25T15:58:07.260Z"
       },
       {
-        "id": "5eB7w8UZJKjL5XmnC6Pctg",
-        "title": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
-        "artist": "Panic! At The Disco",
-        "album": "A Fever You Can't Sweat Out",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733ab3ff3559d2664560e1fdb4",
-        "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg",
-        "durationMs": 200226,
-        "playedAt": "2026-09-24T16:32:09.029Z"
+        "id": "7f2ZnUSNRRaj1pVMmG0Vtm",
+        "title": "Lady in a Blue Dress",
+        "artist": "Senses Fail",
+        "album": "Let It Enfold You",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2a74364c1f622f26b14881e",
+        "url": "https://open.spotify.com/track/7f2ZnUSNRRaj1pVMmG0Vtm",
+        "durationMs": 198053,
+        "playedAt": "2026-09-25T15:54:28.230Z"
       },
       {
-        "id": "3eFx554nKpVNe4otynSsK0",
-        "title": "Niki Fm",
-        "artist": "Hawthorne Heights",
-        "album": "The Silence In Black And White (Re-Issue)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b4b59e1dd1a9c0fa4dc27c61",
-        "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0",
-        "durationMs": 239520,
-        "playedAt": "2026-09-24T16:28:48.282Z"
+        "id": "2iEHyjFRMRZFupbhMZbLG1",
+        "title": "Pioneers",
+        "artist": "From Autumn To Ashes",
+        "album": "Holding a Wolf By the Ears (Bonus Version)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f81889abea79c14dd5db933b",
+        "url": "https://open.spotify.com/track/2iEHyjFRMRZFupbhMZbLG1",
+        "durationMs": 222133,
+        "playedAt": "2026-09-25T15:51:09.600Z"
       },
       {
-        "id": "1rnuOugmaCQNaYxMhGrSyT",
-        "title": "Spin",
-        "artist": "Taking Back Sunday",
-        "album": "Louder Now (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
-        "url": "https://open.spotify.com/track/1rnuOugmaCQNaYxMhGrSyT",
-        "durationMs": 219800,
-        "playedAt": "2026-09-24T16:24:48.245Z"
+        "id": "46pBDlSgGAsZ42ufBX9KAh",
+        "title": "40 Days...",
+        "artist": "blessthefall",
+        "album": "Awakening",
+        "image": "https://i.scdn.co/image/ab67616d0000b27315d68e5486791f20d5fa7b7f",
+        "url": "https://open.spotify.com/track/46pBDlSgGAsZ42ufBX9KAh",
+        "durationMs": 258399,
+        "playedAt": "2026-09-25T15:47:26.926Z"
       },
       {
-        "id": "6nJssvZSWBXbOhecGecJOy",
-        "title": "Anywhere but Here",
-        "artist": "Mayday Parade",
-        "album": "Anywhere but Here (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ebf30a4f47d1bdbd208ccadf",
-        "url": "https://open.spotify.com/track/6nJssvZSWBXbOhecGecJOy",
-        "durationMs": 190640,
-        "playedAt": "2026-09-24T16:21:07.930Z"
+        "id": "5wnOQQs68QYuMyWCfv198z",
+        "title": "I've Got Ten Friends And A Crowbar That Says You Ain't Gonna Do Jack",
+        "artist": "Underoath",
+        "album": "I've Got Ten Friends And A Crowbar That Says You Ain't Gonna Do Jack",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733746b3c8cf13de03a610a0e2",
+        "url": "https://open.spotify.com/track/5wnOQQs68QYuMyWCfv198z",
+        "durationMs": 300680,
+        "playedAt": "2026-09-25T15:43:08.037Z"
       },
       {
-        "id": "0ChpoNjXfJPjMvCIN6so6J",
-        "title": "Memory",
-        "artist": "Sugarcult",
-        "album": "Palm Trees and Power Lines",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c",
-        "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J",
-        "durationMs": 226080,
-        "playedAt": "2026-09-24T16:17:56.583Z"
+        "id": "7kw1y5LQfNXELwGrKDalxg",
+        "title": "Let The Evil Go East",
+        "artist": "Greeley Estates",
+        "album": "Go West Young Man, Let The Evil Go East",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b3ffe7124a0f6f907db8704b",
+        "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg",
+        "durationMs": 200680,
+        "playedAt": "2026-09-25T15:38:06.815Z"
       },
       {
-        "id": "1VA05nvzaZJAUr8jDigJCL",
-        "title": "Newport Living",
-        "artist": "Cute Is What We Aim For",
-        "album": "The Same Old Blood Rush With A New Touch",
-        "image": "https://i.scdn.co/image/ab67616d0000b273364f9ffb7ceaf0e191cdb8c3",
-        "url": "https://open.spotify.com/track/1VA05nvzaZJAUr8jDigJCL",
-        "durationMs": 211320,
-        "playedAt": "2026-09-24T16:14:09.987Z"
+        "id": "1ebFxEGc6UUz6IDWhmxrAQ",
+        "title": "March of the Dead",
+        "artist": "Modern Day Escape",
+        "album": "Modern Day Escape EP",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738212666ade2a8d1d49cd0911",
+        "url": "https://open.spotify.com/track/1ebFxEGc6UUz6IDWhmxrAQ",
+        "durationMs": 284053,
+        "playedAt": "2026-09-25T15:34:45.697Z"
       },
       {
-        "id": "1a9YW7fATU351ok4zWjU7a",
-        "title": "Brick by Boring Brick",
-        "artist": "Paramore",
-        "album": "Brand New Eyes",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
-        "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a",
-        "durationMs": 253946,
-        "playedAt": "2026-09-24T16:10:38.149Z"
+        "id": "5VPaXkoOt3rJbVNa1j5wmy",
+        "title": "Let It Enfold You",
+        "artist": "Senses Fail",
+        "album": "Let It Enfold You",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2a74364c1f622f26b14881e",
+        "url": "https://open.spotify.com/track/5VPaXkoOt3rJbVNa1j5wmy",
+        "durationMs": 303760,
+        "playedAt": "2026-09-25T15:30:01.088Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 260,
+          "plays": 310,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -120,7 +120,7 @@
               "id": "24XtlMhEMNdi822vi0MhY1",
               "name": "Taking Back Sunday",
               "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
-              "plays": 10
+              "plays": 11
             },
             {
               "id": "4o0pNHbyj36LPvukNqEug0",
@@ -180,13 +180,13 @@
               "id": "3WfJ1OtrWI7RViX9DMyEGy",
               "name": "Mayday Parade",
               "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy",
-              "plays": 4
+              "plays": 6
             },
             {
               "id": "7AsPubxWM5tfW4hTZEL3aP",
               "name": "Cute Is What We Aim For",
               "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP",
-              "plays": 3
+              "plays": 7
             },
             {
               "id": "5ojhEavq6altxW8fWIlLum",
@@ -300,7 +300,7 @@
               "id": "591yCCsZCLXvaJ0Rg38vLZ",
               "name": "Senses Fail",
               "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ",
-              "plays": 3
+              "plays": 7
             },
             {
               "id": "34ZLdDJVv5clP7Ask1zjoP",
@@ -342,7 +342,7 @@
               "id": "3GzWhE2xadJiW8MqRKIVSK",
               "name": "Underoath",
               "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "5B2GfbXgossZt9SE08Iqn6",
@@ -648,13 +648,13 @@
               "id": "20JZFwl6HVl6yg8a4H3ZqK",
               "name": "Panic! At The Disco",
               "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "04RtvnUz0XrUbUZzOA8ZoW",
               "name": "Sugarcult",
               "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "74XFHRwlV6OrjEM0A2NCMF",
@@ -666,31 +666,151 @@
               "id": "0vWCyXMrrvMlCcepuOJaGI",
               "name": "BOYS LIKE GIRLS",
               "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI",
-              "plays": 1
+              "plays": 4
             },
             {
               "id": "1SImpQO0GbjRgvlwCcCtFo",
               "name": "The Red Jumpsuit Apparatus",
               "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "3ao3jf5d70Tf4fPh2bnXVl",
               "name": "We The Kings",
               "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "0KDuKk6YdEu3hR56HtXmxt",
               "name": "Story Of The Year",
               "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "46gyXjRIvN1NL1eCB8GBxo",
               "name": "All Time Low",
               "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo",
+              "plays": 7
+            },
+            {
+              "id": "2HSp2S2KwxKE7sASl6bMR9",
+              "name": "A Skylit Drive",
+              "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9",
+              "plays": 1
+            },
+            {
+              "id": "1t0af5EH36iQVJ06XnLDOt",
+              "name": "From Autumn To Ashes",
+              "url": "https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt",
+              "plays": 1
+            },
+            {
+              "id": "7t2C8WwLyKUKRe0LVh8zl9",
+              "name": "blessthefall",
+              "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9",
+              "plays": 1
+            },
+            {
+              "id": "2l7ALCv1HxcE32kc3b7vag",
+              "name": "Greeley Estates",
+              "url": "https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag",
+              "plays": 1
+            },
+            {
+              "id": "5oJ42ItUZElfmXar7MqpgT",
+              "name": "Modern Day Escape",
+              "url": "https://open.spotify.com/artist/5oJ42ItUZElfmXar7MqpgT",
+              "plays": 1
+            },
+            {
+              "id": "7nt6S4klYHg4I7Q4lTSmc0",
+              "name": "Glassjaw",
+              "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0",
+              "plays": 1
+            },
+            {
+              "id": "1fnDlUNi67FQtHHqBl4Yfg",
+              "name": "Alesana",
+              "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg",
+              "plays": 1
+            },
+            {
+              "id": "5AaqnHhrLz7lC1QBqG8i8p",
+              "name": "Confide",
+              "url": "https://open.spotify.com/artist/5AaqnHhrLz7lC1QBqG8i8p",
+              "plays": 1
+            },
+            {
+              "id": "528t5c0zyuG9beehtth4Za",
+              "name": "Finch",
+              "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za",
+              "plays": 2
+            },
+            {
+              "id": "2MHDadaguMvdlKiOFMP4B5",
+              "name": "Broadway",
+              "url": "https://open.spotify.com/artist/2MHDadaguMvdlKiOFMP4B5",
+              "plays": 1
+            },
+            {
+              "id": "5aYf0AInMznHfXGaemKEBv",
+              "name": "Craig Owens",
+              "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv",
+              "plays": 1
+            },
+            {
+              "id": "3vAaWhdBR38Q02ohXqaNHT",
+              "name": "The All-American Rejects",
+              "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT",
+              "plays": 2
+            },
+            {
+              "id": "7FBcuc1gsnv6Y1nwFtNRCb",
+              "name": "My Chemical Romance",
+              "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb",
+              "plays": 1
+            },
+            {
+              "id": "4UXqAaa6dQYAk18Lv7PEgX",
+              "name": "Fall Out Boy",
+              "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX",
               "plays": 3
+            },
+            {
+              "id": "4NiJW4q9ichVqL1aUsgGAN",
+              "name": "A Day To Remember",
+              "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN",
+              "plays": 1
+            },
+            {
+              "id": "19I4tYiChJoxEO5EuviXpz",
+              "name": "AFI",
+              "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz",
+              "plays": 1
+            },
+            {
+              "id": "6FBDaR13swtiWwGhX1WQsP",
+              "name": "blink-182",
+              "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP",
+              "plays": 1
+            },
+            {
+              "id": "1hlXIybvN1I8r3ooBEkYRh",
+              "name": "Juliet Simms",
+              "url": "https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh",
+              "plays": 1
+            },
+            {
+              "id": "1cIpVfuKuPdekPuNqj3icx",
+              "name": "Vic Fuentes",
+              "url": "https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx",
+              "plays": 1
+            },
+            {
+              "id": "5mgr0FFpvy267wKVAYg8qp",
+              "name": "Lit",
+              "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp",
+              "plays": 1
             }
           ],
           "tracks": [
@@ -916,7 +1036,7 @@
               "artist": "Taking Back Sunday",
               "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc",
               "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "429IbFR4yp2J81CeTwF5iY",
@@ -996,7 +1116,7 @@
               "artist": "Mayday Parade",
               "url": "https://open.spotify.com/track/6QitaJF6Vj2O8sxf8VxsRI",
               "image": "https://i.scdn.co/image/ab67616d0000b273f7a58da348455480bf248fd5",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "6uzuW7L1t1UhnzbfXwtMtQ",
@@ -1004,7 +1124,7 @@
               "artist": "Cute Is What We Aim For",
               "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ",
               "image": "https://i.scdn.co/image/ab67616d0000b273364f9ffb7ceaf0e191cdb8c3",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "6IxQ0PdozaZKch1m8tGCwb",
@@ -1260,7 +1380,7 @@
               "artist": "Senses Fail",
               "url": "https://open.spotify.com/track/6ErhIMzMLJ7QFoJmOUamyN",
               "image": "https://i.scdn.co/image/ab67616d0000b273b2a74364c1f622f26b14881e",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5FyALN0Bjs0JXfYu39NhqM",
@@ -2477,20 +2597,372 @@
               "url": "https://open.spotify.com/track/4XrVJUIUKXssr4ZHm5Vztd",
               "image": "https://i.scdn.co/image/ab67616d0000b273d049d4545a7f5cdc2f07eff1",
               "plays": 1
+            },
+            {
+              "id": "0eWCEmTklzDA8u3vWsCWBZ",
+              "title": "The Cali Buds",
+              "artist": "A Skylit Drive",
+              "url": "https://open.spotify.com/track/0eWCEmTklzDA8u3vWsCWBZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b27319958c59035ccf3ec13ea06f",
+              "plays": 1
+            },
+            {
+              "id": "7f2ZnUSNRRaj1pVMmG0Vtm",
+              "title": "Lady in a Blue Dress",
+              "artist": "Senses Fail",
+              "url": "https://open.spotify.com/track/7f2ZnUSNRRaj1pVMmG0Vtm",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b2a74364c1f622f26b14881e",
+              "plays": 1
+            },
+            {
+              "id": "2iEHyjFRMRZFupbhMZbLG1",
+              "title": "Pioneers",
+              "artist": "From Autumn To Ashes",
+              "url": "https://open.spotify.com/track/2iEHyjFRMRZFupbhMZbLG1",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f81889abea79c14dd5db933b",
+              "plays": 1
+            },
+            {
+              "id": "46pBDlSgGAsZ42ufBX9KAh",
+              "title": "40 Days...",
+              "artist": "blessthefall",
+              "url": "https://open.spotify.com/track/46pBDlSgGAsZ42ufBX9KAh",
+              "image": "https://i.scdn.co/image/ab67616d0000b27315d68e5486791f20d5fa7b7f",
+              "plays": 1
+            },
+            {
+              "id": "5wnOQQs68QYuMyWCfv198z",
+              "title": "I've Got Ten Friends And A Crowbar That Says You Ain't Gonna Do Jack",
+              "artist": "Underoath",
+              "url": "https://open.spotify.com/track/5wnOQQs68QYuMyWCfv198z",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733746b3c8cf13de03a610a0e2",
+              "plays": 1
+            },
+            {
+              "id": "7kw1y5LQfNXELwGrKDalxg",
+              "title": "Let The Evil Go East",
+              "artist": "Greeley Estates",
+              "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b3ffe7124a0f6f907db8704b",
+              "plays": 1
+            },
+            {
+              "id": "1ebFxEGc6UUz6IDWhmxrAQ",
+              "title": "March of the Dead",
+              "artist": "Modern Day Escape",
+              "url": "https://open.spotify.com/track/1ebFxEGc6UUz6IDWhmxrAQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738212666ade2a8d1d49cd0911",
+              "plays": 1
+            },
+            {
+              "id": "5VPaXkoOt3rJbVNa1j5wmy",
+              "title": "Let It Enfold You",
+              "artist": "Senses Fail",
+              "url": "https://open.spotify.com/track/5VPaXkoOt3rJbVNa1j5wmy",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b2a74364c1f622f26b14881e",
+              "plays": 1
+            },
+            {
+              "id": "1IqKlSMBlwWF0kxY2fBstA",
+              "title": "Ape Dos Mil",
+              "artist": "Glassjaw",
+              "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ef586b773ef4be09b54adb96",
+              "plays": 1
+            },
+            {
+              "id": "4al2giP30Kv72MO0EV1K34",
+              "title": "Goodbye, Goodnight, For Good",
+              "artist": "Alesana",
+              "url": "https://open.spotify.com/track/4al2giP30Kv72MO0EV1K34",
+              "image": "https://i.scdn.co/image/ab67616d0000b27373760c35bd30c8f8fb5bc018",
+              "plays": 1
+            },
+            {
+              "id": "0KmpAjQ1MNQOOhp0GVlZNo",
+              "title": "My Choice Of Words",
+              "artist": "Confide",
+              "url": "https://open.spotify.com/track/0KmpAjQ1MNQOOhp0GVlZNo",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738285ee96420153a110bd7bdc",
+              "plays": 1
+            },
+            {
+              "id": "0mNq7RNDBjoTqd2XT36qUL",
+              "title": "There Could Be Nothing After This",
+              "artist": "Underoath",
+              "url": "https://open.spotify.com/track/0mNq7RNDBjoTqd2XT36qUL",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732356287844a9caa378291699",
+              "plays": 1
+            },
+            {
+              "id": "093MmGxax3ppg6MrC3LBQZ",
+              "title": "Still Searching",
+              "artist": "Senses Fail",
+              "url": "https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e8455cb8cbc2820fff56c038",
+              "plays": 1
+            },
+            {
+              "id": "2DGFNAg4pTPLFKPeQRbGDZ",
+              "title": "What It Is To Burn - New Version",
+              "artist": "Finch",
+              "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273746fc92b06bbdbe32c9c29e6",
+              "plays": 2
+            },
+            {
+              "id": "0e7Nhkz1m36BjJxlwVUjJh",
+              "title": "Same Thing We Do Everyday Pinky",
+              "artist": "Broadway, Craig Owens",
+              "url": "https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734e6e1264e7b5ea39c7bd2310",
+              "plays": 1
+            },
+            {
+              "id": "7DYWvQ1RS986e59CXJJGxx",
+              "title": "Five Minutes to Midnight",
+              "artist": "BOYS LIKE GIRLS",
+              "url": "https://open.spotify.com/track/7DYWvQ1RS986e59CXJJGxx",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739d5d8ac73325fec119eecfb3",
+              "plays": 2
+            },
+            {
+              "id": "003FTlCpBTM4eSqYSWPv4H",
+              "title": "Swing, Swing",
+              "artist": "The All-American Rejects",
+              "url": "https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H",
+              "image": "https://i.scdn.co/image/ab67616d0000b273eba2acd1d78fc80ed234af0b",
+              "plays": 1
+            },
+            {
+              "id": "7lRlq939cDG4SzWOF4VAnd",
+              "title": "I'm Not Okay (I Promise)",
+              "artist": "My Chemical Romance",
+              "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+              "plays": 1
+            },
+            {
+              "id": "2TfSHkHiFO4gRztVIkggkE",
+              "title": "Sugar, We're Goin Down",
+              "artist": "Fall Out Boy",
+              "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE",
+              "image": "https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5",
+              "plays": 1
+            },
+            {
+              "id": "3vbISsmuO4qLDVYa3y3Kzk",
+              "title": "Secret Valentine",
+              "artist": "We The Kings",
+              "url": "https://open.spotify.com/track/3vbISsmuO4qLDVYa3y3Kzk",
+              "image": "https://i.scdn.co/image/ab67616d0000b273755e80dbfa421c0eea3ded37",
+              "plays": 1
+            },
+            {
+              "id": "0T8P86fvSK8kCUJFYPZbIH",
+              "title": "All Signs Point To Lauderdale",
+              "artist": "A Day To Remember",
+              "url": "https://open.spotify.com/track/0T8P86fvSK8kCUJFYPZbIH",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739233270031da763169e5f96c",
+              "plays": 1
+            },
+            {
+              "id": "1ZiQSh857sjgpXEiGW6GDR",
+              "title": "She's the Blade",
+              "artist": "Sugarcult",
+              "url": "https://open.spotify.com/track/1ZiQSh857sjgpXEiGW6GDR",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d0c4b14b57f31b349fe36d1c",
+              "plays": 1
+            },
+            {
+              "id": "0Ti2dlF2xLjXblvdU5fCxM",
+              "title": "Miss Murder",
+              "artist": "AFI",
+              "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736c050d183c1fff7158c7bcd3",
+              "plays": 1
+            },
+            {
+              "id": "0a7BloCiNzLDD9qSQHh5m7",
+              "title": "Dance, Dance",
+              "artist": "Fall Out Boy",
+              "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7",
+              "image": "https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5",
+              "plays": 1
+            },
+            {
+              "id": "1uVll3x5QBjHNEwU6ENwTy",
+              "title": "Hero / Heroine - Tom Lord-Alge Mix",
+              "artist": "BOYS LIKE GIRLS",
+              "url": "https://open.spotify.com/track/1uVll3x5QBjHNEwU6ENwTy",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739d5d8ac73325fec119eecfb3",
+              "plays": 1
+            },
+            {
+              "id": "2ZnvQmwIjlI2gcfryPksn0",
+              "title": "Risque",
+              "artist": "Cute Is What We Aim For",
+              "url": "https://open.spotify.com/track/2ZnvQmwIjlI2gcfryPksn0",
+              "image": "https://i.scdn.co/image/ab67616d0000b273364f9ffb7ceaf0e191cdb8c3",
+              "plays": 1
+            },
+            {
+              "id": "0N90pptABhFyr1axONlIEB",
+              "title": "London Beckoned Songs About Money Written by Machines",
+              "artist": "Panic! At The Disco",
+              "url": "https://open.spotify.com/track/0N90pptABhFyr1axONlIEB",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733ab3ff3559d2664560e1fdb4",
+              "plays": 1
+            },
+            {
+              "id": "4CDlYQu16nUtVGwgwqj3I3",
+              "title": "Damned If I Do Ya (Damned If I Don't)",
+              "artist": "All Time Low",
+              "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3",
+              "image": "https://i.scdn.co/image/ab67616d0000b27324889965c2b453cbd439a7f6",
+              "plays": 1
+            },
+            {
+              "id": "26AYR77170U49cMcXB7aRV",
+              "title": "Feeling This",
+              "artist": "blink-182",
+              "url": "https://open.spotify.com/track/26AYR77170U49cMcXB7aRV",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730538b48c180256e0bdd8363f",
+              "plays": 1
+            },
+            {
+              "id": "3JOdLCIBzQYwHIvpN3isVf",
+              "title": "Grand Theft Autumn / Where Is Your Boy",
+              "artist": "Fall Out Boy",
+              "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b3e13979bf4f6515020fbaea",
+              "plays": 1
+            },
+            {
+              "id": "6NP5mne71yGCzjQWr6jQ7S",
+              "title": "Black Cat",
+              "artist": "Mayday Parade",
+              "url": "https://open.spotify.com/track/6NP5mne71yGCzjQWr6jQ7S",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f7a58da348455480bf248fd5",
+              "plays": 1
+            },
+            {
+              "id": "6swgdxSkt9kxJDPvyjKRif",
+              "title": "Waiting - Alliance Edition",
+              "artist": "The Red Jumpsuit Apparatus",
+              "url": "https://open.spotify.com/track/6swgdxSkt9kxJDPvyjKRif",
+              "image": "https://i.scdn.co/image/ab67616d0000b27377bef9d2785481a74fe33003",
+              "plays": 1
+            },
+            {
+              "id": "2qxXypNXOJZ5qUFdpzJ56n",
+              "title": "Remembering Sunday",
+              "artist": "All Time Low, Juliet Simms",
+              "url": "https://open.spotify.com/track/2qxXypNXOJZ5qUFdpzJ56n",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c8913cd7b91bb7f6bbbec305",
+              "plays": 1
+            },
+            {
+              "id": "7BWRB2MRG3vtAlVCxEgp3r",
+              "title": "Navigate Me",
+              "artist": "Cute Is What We Aim For",
+              "url": "https://open.spotify.com/track/7BWRB2MRG3vtAlVCxEgp3r",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738b9fe5f06c95f49b111472e5",
+              "plays": 1
+            },
+            {
+              "id": "35fOoTvFme2VjutXS6G01f",
+              "title": "Move Along",
+              "artist": "The All-American Rejects",
+              "url": "https://open.spotify.com/track/35fOoTvFme2VjutXS6G01f",
+              "image": "https://i.scdn.co/image/ab67616d0000b27305b9e4f856db958eacdb7cb3",
+              "plays": 1
+            },
+            {
+              "id": "2UVY6DZVBuGUKWKqKqJsbB",
+              "title": "Skyway Avenue",
+              "artist": "We The Kings",
+              "url": "https://open.spotify.com/track/2UVY6DZVBuGUKWKqKqJsbB",
+              "image": "https://i.scdn.co/image/ab67616d0000b273755e80dbfa421c0eea3ded37",
+              "plays": 1
+            },
+            {
+              "id": "0TPF6uW7fhMXJPoBERqTy5",
+              "title": "A Love Like War (feat. Vic Fuentes)",
+              "artist": "All Time Low, Vic Fuentes",
+              "url": "https://open.spotify.com/track/0TPF6uW7fhMXJPoBERqTy5",
+              "image": "https://i.scdn.co/image/ab67616d0000b273754c9ec4b5330223baa55db1",
+              "plays": 1
+            },
+            {
+              "id": "1S30kHvkkdMkcuCTGSgS41",
+              "title": "Nine in the Afternoon - Single Mix",
+              "artist": "Panic! At The Disco",
+              "url": "https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41",
+              "image": "https://i.scdn.co/image/ab67616d0000b273586acdba3a0ddc93693a313e",
+              "plays": 1
+            },
+            {
+              "id": "44HdPuYShZtHgSqn7kssgT",
+              "title": "Damn Regret",
+              "artist": "The Red Jumpsuit Apparatus",
+              "url": "https://open.spotify.com/track/44HdPuYShZtHgSqn7kssgT",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f98edbc89407338a90437d34",
+              "plays": 1
+            },
+            {
+              "id": "3j1HTRodSjGtK3YsYMI0XF",
+              "title": "Coffee Shop Soundtrack",
+              "artist": "All Time Low",
+              "url": "https://open.spotify.com/track/3j1HTRodSjGtK3YsYMI0XF",
+              "image": "https://i.scdn.co/image/ab67616d0000b273466829e3112c361f1b00f4a0",
+              "plays": 1
+            },
+            {
+              "id": "4Y9SvDoZpyuaulD7XAfcUH",
+              "title": "Take Me Back",
+              "artist": "Story Of The Year",
+              "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736c006ad8cd8553e7ae5b2ff6",
+              "plays": 1
+            },
+            {
+              "id": "2gyknQOJvwglY6WUOJvDv1",
+              "title": "Pretty Girl (The Way)",
+              "artist": "Sugarcult",
+              "url": "https://open.spotify.com/track/2gyknQOJvwglY6WUOJvDv1",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732b49b88db9fef40e934b6962",
+              "plays": 1
+            },
+            {
+              "id": "52w6Tel3kqVMA0uvKXtkaO",
+              "title": "Teasing to Please (Left Side, Strong Side)",
+              "artist": "Cute Is What We Aim For",
+              "url": "https://open.spotify.com/track/52w6Tel3kqVMA0uvKXtkaO",
+              "image": "https://i.scdn.co/image/ab67616d0000b273364f9ffb7ceaf0e191cdb8c3",
+              "plays": 1
+            },
+            {
+              "id": "33iv3wnGMrrDugd7GBso1z",
+              "title": "My Own Worst Enemy",
+              "artist": "Lit",
+              "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-24T16:35:53.673Z",
+      "lastPlayedAt": "2026-09-25T15:58:07.260Z",
       "lastKeys": [
-        "[1790267753673,\"70MLCfNoBdpSFjlvVTQE7c\"]"
+        "[1790351887260,\"0eWCEmTklzDA8u3vWsCWBZ\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-24T16:35:53.673Z"
+      "through": "2026-09-25T15:58:07.260Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-24T17:12:43.252Z",
-    "updatedAt": "2026-09-24T17:12:43.252Z"
+    "checkedAt": "2026-09-25T17:12:44.911Z",
+    "updatedAt": "2026-09-25T17:12:44.911Z"
   },
   "github": {
     "events": [
@@ -2538,8 +3010,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-24T17:12:43.252Z",
-    "updatedAt": "2026-09-24T17:12:43.252Z"
+    "checkedAt": "2026-09-25T17:12:44.911Z",
+    "updatedAt": "2026-09-25T17:12:44.911Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -2549,156 +3021,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-24T17:12:44.200Z",
+    "snapshotAt": "2026-09-25T17:12:45.950Z",
     "skills": [
       {
         "key": "overall",
         "value": 1770,
-        "rank": 184444,
-        "xp": 33640032
+        "rank": 184528,
+        "xp": 33675061
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 233436,
-        "xp": 1109694
+        "rank": 233498,
+        "xp": 1110298
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212835,
-        "xp": 1145775
+        "rank": 212826,
+        "xp": 1149821
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 227698,
+        "rank": 227776,
         "xp": 2445837
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 215817,
-        "xp": 2745213
+        "rank": 215662,
+        "xp": 2754409
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 231961,
-        "xp": 1397073
+        "rank": 231457,
+        "xp": 1407893
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173406,
+        "rank": 173483,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177401,
-        "xp": 3022824
+        "rank": 177323,
+        "xp": 3028217
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 263932,
-        "xp": 820087
+        "rank": 263694,
+        "xp": 821467
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 273879,
-        "xp": 862971
+        "rank": 273875,
+        "xp": 863271
       },
       {
         "key": "fletching",
         "value": 68,
-        "rank": 260070,
+        "rank": 260082,
         "xp": 652313
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 295062,
-        "xp": 816852
+        "rank": 294908,
+        "xp": 817652
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196855,
+        "rank": 196656,
         "xp": 6712942
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 216099,
-        "xp": 851978
+        "rank": 216103,
+        "xp": 853018
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197753,
-        "xp": 852983
+        "rank": 197686,
+        "xp": 854023
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 268814,
-        "xp": 931823
+        "rank": 268768,
+        "xp": 932103
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 177107,
-        "xp": 876743
+        "rank": 177173,
+        "xp": 876833
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 160041,
+        "rank": 159957,
         "xp": 1437685
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 237293,
+        "rank": 237344,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 207705,
+        "rank": 207767,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190442,
-        "xp": 1560433
+        "rank": 190497,
+        "xp": 1560473
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 148936,
+        "rank": 148944,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 232265,
+        "rank": 232314,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 162193,
+        "rank": 162272,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 90903,
+        "rank": 91074,
         "xp": 404536
       }
     ],
@@ -2711,27 +3183,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 147093
+        "rank": 147146
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 51879
+        "rank": 51942
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80430
+        "rank": 80474
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89449
+        "rank": 89460
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59096
+        "rank": 59114
       },
       {
         "key": "giant_mole",
@@ -2741,17 +3213,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137725
+        "rank": 137777
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 88578
+        "rank": 88658
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 29350
+        "rank": 29521
       },
       {
         "key": "obor",
@@ -2761,12 +3233,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78688
+        "rank": 78733
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 106994
+        "rank": 106963
       },
       {
         "key": "the_gauntlet",
@@ -2775,8 +3247,8 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 57,
-        "rank": 96339
+        "value": 60,
+        "rank": 95917
       },
       {
         "key": "the_royal_titans",
@@ -2791,12 +3263,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163860
+        "rank": 163670
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49534
+        "rank": 49554
       }
     ],
     "activities": [
@@ -2813,27 +3285,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 158150
+        "rank": 158202
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91364
+        "rank": 91407
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116131
+        "rank": 116171
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149081
+        "rank": 149136
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 161965
+        "rank": 161994
       },
       {
         "key": "clue_scrolls_elite",
@@ -2848,7 +3320,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82184
+        "rank": 82161
       },
       {
         "key": "pvp_arena",
@@ -2863,7 +3335,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 115923
+        "rank": 115929
       },
       {
         "key": "colosseum_glory",
@@ -2877,8 +3349,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-24T17:12:43.252Z",
-    "updatedAt": "2026-09-24T17:12:43.252Z"
+    "checkedAt": "2026-09-25T17:12:44.911Z",
+    "updatedAt": "2026-09-25T17:12:44.911Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -3820,7 +4292,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-24T17:12:43.252Z",
-    "updatedAt": "2026-09-24T17:12:43.252Z"
+    "checkedAt": "2026-09-25T17:12:44.911Z",
+    "updatedAt": "2026-09-25T17:12:44.911Z"
   }
 }
