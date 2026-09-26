@@ -1,10 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-25T17:12:44.911Z",
+  "generatedAt": "2026-09-26T16:25:00.475Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "0bGImSqDB2ebdeoCidUC8o",
+        "title": "BLACKOUT",
+        "artist": "Turnstile",
+        "album": "GLOW ON",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c11ba539d58741bbd1332c92",
+        "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o",
+        "durationMs": 173279,
+        "playedAt": "2026-09-25T22:19:24.404Z"
+      },
+      {
+        "id": "6bTAz3pg5ywBeZHCQoleJB",
+        "title": "Doorman",
+        "artist": "slowthai, Mura Masa",
+        "album": "Nothing Great About Britain",
+        "image": "https://i.scdn.co/image/ab67616d0000b273499c0dfa843c625707a62747",
+        "url": "https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB",
+        "durationMs": 184201,
+        "playedAt": "2026-09-25T22:16:30.611Z"
+      },
+      {
+        "id": "0C71NJD4BhvPopTwI7a8KV",
+        "title": "Seven Years",
+        "artist": "Saosin",
+        "album": "Translating the Name",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733e5b2d0d373f0b902a93b91a",
+        "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV",
+        "durationMs": 192786,
+        "playedAt": "2026-09-25T22:13:26.617Z"
+      },
+      {
+        "id": "7hZ1JuwJm4hZsS8IHnKDt3",
+        "title": "Note to Self",
+        "artist": "From First To Last",
+        "album": "Dear Diary, My Teen Angst Has A Body Count",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e4144506ed8ed561e3d518d4",
+        "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3",
+        "durationMs": 233762,
+        "playedAt": "2026-09-25T18:35:57.026Z"
+      },
+      {
+        "id": "65S0TWz3qzxkWZDbq849Zr",
+        "title": "Delete, Repeat",
+        "artist": "Confide",
+        "album": "Recover",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738285ee96420153a110bd7bdc",
+        "url": "https://open.spotify.com/track/65S0TWz3qzxkWZDbq849Zr",
+        "durationMs": 161893,
+        "playedAt": "2026-09-25T18:32:02.691Z"
+      },
+      {
+        "id": "6MdAoknD4tWcqYm7J0SQGh",
+        "title": "It's Dangerous Business Walking Out Your Front Door",
+        "artist": "Underoath",
+        "album": "They're Only Chasing Safety",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c05f1b9f41f21afa225ce2ae",
+        "url": "https://open.spotify.com/track/6MdAoknD4tWcqYm7J0SQGh",
+        "durationMs": 238573,
+        "playedAt": "2026-09-25T18:29:20.282Z"
+      },
+      {
+        "id": "4HEsfjwdNYA1rVNRuvQQaK",
+        "title": "The Webs We Weave",
+        "artist": "Escape the Fate",
+        "album": "Dying Is Your Latest Fashion",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732541614ba5551322c8a1a478",
+        "url": "https://open.spotify.com/track/4HEsfjwdNYA1rVNRuvQQaK",
+        "durationMs": 173733,
+        "playedAt": "2026-09-25T18:25:21.706Z"
+      },
       {
         "id": "0eWCEmTklzDA8u3vWsCWBZ",
         "title": "The Cali Buds",
@@ -14,83 +84,13 @@
         "url": "https://open.spotify.com/track/0eWCEmTklzDA8u3vWsCWBZ",
         "durationMs": 218520,
         "playedAt": "2026-09-25T15:58:07.260Z"
-      },
-      {
-        "id": "7f2ZnUSNRRaj1pVMmG0Vtm",
-        "title": "Lady in a Blue Dress",
-        "artist": "Senses Fail",
-        "album": "Let It Enfold You",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b2a74364c1f622f26b14881e",
-        "url": "https://open.spotify.com/track/7f2ZnUSNRRaj1pVMmG0Vtm",
-        "durationMs": 198053,
-        "playedAt": "2026-09-25T15:54:28.230Z"
-      },
-      {
-        "id": "2iEHyjFRMRZFupbhMZbLG1",
-        "title": "Pioneers",
-        "artist": "From Autumn To Ashes",
-        "album": "Holding a Wolf By the Ears (Bonus Version)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f81889abea79c14dd5db933b",
-        "url": "https://open.spotify.com/track/2iEHyjFRMRZFupbhMZbLG1",
-        "durationMs": 222133,
-        "playedAt": "2026-09-25T15:51:09.600Z"
-      },
-      {
-        "id": "46pBDlSgGAsZ42ufBX9KAh",
-        "title": "40 Days...",
-        "artist": "blessthefall",
-        "album": "Awakening",
-        "image": "https://i.scdn.co/image/ab67616d0000b27315d68e5486791f20d5fa7b7f",
-        "url": "https://open.spotify.com/track/46pBDlSgGAsZ42ufBX9KAh",
-        "durationMs": 258399,
-        "playedAt": "2026-09-25T15:47:26.926Z"
-      },
-      {
-        "id": "5wnOQQs68QYuMyWCfv198z",
-        "title": "I've Got Ten Friends And A Crowbar That Says You Ain't Gonna Do Jack",
-        "artist": "Underoath",
-        "album": "I've Got Ten Friends And A Crowbar That Says You Ain't Gonna Do Jack",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733746b3c8cf13de03a610a0e2",
-        "url": "https://open.spotify.com/track/5wnOQQs68QYuMyWCfv198z",
-        "durationMs": 300680,
-        "playedAt": "2026-09-25T15:43:08.037Z"
-      },
-      {
-        "id": "7kw1y5LQfNXELwGrKDalxg",
-        "title": "Let The Evil Go East",
-        "artist": "Greeley Estates",
-        "album": "Go West Young Man, Let The Evil Go East",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b3ffe7124a0f6f907db8704b",
-        "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg",
-        "durationMs": 200680,
-        "playedAt": "2026-09-25T15:38:06.815Z"
-      },
-      {
-        "id": "1ebFxEGc6UUz6IDWhmxrAQ",
-        "title": "March of the Dead",
-        "artist": "Modern Day Escape",
-        "album": "Modern Day Escape EP",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738212666ade2a8d1d49cd0911",
-        "url": "https://open.spotify.com/track/1ebFxEGc6UUz6IDWhmxrAQ",
-        "durationMs": 284053,
-        "playedAt": "2026-09-25T15:34:45.697Z"
-      },
-      {
-        "id": "5VPaXkoOt3rJbVNa1j5wmy",
-        "title": "Let It Enfold You",
-        "artist": "Senses Fail",
-        "album": "Let It Enfold You",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b2a74364c1f622f26b14881e",
-        "url": "https://open.spotify.com/track/5VPaXkoOt3rJbVNa1j5wmy",
-        "durationMs": 303760,
-        "playedAt": "2026-09-25T15:30:01.088Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 310,
+          "plays": 317,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -168,7 +168,7 @@
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
               "name": "Saosin",
               "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "168dgYui7ExaU612eooDF1",
@@ -192,7 +192,7 @@
               "id": "5ojhEavq6altxW8fWIlLum",
               "name": "Escape the Fate",
               "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "14NIQxiBiZtbmZMXUwS6KD",
@@ -342,7 +342,7 @@
               "id": "3GzWhE2xadJiW8MqRKIVSK",
               "name": "Underoath",
               "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "5B2GfbXgossZt9SE08Iqn6",
@@ -738,7 +738,7 @@
               "id": "5AaqnHhrLz7lC1QBqG8i8p",
               "name": "Confide",
               "url": "https://open.spotify.com/artist/5AaqnHhrLz7lC1QBqG8i8p",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "528t5c0zyuG9beehtth4Za",
@@ -810,6 +810,30 @@
               "id": "5mgr0FFpvy267wKVAYg8qp",
               "name": "Lit",
               "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp",
+              "plays": 1
+            },
+            {
+              "id": "2qnpHrOzdmOo1S4ox3j17x",
+              "name": "Turnstile",
+              "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x",
+              "plays": 1
+            },
+            {
+              "id": "3r1XkJ7vCs8kHBSzGvPLdP",
+              "name": "slowthai",
+              "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP",
+              "plays": 1
+            },
+            {
+              "id": "5Q81rlcTFh3k6DQJXPdsot",
+              "name": "Mura Masa",
+              "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot",
+              "plays": 1
+            },
+            {
+              "id": "5n71fmAB8Un2IfAPn64erN",
+              "name": "From First To Last",
+              "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN",
               "plays": 1
             }
           ],
@@ -2949,20 +2973,76 @@
               "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z",
               "image": "https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed",
               "plays": 1
+            },
+            {
+              "id": "0bGImSqDB2ebdeoCidUC8o",
+              "title": "BLACKOUT",
+              "artist": "Turnstile",
+              "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c11ba539d58741bbd1332c92",
+              "plays": 1
+            },
+            {
+              "id": "6bTAz3pg5ywBeZHCQoleJB",
+              "title": "Doorman",
+              "artist": "slowthai, Mura Masa",
+              "url": "https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB",
+              "image": "https://i.scdn.co/image/ab67616d0000b273499c0dfa843c625707a62747",
+              "plays": 1
+            },
+            {
+              "id": "0C71NJD4BhvPopTwI7a8KV",
+              "title": "Seven Years",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e5b2d0d373f0b902a93b91a",
+              "plays": 1
+            },
+            {
+              "id": "7hZ1JuwJm4hZsS8IHnKDt3",
+              "title": "Note to Self",
+              "artist": "From First To Last",
+              "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e4144506ed8ed561e3d518d4",
+              "plays": 1
+            },
+            {
+              "id": "65S0TWz3qzxkWZDbq849Zr",
+              "title": "Delete, Repeat",
+              "artist": "Confide",
+              "url": "https://open.spotify.com/track/65S0TWz3qzxkWZDbq849Zr",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738285ee96420153a110bd7bdc",
+              "plays": 1
+            },
+            {
+              "id": "6MdAoknD4tWcqYm7J0SQGh",
+              "title": "It's Dangerous Business Walking Out Your Front Door",
+              "artist": "Underoath",
+              "url": "https://open.spotify.com/track/6MdAoknD4tWcqYm7J0SQGh",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c05f1b9f41f21afa225ce2ae",
+              "plays": 1
+            },
+            {
+              "id": "4HEsfjwdNYA1rVNRuvQQaK",
+              "title": "The Webs We Weave",
+              "artist": "Escape the Fate",
+              "url": "https://open.spotify.com/track/4HEsfjwdNYA1rVNRuvQQaK",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732541614ba5551322c8a1a478",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-25T15:58:07.260Z",
+      "lastPlayedAt": "2026-09-25T22:19:24.404Z",
       "lastKeys": [
-        "[1790351887260,\"0eWCEmTklzDA8u3vWsCWBZ\"]"
+        "[1790374764404,\"0bGImSqDB2ebdeoCidUC8o\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-25T15:58:07.260Z"
+      "through": "2026-09-25T22:19:24.404Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-25T17:12:44.911Z",
-    "updatedAt": "2026-09-25T17:12:44.911Z"
+    "checkedAt": "2026-09-26T16:25:00.475Z",
+    "updatedAt": "2026-09-26T16:25:00.475Z"
   },
   "github": {
     "events": [
@@ -3010,8 +3090,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-25T17:12:44.911Z",
-    "updatedAt": "2026-09-25T17:12:44.911Z"
+    "checkedAt": "2026-09-26T16:25:00.475Z",
+    "updatedAt": "2026-09-26T16:25:00.475Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -3021,156 +3101,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-25T17:12:45.950Z",
+    "snapshotAt": "2026-09-26T16:25:02.643Z",
     "skills": [
       {
         "key": "overall",
         "value": 1770,
-        "rank": 184528,
-        "xp": 33675061
+        "rank": 184630,
+        "xp": 33676036
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 233498,
+        "rank": 233600,
         "xp": 1110298
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212826,
+        "rank": 212914,
         "xp": 1149821
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 227776,
+        "rank": 227914,
         "xp": 2445837
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 215662,
+        "rank": 215778,
         "xp": 2754409
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 231457,
+        "rank": 231554,
         "xp": 1407893
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173483,
+        "rank": 173571,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177323,
-        "xp": 3028217
+        "rank": 177409,
+        "xp": 3029192
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 263694,
+        "rank": 263821,
         "xp": 821467
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 273875,
+        "rank": 273984,
         "xp": 863271
       },
       {
         "key": "fletching",
         "value": 68,
-        "rank": 260082,
+        "rank": 260209,
         "xp": 652313
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294908,
+        "rank": 294998,
         "xp": 817652
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196656,
+        "rank": 196715,
         "xp": 6712942
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 216103,
+        "rank": 216208,
         "xp": 853018
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197686,
+        "rank": 197794,
         "xp": 854023
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 268768,
+        "rank": 268881,
         "xp": 932103
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 177173,
+        "rank": 177264,
         "xp": 876833
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 159957,
+        "rank": 160019,
         "xp": 1437685
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 237344,
+        "rank": 237458,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 207767,
+        "rank": 207846,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190497,
+        "rank": 190577,
         "xp": 1560473
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 148944,
+        "rank": 149005,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 232314,
+        "rank": 232422,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 162272,
+        "rank": 162368,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 91074,
+        "rank": 91211,
         "xp": 404536
       }
     ],
@@ -3183,27 +3263,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 147146
+        "rank": 147207
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 51942
+        "rank": 52036
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80474
+        "rank": 80523
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89460
+        "rank": 89497
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59114
+        "rank": 59135
       },
       {
         "key": "giant_mole",
@@ -3213,17 +3293,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137777
+        "rank": 137829
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 88658
+        "rank": 88762
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 29521
+        "rank": 29678
       },
       {
         "key": "obor",
@@ -3233,12 +3313,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78733
+        "rank": 78782
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 106963
+        "rank": 107040
       },
       {
         "key": "the_gauntlet",
@@ -3248,7 +3328,7 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 60,
-        "rank": 95917
+        "rank": 95962
       },
       {
         "key": "the_royal_titans",
@@ -3263,12 +3343,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163670
+        "rank": 163719
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49554
+        "rank": 49575
       }
     ],
     "activities": [
@@ -3285,27 +3365,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 158202
+        "rank": 158268
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91407
+        "rank": 91449
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116171
+        "rank": 116196
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149136
+        "rank": 149186
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 161994
+        "rank": 162030
       },
       {
         "key": "clue_scrolls_elite",
@@ -3320,7 +3400,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82161
+        "rank": 82167
       },
       {
         "key": "pvp_arena",
@@ -3335,7 +3415,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 115929
+        "rank": 115999
       },
       {
         "key": "colosseum_glory",
@@ -3349,8 +3429,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-25T17:12:44.911Z",
-    "updatedAt": "2026-09-25T17:12:44.911Z"
+    "checkedAt": "2026-09-26T16:25:00.475Z",
+    "updatedAt": "2026-09-26T16:25:00.475Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -4292,7 +4372,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-25T17:12:44.911Z",
-    "updatedAt": "2026-09-25T17:12:44.911Z"
+    "checkedAt": "2026-09-26T16:25:00.475Z",
+    "updatedAt": "2026-09-26T16:25:00.475Z"
   }
 }
