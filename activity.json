@@ -1,96 +1,96 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-27T16:58:48.419Z",
+  "generatedAt": "2026-09-28T19:41:06.905Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "3jlacMjHZ9VGCOmz5CjHE0",
-        "title": "Homie Don’t Shake",
-        "artist": "Fcukers",
-        "album": "Homie Don’t Shake",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bcc6eac6287546942fb73204",
-        "url": "https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0",
-        "durationMs": 176213,
-        "playedAt": "2026-09-26T15:44:39.132Z"
+        "id": "7o2CcBCoun96kz0ElBTXkv",
+        "title": "And You Know It",
+        "artist": "Love Rarely",
+        "album": "And You Know It",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a127a6f2a64ac9ab1acd86c",
+        "url": "https://open.spotify.com/track/7o2CcBCoun96kz0ElBTXkv",
+        "durationMs": 198775,
+        "playedAt": "2026-09-28T17:58:54.298Z"
       },
       {
-        "id": "0bGImSqDB2ebdeoCidUC8o",
-        "title": "BLACKOUT",
-        "artist": "Turnstile",
-        "album": "GLOW ON",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c11ba539d58741bbd1332c92",
-        "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o",
-        "durationMs": 173279,
-        "playedAt": "2026-09-25T22:19:24.404Z"
+        "id": "2nVtRRozQdPbCTOM3lKtcp",
+        "title": "May this pain never leave",
+        "artist": "Boundaries",
+        "album": "May this pain never leave",
+        "image": "https://i.scdn.co/image/ab67616d0000b273686850ea4663ddfa847e2309",
+        "url": "https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp",
+        "durationMs": 205466,
+        "playedAt": "2026-09-28T17:55:34.938Z"
       },
       {
-        "id": "6bTAz3pg5ywBeZHCQoleJB",
-        "title": "Doorman",
-        "artist": "slowthai, Mura Masa",
-        "album": "Nothing Great About Britain",
-        "image": "https://i.scdn.co/image/ab67616d0000b273499c0dfa843c625707a62747",
-        "url": "https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB",
-        "durationMs": 184201,
-        "playedAt": "2026-09-25T22:16:30.611Z"
+        "id": "6zpSvSBqQL8u3RS4mUYfEd",
+        "title": "evil cute angel bb",
+        "artist": "AMARA ctk100, DBBD",
+        "album": "evil cute angel bb",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c95e701ea45e0e08aba96ff3",
+        "url": "https://open.spotify.com/track/6zpSvSBqQL8u3RS4mUYfEd",
+        "durationMs": 203089,
+        "playedAt": "2026-09-28T17:52:08.957Z"
       },
       {
-        "id": "0C71NJD4BhvPopTwI7a8KV",
-        "title": "Seven Years",
-        "artist": "Saosin",
-        "album": "Translating the Name",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733e5b2d0d373f0b902a93b91a",
-        "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV",
-        "durationMs": 192786,
-        "playedAt": "2026-09-25T22:13:26.617Z"
+        "id": "4bkPAARkDov1lV05emEF7a",
+        "title": "Soft Spine",
+        "artist": "Spiritbox",
+        "album": "Tsunami Sea",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ca5c3280d995a78c34bdf210",
+        "url": "https://open.spotify.com/track/4bkPAARkDov1lV05emEF7a",
+        "durationMs": 183990,
+        "playedAt": "2026-09-28T14:50:25.376Z"
       },
       {
-        "id": "7hZ1JuwJm4hZsS8IHnKDt3",
-        "title": "Note to Self",
-        "artist": "From First To Last",
-        "album": "Dear Diary, My Teen Angst Has A Body Count",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e4144506ed8ed561e3d518d4",
-        "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3",
-        "durationMs": 233762,
-        "playedAt": "2026-09-25T18:35:57.026Z"
+        "id": "1LLiDI21J4WWlmqk7zsm9v",
+        "title": "Holy Roller",
+        "artist": "Spiritbox",
+        "album": "Eternal Blue",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733e234c82f96fa4ded8e5ca47",
+        "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v",
+        "durationMs": 173174,
+        "playedAt": "2026-09-28T14:47:20.811Z"
       },
       {
-        "id": "65S0TWz3qzxkWZDbq849Zr",
-        "title": "Delete, Repeat",
-        "artist": "Confide",
-        "album": "Recover",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738285ee96420153a110bd7bdc",
-        "url": "https://open.spotify.com/track/65S0TWz3qzxkWZDbq849Zr",
-        "durationMs": 161893,
-        "playedAt": "2026-09-25T18:32:02.691Z"
+        "id": "0qZ03ABKZsGbGhvh1zbbil",
+        "title": "Sun Killer",
+        "artist": "Spiritbox",
+        "album": "Eternal Blue",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733e234c82f96fa4ded8e5ca47",
+        "url": "https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil",
+        "durationMs": 227477,
+        "playedAt": "2026-09-28T14:44:27.108Z"
       },
       {
-        "id": "6MdAoknD4tWcqYm7J0SQGh",
-        "title": "It's Dangerous Business Walking Out Your Front Door",
-        "artist": "Underoath",
-        "album": "They're Only Chasing Safety",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c05f1b9f41f21afa225ce2ae",
-        "url": "https://open.spotify.com/track/6MdAoknD4tWcqYm7J0SQGh",
-        "durationMs": 238573,
-        "playedAt": "2026-09-25T18:29:20.282Z"
+        "id": "6IdyYbGg1jxiWhfwm2Ykjn",
+        "title": "Jaded",
+        "artist": "Spiritbox",
+        "album": "Jaded",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738515be38589bf130a2f535e1",
+        "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn",
+        "durationMs": 262631,
+        "playedAt": "2026-09-28T14:40:39.125Z"
       },
       {
-        "id": "4HEsfjwdNYA1rVNRuvQQaK",
-        "title": "The Webs We Weave",
-        "artist": "Escape the Fate",
-        "album": "Dying Is Your Latest Fashion",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732541614ba5551322c8a1a478",
-        "url": "https://open.spotify.com/track/4HEsfjwdNYA1rVNRuvQQaK",
-        "durationMs": 173733,
-        "playedAt": "2026-09-25T18:25:21.706Z"
+        "id": "5zwngdtBYzTqYJT9gXxAdF",
+        "title": "Mourning",
+        "artist": "Spiritbox",
+        "album": "Mourning",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f978e5dca246425572e9b73",
+        "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF",
+        "durationMs": 256024,
+        "playedAt": "2026-09-28T14:35:32.880Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 318,
+          "plays": 341,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -168,7 +168,7 @@
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
               "name": "Saosin",
               "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
-              "plays": 4
+              "plays": 5
             },
             {
               "id": "168dgYui7ExaU612eooDF1",
@@ -198,7 +198,7 @@
               "id": "14NIQxiBiZtbmZMXUwS6KD",
               "name": "Dead Poetic",
               "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD",
-              "plays": 15
+              "plays": 16
             },
             {
               "id": "78ZgfyDjF59qBIWrGHRdme",
@@ -210,7 +210,7 @@
               "id": "3UtzOHYm3lQALkKzVD4wyO",
               "name": "Fcukers",
               "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "6DlHoO5AWaPN0sLDws9Fyo",
@@ -264,7 +264,7 @@
               "id": "1HY2Jd0NmPuamShAr6KMms",
               "name": "Lady Gaga",
               "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "0TnOYISbd1XYRBk9myaseg",
@@ -510,7 +510,7 @@
               "id": "3vfL7qtWVnyObFrObnBkmM",
               "name": "Love Rarely",
               "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM",
-              "plays": 20
+              "plays": 21
             },
             {
               "id": "5yvGiZLSWJTPBlZpVbPnEZ",
@@ -834,6 +834,78 @@
               "id": "5n71fmAB8Un2IfAPn64erN",
               "name": "From First To Last",
               "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN",
+              "plays": 1
+            },
+            {
+              "id": "7a29ko2je7GUMrbmwn4t3I",
+              "name": "Boundaries",
+              "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I",
+              "plays": 1
+            },
+            {
+              "id": "6g40AmE4t6z5wPuFbytdsy",
+              "name": "AMARA ctk100",
+              "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy",
+              "plays": 2
+            },
+            {
+              "id": "69UVGTxhvI9zrl4tVafMgC",
+              "name": "DBBD",
+              "url": "https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC",
+              "plays": 2
+            },
+            {
+              "id": "4MzJMcHQBl9SIYSjwWn8QW",
+              "name": "Spiritbox",
+              "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW",
+              "plays": 6
+            },
+            {
+              "id": "0znuUIjvP0LXEslfaq0Nor",
+              "name": "Citizen",
+              "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor",
+              "plays": 1
+            },
+            {
+              "id": "4feAxLUxIU7G4KXhH0h2ni",
+              "name": "Emery",
+              "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni",
+              "plays": 1
+            },
+            {
+              "id": "0Fvioi4bZVGbxPu7H2sowS",
+              "name": "Secret & Whisper",
+              "url": "https://open.spotify.com/artist/0Fvioi4bZVGbxPu7H2sowS",
+              "plays": 1
+            },
+            {
+              "id": "6VR4TJ20WGiho2xZWMuuWb",
+              "name": "Lambrini Girls",
+              "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb",
+              "plays": 2
+            },
+            {
+              "id": "6Pe4yRmkf0s8kgf2LljFKu",
+              "name": "Millaze",
+              "url": "https://open.spotify.com/artist/6Pe4yRmkf0s8kgf2LljFKu",
+              "plays": 1
+            },
+            {
+              "id": "2Q3eZMfDQgT8MhPowKFXYO",
+              "name": "t.A.T.u.",
+              "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO",
+              "plays": 1
+            },
+            {
+              "id": "00FQb4jTyendYWaN8pK0wa",
+              "name": "Lana Del Rey",
+              "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
+              "plays": 1
+            },
+            {
+              "id": "5GSSYBJxAbpSyj2w2vr5Cp",
+              "name": "Cowboy Hunters",
+              "url": "https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp",
               "plays": 1
             }
           ],
@@ -1428,7 +1500,7 @@
               "artist": "Dead Poetic",
               "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg",
               "image": "https://i.scdn.co/image/ab67616d0000b2733b882ec6465c6f88d8093a34",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5HLzL5g27XBbSy2qKbCGEk",
@@ -2020,7 +2092,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/7o2CcBCoun96kz0ElBTXkv",
               "image": "https://i.scdn.co/image/ab67616d0000b2732a127a6f2a64ac9ab1acd86c",
-              "plays": 9
+              "plays": 10
             },
             {
               "id": "4mIau5RjhSbqahhKXtt66W",
@@ -3036,21 +3108,173 @@
               "artist": "Fcukers",
               "url": "https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0",
               "image": "https://i.scdn.co/image/ab67616d0000b273bcc6eac6287546942fb73204",
+              "plays": 2
+            },
+            {
+              "id": "2nVtRRozQdPbCTOM3lKtcp",
+              "title": "May this pain never leave",
+              "artist": "Boundaries",
+              "url": "https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp",
+              "image": "https://i.scdn.co/image/ab67616d0000b273686850ea4663ddfa847e2309",
+              "plays": 1
+            },
+            {
+              "id": "6zpSvSBqQL8u3RS4mUYfEd",
+              "title": "evil cute angel bb",
+              "artist": "AMARA ctk100, DBBD",
+              "url": "https://open.spotify.com/track/6zpSvSBqQL8u3RS4mUYfEd",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c95e701ea45e0e08aba96ff3",
+              "plays": 2
+            },
+            {
+              "id": "4bkPAARkDov1lV05emEF7a",
+              "title": "Soft Spine",
+              "artist": "Spiritbox",
+              "url": "https://open.spotify.com/track/4bkPAARkDov1lV05emEF7a",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ca5c3280d995a78c34bdf210",
+              "plays": 1
+            },
+            {
+              "id": "1LLiDI21J4WWlmqk7zsm9v",
+              "title": "Holy Roller",
+              "artist": "Spiritbox",
+              "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e234c82f96fa4ded8e5ca47",
+              "plays": 1
+            },
+            {
+              "id": "0qZ03ABKZsGbGhvh1zbbil",
+              "title": "Sun Killer",
+              "artist": "Spiritbox",
+              "url": "https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e234c82f96fa4ded8e5ca47",
+              "plays": 1
+            },
+            {
+              "id": "6IdyYbGg1jxiWhfwm2Ykjn",
+              "title": "Jaded",
+              "artist": "Spiritbox",
+              "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738515be38589bf130a2f535e1",
+              "plays": 1
+            },
+            {
+              "id": "5zwngdtBYzTqYJT9gXxAdF",
+              "title": "Mourning",
+              "artist": "Spiritbox",
+              "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735f978e5dca246425572e9b73",
+              "plays": 1
+            },
+            {
+              "id": "3FI0iAAAjmR31xpZEwbdys",
+              "title": "Circle With Me",
+              "artist": "Spiritbox",
+              "url": "https://open.spotify.com/track/3FI0iAAAjmR31xpZEwbdys",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e234c82f96fa4ded8e5ca47",
+              "plays": 1
+            },
+            {
+              "id": "2O4zQlumm7N3624FzM0TsW",
+              "title": "Highs and Lows",
+              "artist": "Citizen",
+              "url": "https://open.spotify.com/track/2O4zQlumm7N3624FzM0TsW",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e589e54028ac7b38ba08f6b7",
+              "plays": 1
+            },
+            {
+              "id": "4MbHk6iFlFvkNVkgikB4py",
+              "title": "Just Be Honest",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/4MbHk6iFlFvkNVkgikB4py",
+              "image": "https://i.scdn.co/image/ab6742d3000053b7c8405a4a8a4bc660898d0e8d",
+              "plays": 1
+            },
+            {
+              "id": "7zVv1G1EB8k7BbrTF6f2SQ",
+              "title": "Walls",
+              "artist": "Emery",
+              "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b07cdbd49eeb3a820646bc5b",
+              "plays": 1
+            },
+            {
+              "id": "1xMWnADlbSYo5oly74afFv",
+              "title": "The Actress",
+              "artist": "Secret & Whisper",
+              "url": "https://open.spotify.com/track/1xMWnADlbSYo5oly74afFv",
+              "image": "https://i.scdn.co/image/ab67616d0000b273202d264815afad0f648fbab6",
+              "plays": 1
+            },
+            {
+              "id": "7lOOg4yvuqMJ3zvph6VYxW",
+              "title": "Bang Bang Bang",
+              "artist": "Lambrini Girls",
+              "url": "https://open.spotify.com/track/7lOOg4yvuqMJ3zvph6VYxW",
+              "image": "https://i.scdn.co/image/ab6742d3000053b768e52bae19f88539be84053a",
+              "plays": 1
+            },
+            {
+              "id": "4V3VtEiADXFRUO7TChZ2lP",
+              "title": "Friends in the City",
+              "artist": "Millaze",
+              "url": "https://open.spotify.com/track/4V3VtEiADXFRUO7TChZ2lP",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e628f70aa85451ae246869c7",
+              "plays": 1
+            },
+            {
+              "id": "4bJygwUKrRgq1stlNXcgMg",
+              "title": "All The Things She Said",
+              "artist": "t.A.T.u.",
+              "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733b27e1cd8a6bc6804c2e5fd2",
+              "plays": 1
+            },
+            {
+              "id": "0QkWikH5Z3U0f79T9iuF6c",
+              "title": "Judas",
+              "artist": "Lady Gaga",
+              "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
+              "plays": 1
+            },
+            {
+              "id": "2dBwB667LHQkLhdYlwLUZK",
+              "title": "Summertime Sadness",
+              "artist": "Lana Del Rey",
+              "url": "https://open.spotify.com/track/2dBwB667LHQkLhdYlwLUZK",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+              "plays": 1
+            },
+            {
+              "id": "3wCJGNuWIoeKHsrZdAybiO",
+              "title": "Cuntology 101",
+              "artist": "Lambrini Girls",
+              "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a8c6fca043ed3e87f90fbffa",
+              "plays": 1
+            },
+            {
+              "id": "51HHz34HDpu4krNMVHYqoo",
+              "title": "Gemma",
+              "artist": "Cowboy Hunters",
+              "url": "https://open.spotify.com/track/51HHz34HDpu4krNMVHYqoo",
+              "image": "https://i.scdn.co/image/ab67616d0000b27322633ce07c1b06e13fb8a487",
               "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-26T15:44:39.132Z",
+      "lastPlayedAt": "2026-09-28T17:58:54.298Z",
       "lastKeys": [
-        "[1790437479132,\"3jlacMjHZ9VGCOmz5CjHE0\"]"
+        "[1790618334298,\"7o2CcBCoun96kz0ElBTXkv\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-26T15:44:39.132Z"
+      "through": "2026-09-28T17:58:54.298Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-27T16:58:48.419Z",
-    "updatedAt": "2026-09-27T16:58:48.419Z"
+    "checkedAt": "2026-09-28T19:41:06.905Z",
+    "updatedAt": "2026-09-28T19:41:06.905Z"
   },
   "github": {
     "events": [
@@ -3098,8 +3322,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-27T16:58:48.419Z",
-    "updatedAt": "2026-09-27T16:58:48.419Z"
+    "checkedAt": "2026-09-28T19:41:06.905Z",
+    "updatedAt": "2026-09-28T19:41:06.905Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -3109,156 +3333,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-27T16:58:49.633Z",
+    "snapshotAt": "2026-09-28T19:41:12.067Z",
     "skills": [
       {
         "key": "overall",
         "value": 1770,
-        "rank": 184734,
-        "xp": 33685769
+        "rank": 184851,
+        "xp": 33729132
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 233704,
-        "xp": 1110490
+        "rank": 233840,
+        "xp": 1111498
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212983,
-        "xp": 1150866
+        "rank": 212970,
+        "xp": 1155898
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 228033,
+        "rank": 228175,
         "xp": 2445837
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 215836,
-        "xp": 2756646
+        "rank": 215681,
+        "xp": 2766711
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 231539,
-        "xp": 1410236
+        "rank": 231194,
+        "xp": 1419313
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173666,
+        "rank": 173783,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177460,
-        "xp": 3030715
+        "rank": 177388,
+        "xp": 3037943
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 263866,
-        "xp": 821737
+        "rank": 263676,
+        "xp": 823162
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 274100,
-        "xp": 863341
+        "rank": 274171,
+        "xp": 863691
       },
       {
         "key": "fletching",
         "value": 68,
-        "rank": 260353,
+        "rank": 260513,
         "xp": 652313
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 295088,
-        "xp": 817832
+        "rank": 295044,
+        "xp": 818762
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196799,
+        "rank": 196880,
         "xp": 6712942
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 216314,
-        "xp": 853253
+        "rank": 216018,
+        "xp": 859851
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197865,
-        "xp": 854258
+        "rank": 197864,
+        "xp": 855423
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 268998,
-        "xp": 932173
+        "rank": 269108,
+        "xp": 932523
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 177366,
-        "xp": 876853
+        "rank": 177436,
+        "xp": 876943
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 160002,
+        "rank": 160091,
         "xp": 1438990
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 237581,
+        "rank": 237695,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 207948,
+        "rank": 208063,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190668,
-        "xp": 1560481
+        "rank": 190760,
+        "xp": 1560526
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 149090,
+        "rank": 149168,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 232551,
+        "rank": 232690,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 162478,
+        "rank": 162577,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 91382,
+        "rank": 91589,
         "xp": 404536
       }
     ],
@@ -3271,27 +3495,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 147273
+        "rank": 147362
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 52137
+        "rank": 52229
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80589
+        "rank": 80653
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89530
+        "rank": 89565
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59166
+        "rank": 59203
       },
       {
         "key": "giant_mole",
@@ -3301,17 +3525,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137888
+        "rank": 137933
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 88875
+        "rank": 88992
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 29871
+        "rank": 30054
       },
       {
         "key": "obor",
@@ -3321,12 +3545,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78848
+        "rank": 78918
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 107113
+        "rank": 107176
       },
       {
         "key": "the_gauntlet",
@@ -3335,8 +3559,8 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 60,
-        "rank": 96040
+        "value": 63,
+        "rank": 95578
       },
       {
         "key": "the_royal_titans",
@@ -3351,12 +3575,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163781
+        "rank": 163833
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49606
+        "rank": 49634
       }
     ],
     "activities": [
@@ -3373,27 +3597,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 158335
+        "rank": 158406
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91498
+        "rank": 91550
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116234
+        "rank": 116281
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149255
+        "rank": 149313
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 162095
+        "rank": 162152
       },
       {
         "key": "clue_scrolls_elite",
@@ -3408,7 +3632,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82180
+        "rank": 82193
       },
       {
         "key": "pvp_arena",
@@ -3423,7 +3647,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 116086
+        "rank": 116183
       },
       {
         "key": "colosseum_glory",
@@ -3437,8 +3661,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-27T16:58:48.419Z",
-    "updatedAt": "2026-09-27T16:58:48.419Z"
+    "checkedAt": "2026-09-28T19:41:06.905Z",
+    "updatedAt": "2026-09-28T19:41:06.905Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -4380,7 +4604,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-27T16:58:48.419Z",
-    "updatedAt": "2026-09-27T16:58:48.419Z"
+    "checkedAt": "2026-09-28T19:41:06.905Z",
+    "updatedAt": "2026-09-28T19:41:06.905Z"
   }
 }
