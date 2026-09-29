@@ -1,10 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T19:41:06.905Z",
+  "generatedAt": "2026-09-29T18:05:43.035Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "0CtPILcMn9wMvPjVoq2Rh6",
+        "title": "Dissolve Me",
+        "artist": "Movements",
+        "album": "Dissolve Me",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732ee308e1ad75d08bd6dc23ea",
+        "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6",
+        "durationMs": 207514,
+        "playedAt": "2026-09-29T16:26:38.583Z"
+      },
+      {
+        "id": "2exVVVKvdymCwOFdvmA2bq",
+        "title": "The Void",
+        "artist": "Spiritbox",
+        "album": "The Void",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d5032a350675508fa262c1e",
+        "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq",
+        "durationMs": 220765,
+        "playedAt": "2026-09-29T16:22:46.996Z"
+      },
       {
         "id": "7o2CcBCoun96kz0ElBTXkv",
         "title": "And You Know It",
@@ -64,33 +84,13 @@
         "url": "https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil",
         "durationMs": 227477,
         "playedAt": "2026-09-28T14:44:27.108Z"
-      },
-      {
-        "id": "6IdyYbGg1jxiWhfwm2Ykjn",
-        "title": "Jaded",
-        "artist": "Spiritbox",
-        "album": "Jaded",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738515be38589bf130a2f535e1",
-        "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn",
-        "durationMs": 262631,
-        "playedAt": "2026-09-28T14:40:39.125Z"
-      },
-      {
-        "id": "5zwngdtBYzTqYJT9gXxAdF",
-        "title": "Mourning",
-        "artist": "Spiritbox",
-        "album": "Mourning",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735f978e5dca246425572e9b73",
-        "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF",
-        "durationMs": 256024,
-        "playedAt": "2026-09-28T14:35:32.880Z"
       }
     ],
     "observed": {
       "months": [
         {
           "month": "2026-09",
-          "plays": 341,
+          "plays": 343,
           "artists": [
             {
               "id": "24M8W1AklCxyWTKjrJZDQ8",
@@ -246,7 +246,7 @@
               "id": "1kkyfIopIiVvaPHHlbsfac",
               "name": "Movements",
               "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac",
-              "plays": 17
+              "plays": 18
             },
             {
               "id": "6GMYJwaziB4ekv1Y6wCDWS",
@@ -858,7 +858,7 @@
               "id": "4MzJMcHQBl9SIYSjwWn8QW",
               "name": "Spiritbox",
               "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW",
-              "plays": 6
+              "plays": 7
             },
             {
               "id": "0znuUIjvP0LXEslfaq0Nor",
@@ -1876,7 +1876,7 @@
               "artist": "Movements",
               "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6",
               "image": "https://i.scdn.co/image/ab67616d0000b2732ee308e1ad75d08bd6dc23ea",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "48kjJJiIOGBhCX3Bnz8qJe",
@@ -3261,20 +3261,28 @@
               "url": "https://open.spotify.com/track/51HHz34HDpu4krNMVHYqoo",
               "image": "https://i.scdn.co/image/ab67616d0000b27322633ce07c1b06e13fb8a487",
               "plays": 1
+            },
+            {
+              "id": "2exVVVKvdymCwOFdvmA2bq",
+              "title": "The Void",
+              "artist": "Spiritbox",
+              "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737d5032a350675508fa262c1e",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-09-28T17:58:54.298Z",
+      "lastPlayedAt": "2026-09-29T16:26:38.583Z",
       "lastKeys": [
-        "[1790618334298,\"7o2CcBCoun96kz0ElBTXkv\"]"
+        "[1790699198583,\"0CtPILcMn9wMvPjVoq2Rh6\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-09-28T17:58:54.298Z"
+      "through": "2026-09-29T16:26:38.583Z"
     },
     "status": "ok",
-    "checkedAt": "2026-09-28T19:41:06.905Z",
-    "updatedAt": "2026-09-28T19:41:06.905Z"
+    "checkedAt": "2026-09-29T18:05:43.035Z",
+    "updatedAt": "2026-09-29T18:05:43.035Z"
   },
   "github": {
     "events": [
@@ -3322,8 +3330,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-28T19:41:06.905Z",
-    "updatedAt": "2026-09-28T19:41:06.905Z"
+    "checkedAt": "2026-09-29T18:05:43.035Z",
+    "updatedAt": "2026-09-29T18:05:43.035Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -3333,156 +3341,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-09-28T19:41:12.067Z",
+    "snapshotAt": "2026-09-29T18:05:47.864Z",
     "skills": [
       {
         "key": "overall",
         "value": 1770,
-        "rank": 184851,
-        "xp": 33729132
+        "rank": 184940,
+        "xp": 33814470
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 233840,
-        "xp": 1111498
+        "rank": 233887,
+        "xp": 1113226
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212970,
-        "xp": 1155898
+        "rank": 212850,
+        "xp": 1166185
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 228175,
-        "xp": 2445837
+        "rank": 228130,
+        "xp": 2449955
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 215681,
-        "xp": 2766711
+        "rank": 215193,
+        "xp": 2788505
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 231194,
-        "xp": 1419313
+        "rank": 230405,
+        "xp": 1437745
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173783,
+        "rank": 173858,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 177388,
-        "xp": 3037943
+        "rank": 177076,
+        "xp": 3052566
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 263676,
-        "xp": 823162
+        "rank": 263142,
+        "xp": 826042
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 274171,
-        "xp": 863691
+        "rank": 274167,
+        "xp": 864321
       },
       {
         "key": "fletching",
         "value": 68,
-        "rank": 260513,
+        "rank": 260633,
         "xp": 652313
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 295044,
-        "xp": 818762
+        "rank": 294759,
+        "xp": 820502
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 196880,
+        "rank": 196915,
         "xp": 6712942
       },
       {
         "key": "crafting",
         "value": 71,
-        "rank": 216018,
-        "xp": 859851
+        "rank": 215732,
+        "xp": 865783
       },
       {
         "key": "smithing",
         "value": 71,
-        "rank": 197864,
-        "xp": 855423
+        "rank": 197687,
+        "xp": 857688
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 269108,
-        "xp": 932523
+        "rank": 269117,
+        "xp": 933173
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 177436,
-        "xp": 876943
+        "rank": 177503,
+        "xp": 877123
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 160091,
+        "rank": 160167,
         "xp": 1438990
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 237695,
+        "rank": 237799,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 208063,
+        "rank": 208140,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190760,
-        "xp": 1560526
+        "rank": 190841,
+        "xp": 1560605
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 149168,
+        "rank": 149231,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 232690,
+        "rank": 232780,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 70,
-        "rank": 162577,
+        "rank": 162634,
         "xp": 812134
       },
       {
         "key": "sailing",
         "value": 63,
-        "rank": 91589,
+        "rank": 91736,
         "xp": 404536
       }
     ],
@@ -3495,27 +3503,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 147362
+        "rank": 147414
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 52229
+        "rank": 52305
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80653
+        "rank": 80710
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89565
+        "rank": 89601
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59203
+        "rank": 59225
       },
       {
         "key": "giant_mole",
@@ -3525,17 +3533,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 137933
+        "rank": 137979
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 88992
+        "rank": 89061
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 30054
+        "rank": 30155
       },
       {
         "key": "obor",
@@ -3545,12 +3553,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 78918
+        "rank": 78956
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 107176
+        "rank": 107216
       },
       {
         "key": "the_gauntlet",
@@ -3559,8 +3567,8 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 63,
-        "rank": 95578
+        "value": 70,
+        "rank": 94636
       },
       {
         "key": "the_royal_titans",
@@ -3575,12 +3583,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163833
+        "rank": 163861
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49634
+        "rank": 49655
       }
     ],
     "activities": [
@@ -3597,27 +3605,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 158406
+        "rank": 158453
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91550
+        "rank": 91584
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116281
+        "rank": 116324
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149313
+        "rank": 149364
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 162152
+        "rank": 162184
       },
       {
         "key": "clue_scrolls_elite",
@@ -3632,7 +3640,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82193
+        "rank": 82201
       },
       {
         "key": "pvp_arena",
@@ -3647,7 +3655,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 116183
+        "rank": 116241
       },
       {
         "key": "colosseum_glory",
@@ -3661,8 +3669,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-09-28T19:41:06.905Z",
-    "updatedAt": "2026-09-28T19:41:06.905Z"
+    "checkedAt": "2026-09-29T18:05:43.035Z",
+    "updatedAt": "2026-09-29T18:05:43.035Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -4604,7 +4612,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-09-28T19:41:06.905Z",
-    "updatedAt": "2026-09-28T19:41:06.905Z"
+    "checkedAt": "2026-09-29T18:05:43.035Z",
+    "updatedAt": "2026-09-29T18:05:43.035Z"
   }
 }
