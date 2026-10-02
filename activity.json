@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-01T18:25:45.647Z",
+  "generatedAt": "2026-10-02T17:52:50.325Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "48H6uWuBYeeZUiXwb5f69K",
-        "title": "Holding On",
-        "artist": "Scary Kids Scaring Kids",
-        "album": "Scary Kids Scaring Kids",
-        "image": "https://i.scdn.co/image/ab67616d0000b27318c2d8df739d22fe238ba669",
-        "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K",
-        "durationMs": 261240,
-        "playedAt": "2026-10-01T15:48:07.774Z"
+        "id": "6zUy2nnchfZpzaDalE6sO2",
+        "title": "Circles",
+        "artist": "Pierce The Veil",
+        "album": "Misadventures",
+        "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+        "url": "https://open.spotify.com/track/6zUy2nnchfZpzaDalE6sO2",
+        "durationMs": 224306,
+        "playedAt": "2026-10-02T16:57:24.639Z"
       },
       {
-        "id": "1Bv3h7Vc4AaYA2BcSM3rVd",
-        "title": "All I Wanted",
+        "id": "21aVkXDch0A1nXo9he3j8L",
+        "title": "Conspiracy",
         "artist": "Paramore",
-        "album": "Brand New Eyes",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
-        "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd",
-        "durationMs": 225786,
-        "playedAt": "2026-10-01T14:57:44.676Z"
+        "album": "All We Know Is Falling",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+        "url": "https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L",
+        "durationMs": 222013,
+        "playedAt": "2026-10-02T16:53:39.816Z"
       },
       {
-        "id": "2jAZg043nuMGUcdtvmEIJE",
-        "title": "I Keep Secrets Safe",
-        "artist": "Saosin",
-        "album": "In Search of Solid Ground",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739e96053ab78c9ac7a7db42ed",
-        "url": "https://open.spotify.com/track/2jAZg043nuMGUcdtvmEIJE",
-        "durationMs": 234480,
-        "playedAt": "2026-10-01T14:43:43.717Z"
+        "id": "3FP8A246XpuafFofRhDlWG",
+        "title": "I'm So Sick",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
+        "durationMs": 175880,
+        "playedAt": "2026-10-02T16:49:57.303Z"
       },
       {
-        "id": "7pC4Lcaf7D1O0LuFtC2uKw",
-        "title": "You Are Familiar",
-        "artist": "Secret & Whisper",
-        "album": "Great White Whale",
-        "image": "https://i.scdn.co/image/ab67616d0000b273202d264815afad0f648fbab6",
-        "url": "https://open.spotify.com/track/7pC4Lcaf7D1O0LuFtC2uKw",
-        "durationMs": 179133,
-        "playedAt": "2026-10-01T14:39:49.195Z"
+        "id": "3l24Vnw1YbWv8UEKaZLjCE",
+        "title": "Lazy Eye",
+        "artist": "Silversun Pickups",
+        "album": "Carnavas",
+        "image": "https://i.scdn.co/image/ab67616d0000b273061f4b0b3db2d0569fa9d81a",
+        "url": "https://open.spotify.com/track/3l24Vnw1YbWv8UEKaZLjCE",
+        "durationMs": 354360,
+        "playedAt": "2026-10-02T03:24:33.897Z"
       },
       {
-        "id": "2UMuVwCwPUdTmAYYgd88Fg",
-        "title": "New Medicines",
-        "artist": "Dead Poetic",
-        "album": "New Medicines",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b882ec6465c6f88d8093a34",
-        "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg",
-        "durationMs": 242040,
-        "playedAt": "2026-10-01T14:36:50.130Z"
+        "id": "3kZC0ZmFWrEHdUCmUqlvgZ",
+        "title": "I Will Follow You into the Dark",
+        "artist": "Death Cab for Cutie",
+        "album": "Plans",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9",
+        "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ",
+        "durationMs": 189186,
+        "playedAt": "2026-10-02T02:24:25.682Z"
       },
       {
-        "id": "1bujdcYDzWPyJHUiL6PXul",
-        "title": "Act Appalled",
-        "artist": "Circa Survive",
-        "album": "Juturna",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733c7737aea2a393c863cf6bce",
-        "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul",
-        "durationMs": 200800,
-        "playedAt": "2026-10-01T14:32:48.043Z"
+        "id": "1J2WmkS1Z18AuDWZCgIC5K",
+        "title": "Fidelity",
+        "artist": "Regina Spektor",
+        "album": "Begin to Hope",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e",
+        "url": "https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K",
+        "durationMs": 226680,
+        "playedAt": "2026-10-02T02:21:16.550Z"
       },
       {
-        "id": "0e7Nhkz1m36BjJxlwVUjJh",
-        "title": "Same Thing We Do Everyday Pinky",
-        "artist": "Broadway, Craig Owens",
-        "album": "Kingdoms",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734e6e1264e7b5ea39c7bd2310",
-        "url": "https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh",
-        "durationMs": 285226,
-        "playedAt": "2026-10-01T14:29:27.196Z"
+        "id": "6zJms3MX11Qu1IKF44LoRW",
+        "title": "Us",
+        "artist": "Regina Spektor",
+        "album": "Soviet Kitsch",
+        "image": "https://i.scdn.co/image/ab67616d0000b273affa393835f0a69ad06b010a",
+        "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW",
+        "durationMs": 292400,
+        "playedAt": "2026-10-02T02:17:29.881Z"
       },
       {
-        "id": "4qsWwHVBWmAEV0509TBVZI",
-        "title": "God Wears Gucci",
-        "artist": "blessthefall",
-        "album": "Witness",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733c3cb1455beac96c582af575",
-        "url": "https://open.spotify.com/track/4qsWwHVBWmAEV0509TBVZI",
-        "durationMs": 247160,
-        "playedAt": "2026-10-01T14:24:42.001Z"
+        "id": "1zN6ynJG4PdR61YWv4PQ3Y",
+        "title": "All Around Me",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
+        "durationMs": 198506,
+        "playedAt": "2026-10-01T23:33:49.407Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 17,
+          "plays": 27,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3436,7 +3436,7 @@
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
@@ -3484,7 +3484,7 @@
               "id": "4IliztYDlfMvzQzbx50o60",
               "name": "Flyleaf",
               "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
-              "plays": 3
+              "plays": 7
             },
             {
               "id": "6MUyqmIQ35inLjch0YzIEG",
@@ -3496,7 +3496,25 @@
               "id": "3z6Gk257P9jNcZbBXJNX5i",
               "name": "Regina Spektor",
               "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i",
-              "plays": 2
+              "plays": 4
+            },
+            {
+              "id": "4iJLPqClelZOBCBifm8Fzv",
+              "name": "Pierce The Veil",
+              "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv",
+              "plays": 1
+            },
+            {
+              "id": "6qyi8X6MdP1lu6B1K6yh3h",
+              "name": "Silversun Pickups",
+              "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h",
+              "plays": 1
+            },
+            {
+              "id": "0YrtvWJMgSdVrk3SfNjTbx",
+              "name": "Death Cab for Cutie",
+              "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx",
+              "plays": 1
             }
           ],
           "tracks": [
@@ -3594,7 +3612,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "3xKTpGCsafXzV4muM1Hpl3",
@@ -3627,20 +3645,76 @@
               "url": "https://open.spotify.com/track/3mokABTMvRjILYV9iuvW5e",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
               "plays": 1
+            },
+            {
+              "id": "6zUy2nnchfZpzaDalE6sO2",
+              "title": "Circles",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/6zUy2nnchfZpzaDalE6sO2",
+              "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+              "plays": 1
+            },
+            {
+              "id": "21aVkXDch0A1nXo9he3j8L",
+              "title": "Conspiracy",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+              "plays": 1
+            },
+            {
+              "id": "3FP8A246XpuafFofRhDlWG",
+              "title": "I'm So Sick",
+              "artist": "Flyleaf",
+              "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+              "plays": 2
+            },
+            {
+              "id": "3l24Vnw1YbWv8UEKaZLjCE",
+              "title": "Lazy Eye",
+              "artist": "Silversun Pickups",
+              "url": "https://open.spotify.com/track/3l24Vnw1YbWv8UEKaZLjCE",
+              "image": "https://i.scdn.co/image/ab67616d0000b273061f4b0b3db2d0569fa9d81a",
+              "plays": 1
+            },
+            {
+              "id": "3kZC0ZmFWrEHdUCmUqlvgZ",
+              "title": "I Will Follow You into the Dark",
+              "artist": "Death Cab for Cutie",
+              "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9",
+              "plays": 1
+            },
+            {
+              "id": "1J2WmkS1Z18AuDWZCgIC5K",
+              "title": "Fidelity",
+              "artist": "Regina Spektor",
+              "url": "https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e",
+              "plays": 1
+            },
+            {
+              "id": "6zJms3MX11Qu1IKF44LoRW",
+              "title": "Us",
+              "artist": "Regina Spektor",
+              "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW",
+              "image": "https://i.scdn.co/image/ab67616d0000b273affa393835f0a69ad06b010a",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-01T15:48:07.774Z",
+      "lastPlayedAt": "2026-10-02T16:57:24.639Z",
       "lastKeys": [
-        "[1790869687774,\"48H6uWuBYeeZUiXwb5f69K\"]"
+        "[1790960244639,\"6zUy2nnchfZpzaDalE6sO2\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-01T15:48:07.774Z"
+      "through": "2026-10-02T16:57:24.639Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-01T18:25:45.647Z",
-    "updatedAt": "2026-10-01T18:25:45.647Z"
+    "checkedAt": "2026-10-02T17:52:50.325Z",
+    "updatedAt": "2026-10-02T17:52:50.325Z"
   },
   "github": {
     "events": [
@@ -3688,8 +3762,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-01T18:25:45.647Z",
-    "updatedAt": "2026-10-01T18:25:45.647Z"
+    "checkedAt": "2026-10-02T17:52:50.325Z",
+    "updatedAt": "2026-10-02T17:52:50.325Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -3699,156 +3773,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-10-01T18:25:46.639Z",
+    "snapshotAt": "2026-10-02T17:52:52.674Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1774,
-        "rank": 183855,
-        "xp": 34051041
+        "value": 1775,
+        "rank": 183648,
+        "xp": 34096199
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 234038,
-        "xp": 1115450
+        "rank": 234126,
+        "xp": 1116406
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212824,
-        "xp": 1178789
+        "rank": 212835,
+        "xp": 1183680
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 228356,
-        "xp": 2449955
+        "rank": 228456,
+        "xp": 2450023
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 214720,
-        "xp": 2814806
+        "rank": 214583,
+        "xp": 2823922
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 229451,
-        "xp": 1464069
+        "rank": 229238,
+        "xp": 1470849
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 174002,
+        "rank": 174082,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 176631,
-        "xp": 3075899
+        "rank": 176572,
+        "xp": 3082419
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 262571,
-        "xp": 829552
+        "rank": 262417,
+        "xp": 830782
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 274258,
-        "xp": 865161
+        "rank": 274303,
+        "xp": 865511
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 256331,
+        "rank": 256427,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294537,
-        "xp": 822752
+        "rank": 294442,
+        "xp": 823752
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 197014,
+        "rank": 197087,
         "xp": 6712942
       },
       {
         "key": "crafting",
-        "value": 71,
-        "rank": 214631,
-        "xp": 889323
+        "value": 72,
+        "rank": 214000,
+        "xp": 901828
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190674,
-        "xp": 919100
+        "rank": 190596,
+        "xp": 920350
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 269221,
-        "xp": 934043
+        "rank": 269290,
+        "xp": 934393
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 177655,
-        "xp": 877363
+        "rank": 177727,
+        "xp": 877463
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 160312,
+        "rank": 160360,
         "xp": 1438990
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 237966,
+        "rank": 238047,
         "xp": 940202
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 208293,
+        "rank": 208371,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190969,
-        "xp": 1560711
+        "rank": 191035,
+        "xp": 1560753
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 149374,
+        "rank": 149426,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 233005,
+        "rank": 233101,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 159510,
+        "rank": 159585,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 90657,
+        "rank": 90809,
         "xp": 418096
       }
     ],
@@ -3861,27 +3935,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 147525
+        "rank": 147591
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 52430
+        "rank": 52499
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80808
+        "rank": 80860
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89651
+        "rank": 89692
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59281
+        "rank": 59304
       },
       {
         "key": "giant_mole",
@@ -3891,17 +3965,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 138080
+        "rank": 138130
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 89221
+        "rank": 89299
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 30404
+        "rank": 30524
       },
       {
         "key": "obor",
@@ -3911,12 +3985,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79042
+        "rank": 79098
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 107317
+        "rank": 107351
       },
       {
         "key": "the_gauntlet",
@@ -3925,8 +3999,8 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 79,
-        "rank": 93451
+        "value": 81,
+        "rank": 93273
       },
       {
         "key": "the_royal_titans",
@@ -3941,12 +4015,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163927
+        "rank": 163983
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49694
+        "rank": 49707
       }
     ],
     "activities": [
@@ -3963,27 +4037,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 158535
+        "rank": 158593
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91657
+        "rank": 91689
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116401
+        "rank": 116437
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149459
+        "rank": 149519
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 162284
+        "rank": 162325
       },
       {
         "key": "clue_scrolls_elite",
@@ -3998,7 +4072,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82220
+        "rank": 82233
       },
       {
         "key": "pvp_arena",
@@ -4013,7 +4087,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 116371
+        "rank": 116420
       },
       {
         "key": "colosseum_glory",
@@ -4027,8 +4101,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-01T18:25:45.647Z",
-    "updatedAt": "2026-10-01T18:25:45.647Z"
+    "checkedAt": "2026-10-02T17:52:50.325Z",
+    "updatedAt": "2026-10-02T17:52:50.325Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -4970,7 +5044,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-01T18:25:45.647Z",
-    "updatedAt": "2026-10-01T18:25:45.647Z"
+    "checkedAt": "2026-10-02T17:52:50.325Z",
+    "updatedAt": "2026-10-02T17:52:50.325Z"
   }
 }
