@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-02T17:52:50.325Z",
+  "generatedAt": "2026-10-03T16:18:40.854Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "6zUy2nnchfZpzaDalE6sO2",
-        "title": "Circles",
-        "artist": "Pierce The Veil",
-        "album": "Misadventures",
-        "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
-        "url": "https://open.spotify.com/track/6zUy2nnchfZpzaDalE6sO2",
-        "durationMs": 224306,
-        "playedAt": "2026-10-02T16:57:24.639Z"
+        "id": "0fK7ie6XwGxQTIkpFoWkd1",
+        "title": "like JENNIE",
+        "artist": "JENNIE",
+        "album": "Ruby",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
+        "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1",
+        "durationMs": 123517,
+        "playedAt": "2026-10-03T01:40:22.933Z"
       },
       {
-        "id": "21aVkXDch0A1nXo9he3j8L",
-        "title": "Conspiracy",
-        "artist": "Paramore",
-        "album": "All We Know Is Falling",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
-        "url": "https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L",
-        "durationMs": 222013,
-        "playedAt": "2026-10-02T16:53:39.816Z"
+        "id": "4Ze7DFjyVa0smRqY2Fxcnz",
+        "title": "I Want You (Fever)",
+        "artist": "Momma",
+        "album": "Welcome to My Blue Sky",
+        "image": "https://i.scdn.co/image/ab67616d0000b27362a6c3654e1aebedfda776ec",
+        "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz",
+        "durationMs": 217249,
+        "playedAt": "2026-10-03T01:38:01.315Z"
       },
       {
-        "id": "3FP8A246XpuafFofRhDlWG",
-        "title": "I'm So Sick",
-        "artist": "Flyleaf",
-        "album": "Flyleaf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-        "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
-        "durationMs": 175880,
-        "playedAt": "2026-10-02T16:49:57.303Z"
+        "id": "2QYmaiPbbXxXMBrvWj34m0",
+        "title": "Speeding 72",
+        "artist": "Momma",
+        "album": "Household Name",
+        "image": "https://i.scdn.co/image/ab67616d0000b273088d81927483865772a923cd",
+        "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0",
+        "durationMs": 238360,
+        "playedAt": "2026-10-03T01:34:23.561Z"
       },
       {
-        "id": "3l24Vnw1YbWv8UEKaZLjCE",
-        "title": "Lazy Eye",
-        "artist": "Silversun Pickups",
-        "album": "Carnavas",
-        "image": "https://i.scdn.co/image/ab67616d0000b273061f4b0b3db2d0569fa9d81a",
-        "url": "https://open.spotify.com/track/3l24Vnw1YbWv8UEKaZLjCE",
-        "durationMs": 354360,
-        "playedAt": "2026-10-02T03:24:33.897Z"
+        "id": "2PcJoVkfjcbvoqBxV1Nj7y",
+        "title": "All I Wanna Do",
+        "artist": "Jay Park",
+        "album": "EVERYTHING YOU WANTED",
+        "image": "https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297",
+        "url": "https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y",
+        "durationMs": 209392,
+        "playedAt": "2026-10-03T01:30:24.719Z"
       },
       {
-        "id": "3kZC0ZmFWrEHdUCmUqlvgZ",
-        "title": "I Will Follow You into the Dark",
-        "artist": "Death Cab for Cutie",
-        "album": "Plans",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9",
-        "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ",
-        "durationMs": 189186,
-        "playedAt": "2026-10-02T02:24:25.682Z"
+        "id": "1LNlfvPQmB0cqYJQQskZ8x",
+        "title": "MOMMAE (Feat. Ugly Duck)",
+        "artist": "Jay Park, Ugly Duck",
+        "album": "WORLDWIDE",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288",
+        "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x",
+        "durationMs": 204991,
+        "playedAt": "2026-10-03T01:26:54.773Z"
       },
       {
-        "id": "1J2WmkS1Z18AuDWZCgIC5K",
-        "title": "Fidelity",
-        "artist": "Regina Spektor",
-        "album": "Begin to Hope",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e",
-        "url": "https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K",
-        "durationMs": 226680,
-        "playedAt": "2026-10-02T02:21:16.550Z"
+        "id": "70L6nHORQsblY813yNqUR3",
+        "title": "Cherry Waves",
+        "artist": "Deftones",
+        "album": "Saturday Night Wrist",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+        "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3",
+        "durationMs": 317706,
+        "playedAt": "2026-10-02T21:03:35.436Z"
       },
       {
-        "id": "6zJms3MX11Qu1IKF44LoRW",
-        "title": "Us",
-        "artist": "Regina Spektor",
-        "album": "Soviet Kitsch",
-        "image": "https://i.scdn.co/image/ab67616d0000b273affa393835f0a69ad06b010a",
-        "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW",
-        "durationMs": 292400,
-        "playedAt": "2026-10-02T02:17:29.881Z"
+        "id": "32GWSQbpg1Ea1MMvl8HN23",
+        "title": "Blue and Yellow",
+        "artist": "The Used",
+        "album": "The Used",
+        "image": "https://i.scdn.co/image/ab67616d0000b273850d8da4ce418aba90f156d0",
+        "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23",
+        "durationMs": 201426,
+        "playedAt": "2026-10-02T19:15:51.440Z"
       },
       {
-        "id": "1zN6ynJG4PdR61YWv4PQ3Y",
-        "title": "All Around Me",
-        "artist": "Flyleaf",
-        "album": "Flyleaf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-        "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
-        "durationMs": 198506,
-        "playedAt": "2026-10-01T23:33:49.407Z"
+        "id": "2wav9X3SPxSQNNO9AYj47L",
+        "title": "Get Out",
+        "artist": "Circa Survive",
+        "album": "Blue Sky Noise (Deluxe - Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b0e95766fd5da135278b12d2",
+        "url": "https://open.spotify.com/track/2wav9X3SPxSQNNO9AYj47L",
+        "durationMs": 184920,
+        "playedAt": "2026-10-02T19:08:50.023Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 27,
+          "plays": 36,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3436,7 +3436,7 @@
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
@@ -3460,7 +3460,7 @@
               "id": "11FY888Qctoy6YueCpFkXT",
               "name": "Circa Survive",
               "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2MHDadaguMvdlKiOFMP4B5",
@@ -3514,6 +3514,42 @@
               "id": "0YrtvWJMgSdVrk3SfNjTbx",
               "name": "Death Cab for Cutie",
               "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx",
+              "plays": 1
+            },
+            {
+              "id": "250b0Wlc5Vk0CoUsaCY84M",
+              "name": "JENNIE",
+              "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M",
+              "plays": 1
+            },
+            {
+              "id": "5Wj0an60VgRckYV9zlDe1e",
+              "name": "Momma",
+              "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e",
+              "plays": 2
+            },
+            {
+              "id": "4XDi67ZENZcbfKnvMnTYsI",
+              "name": "Jay Park",
+              "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI",
+              "plays": 2
+            },
+            {
+              "id": "0Qr4St9aCOLu41Nt5QZIz1",
+              "name": "Ugly Duck",
+              "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1",
+              "plays": 1
+            },
+            {
+              "id": "6Ghvu1VvMGScGpOUJBAHNH",
+              "name": "Deftones",
+              "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH",
+              "plays": 1
+            },
+            {
+              "id": "55VydwMyCuGcavwPuhutPL",
+              "name": "The Used",
+              "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL",
               "plays": 1
             }
           ],
@@ -3701,20 +3737,92 @@
               "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW",
               "image": "https://i.scdn.co/image/ab67616d0000b273affa393835f0a69ad06b010a",
               "plays": 1
+            },
+            {
+              "id": "0fK7ie6XwGxQTIkpFoWkd1",
+              "title": "like JENNIE",
+              "artist": "JENNIE",
+              "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
+              "plays": 1
+            },
+            {
+              "id": "4Ze7DFjyVa0smRqY2Fxcnz",
+              "title": "I Want You (Fever)",
+              "artist": "Momma",
+              "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz",
+              "image": "https://i.scdn.co/image/ab67616d0000b27362a6c3654e1aebedfda776ec",
+              "plays": 1
+            },
+            {
+              "id": "2QYmaiPbbXxXMBrvWj34m0",
+              "title": "Speeding 72",
+              "artist": "Momma",
+              "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0",
+              "image": "https://i.scdn.co/image/ab67616d0000b273088d81927483865772a923cd",
+              "plays": 1
+            },
+            {
+              "id": "2PcJoVkfjcbvoqBxV1Nj7y",
+              "title": "All I Wanna Do",
+              "artist": "Jay Park",
+              "url": "https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y",
+              "image": "https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297",
+              "plays": 1
+            },
+            {
+              "id": "1LNlfvPQmB0cqYJQQskZ8x",
+              "title": "MOMMAE (Feat. Ugly Duck)",
+              "artist": "Jay Park, Ugly Duck",
+              "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288",
+              "plays": 1
+            },
+            {
+              "id": "70L6nHORQsblY813yNqUR3",
+              "title": "Cherry Waves",
+              "artist": "Deftones",
+              "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+              "plays": 1
+            },
+            {
+              "id": "32GWSQbpg1Ea1MMvl8HN23",
+              "title": "Blue and Yellow",
+              "artist": "The Used",
+              "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23",
+              "image": "https://i.scdn.co/image/ab67616d0000b273850d8da4ce418aba90f156d0",
+              "plays": 1
+            },
+            {
+              "id": "2wav9X3SPxSQNNO9AYj47L",
+              "title": "Get Out",
+              "artist": "Circa Survive",
+              "url": "https://open.spotify.com/track/2wav9X3SPxSQNNO9AYj47L",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b0e95766fd5da135278b12d2",
+              "plays": 1
+            },
+            {
+              "id": "7mG2RbhyzGsjpQOz568d39",
+              "title": "Pressure",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-02T16:57:24.639Z",
+      "lastPlayedAt": "2026-10-03T01:40:22.933Z",
       "lastKeys": [
-        "[1790960244639,\"6zUy2nnchfZpzaDalE6sO2\"]"
+        "[1790991622933,\"0fK7ie6XwGxQTIkpFoWkd1\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-02T16:57:24.639Z"
+      "through": "2026-10-03T01:40:22.933Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-02T17:52:50.325Z",
-    "updatedAt": "2026-10-02T17:52:50.325Z"
+    "checkedAt": "2026-10-03T16:18:40.854Z",
+    "updatedAt": "2026-10-03T16:18:40.854Z"
   },
   "github": {
     "events": [
@@ -3762,8 +3870,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-02T17:52:50.325Z",
-    "updatedAt": "2026-10-02T17:52:50.325Z"
+    "checkedAt": "2026-10-03T16:18:40.854Z",
+    "updatedAt": "2026-10-03T16:18:40.854Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -3773,156 +3881,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-10-02T17:52:52.674Z",
+    "snapshotAt": "2026-10-03T16:18:41.862Z",
     "skills": [
       {
         "key": "overall",
         "value": 1775,
-        "rank": 183648,
-        "xp": 34096199
+        "rank": 183743,
+        "xp": 34101514
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 234126,
+        "rank": 234241,
         "xp": 1116406
       },
       {
         "key": "defence",
         "value": 74,
-        "rank": 212835,
+        "rank": 212931,
         "xp": 1183680
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 228456,
+        "rank": 228555,
         "xp": 2450023
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 214583,
+        "rank": 214675,
         "xp": 2823922
       },
       {
         "key": "ranged",
         "value": 76,
-        "rank": 229238,
+        "rank": 229326,
         "xp": 1470849
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 174082,
+        "rank": 174165,
         "xp": 793358
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 176572,
-        "xp": 3082419
+        "rank": 176647,
+        "xp": 3083325
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 262417,
+        "rank": 262498,
         "xp": 830782
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 274303,
+        "rank": 274415,
         "xp": 865511
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 256427,
+        "rank": 256550,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294442,
+        "rank": 294546,
         "xp": 823752
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 197087,
+        "rank": 197145,
         "xp": 6712942
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214000,
-        "xp": 901828
+        "rank": 214059,
+        "xp": 902353
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190596,
+        "rank": 190713,
         "xp": 920350
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 269290,
+        "rank": 269397,
         "xp": 934393
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 177727,
+        "rank": 177820,
         "xp": 877463
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 160360,
+        "rank": 160433,
         "xp": 1438990
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 238047,
-        "xp": 940202
+        "rank": 238145,
+        "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 208371,
+        "rank": 208447,
         "xp": 716320
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 191035,
-        "xp": 1560753
+        "rank": 190986,
+        "xp": 1564594
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 149426,
+        "rank": 149492,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 233101,
+        "rank": 233212,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 159585,
+        "rank": 159650,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 90809,
+        "rank": 90953,
         "xp": 418096
       }
     ],
@@ -3935,27 +4043,27 @@
       {
         "key": "barrows_chests",
         "value": 139,
-        "rank": 147591
+        "rank": 147652
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 52499
+        "rank": 52579
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80860
+        "rank": 80911
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89692
+        "rank": 89718
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59304
+        "rank": 59324
       },
       {
         "key": "giant_mole",
@@ -3965,17 +4073,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 138130
+        "rank": 138175
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 89299
+        "rank": 89374
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 30524
+        "rank": 30666
       },
       {
         "key": "obor",
@@ -3985,12 +4093,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79098
+        "rank": 79147
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 107351
+        "rank": 107399
       },
       {
         "key": "the_gauntlet",
@@ -4000,7 +4108,7 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 81,
-        "rank": 93273
+        "rank": 93351
       },
       {
         "key": "the_royal_titans",
@@ -4015,12 +4123,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 163983
+        "rank": 164023
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49707
+        "rank": 49732
       }
     ],
     "activities": [
@@ -4037,27 +4145,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 158593
+        "rank": 158638
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91689
+        "rank": 91739
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116437
+        "rank": 116474
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149519
+        "rank": 149575
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 162325
+        "rank": 162372
       },
       {
         "key": "clue_scrolls_elite",
@@ -4072,7 +4180,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82233
+        "rank": 82242
       },
       {
         "key": "pvp_arena",
@@ -4087,7 +4195,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 116420
+        "rank": 116485
       },
       {
         "key": "colosseum_glory",
@@ -4101,8 +4209,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-02T17:52:50.325Z",
-    "updatedAt": "2026-10-02T17:52:50.325Z"
+    "checkedAt": "2026-10-03T16:18:40.854Z",
+    "updatedAt": "2026-10-03T16:18:40.854Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -5044,7 +5152,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-02T17:52:50.325Z",
-    "updatedAt": "2026-10-02T17:52:50.325Z"
+    "checkedAt": "2026-10-03T16:18:40.854Z",
+    "updatedAt": "2026-10-03T16:18:40.854Z"
   }
 }
