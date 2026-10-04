@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T16:18:40.854Z",
+  "generatedAt": "2026-10-04T16:51:11.000Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "0fK7ie6XwGxQTIkpFoWkd1",
-        "title": "like JENNIE",
-        "artist": "JENNIE",
-        "album": "Ruby",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
-        "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1",
-        "durationMs": 123517,
-        "playedAt": "2026-10-03T01:40:22.933Z"
+        "id": "3y5f6SfCuDjYOzeSbKP72p",
+        "title": "3rd Measurement in C",
+        "artist": "Saosin",
+        "album": "Translating the Name",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733e5b2d0d373f0b902a93b91a",
+        "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p",
+        "durationMs": 158360,
+        "playedAt": "2026-10-04T01:35:18.320Z"
       },
       {
-        "id": "4Ze7DFjyVa0smRqY2Fxcnz",
-        "title": "I Want You (Fever)",
-        "artist": "Momma",
-        "album": "Welcome to My Blue Sky",
-        "image": "https://i.scdn.co/image/ab67616d0000b27362a6c3654e1aebedfda776ec",
-        "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz",
-        "durationMs": 217249,
-        "playedAt": "2026-10-03T01:38:01.315Z"
+        "id": "5eB7w8UZJKjL5XmnC6Pctg",
+        "title": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+        "artist": "Panic! At The Disco",
+        "album": "A Fever You Can't Sweat Out",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733ab3ff3559d2664560e1fdb4",
+        "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg",
+        "durationMs": 200226,
+        "playedAt": "2026-10-04T01:32:39.431Z"
       },
       {
-        "id": "2QYmaiPbbXxXMBrvWj34m0",
-        "title": "Speeding 72",
-        "artist": "Momma",
-        "album": "Household Name",
-        "image": "https://i.scdn.co/image/ab67616d0000b273088d81927483865772a923cd",
-        "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0",
-        "durationMs": 238360,
-        "playedAt": "2026-10-03T01:34:23.561Z"
+        "id": "1oc4lB36kCRzLYLqsjhieZ",
+        "title": "So I Thought",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/1oc4lB36kCRzLYLqsjhieZ",
+        "durationMs": 290866,
+        "playedAt": "2026-10-04T01:29:18.733Z"
       },
       {
-        "id": "2PcJoVkfjcbvoqBxV1Nj7y",
-        "title": "All I Wanna Do",
-        "artist": "Jay Park",
-        "album": "EVERYTHING YOU WANTED",
-        "image": "https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297",
-        "url": "https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y",
-        "durationMs": 209392,
-        "playedAt": "2026-10-03T01:30:24.719Z"
+        "id": "2SYMnBpx7zyhSDPQwoOlFO",
+        "title": "Props & Mayhem",
+        "artist": "Pierce The Veil",
+        "album": "Collide With The Sky",
+        "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+        "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
+        "durationMs": 217853,
+        "playedAt": "2026-10-04T01:24:27.319Z"
       },
       {
-        "id": "1LNlfvPQmB0cqYJQQskZ8x",
-        "title": "MOMMAE (Feat. Ugly Duck)",
-        "artist": "Jay Park, Ugly Duck",
-        "album": "WORLDWIDE",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288",
-        "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x",
-        "durationMs": 204991,
-        "playedAt": "2026-10-03T01:26:54.773Z"
+        "id": "3VA4sjTMSTTF02hFGmlpJh",
+        "title": "crushcrushcrush",
+        "artist": "Paramore",
+        "album": "Riot!",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb",
+        "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh",
+        "durationMs": 189373,
+        "playedAt": "2026-10-04T01:20:48.926Z"
       },
       {
-        "id": "70L6nHORQsblY813yNqUR3",
-        "title": "Cherry Waves",
-        "artist": "Deftones",
-        "album": "Saturday Night Wrist",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-        "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3",
-        "durationMs": 317706,
-        "playedAt": "2026-10-02T21:03:35.436Z"
-      },
-      {
-        "id": "32GWSQbpg1Ea1MMvl8HN23",
-        "title": "Blue and Yellow",
-        "artist": "The Used",
-        "album": "The Used",
-        "image": "https://i.scdn.co/image/ab67616d0000b273850d8da4ce418aba90f156d0",
-        "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23",
-        "durationMs": 201426,
-        "playedAt": "2026-10-02T19:15:51.440Z"
-      },
-      {
-        "id": "2wav9X3SPxSQNNO9AYj47L",
-        "title": "Get Out",
+        "id": "7FhexwmTudKyptCThSxT1N",
+        "title": "Holding Someone's Hair Back",
         "artist": "Circa Survive",
-        "album": "Blue Sky Noise (Deluxe - Remastered)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b0e95766fd5da135278b12d2",
-        "url": "https://open.spotify.com/track/2wav9X3SPxSQNNO9AYj47L",
-        "durationMs": 184920,
-        "playedAt": "2026-10-02T19:08:50.023Z"
+        "album": "Juturna",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733c7737aea2a393c863cf6bce",
+        "url": "https://open.spotify.com/track/7FhexwmTudKyptCThSxT1N",
+        "durationMs": 202240,
+        "playedAt": "2026-10-04T01:17:39.128Z"
+      },
+      {
+        "id": "2cViIXIe8Pbd1sOJExMJlK",
+        "title": "Cemetery Drive",
+        "artist": "My Chemical Romance",
+        "album": "Three Cheers for Sweet Revenge",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+        "url": "https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK",
+        "durationMs": 188066,
+        "playedAt": "2026-10-04T01:14:18.508Z"
+      },
+      {
+        "id": "4gGwAHwhmMwawgZ97g2cN0",
+        "title": "Chasm",
+        "artist": "Flyleaf",
+        "album": "Memento Mori (Expanded)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
+        "url": "https://open.spotify.com/track/4gGwAHwhmMwawgZ97g2cN0",
+        "durationMs": 173613,
+        "playedAt": "2026-10-04T01:11:09.981Z"
       }
     ],
     "observed": {
@@ -3424,25 +3424,25 @@
         },
         {
           "month": "2026-10",
-          "plays": 36,
+          "plays": 86,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
               "name": "Scary Kids Scaring Kids",
               "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 3
+              "plays": 11
             },
             {
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
               "name": "Saosin",
               "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
-              "plays": 2
+              "plays": 7
             },
             {
               "id": "0Fvioi4bZVGbxPu7H2sowS",
@@ -3460,7 +3460,7 @@
               "id": "11FY888Qctoy6YueCpFkXT",
               "name": "Circa Survive",
               "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "2MHDadaguMvdlKiOFMP4B5",
@@ -3484,7 +3484,7 @@
               "id": "4IliztYDlfMvzQzbx50o60",
               "name": "Flyleaf",
               "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
-              "plays": 7
+              "plays": 12
             },
             {
               "id": "6MUyqmIQ35inLjch0YzIEG",
@@ -3502,7 +3502,7 @@
               "id": "4iJLPqClelZOBCBifm8Fzv",
               "name": "Pierce The Veil",
               "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv",
-              "plays": 1
+              "plays": 8
             },
             {
               "id": "6qyi8X6MdP1lu6B1K6yh3h",
@@ -3544,12 +3544,72 @@
               "id": "6Ghvu1VvMGScGpOUJBAHNH",
               "name": "Deftones",
               "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH",
-              "plays": 1
+              "plays": 5
             },
             {
               "id": "55VydwMyCuGcavwPuhutPL",
               "name": "The Used",
               "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL",
+              "plays": 1
+            },
+            {
+              "id": "20JZFwl6HVl6yg8a4H3ZqK",
+              "name": "Panic! At The Disco",
+              "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK",
+              "plays": 2
+            },
+            {
+              "id": "7FBcuc1gsnv6Y1nwFtNRCb",
+              "name": "My Chemical Romance",
+              "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb",
+              "plays": 2
+            },
+            {
+              "id": "5nGIFgo0shDenQYSE0Sn7c",
+              "name": "Evanescence",
+              "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c",
+              "plays": 4
+            },
+            {
+              "id": "68tKVjVvcqUfKFFLr2j0Ek",
+              "name": "Emarosa",
+              "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek",
+              "plays": 1
+            },
+            {
+              "id": "5ojhEavq6altxW8fWIlLum",
+              "name": "Escape the Fate",
+              "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum",
+              "plays": 3
+            },
+            {
+              "id": "0RqtSIYZmd4fiBKVFqyIqD",
+              "name": "Thirty Seconds To Mars",
+              "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD",
+              "plays": 2
+            },
+            {
+              "id": "56dO9zeHKuU5Gvfc2kxHNw",
+              "name": "Chevelle",
+              "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw",
+              "plays": 1
+            },
+            {
+              "id": "6dHr8Y0nPrnHiBOuJzuu8F",
+              "name": "Isles & Glaciers",
+              "url": "https://open.spotify.com/artist/6dHr8Y0nPrnHiBOuJzuu8F",
+              "plays": 2
+            },
+            {
+              "id": "3vAaWhdBR38Q02ohXqaNHT",
+              "name": "The All-American Rejects",
+              "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT",
+              "plays": 1
+            },
+            {
+              "id": "3zxKH0qp3nBCuPZCZT5Vaf",
+              "name": "Yellowcard",
+              "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf",
               "plays": 1
             }
           ],
@@ -3568,7 +3628,7 @@
               "artist": "Paramore",
               "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd",
               "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2jAZg043nuMGUcdtvmEIJE",
@@ -3704,7 +3764,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "3l24Vnw1YbWv8UEKaZLjCE",
@@ -3809,20 +3869,380 @@
               "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39",
               "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
               "plays": 1
+            },
+            {
+              "id": "3y5f6SfCuDjYOzeSbKP72p",
+              "title": "3rd Measurement in C",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e5b2d0d373f0b902a93b91a",
+              "plays": 1
+            },
+            {
+              "id": "5eB7w8UZJKjL5XmnC6Pctg",
+              "title": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+              "artist": "Panic! At The Disco",
+              "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733ab3ff3559d2664560e1fdb4",
+              "plays": 1
+            },
+            {
+              "id": "1oc4lB36kCRzLYLqsjhieZ",
+              "title": "So I Thought",
+              "artist": "Flyleaf",
+              "url": "https://open.spotify.com/track/1oc4lB36kCRzLYLqsjhieZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+              "plays": 1
+            },
+            {
+              "id": "2SYMnBpx7zyhSDPQwoOlFO",
+              "title": "Props & Mayhem",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
+              "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+              "plays": 1
+            },
+            {
+              "id": "3VA4sjTMSTTF02hFGmlpJh",
+              "title": "crushcrushcrush",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb",
+              "plays": 2
+            },
+            {
+              "id": "7FhexwmTudKyptCThSxT1N",
+              "title": "Holding Someone's Hair Back",
+              "artist": "Circa Survive",
+              "url": "https://open.spotify.com/track/7FhexwmTudKyptCThSxT1N",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733c7737aea2a393c863cf6bce",
+              "plays": 1
+            },
+            {
+              "id": "2cViIXIe8Pbd1sOJExMJlK",
+              "title": "Cemetery Drive",
+              "artist": "My Chemical Romance",
+              "url": "https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+              "plays": 1
+            },
+            {
+              "id": "4gGwAHwhmMwawgZ97g2cN0",
+              "title": "Chasm",
+              "artist": "Flyleaf",
+              "url": "https://open.spotify.com/track/4gGwAHwhmMwawgZ97g2cN0",
+              "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
+              "plays": 1
+            },
+            {
+              "id": "2G7cxwbFSMneFgTMdnvICw",
+              "title": "Faces",
+              "artist": "Scary Kids Scaring Kids",
+              "url": "https://open.spotify.com/track/2G7cxwbFSMneFgTMdnvICw",
+              "image": "https://i.scdn.co/image/ab67616d0000b27318c2d8df739d22fe238ba669",
+              "plays": 1
+            },
+            {
+              "id": "54MXF9I8s3DuiQo3g0gZ5k",
+              "title": "A Match Into Water",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k",
+              "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+              "plays": 1
+            },
+            {
+              "id": "5llAcLZpMCl8KmrcVUrE8d",
+              "title": "I Can Tell There Was an Accident Here Earlier",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/5llAcLZpMCl8KmrcVUrE8d",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a9bb7706f7f1117385412c5e",
+              "plays": 1
+            },
+            {
+              "id": "46fyLy4W9HhAkcb67kLaAV",
+              "title": "Tourniquet",
+              "artist": "Evanescence",
+              "url": "https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV",
+              "image": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+              "plays": 1
+            },
+            {
+              "id": "1WPoATdYDxAmso3K6OpsaY",
+              "title": "The Past Should Stay Dead",
+              "artist": "Emarosa",
+              "url": "https://open.spotify.com/track/1WPoATdYDxAmso3K6OpsaY",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730e28419ec0d1051e7d4f97fc",
+              "plays": 1
+            },
+            {
+              "id": "40WWeoX26jtsfdmFx5iRty",
+              "title": "I'm Low On Gas And You Need A Jacket",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/40WWeoX26jtsfdmFx5iRty",
+              "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+              "plays": 1
+            },
+            {
+              "id": "2itu79WbZhUCHX4jg0fyAd",
+              "title": "Never Let This Go",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/2itu79WbZhUCHX4jg0fyAd",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+              "plays": 1
+            },
+            {
+              "id": "1Fu9o08qEKVEwzU8siVcig",
+              "title": "Situations",
+              "artist": "Escape the Fate",
+              "url": "https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732541614ba5551322c8a1a478",
+              "plays": 1
+            },
+            {
+              "id": "0lqHgjNrXmtFroWDqwV1iQ",
+              "title": "Risk",
+              "artist": "Deftones",
+              "url": "https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+              "plays": 1
+            },
+            {
+              "id": "0lP4HYLmvowOKdsQ7CVkuq",
+              "title": "The Kill",
+              "artist": "Thirty Seconds To Mars",
+              "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq",
+              "image": "https://i.scdn.co/image/ab67616d0000b273865b538169f199dac610b854",
+              "plays": 2
+            },
+            {
+              "id": "2fsYDaUa76sRjlHxqh1sdx",
+              "title": "Translating the Name",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/2fsYDaUa76sRjlHxqh1sdx",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e5b2d0d373f0b902a93b91a",
+              "plays": 1
+            },
+            {
+              "id": "3EKh7JNsBrGoh2xqPotBKT",
+              "title": "Hell Above",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/3EKh7JNsBrGoh2xqPotBKT",
+              "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+              "plays": 1
+            },
+            {
+              "id": "3GoNxPKPZPaAAZVQZ003TI",
+              "title": "Brighter",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+              "plays": 1
+            },
+            {
+              "id": "7hlXiMxN81uctLsvbtHZ8x",
+              "title": "Sweet Sacrifice",
+              "artist": "Evanescence",
+              "url": "https://open.spotify.com/track/7hlXiMxN81uctLsvbtHZ8x",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737b8aabae10ab5bbe7c7f11c5",
+              "plays": 1
+            },
+            {
+              "id": "5dTHtzHFPyi8TlTtzoz1J9",
+              "title": "Helena",
+              "artist": "My Chemical Romance",
+              "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+              "plays": 1
+            },
+            {
+              "id": "5psEUJWeJU2BiOYyWdjgxZ",
+              "title": "New Perspective",
+              "artist": "Panic! At The Disco",
+              "url": "https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d536799e5d59ff3f42874aec",
+              "plays": 1
+            },
+            {
+              "id": "7EzL0vW3YlaAH0EiUe5MKk",
+              "title": "Lost Symphonies",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/7EzL0vW3YlaAH0EiUe5MKk",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e5b2d0d373f0b902a93b91a",
+              "plays": 1
+            },
+            {
+              "id": "3Fnf4J72Y1ImGILcAh1Z2s",
+              "title": "Floral & Fading",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/3Fnf4J72Y1ImGILcAh1Z2s",
+              "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+              "plays": 1
+            },
+            {
+              "id": "7hInOqJnlEayXao08yVYAn",
+              "title": "Playing God",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
+              "plays": 1
+            },
+            {
+              "id": "663Karu2rvKLdnY0eo1n3M",
+              "title": "Call Me When You're Sober",
+              "artist": "Evanescence",
+              "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737b8aabae10ab5bbe7c7f11c5",
+              "plays": 1
+            },
+            {
+              "id": "6dRAAG4sB71NAtVCHJep7s",
+              "title": "Send the Pain Below",
+              "artist": "Chevelle",
+              "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+              "plays": 1
+            },
+            {
+              "id": "6nmDEbjMZru5j55HIkX2yZ",
+              "title": "Diamond Eyes",
+              "artist": "Deftones",
+              "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+              "plays": 1
+            },
+            {
+              "id": "1H3cv1QRzBChdsOnPdyrfD",
+              "title": "They Perched on Their Stilts, Pointing and Daring Me to Break Custom",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/1H3cv1QRzBChdsOnPdyrfD",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e5b2d0d373f0b902a93b91a",
+              "plays": 1
+            },
+            {
+              "id": "2vbQ5xEVlTZu3OSNxNaNLS",
+              "title": "Hills Like White Elephants",
+              "artist": "Isles & Glaciers",
+              "url": "https://open.spotify.com/track/2vbQ5xEVlTZu3OSNxNaNLS",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e347aa93ae66368940be31b9",
+              "plays": 1
+            },
+            {
+              "id": "5wWkbQ18TPaWq2GeJDF2O3",
+              "title": "My Heart",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+              "plays": 1
+            },
+            {
+              "id": "23UoI3jlFiWdo5jadUYo69",
+              "title": "Bulls In The Bronx",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/23UoI3jlFiWdo5jadUYo69",
+              "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+              "plays": 1
+            },
+            {
+              "id": "4UJX7so2d2L2XttE5Pfwm7",
+              "title": "My Apocalypse",
+              "artist": "Escape the Fate",
+              "url": "https://open.spotify.com/track/4UJX7so2d2L2XttE5Pfwm7",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732541614ba5551322c8a1a478",
+              "plays": 2
+            },
+            {
+              "id": "5Bpc360LNUScK53FrM8nvB",
+              "title": "Hole in the Earth",
+              "artist": "Deftones",
+              "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+              "plays": 1
+            },
+            {
+              "id": "0COqiPhxzoWICwFCS4eZcp",
+              "title": "Bring Me To Life",
+              "artist": "Evanescence",
+              "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
+              "image": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+              "plays": 1
+            },
+            {
+              "id": "1BYmfeINmHOkuzWxF8HVCH",
+              "title": "Empty Sighs and Wine",
+              "artist": "Isles & Glaciers",
+              "url": "https://open.spotify.com/track/1BYmfeINmHOkuzWxF8HVCH",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e347aa93ae66368940be31b9",
+              "plays": 1
+            },
+            {
+              "id": "47No93LxERvV6MtOAmQzHS",
+              "title": "Ignorance",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
+              "plays": 1
+            },
+            {
+              "id": "2G8PweZBBwTpyP8vpNQJK2",
+              "title": "Caraphernelia",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+              "plays": 1
+            },
+            {
+              "id": "0gSNi1CGG7ExDV8UvUsSoj",
+              "title": "Dirty Little Secret",
+              "artist": "The All-American Rejects",
+              "url": "https://open.spotify.com/track/0gSNi1CGG7ExDV8UvUsSoj",
+              "image": "https://i.scdn.co/image/ab67616d0000b27305b9e4f856db958eacdb7cb3",
+              "plays": 1
+            },
+            {
+              "id": "0zDO5WrpSkuRDZpaAsPHEr",
+              "title": "Treasure",
+              "artist": "Flyleaf",
+              "url": "https://open.spotify.com/track/0zDO5WrpSkuRDZpaAsPHEr",
+              "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
+              "plays": 1
+            },
+            {
+              "id": "23oxJmDc1V9uLUSmN2LIvx",
+              "title": "Ocean Avenue",
+              "artist": "Yellowcard",
+              "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d1fd8f264564d9eef7617a45",
+              "plays": 1
+            },
+            {
+              "id": "51c94ac31swyDQj9B3Lzs3",
+              "title": "Change (In the House of Flies)",
+              "artist": "Deftones",
+              "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+              "plays": 1
+            },
+            {
+              "id": "1zv1uaP9iNiayFjeprolnB",
+              "title": "There For You",
+              "artist": "Flyleaf",
+              "url": "https://open.spotify.com/track/1zv1uaP9iNiayFjeprolnB",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-03T01:40:22.933Z",
+      "lastPlayedAt": "2026-10-04T01:35:18.320Z",
       "lastKeys": [
-        "[1790991622933,\"0fK7ie6XwGxQTIkpFoWkd1\"]"
+        "[1791077718320,\"3y5f6SfCuDjYOzeSbKP72p\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-03T01:40:22.933Z"
+      "through": "2026-10-04T01:35:18.320Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-03T16:18:40.854Z",
-    "updatedAt": "2026-10-03T16:18:40.854Z"
+    "checkedAt": "2026-10-04T16:51:11.000Z",
+    "updatedAt": "2026-10-04T16:51:11.000Z"
   },
   "github": {
     "events": [
@@ -3870,8 +4290,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-03T16:18:40.854Z",
-    "updatedAt": "2026-10-03T16:18:40.854Z"
+    "checkedAt": "2026-10-04T16:51:11.000Z",
+    "updatedAt": "2026-10-04T16:51:11.000Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -3881,156 +4301,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-10-03T16:18:41.862Z",
+    "snapshotAt": "2026-10-04T16:51:16.854Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1775,
-        "rank": 183743,
-        "xp": 34101514
+        "value": 1777,
+        "rank": 183223,
+        "xp": 34353958
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 234241,
-        "xp": 1116406
+        "rank": 233780,
+        "xp": 1141184
       },
       {
         "key": "defence",
-        "value": 74,
-        "rank": 212931,
-        "xp": 1183680
+        "value": 75,
+        "rank": 207059,
+        "xp": 1212855
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 228555,
-        "xp": 2450023
+        "rank": 228303,
+        "xp": 2461556
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 214675,
-        "xp": 2823922
+        "rank": 213381,
+        "xp": 2877759
       },
       {
         "key": "ranged",
-        "value": 76,
-        "rank": 229326,
-        "xp": 1470849
+        "value": 77,
+        "rank": 227528,
+        "xp": 1510524
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 174165,
-        "xp": 793358
+        "rank": 173212,
+        "xp": 797030
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 176647,
-        "xp": 3083325
+        "rank": 174972,
+        "xp": 3156850
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 262498,
-        "xp": 830782
+        "rank": 262016,
+        "xp": 833717
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 274415,
-        "xp": 865511
+        "rank": 274488,
+        "xp": 865791
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 256550,
+        "rank": 256692,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294546,
-        "xp": 823752
+        "rank": 294498,
+        "xp": 824642
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 197145,
-        "xp": 6712942
+        "rank": 197247,
+        "xp": 6713292
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214059,
-        "xp": 902353
+        "rank": 214081,
+        "xp": 903418
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190713,
-        "xp": 920350
+        "rank": 190740,
+        "xp": 921415
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 269397,
-        "xp": 934393
+        "rank": 269493,
+        "xp": 934673
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 177820,
-        "xp": 877463
+        "rank": 177806,
+        "xp": 879311
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 160433,
+        "rank": 160513,
         "xp": 1438990
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 238145,
+        "rank": 238275,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 208447,
-        "xp": 716320
+        "rank": 208227,
+        "xp": 721675
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190986,
-        "xp": 1564594
+        "rank": 190984,
+        "xp": 1566775
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 149492,
+        "rank": 149607,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 233212,
+        "rank": 233320,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 159650,
+        "rank": 159760,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 90953,
+        "rank": 91112,
         "xp": 418096
       }
     ],
@@ -4042,28 +4462,28 @@
       },
       {
         "key": "barrows_chests",
-        "value": 139,
-        "rank": 147652
+        "value": 142,
+        "rank": 146406
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 52579
+        "rank": 52676
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 80911
+        "rank": 80970
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89718
+        "rank": 89758
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59324
+        "rank": 59355
       },
       {
         "key": "giant_mole",
@@ -4073,17 +4493,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 138175
+        "rank": 138227
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 89374
+        "rank": 89482
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 30666
+        "rank": 30852
       },
       {
         "key": "obor",
@@ -4093,12 +4513,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79147
+        "rank": 79212
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 107399
+        "rank": 107463
       },
       {
         "key": "the_gauntlet",
@@ -4107,13 +4527,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 81,
-        "rank": 93351
+        "value": 83,
+        "rank": 93166
       },
       {
         "key": "the_royal_titans",
-        "value": 4,
-        "rank": null
+        "value": 40,
+        "rank": 103135
       },
       {
         "key": "tztok_jad",
@@ -4123,12 +4543,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164023
+        "rank": 164091
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49732
+        "rank": 49747
       }
     ],
     "activities": [
@@ -4145,27 +4565,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 158638
+        "rank": 158720
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91739
+        "rank": 91806
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116474
+        "rank": 116523
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149575
+        "rank": 149638
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 162372
+        "rank": 162422
       },
       {
         "key": "clue_scrolls_elite",
@@ -4180,7 +4600,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82242
+        "rank": 82253
       },
       {
         "key": "pvp_arena",
@@ -4195,7 +4615,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 116485
+        "rank": 116592
       },
       {
         "key": "colosseum_glory",
@@ -4204,13 +4624,13 @@
       },
       {
         "key": "collections_logged",
-        "value": 186,
+        "value": 188,
         "rank": null
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-03T16:18:40.854Z",
-    "updatedAt": "2026-10-03T16:18:40.854Z"
+    "checkedAt": "2026-10-04T16:51:11.000Z",
+    "updatedAt": "2026-10-04T16:51:11.000Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -5152,7 +5572,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-03T16:18:40.854Z",
-    "updatedAt": "2026-10-03T16:18:40.854Z"
+    "checkedAt": "2026-10-04T16:51:11.000Z",
+    "updatedAt": "2026-10-04T16:51:11.000Z"
   }
 }
