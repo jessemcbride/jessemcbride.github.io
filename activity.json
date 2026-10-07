@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T18:23:02.580Z",
+  "generatedAt": "2026-10-07T18:57:23.614Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "4bPQs0PHn4xbipzdPfn6du",
-        "title": "I Write Sins Not Tragedies",
-        "artist": "Panic! At The Disco",
-        "album": "A Fever You Can't Sweat Out",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733ab3ff3559d2664560e1fdb4",
-        "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du",
-        "durationMs": 186634,
-        "playedAt": "2026-10-06T02:01:37.690Z"
+        "id": "1zN6ynJG4PdR61YWv4PQ3Y",
+        "title": "All Around Me",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
+        "durationMs": 198506,
+        "playedAt": "2026-10-07T16:01:06.689Z"
       },
       {
-        "id": "43RRh7e2FG7L3lC2VYSNHK",
-        "title": "No Trivia",
-        "artist": "From Autumn To Ashes",
-        "album": "The Fiction We Live",
-        "image": "https://i.scdn.co/image/ab67616d0000b27339e7044c77f578d78b716ff5",
-        "url": "https://open.spotify.com/track/43RRh7e2FG7L3lC2VYSNHK",
-        "durationMs": 248666,
-        "playedAt": "2026-10-06T01:58:30.525Z"
+        "id": "7baQ1BlMPubme0DCFU1HxD",
+        "title": "Wheels on the Bus",
+        "artist": "Gracie's Corner",
+        "album": "Gracie's Corner Kids Hits, Vol. 3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738ae007454320e34abeb73217",
+        "url": "https://open.spotify.com/track/7baQ1BlMPubme0DCFU1HxD",
+        "durationMs": 307786,
+        "playedAt": "2026-10-07T15:57:42.197Z"
       },
       {
-        "id": "0DKNNR9iDjwfCEpMiFXMJq",
-        "title": "Until the Day I Die",
-        "artist": "Story Of The Year",
-        "album": "Page Avenue",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731fe57c82dec10d3dcc87a2c6",
-        "url": "https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq",
-        "durationMs": 235560,
-        "playedAt": "2026-10-06T01:54:21.342Z"
+        "id": "6B1rvaRgpIAqjyIOZK9TNC",
+        "title": "Dinosaur Song",
+        "artist": "Blippi",
+        "album": "Blippi's Animal Friends",
+        "image": "https://i.scdn.co/image/ab67616d0000b273824f4c83de29af5e31bb4639",
+        "url": "https://open.spotify.com/track/6B1rvaRgpIAqjyIOZK9TNC",
+        "durationMs": 184588,
+        "playedAt": "2026-10-07T15:27:16.525Z"
       },
       {
-        "id": "71U9X93wy4BQGyvmjFqApv",
-        "title": "Voices",
-        "artist": "Saosin",
-        "album": "Saosin",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415",
-        "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv",
-        "durationMs": 217524,
-        "playedAt": "2026-10-06T01:50:25.272Z"
+        "id": "6jTZGXH1cOQM3jhh07ZE1y",
+        "title": "Down By The Bay",
+        "artist": "Raffi",
+        "album": "Singable Songs for the Very Young",
+        "image": "https://i.scdn.co/image/ab67616d0000b273affc88680b4a26c799b6fb50",
+        "url": "https://open.spotify.com/track/6jTZGXH1cOQM3jhh07ZE1y",
+        "durationMs": 128213,
+        "playedAt": "2026-10-07T15:24:11.431Z"
       },
       {
-        "id": "5heRy6IDNiQXDJf1tZ6SUc",
-        "title": "Liar (It Takes One To Know One)",
-        "artist": "Taking Back Sunday",
-        "album": "Louder Now (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
-        "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc",
-        "durationMs": 191133,
-        "playedAt": "2026-10-06T01:46:47.226Z"
+        "id": "6EVN97RIyZBCegsYyEnkMv",
+        "title": "\"C\" is for Cookie",
+        "artist": "Cookie Monster, Sesame Street",
+        "album": "Sesame Street: Platinum All-Time Favorites",
+        "image": "https://i.scdn.co/image/ab67616d0000b273256d671211586740ab59cc44",
+        "url": "https://open.spotify.com/track/6EVN97RIyZBCegsYyEnkMv",
+        "durationMs": 89204,
+        "playedAt": "2026-10-07T15:22:02.726Z"
       },
       {
-        "id": "15n4p6R6Tuht5KAgK3g3IX",
-        "title": "Emily",
-        "artist": "From First To Last",
-        "album": "Dear Diary, My Teen Angst Has A Body Count",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e4144506ed8ed561e3d518d4",
-        "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX",
-        "durationMs": 159346,
-        "playedAt": "2026-10-06T01:43:35.536Z"
+        "id": "6DlJnT2HxQTqT1MOV8dDNa",
+        "title": "Head Shoulders Knees & Toes",
+        "artist": "Doggyland, Snoop Dogg",
+        "album": "Kids Hits, Vol. 1",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d1f7819d08e1011170f3c6d",
+        "url": "https://open.spotify.com/track/6DlJnT2HxQTqT1MOV8dDNa",
+        "durationMs": 125573,
+        "playedAt": "2026-10-07T15:20:32.994Z"
       },
       {
-        "id": "6IxQ0PdozaZKch1m8tGCwb",
-        "title": "All That I've Got",
-        "artist": "The Used",
-        "album": "In Love and Death",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b5bc4686d08a5812a63f180d",
-        "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb",
-        "durationMs": 230426,
-        "playedAt": "2026-10-06T01:40:55.661Z"
+        "id": "17IOOV4tZQz4bjUZDhNh7V",
+        "title": "Happy Dance",
+        "artist": "Elmo, Abby Cadabby, Cookie Monster, Big Bird, Oscar the Grouch, Snuffleupagus, Sesame Street",
+        "album": "Elmo's Got the Beat",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f6dd16636ab713e047613760",
+        "url": "https://open.spotify.com/track/17IOOV4tZQz4bjUZDhNh7V",
+        "durationMs": 107637,
+        "playedAt": "2026-10-07T15:18:26.878Z"
       },
       {
-        "id": "1Kf4N09laoNZfMmvQiIBez",
-        "title": "Down, Set, Go",
-        "artist": "Underoath",
-        "album": "They're Only Chasing Safety",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c05f1b9f41f21afa225ce2ae",
-        "url": "https://open.spotify.com/track/1Kf4N09laoNZfMmvQiIBez",
-        "durationMs": 224160,
-        "playedAt": "2026-10-06T01:37:04.719Z"
+        "id": "5HLzL5g27XBbSy2qKbCGEk",
+        "title": "Affirmation Song",
+        "artist": "Doggyland, Snoop Dogg",
+        "album": "Kids Hits, Vol. 1",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d1f7819d08e1011170f3c6d",
+        "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk",
+        "durationMs": 126688,
+        "playedAt": "2026-10-07T15:16:38.725Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 136,
+          "plays": 156,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3442,7 +3442,7 @@
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
               "name": "Saosin",
               "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
-              "plays": 12
+              "plays": 14
             },
             {
               "id": "0Fvioi4bZVGbxPu7H2sowS",
@@ -3484,7 +3484,7 @@
               "id": "4IliztYDlfMvzQzbx50o60",
               "name": "Flyleaf",
               "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
-              "plays": 12
+              "plays": 13
             },
             {
               "id": "6MUyqmIQ35inLjch0YzIEG",
@@ -3580,7 +3580,7 @@
               "id": "5ojhEavq6altxW8fWIlLum",
               "name": "Escape the Fate",
               "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "0RqtSIYZmd4fiBKVFqyIqD",
@@ -3610,7 +3610,7 @@
               "id": "3zxKH0qp3nBCuPZCZT5Vaf",
               "name": "Yellowcard",
               "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1t0af5EH36iQVJ06XnLDOt",
@@ -3628,7 +3628,7 @@
               "id": "24XtlMhEMNdi822vi0MhY1",
               "name": "Taking Back Sunday",
               "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
-              "plays": 7
+              "plays": 9
             },
             {
               "id": "5n71fmAB8Un2IfAPn64erN",
@@ -3640,7 +3640,7 @@
               "id": "3GzWhE2xadJiW8MqRKIVSK",
               "name": "Underoath",
               "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "591yCCsZCLXvaJ0Rg38vLZ",
@@ -3652,7 +3652,7 @@
               "id": "4feAxLUxIU7G4KXhH0h2ni",
               "name": "Emery",
               "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "126FigDBtqwS2YsOYMTPQe",
@@ -3676,7 +3676,7 @@
               "id": "61awhbNK16ku1uQyXRsQj5",
               "name": "Thursday",
               "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "528t5c0zyuG9beehtth4Za",
@@ -3712,6 +3712,96 @@
               "id": "5EjK7aUvQ9LMNqc2zXiWLS",
               "name": "ivri",
               "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS",
+              "plays": 1
+            },
+            {
+              "id": "7liE451ZyJBxZ4pLKgIeEH",
+              "name": "Gracie's Corner",
+              "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH",
+              "plays": 1
+            },
+            {
+              "id": "30niqFGUKKUg1horQSgwBn",
+              "name": "Blippi",
+              "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn",
+              "plays": 1
+            },
+            {
+              "id": "7oWSqrgMuIEyH9qp5nu2e5",
+              "name": "Raffi",
+              "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5",
+              "plays": 1
+            },
+            {
+              "id": "0KUfoAHP20vQHuDhiEAa8r",
+              "name": "Cookie Monster",
+              "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r",
+              "plays": 2
+            },
+            {
+              "id": "50bY8HGxT0SuDgJX3AilTT",
+              "name": "Sesame Street",
+              "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT",
+              "plays": 2
+            },
+            {
+              "id": "34ZLdDJVv5clP7Ask1zjoP",
+              "name": "Doggyland",
+              "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP",
+              "plays": 2
+            },
+            {
+              "id": "7hJcb9fa4alzcOq3EaNPoG",
+              "name": "Snoop Dogg",
+              "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG",
+              "plays": 2
+            },
+            {
+              "id": "64TYMfqkpGQsUEuF5xqS2R",
+              "name": "Elmo",
+              "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R",
+              "plays": 1
+            },
+            {
+              "id": "6aFmZaY3ydeUcYFXIJqzAT",
+              "name": "Abby Cadabby",
+              "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT",
+              "plays": 1
+            },
+            {
+              "id": "0iDC0DDdk9WL7W8OdBSmtE",
+              "name": "Big Bird",
+              "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE",
+              "plays": 1
+            },
+            {
+              "id": "2dX0vdWogRhm7Jz8DuB9t9",
+              "name": "Oscar the Grouch",
+              "url": "https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9",
+              "plays": 1
+            },
+            {
+              "id": "4s59qVGtHnriH2APKSliX5",
+              "name": "Snuffleupagus",
+              "url": "https://open.spotify.com/artist/4s59qVGtHnriH2APKSliX5",
+              "plays": 1
+            },
+            {
+              "id": "168dgYui7ExaU612eooDF1",
+              "name": "Brand New",
+              "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1",
+              "plays": 1
+            },
+            {
+              "id": "53RsXctnNmj9oKXvcbvzI2",
+              "name": "Alexisonfire",
+              "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2",
+              "plays": 1
+            },
+            {
+              "id": "0hxmHf6CqXsOLWgGXjmr7I",
+              "name": "Anthony Green",
+              "url": "https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I",
               "plays": 1
             }
           ],
@@ -3810,7 +3900,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "3xKTpGCsafXzV4muM1Hpl3",
@@ -4514,7 +4604,7 @@
               "artist": "Thursday",
               "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT",
               "image": "https://i.scdn.co/image/ab67616d0000b2736a592e74ff9456c0a2e39e47",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1lldOhIq1tf0XyQUBWDeOc",
@@ -4707,20 +4797,164 @@
               "url": "https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT",
               "image": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
               "plays": 1
+            },
+            {
+              "id": "7baQ1BlMPubme0DCFU1HxD",
+              "title": "Wheels on the Bus",
+              "artist": "Gracie's Corner",
+              "url": "https://open.spotify.com/track/7baQ1BlMPubme0DCFU1HxD",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738ae007454320e34abeb73217",
+              "plays": 1
+            },
+            {
+              "id": "6B1rvaRgpIAqjyIOZK9TNC",
+              "title": "Dinosaur Song",
+              "artist": "Blippi",
+              "url": "https://open.spotify.com/track/6B1rvaRgpIAqjyIOZK9TNC",
+              "image": "https://i.scdn.co/image/ab67616d0000b273824f4c83de29af5e31bb4639",
+              "plays": 1
+            },
+            {
+              "id": "6jTZGXH1cOQM3jhh07ZE1y",
+              "title": "Down By The Bay",
+              "artist": "Raffi",
+              "url": "https://open.spotify.com/track/6jTZGXH1cOQM3jhh07ZE1y",
+              "image": "https://i.scdn.co/image/ab67616d0000b273affc88680b4a26c799b6fb50",
+              "plays": 1
+            },
+            {
+              "id": "6EVN97RIyZBCegsYyEnkMv",
+              "title": "\"C\" is for Cookie",
+              "artist": "Cookie Monster, Sesame Street",
+              "url": "https://open.spotify.com/track/6EVN97RIyZBCegsYyEnkMv",
+              "image": "https://i.scdn.co/image/ab67616d0000b273256d671211586740ab59cc44",
+              "plays": 1
+            },
+            {
+              "id": "6DlJnT2HxQTqT1MOV8dDNa",
+              "title": "Head Shoulders Knees & Toes",
+              "artist": "Doggyland, Snoop Dogg",
+              "url": "https://open.spotify.com/track/6DlJnT2HxQTqT1MOV8dDNa",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734d1f7819d08e1011170f3c6d",
+              "plays": 1
+            },
+            {
+              "id": "17IOOV4tZQz4bjUZDhNh7V",
+              "title": "Happy Dance",
+              "artist": "Elmo, Abby Cadabby, Cookie Monster, Big Bird, Oscar the Grouch, Snuffleupagus, Sesame Street",
+              "url": "https://open.spotify.com/track/17IOOV4tZQz4bjUZDhNh7V",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f6dd16636ab713e047613760",
+              "plays": 1
+            },
+            {
+              "id": "5HLzL5g27XBbSy2qKbCGEk",
+              "title": "Affirmation Song",
+              "artist": "Doggyland, Snoop Dogg",
+              "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734d1f7819d08e1011170f3c6d",
+              "plays": 1
+            },
+            {
+              "id": "0gZp88SA5OcujHLDGkxtI3",
+              "title": "Only One",
+              "artist": "Yellowcard",
+              "url": "https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d1fd8f264564d9eef7617a45",
+              "plays": 1
+            },
+            {
+              "id": "3IlY76VbP31zwPY0S2EMjh",
+              "title": "The Quiet Things That No One Ever Knows",
+              "artist": "Brand New",
+              "url": "https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731d421119351d6801a2c99741",
+              "plays": 1
+            },
+            {
+              "id": "50NQdrO55nqwZrDwKny5NH",
+              "title": "Not Good Enough For Truth In Cliché",
+              "artist": "Escape the Fate",
+              "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732541614ba5551322c8a1a478",
+              "plays": 1
+            },
+            {
+              "id": "66yzHUHNo6Rg1wbpFjJ1MH",
+              "title": "Follow And Feel",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/66yzHUHNo6Rg1wbpFjJ1MH",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415",
+              "plays": 1
+            },
+            {
+              "id": "0ZQtCXF4oA6vz4W7A9iDT0",
+              "title": "Side Walk When She Walks",
+              "artist": "Alexisonfire",
+              "url": "https://open.spotify.com/track/0ZQtCXF4oA6vz4W7A9iDT0",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736ba44db50ec9ea858b3895ce",
+              "plays": 1
+            },
+            {
+              "id": "2VFxYVlUzDQQrf9ZLDXUIn",
+              "title": "Dear Child (I've Been Dying to Reach You)",
+              "artist": "Anthony Green",
+              "url": "https://open.spotify.com/track/2VFxYVlUzDQQrf9ZLDXUIn",
+              "image": "https://i.scdn.co/image/ab67616d0000b27354ac46aa0c503e4df29a2f9d",
+              "plays": 1
+            },
+            {
+              "id": "3c8n08bk0XGdL3HKro1kpD",
+              "title": "Great Romances Of The 20th Century - Remastered",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/3c8n08bk0XGdL3HKro1kpD",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731fc8bc00af1c877377d1dcf8",
+              "plays": 1
+            },
+            {
+              "id": "3h0vmKrR4xJOmQ7pr6ut6S",
+              "title": "I'm Content With Losing",
+              "artist": "Underoath",
+              "url": "https://open.spotify.com/track/3h0vmKrR4xJOmQ7pr6ut6S",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c05f1b9f41f21afa225ce2ae",
+              "plays": 1
+            },
+            {
+              "id": "0C71NJD4BhvPopTwI7a8KV",
+              "title": "Seven Years",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e5b2d0d373f0b902a93b91a",
+              "plays": 1
+            },
+            {
+              "id": "4spLHbGjPMmG6d3dltqKoT",
+              "title": "The Ponytail Parades",
+              "artist": "Emery",
+              "url": "https://open.spotify.com/track/4spLHbGjPMmG6d3dltqKoT",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b07cdbd49eeb3a820646bc5b",
+              "plays": 1
+            },
+            {
+              "id": "6r2EjEQh33dR5Ofxf5r79T",
+              "title": "One-Eighty By Summer",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-06T02:01:37.690Z",
+      "lastPlayedAt": "2026-10-07T16:01:06.689Z",
       "lastKeys": [
-        "[1791252097690,\"4bPQs0PHn4xbipzdPfn6du\"]"
+        "[1791388866689,\"1zN6ynJG4PdR61YWv4PQ3Y\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-06T02:01:37.690Z"
+      "through": "2026-10-07T16:01:06.689Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-06T18:23:02.580Z",
-    "updatedAt": "2026-10-06T18:23:02.580Z"
+    "checkedAt": "2026-10-07T18:57:23.614Z",
+    "updatedAt": "2026-10-07T18:57:23.614Z"
   },
   "github": {
     "events": [
@@ -4768,8 +5002,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-06T18:23:02.580Z",
-    "updatedAt": "2026-10-06T18:23:02.580Z"
+    "checkedAt": "2026-10-07T18:57:23.614Z",
+    "updatedAt": "2026-10-07T18:57:23.614Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -4779,156 +5013,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-10-06T18:23:04.020Z",
+    "snapshotAt": "2026-10-07T18:57:24.558Z",
     "skills": [
       {
         "key": "overall",
         "value": 1777,
-        "rank": 183433,
+        "rank": 183522,
         "xp": 34541736
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 233991,
+        "rank": 234097,
         "xp": 1143168
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 201740,
+        "rank": 201836,
         "xp": 1229634
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 228538,
+        "rank": 228638,
         "xp": 2461556
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 212775,
+        "rank": 212863,
         "xp": 2909571
       },
       {
         "key": "ranged",
         "value": 77,
-        "rank": 226573,
+        "rank": 226676,
         "xp": 1536933
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173377,
+        "rank": 173458,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 174285,
+        "rank": 174361,
         "xp": 3197300
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 259728,
+        "rank": 259814,
         "xp": 846837
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 274617,
+        "rank": 274738,
         "xp": 866581
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 256969,
+        "rank": 257084,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294281,
+        "rank": 294374,
         "xp": 827092
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 197360,
+        "rank": 197418,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214022,
+        "rank": 214114,
         "xp": 906178
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190623,
+        "rank": 190712,
         "xp": 924175
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 269603,
+        "rank": 269728,
         "xp": 935443
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 177948,
+        "rank": 178020,
         "xp": 880251
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 160659,
+        "rank": 160718,
         "xp": 1439015
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 238469,
+        "rank": 238567,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 208388,
+        "rank": 208487,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 189535,
+        "rank": 189610,
         "xp": 1613064
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 149789,
+        "rank": 149862,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 233539,
+        "rank": 233643,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 159934,
+        "rank": 159997,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 91462,
+        "rank": 91607,
         "xp": 418096
       }
     ],
@@ -4941,27 +5175,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 142627
+        "rank": 142667
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 52870
+        "rank": 52950
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 81079
+        "rank": 81126
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89812
+        "rank": 89840
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59409
+        "rank": 59428
       },
       {
         "key": "giant_mole",
@@ -4971,17 +5205,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 138344
+        "rank": 138386
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 89668
+        "rank": 89740
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 31208
+        "rank": 31366
       },
       {
         "key": "obor",
@@ -4991,12 +5225,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79323
+        "rank": 79366
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 107589
+        "rank": 107627
       },
       {
         "key": "the_gauntlet",
@@ -5006,12 +5240,12 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 88,
-        "rank": 92629
+        "rank": 92706
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 103363
+        "rank": 103459
       },
       {
         "key": "tztok_jad",
@@ -5021,12 +5255,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164170
+        "rank": 164205
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49790
+        "rank": 49809
       }
     ],
     "activities": [
@@ -5043,27 +5277,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 158826
+        "rank": 158891
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 91902
+        "rank": 91939
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116605
+        "rank": 116639
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149748
+        "rank": 149800
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 162511
+        "rank": 162555
       },
       {
         "key": "clue_scrolls_elite",
@@ -5078,7 +5312,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82282
+        "rank": 82290
       },
       {
         "key": "pvp_arena",
@@ -5093,7 +5327,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 116758
+        "rank": 116813
       },
       {
         "key": "colosseum_glory",
@@ -5107,8 +5341,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-06T18:23:02.580Z",
-    "updatedAt": "2026-10-06T18:23:02.580Z"
+    "checkedAt": "2026-10-07T18:57:23.614Z",
+    "updatedAt": "2026-10-07T18:57:23.614Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -6050,7 +6284,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-06T18:23:02.580Z",
-    "updatedAt": "2026-10-06T18:23:02.580Z"
+    "checkedAt": "2026-10-07T18:57:23.614Z",
+    "updatedAt": "2026-10-07T18:57:23.614Z"
   }
 }
