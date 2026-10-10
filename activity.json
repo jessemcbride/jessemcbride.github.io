@@ -1,10 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T18:21:49.004Z",
+  "generatedAt": "2026-10-10T17:20:51.040Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "4zqXJPkiVVJdR0yYiM4mCd",
+        "title": "Justice And Mercy",
+        "artist": "Flyleaf",
+        "album": "Flyleaf (Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735735944d506cb043c3a3e32d",
+        "url": "https://open.spotify.com/track/4zqXJPkiVVJdR0yYiM4mCd",
+        "durationMs": 153733,
+        "playedAt": "2026-10-10T00:29:33.591Z"
+      },
       {
         "id": "4Ffp6uonECrVBcq8OIHe2f",
         "title": "Breathe Today",
@@ -74,16 +84,6 @@
         "url": "https://open.spotify.com/track/2fJxwz0aHPhSGiYt05UJsb",
         "durationMs": 258399,
         "playedAt": "2026-10-08T18:26:02.888Z"
-      },
-      {
-        "id": "4LqWGyObfPHwYVTzMSpZsA",
-        "title": "Okay",
-        "artist": "Flyleaf",
-        "album": "Remember To Live",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736ed8fcbbebd61c6c1132de40",
-        "url": "https://open.spotify.com/track/4LqWGyObfPHwYVTzMSpZsA",
-        "durationMs": 143946,
-        "playedAt": "2026-10-07T20:57:27.486Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 176,
+          "plays": 177,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3484,7 +3484,7 @@
               "id": "4IliztYDlfMvzQzbx50o60",
               "name": "Flyleaf",
               "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
-              "plays": 33
+              "plays": 34
             },
             {
               "id": "6MUyqmIQ35inLjch0YzIEG",
@@ -5077,20 +5077,28 @@
               "url": "https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
               "plays": 1
+            },
+            {
+              "id": "4zqXJPkiVVJdR0yYiM4mCd",
+              "title": "Justice And Mercy",
+              "artist": "Flyleaf",
+              "url": "https://open.spotify.com/track/4zqXJPkiVVJdR0yYiM4mCd",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735735944d506cb043c3a3e32d",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-08T18:44:38.125Z",
+      "lastPlayedAt": "2026-10-10T00:29:33.591Z",
       "lastKeys": [
-        "[1791485078125,\"4Ffp6uonECrVBcq8OIHe2f\"]"
+        "[1791592173591,\"4zqXJPkiVVJdR0yYiM4mCd\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-08T18:44:38.125Z"
+      "through": "2026-10-10T00:29:33.591Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-09T18:21:49.004Z",
-    "updatedAt": "2026-10-09T18:21:49.004Z"
+    "checkedAt": "2026-10-10T17:20:51.040Z",
+    "updatedAt": "2026-10-10T17:20:51.040Z"
   },
   "github": {
     "events": [
@@ -5138,8 +5146,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-09T18:21:49.004Z",
-    "updatedAt": "2026-10-09T18:21:49.004Z"
+    "checkedAt": "2026-10-10T17:20:51.040Z",
+    "updatedAt": "2026-10-10T17:20:51.040Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -5149,156 +5157,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-10-09T18:21:50.414Z",
+    "snapshotAt": "2026-10-10T17:20:51.940Z",
     "skills": [
       {
         "key": "overall",
         "value": 1777,
-        "rank": 183730,
+        "rank": 183837,
         "xp": 34541736
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 234325,
+        "rank": 234427,
         "xp": 1143168
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 202032,
+        "rank": 202139,
         "xp": 1229634
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 228878,
+        "rank": 228999,
         "xp": 2461556
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 213071,
+        "rank": 213188,
         "xp": 2909571
       },
       {
         "key": "ranged",
         "value": 77,
-        "rank": 226844,
+        "rank": 226943,
         "xp": 1536933
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173605,
+        "rank": 173687,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 174522,
+        "rank": 174625,
         "xp": 3197300
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 260011,
+        "rank": 260141,
         "xp": 846837
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 274963,
+        "rank": 275062,
         "xp": 866581
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 257282,
+        "rank": 257393,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294587,
+        "rank": 294688,
         "xp": 827092
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 197536,
+        "rank": 197586,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214282,
+        "rank": 214384,
         "xp": 906178
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190877,
+        "rank": 190981,
         "xp": 924175
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 269948,
+        "rank": 270061,
         "xp": 935443
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 178185,
+        "rank": 178261,
         "xp": 880251
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 160824,
+        "rank": 160907,
         "xp": 1439015
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 238758,
+        "rank": 238849,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 208663,
+        "rank": 208758,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 189772,
+        "rank": 189839,
         "xp": 1613064
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 150005,
+        "rank": 150080,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 233822,
+        "rank": 233945,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 160156,
+        "rank": 160245,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 91861,
+        "rank": 92003,
         "xp": 418096
       }
     ],
@@ -5311,27 +5319,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 142774
+        "rank": 142838
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 53128
+        "rank": 53232
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 81224
+        "rank": 81271
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89895
+        "rank": 89923
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59469
+        "rank": 59491
       },
       {
         "key": "giant_mole",
@@ -5341,17 +5349,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 138486
+        "rank": 138541
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 89894
+        "rank": 89978
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 31661
+        "rank": 31863
       },
       {
         "key": "obor",
@@ -5361,12 +5369,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79458
+        "rank": 79504
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 107724
+        "rank": 107790
       },
       {
         "key": "the_gauntlet",
@@ -5376,12 +5384,12 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 88,
-        "rank": 92851
+        "rank": 92923
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 103642
+        "rank": 103743
       },
       {
         "key": "tztok_jad",
@@ -5391,12 +5399,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164285
+        "rank": 164332
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49841
+        "rank": 49860
       }
     ],
     "activities": [
@@ -5413,27 +5421,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 159003
+        "rank": 159067
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92015
+        "rank": 92052
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116706
+        "rank": 116745
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149885
+        "rank": 149945
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 162623
+        "rank": 162670
       },
       {
         "key": "clue_scrolls_elite",
@@ -5448,7 +5456,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82310
+        "rank": 82319
       },
       {
         "key": "pvp_arena",
@@ -5463,7 +5471,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 116959
+        "rank": 117052
       },
       {
         "key": "colosseum_glory",
@@ -5477,8 +5485,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-09T18:21:49.004Z",
-    "updatedAt": "2026-10-09T18:21:49.004Z"
+    "checkedAt": "2026-10-10T17:20:51.040Z",
+    "updatedAt": "2026-10-10T17:20:51.040Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -6420,7 +6428,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-09T18:21:49.004Z",
-    "updatedAt": "2026-10-09T18:21:49.004Z"
+    "checkedAt": "2026-10-10T17:20:51.040Z",
+    "updatedAt": "2026-10-10T17:20:51.040Z"
   }
 }
