@@ -1,10 +1,50 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T17:41:29.974Z",
+  "generatedAt": "2026-10-12T21:16:54.985Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "3v2XiE8ztYHOsrjIBN4Xh2",
+        "title": "Again",
+        "artist": "Flyleaf",
+        "album": "Memento Mori (Expanded)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
+        "url": "https://open.spotify.com/track/3v2XiE8ztYHOsrjIBN4Xh2",
+        "durationMs": 184920,
+        "playedAt": "2026-10-12T17:49:29.098Z"
+      },
+      {
+        "id": "4BIWl6xOUupdv3jpWtPSDC",
+        "title": "Fully Alive",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC",
+        "durationMs": 154133,
+        "playedAt": "2026-10-12T17:46:23.660Z"
+      },
+      {
+        "id": "3FP8A246XpuafFofRhDlWG",
+        "title": "I'm So Sick",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
+        "durationMs": 175880,
+        "playedAt": "2026-10-12T17:43:49.471Z"
+      },
+      {
+        "id": "0xybTB2yJe1dsS4pGplkOi",
+        "title": "Something I Could Never Have",
+        "artist": "Flyleaf",
+        "album": "Underworld: Evolution (Original Score)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27392c9e6bad5287d88da7c85a1",
+        "url": "https://open.spotify.com/track/0xybTB2yJe1dsS4pGplkOi",
+        "durationMs": 298146,
+        "playedAt": "2026-10-12T16:02:53.164Z"
+      },
       {
         "id": "4zqXJPkiVVJdR0yYiM4mCd",
         "title": "Justice And Mercy",
@@ -44,46 +84,6 @@
         "url": "https://open.spotify.com/track/72IYthveqVwcctA5yrGNKL",
         "durationMs": 214173,
         "playedAt": "2026-10-08T18:38:20.113Z"
-      },
-      {
-        "id": "7oLPFcDmEL4eEgJ6WVy4Rp",
-        "title": "Circle",
-        "artist": "Flyleaf",
-        "album": "Memento Mori (Expanded)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-        "url": "https://open.spotify.com/track/7oLPFcDmEL4eEgJ6WVy4Rp",
-        "durationMs": 182853,
-        "playedAt": "2026-10-08T18:34:45.418Z"
-      },
-      {
-        "id": "1QLpthSEtozpYgahM7hMl2",
-        "title": "Much Like Falling",
-        "artist": "Flyleaf",
-        "album": "Flyleaf (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735735944d506cb043c3a3e32d",
-        "url": "https://open.spotify.com/track/1QLpthSEtozpYgahM7hMl2",
-        "durationMs": 124253,
-        "playedAt": "2026-10-08T18:31:42.052Z"
-      },
-      {
-        "id": "1AxdkK4JqNuo9wNeqgD24Q",
-        "title": "Cage On The Ground",
-        "artist": "Flyleaf",
-        "album": "New Horizons",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f08b64cddba0eaf69d4322df",
-        "url": "https://open.spotify.com/track/1AxdkK4JqNuo9wNeqgD24Q",
-        "durationMs": 213893,
-        "playedAt": "2026-10-08T18:29:37.298Z"
-      },
-      {
-        "id": "2fJxwz0aHPhSGiYt05UJsb",
-        "title": "Arise",
-        "artist": "Flyleaf",
-        "album": "Memento Mori (Expanded)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-        "url": "https://open.spotify.com/track/2fJxwz0aHPhSGiYt05UJsb",
-        "durationMs": 258399,
-        "playedAt": "2026-10-08T18:26:02.888Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 177,
+          "plays": 183,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3484,7 +3484,7 @@
               "id": "4IliztYDlfMvzQzbx50o60",
               "name": "Flyleaf",
               "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
-              "plays": 34
+              "plays": 40
             },
             {
               "id": "6MUyqmIQ35inLjch0YzIEG",
@@ -3956,7 +3956,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 4
+              "plays": 7
             },
             {
               "id": "3l24Vnw1YbWv8UEKaZLjCE",
@@ -5068,7 +5068,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/3v2XiE8ztYHOsrjIBN4Xh2",
               "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4BIWl6xOUupdv3jpWtPSDC",
@@ -5076,7 +5076,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4zqXJPkiVVJdR0yYiM4mCd",
@@ -5085,20 +5085,28 @@
               "url": "https://open.spotify.com/track/4zqXJPkiVVJdR0yYiM4mCd",
               "image": "https://i.scdn.co/image/ab67616d0000b2735735944d506cb043c3a3e32d",
               "plays": 1
+            },
+            {
+              "id": "0xybTB2yJe1dsS4pGplkOi",
+              "title": "Something I Could Never Have",
+              "artist": "Flyleaf",
+              "url": "https://open.spotify.com/track/0xybTB2yJe1dsS4pGplkOi",
+              "image": "https://i.scdn.co/image/ab67616d0000b27392c9e6bad5287d88da7c85a1",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-10T00:29:33.591Z",
+      "lastPlayedAt": "2026-10-12T17:49:29.098Z",
       "lastKeys": [
-        "[1791592173591,\"4zqXJPkiVVJdR0yYiM4mCd\"]"
+        "[1791827369098,\"3v2XiE8ztYHOsrjIBN4Xh2\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-10T00:29:33.591Z"
+      "through": "2026-10-12T17:49:29.098Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-11T17:41:29.974Z",
-    "updatedAt": "2026-10-11T17:41:29.974Z"
+    "checkedAt": "2026-10-12T21:16:54.985Z",
+    "updatedAt": "2026-10-12T21:16:54.985Z"
   },
   "github": {
     "events": [
@@ -5115,25 +5123,11 @@
         "repo": "jessemcbride/jessemcbride.github.io",
         "url": "https://github.com/jessemcbride/jessemcbride.github.io",
         "date": "2026-09-11T01:33:41Z"
-      },
-      {
-        "id": "20861857988",
-        "action": "Pushed code to",
-        "repo": "jessemcbride/jessemcbride.github.io",
-        "url": "https://github.com/jessemcbride/jessemcbride.github.io",
-        "date": "2026-09-11T01:33:58Z"
-      },
-      {
-        "id": "20860531406",
-        "action": "Pushed code to",
-        "repo": "jessemcbride/jessemcbride.github.io",
-        "url": "https://github.com/jessemcbride/jessemcbride.github.io",
-        "date": "2026-09-11T01:35:28Z"
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-11T17:41:29.974Z",
-    "updatedAt": "2026-10-11T17:41:29.974Z"
+    "checkedAt": "2026-10-12T21:16:54.985Z",
+    "updatedAt": "2026-10-12T21:16:54.985Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -5143,156 +5137,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-10-11T17:41:35.412Z",
+    "snapshotAt": "2026-10-12T21:16:56.128Z",
     "skills": [
       {
         "key": "overall",
         "value": 1777,
-        "rank": 183940,
-        "xp": 34541736
+        "rank": 184055,
+        "xp": 34606469
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 234543,
-        "xp": 1143168
+        "rank": 234658,
+        "xp": 1144032
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 202254,
-        "xp": 1229634
+        "rank": 200950,
+        "xp": 1237809
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 229112,
+        "rank": 229228,
         "xp": 2461556
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 213315,
-        "xp": 2909571
+        "rank": 213038,
+        "xp": 2926625
       },
       {
         "key": "ranged",
         "value": 77,
-        "rank": 227043,
-        "xp": 1536933
+        "rank": 226401,
+        "xp": 1554559
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173764,
+        "rank": 173876,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 174723,
-        "xp": 3197300
+        "rank": 174553,
+        "xp": 3209824
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 260273,
-        "xp": 846837
+        "rank": 259945,
+        "xp": 849177
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275206,
-        "xp": 866581
+        "rank": 275258,
+        "xp": 867071
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 257526,
+        "rank": 257688,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294803,
-        "xp": 827092
+        "rank": 294709,
+        "xp": 828552
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 197654,
+        "rank": 197740,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214499,
-        "xp": 906178
+        "rank": 214440,
+        "xp": 907923
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191102,
-        "xp": 924175
+        "rank": 191050,
+        "xp": 925920
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 270228,
-        "xp": 935443
+        "rank": 270295,
+        "xp": 935953
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 178354,
-        "xp": 880251
+        "rank": 178432,
+        "xp": 880391
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 160985,
+        "rank": 161104,
         "xp": 1439015
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 238981,
+        "rank": 239132,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 208871,
+        "rank": 208979,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 189909,
-        "xp": 1613064
+        "rank": 189981,
+        "xp": 1613124
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 150172,
+        "rank": 150255,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 234074,
+        "rank": 234247,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 160345,
+        "rank": 160449,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 92150,
+        "rank": 92321,
         "xp": 418096
       }
     ],
@@ -5305,27 +5299,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 142928
+        "rank": 143003
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 53333
+        "rank": 53455
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 81333
+        "rank": 81390
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 89955
+        "rank": 89992
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59516
+        "rank": 59553
       },
       {
         "key": "giant_mole",
@@ -5335,17 +5329,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 138588
+        "rank": 138656
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 90104
+        "rank": 90237
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 32082
+        "rank": 32281
       },
       {
         "key": "obor",
@@ -5355,12 +5349,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79568
+        "rank": 79636
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 107862
+        "rank": 107906
       },
       {
         "key": "the_gauntlet",
@@ -5369,13 +5363,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 88,
-        "rank": 92991
+        "value": 95,
+        "rank": 92247
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 103881
+        "rank": 104038
       },
       {
         "key": "tztok_jad",
@@ -5385,12 +5379,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164401
+        "rank": 164465
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49897
+        "rank": 49924
       }
     ],
     "activities": [
@@ -5407,27 +5401,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 159129
+        "rank": 159193
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92108
+        "rank": 92162
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116794
+        "rank": 116834
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 149997
+        "rank": 150068
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 162735
+        "rank": 162800
       },
       {
         "key": "clue_scrolls_elite",
@@ -5442,7 +5436,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82327
+        "rank": 82330
       },
       {
         "key": "pvp_arena",
@@ -5457,7 +5451,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 117150
+        "rank": 117242
       },
       {
         "key": "colosseum_glory",
@@ -5471,8 +5465,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-11T17:41:29.974Z",
-    "updatedAt": "2026-10-11T17:41:29.974Z"
+    "checkedAt": "2026-10-12T21:16:54.985Z",
+    "updatedAt": "2026-10-12T21:16:54.985Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -6414,7 +6408,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-11T17:41:29.974Z",
-    "updatedAt": "2026-10-11T17:41:29.974Z"
+    "checkedAt": "2026-10-12T21:16:54.985Z",
+    "updatedAt": "2026-10-12T21:16:54.985Z"
   }
 }
