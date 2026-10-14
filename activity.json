@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T19:18:20.052Z",
+  "generatedAt": "2026-10-14T17:11:31.072Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "1NMXkYmP983tmztiArxJEn",
-        "title": "Set Me On Fire",
-        "artist": "Flyleaf",
-        "album": "Between The Stars (Special Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d847cf31217b924a230e7494",
-        "url": "https://open.spotify.com/track/1NMXkYmP983tmztiArxJEn",
-        "durationMs": 217689,
-        "playedAt": "2026-10-13T17:40:52.073Z"
+        "id": "1ky0WbFjkBCBieaGXJM3GX",
+        "title": "Missed Injections",
+        "artist": "Hail The Sun",
+        "album": "Wake",
+        "image": "https://i.scdn.co/image/ab67616d0000b27366f73ec3c700b78200fc5873",
+        "url": "https://open.spotify.com/track/1ky0WbFjkBCBieaGXJM3GX",
+        "durationMs": 217951,
+        "playedAt": "2026-10-14T16:10:55.225Z"
       },
       {
-        "id": "6SOzNLaZF6gHGgh7qU56hE",
-        "title": "Fire Fire",
+        "id": "7u93rCmIM9mBoT4mvfUBTZ",
+        "title": "Had Enough",
+        "artist": "Breaking Benjamin",
+        "album": "Phobia (Explicit Version)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737a3d77a6bd0814a5998f7749",
+        "url": "https://open.spotify.com/track/7u93rCmIM9mBoT4mvfUBTZ",
+        "durationMs": 228213,
+        "playedAt": "2026-10-14T16:07:16.754Z"
+      },
+      {
+        "id": "6bGac1gBHs7kUKihrudMzq",
+        "title": "Bulletproof Love",
+        "artist": "Pierce The Veil",
+        "album": "Selfish Machines",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+        "url": "https://open.spotify.com/track/6bGac1gBHs7kUKihrudMzq",
+        "durationMs": 237400,
+        "playedAt": "2026-10-14T16:03:28.037Z"
+      },
+      {
+        "id": "2cD8Xfw7s1cjNy40fTwXWV",
+        "title": "please don't hurt me",
+        "artist": "jeniverse",
+        "album": "please don't hurt me",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731339094e5e7c21ec533681db",
+        "url": "https://open.spotify.com/track/2cD8Xfw7s1cjNy40fTwXWV",
+        "durationMs": 166702,
+        "playedAt": "2026-10-14T15:59:30.154Z"
+      },
+      {
+        "id": "0aYQsp1vZZcX0JBEJvKF7N",
+        "title": "Words As Weapons",
+        "artist": "Seether",
+        "album": "Isolate And Medicate (Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273620a53b5b5b5e6367c318359",
+        "url": "https://open.spotify.com/track/0aYQsp1vZZcX0JBEJvKF7N",
+        "durationMs": 240200,
+        "playedAt": "2026-10-14T15:56:42.922Z"
+      },
+      {
+        "id": "1AxdkK4JqNuo9wNeqgD24Q",
+        "title": "Cage On The Ground",
         "artist": "Flyleaf",
         "album": "New Horizons",
         "image": "https://i.scdn.co/image/ab67616d0000b273f08b64cddba0eaf69d4322df",
-        "url": "https://open.spotify.com/track/6SOzNLaZF6gHGgh7qU56hE",
-        "durationMs": 181906,
-        "playedAt": "2026-10-13T15:26:58.708Z"
+        "url": "https://open.spotify.com/track/1AxdkK4JqNuo9wNeqgD24Q",
+        "durationMs": 213893,
+        "playedAt": "2026-10-14T15:52:42.249Z"
       },
       {
-        "id": "6MLiQIWMaTaaOB04R1VC0k",
-        "title": "Call You Out",
-        "artist": "Flyleaf",
-        "album": "New Horizons",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f08b64cddba0eaf69d4322df",
-        "url": "https://open.spotify.com/track/6MLiQIWMaTaaOB04R1VC0k",
-        "durationMs": 139440,
-        "playedAt": "2026-10-13T15:23:56.262Z"
+        "id": "1CKfTyQ4JMJxM9HFlvz187",
+        "title": "Smashed Into Pieces",
+        "artist": "Silverstein",
+        "album": "When Broken Is Easily Fixed",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ea6e6f676b39b921d6491e3a",
+        "url": "https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187",
+        "durationMs": 222813,
+        "playedAt": "2026-10-14T15:49:07.798Z"
       },
       {
-        "id": "5kutbkxgxSZywKeeKIfpEM",
-        "title": "Missing",
-        "artist": "Flyleaf",
-        "album": "Memento Mori (Expanded)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-        "url": "https://open.spotify.com/track/5kutbkxgxSZywKeeKIfpEM",
-        "durationMs": 174440,
-        "playedAt": "2026-10-13T15:21:36.287Z"
-      },
-      {
-        "id": "3mokABTMvRjILYV9iuvW5e",
-        "title": "Sorrow",
-        "artist": "Flyleaf",
-        "album": "Flyleaf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-        "url": "https://open.spotify.com/track/3mokABTMvRjILYV9iuvW5e",
-        "durationMs": 166000,
-        "playedAt": "2026-10-13T15:18:41.322Z"
-      },
-      {
-        "id": "6RPDAf8p0lGL3jxpnuNotC",
-        "title": "Cassie",
-        "artist": "Flyleaf",
-        "album": "Flyleaf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-        "url": "https://open.spotify.com/track/6RPDAf8p0lGL3jxpnuNotC",
-        "durationMs": 178520,
-        "playedAt": "2026-10-13T15:15:55.328Z"
-      },
-      {
-        "id": "6FOWzfUUvKryjmmUjSu1pX",
-        "title": "This Close",
-        "artist": "Flyleaf",
-        "album": "Memento Mori (Expanded)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-        "url": "https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX",
-        "durationMs": 199933,
-        "playedAt": "2026-10-13T15:12:56.293Z"
-      },
-      {
-        "id": "3v2XiE8ztYHOsrjIBN4Xh2",
-        "title": "Again",
-        "artist": "Flyleaf",
-        "album": "Memento Mori (Expanded)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-        "url": "https://open.spotify.com/track/3v2XiE8ztYHOsrjIBN4Xh2",
-        "durationMs": 184920,
-        "playedAt": "2026-10-12T17:49:29.098Z"
+        "id": "5Bpc360LNUScK53FrM8nvB",
+        "title": "Hole in the Earth",
+        "artist": "Deftones",
+        "album": "Saturday Night Wrist",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+        "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB",
+        "durationMs": 249320,
+        "playedAt": "2026-10-14T15:45:24.480Z"
       }
     ],
     "observed": {
@@ -3424,13 +3424,13 @@
         },
         {
           "month": "2026-10",
-          "plays": 191,
+          "plays": 241,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
               "name": "Scary Kids Scaring Kids",
               "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "74XFHRwlV6OrjEM0A2NCMF",
@@ -3484,7 +3484,7 @@
               "id": "4IliztYDlfMvzQzbx50o60",
               "name": "Flyleaf",
               "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
-              "plays": 48
+              "plays": 50
             },
             {
               "id": "6MUyqmIQ35inLjch0YzIEG",
@@ -3502,7 +3502,7 @@
               "id": "4iJLPqClelZOBCBifm8Fzv",
               "name": "Pierce The Veil",
               "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv",
-              "plays": 10
+              "plays": 15
             },
             {
               "id": "6qyi8X6MdP1lu6B1K6yh3h",
@@ -3544,19 +3544,19 @@
               "id": "6Ghvu1VvMGScGpOUJBAHNH",
               "name": "Deftones",
               "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH",
-              "plays": 6
+              "plays": 9
             },
             {
               "id": "55VydwMyCuGcavwPuhutPL",
               "name": "The Used",
               "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL",
-              "plays": 5
+              "plays": 7
             },
             {
               "id": "20JZFwl6HVl6yg8a4H3ZqK",
               "name": "Panic! At The Disco",
               "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK",
-              "plays": 4
+              "plays": 5
             },
             {
               "id": "7FBcuc1gsnv6Y1nwFtNRCb",
@@ -3568,7 +3568,7 @@
               "id": "5nGIFgo0shDenQYSE0Sn7c",
               "name": "Evanescence",
               "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c",
-              "plays": 5
+              "plays": 6
             },
             {
               "id": "68tKVjVvcqUfKFFLr2j0Ek",
@@ -3580,7 +3580,7 @@
               "id": "5ojhEavq6altxW8fWIlLum",
               "name": "Escape the Fate",
               "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum",
-              "plays": 4
+              "plays": 6
             },
             {
               "id": "0RqtSIYZmd4fiBKVFqyIqD",
@@ -3592,13 +3592,13 @@
               "id": "56dO9zeHKuU5Gvfc2kxHNw",
               "name": "Chevelle",
               "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw",
-              "plays": 1
+              "plays": 5
             },
             {
               "id": "6dHr8Y0nPrnHiBOuJzuu8F",
               "name": "Isles & Glaciers",
               "url": "https://open.spotify.com/artist/6dHr8Y0nPrnHiBOuJzuu8F",
-              "plays": 2
+              "plays": 4
             },
             {
               "id": "3vAaWhdBR38Q02ohXqaNHT",
@@ -3658,7 +3658,7 @@
               "id": "126FigDBtqwS2YsOYMTPQe",
               "name": "Hawthorne Heights",
               "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3N8Hy6xQnQv1F1XCiyGQqA",
@@ -3670,7 +3670,7 @@
               "id": "6guC9FqvlVboSKTI77NG2k",
               "name": "Dance Gavin Dance",
               "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "61awhbNK16ku1uQyXRsQj5",
@@ -3700,13 +3700,13 @@
               "id": "6Z4kwq0LOaYQW2CqudoOIk",
               "name": "Amira Elfeky",
               "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk",
-              "plays": 1
+              "plays": 4
             },
             {
               "id": "298H8XdYsBHii98wfAZT1S",
               "name": "VIOLENT VIRA",
               "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5EjK7aUvQ9LMNqc2zXiWLS",
@@ -3802,6 +3802,66 @@
               "id": "0hxmHf6CqXsOLWgGXjmr7I",
               "name": "Anthony Green",
               "url": "https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I",
+              "plays": 1
+            },
+            {
+              "id": "0XblvrTo6mnHOxWIP1t5T6",
+              "name": "Hail The Sun",
+              "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6",
+              "plays": 5
+            },
+            {
+              "id": "5BtHciL0e0zOP7prIHn3pP",
+              "name": "Breaking Benjamin",
+              "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP",
+              "plays": 5
+            },
+            {
+              "id": "2ADl3zHSatV1uTr1EzsRRg",
+              "name": "jeniverse",
+              "url": "https://open.spotify.com/artist/2ADl3zHSatV1uTr1EzsRRg",
+              "plays": 1
+            },
+            {
+              "id": "6B5c4sch27tWHAGdarpPaW",
+              "name": "Seether",
+              "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW",
+              "plays": 2
+            },
+            {
+              "id": "1Tsag5J854qxeOo2apszug",
+              "name": "Silverstein",
+              "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug",
+              "plays": 2
+            },
+            {
+              "id": "6P5ccCJCe8A4s9tDSTNFzF",
+              "name": "Fleshwater",
+              "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF",
+              "plays": 1
+            },
+            {
+              "id": "6S58b0fr8TkWrEHOH4tRVu",
+              "name": "Switchfoot",
+              "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu",
+              "plays": 1
+            },
+            {
+              "id": "0REMf7H0VP6DwfZ9MbuWph",
+              "name": "10 Years",
+              "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph",
+              "plays": 2
+            },
+            {
+              "id": "1QywY8Wu8fwOk929Rs4uAd",
+              "name": "Her Words Kill",
+              "url": "https://open.spotify.com/artist/1QywY8Wu8fwOk929Rs4uAd",
+              "plays": 1
+            },
+            {
+              "id": "415JrPfN7ukaTu8JV8BLE8",
+              "name": "Local H",
+              "url": "https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8",
               "plays": 1
             }
           ],
@@ -4044,7 +4104,7 @@
               "artist": "The Used",
               "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23",
               "image": "https://i.scdn.co/image/ab67616d0000b273850d8da4ce418aba90f156d0",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2wav9X3SPxSQNNO9AYj47L",
@@ -4172,7 +4232,7 @@
               "artist": "Pierce The Veil",
               "url": "https://open.spotify.com/track/40WWeoX26jtsfdmFx5iRty",
               "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2itu79WbZhUCHX4jg0fyAd",
@@ -4196,7 +4256,7 @@
               "artist": "Deftones",
               "url": "https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ",
               "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "0lP4HYLmvowOKdsQ7CVkuq",
@@ -4316,7 +4376,7 @@
               "artist": "Isles & Glaciers",
               "url": "https://open.spotify.com/track/2vbQ5xEVlTZu3OSNxNaNLS",
               "image": "https://i.scdn.co/image/ab67616d0000b273e347aa93ae66368940be31b9",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5wWkbQ18TPaWq2GeJDF2O3",
@@ -4348,7 +4408,7 @@
               "artist": "Deftones",
               "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB",
               "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "0COqiPhxzoWICwFCS4eZcp",
@@ -4364,7 +4424,7 @@
               "artist": "Isles & Glaciers",
               "url": "https://open.spotify.com/track/1BYmfeINmHOkuzWxF8HVCH",
               "image": "https://i.scdn.co/image/ab67616d0000b273e347aa93ae66368940be31b9",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "47No93LxERvV6MtOAmQzHS",
@@ -4684,7 +4744,7 @@
               "artist": "Amira Elfeky",
               "url": "https://open.spotify.com/track/1CLDmYcnUY26vloEbaWJyI",
               "image": "https://i.scdn.co/image/ab67616d0000b27361f96253fe301cd3cf0d4116",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2X2E0RIzYWt6HTDRSTG4qm",
@@ -4700,7 +4760,7 @@
               "artist": "Pierce The Veil",
               "url": "https://open.spotify.com/track/0yq3IiS6IbPFmqLN46WxiG",
               "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2Ui2JtVjnbHZuExldryCOA",
@@ -4988,7 +5048,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/1AxdkK4JqNuo9wNeqgD24Q",
               "image": "https://i.scdn.co/image/ab67616d0000b273f08b64cddba0eaf69d4322df",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2fJxwz0aHPhSGiYt05UJsb",
@@ -5044,7 +5104,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/6MLiQIWMaTaaOB04R1VC0k",
               "image": "https://i.scdn.co/image/ab67616d0000b273f08b64cddba0eaf69d4322df",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "5kutbkxgxSZywKeeKIfpEM",
@@ -5093,26 +5153,346 @@
               "url": "https://open.spotify.com/track/0xybTB2yJe1dsS4pGplkOi",
               "image": "https://i.scdn.co/image/ab67616d0000b27392c9e6bad5287d88da7c85a1",
               "plays": 1
+            },
+            {
+              "id": "1ky0WbFjkBCBieaGXJM3GX",
+              "title": "Missed Injections",
+              "artist": "Hail The Sun",
+              "url": "https://open.spotify.com/track/1ky0WbFjkBCBieaGXJM3GX",
+              "image": "https://i.scdn.co/image/ab67616d0000b27366f73ec3c700b78200fc5873",
+              "plays": 1
+            },
+            {
+              "id": "7u93rCmIM9mBoT4mvfUBTZ",
+              "title": "Had Enough",
+              "artist": "Breaking Benjamin",
+              "url": "https://open.spotify.com/track/7u93rCmIM9mBoT4mvfUBTZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737a3d77a6bd0814a5998f7749",
+              "plays": 1
+            },
+            {
+              "id": "6bGac1gBHs7kUKihrudMzq",
+              "title": "Bulletproof Love",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/6bGac1gBHs7kUKihrudMzq",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+              "plays": 1
+            },
+            {
+              "id": "2cD8Xfw7s1cjNy40fTwXWV",
+              "title": "please don't hurt me",
+              "artist": "jeniverse",
+              "url": "https://open.spotify.com/track/2cD8Xfw7s1cjNy40fTwXWV",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731339094e5e7c21ec533681db",
+              "plays": 1
+            },
+            {
+              "id": "0aYQsp1vZZcX0JBEJvKF7N",
+              "title": "Words As Weapons",
+              "artist": "Seether",
+              "url": "https://open.spotify.com/track/0aYQsp1vZZcX0JBEJvKF7N",
+              "image": "https://i.scdn.co/image/ab67616d0000b273620a53b5b5b5e6367c318359",
+              "plays": 1
+            },
+            {
+              "id": "1CKfTyQ4JMJxM9HFlvz187",
+              "title": "Smashed Into Pieces",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ea6e6f676b39b921d6491e3a",
+              "plays": 1
+            },
+            {
+              "id": "6JFOhtULMOV5XFBs4Epix2",
+              "title": "Human Target Practice",
+              "artist": "Hail The Sun",
+              "url": "https://open.spotify.com/track/6JFOhtULMOV5XFBs4Epix2",
+              "image": "https://i.scdn.co/image/ab67616d0000b27366f73ec3c700b78200fc5873",
+              "plays": 1
+            },
+            {
+              "id": "4D8v4RhujyyHDDyj9MKtrf",
+              "title": "Star Crossed",
+              "artist": "Scary Kids Scaring Kids",
+              "url": "https://open.spotify.com/track/4D8v4RhujyyHDDyj9MKtrf",
+              "image": "https://i.scdn.co/image/ab67616d0000b27318c2d8df739d22fe238ba669",
+              "plays": 1
+            },
+            {
+              "id": "0rFdjHoldrbHIBeUIjxi5a",
+              "title": "The Razor's Apple",
+              "artist": "Fleshwater",
+              "url": "https://open.spotify.com/track/0rFdjHoldrbHIBeUIjxi5a",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735e6a9cd045fa8da9ba2fe81a",
+              "plays": 1
+            },
+            {
+              "id": "2Bcvh4zypRuH0cCTQzuV6B",
+              "title": "Don't Fake This",
+              "artist": "Chevelle",
+              "url": "https://open.spotify.com/track/2Bcvh4zypRuH0cCTQzuV6B",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+              "plays": 1
+            },
+            {
+              "id": "6tKky3l379dnGe7F85ztrJ",
+              "title": "The Bird and the Worm",
+              "artist": "The Used",
+              "url": "https://open.spotify.com/track/6tKky3l379dnGe7F85ztrJ",
+              "image": "https://i.scdn.co/image/ab67616d0000b27372b50cbf2e16b5ec4e859a98",
+              "plays": 1
+            },
+            {
+              "id": "0faXHILILebCGnJBPU6KJJ",
+              "title": "The Diary of Jane - Single Version",
+              "artist": "Breaking Benjamin",
+              "url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735aa75a47afe2804e280bd149",
+              "plays": 1
+            },
+            {
+              "id": "4HEsfjwdNYA1rVNRuvQQaK",
+              "title": "The Webs We Weave",
+              "artist": "Escape the Fate",
+              "url": "https://open.spotify.com/track/4HEsfjwdNYA1rVNRuvQQaK",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732541614ba5551322c8a1a478",
+              "plays": 1
+            },
+            {
+              "id": "6NDoBIaqTHdcudaR8RDJNw",
+              "title": "My Heroine",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw",
+              "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+              "plays": 1
+            },
+            {
+              "id": "6OxkgVnpJh24pl6EcR4Mrb",
+              "title": "Rolling Out the Red Carpet",
+              "artist": "Hail The Sun",
+              "url": "https://open.spotify.com/track/6OxkgVnpJh24pl6EcR4Mrb",
+              "image": "https://i.scdn.co/image/ab67616d0000b27366f73ec3c700b78200fc5873",
+              "plays": 1
+            },
+            {
+              "id": "6sREV6MpLHTqcOmBK5mvYF",
+              "title": "Face to the Floor",
+              "artist": "Chevelle",
+              "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF",
+              "image": "https://i.scdn.co/image/ab67616d0000b273774080a4ac27b3c5c86af35f",
+              "plays": 1
+            },
+            {
+              "id": "2md2i5QvelRFnafpnd6LOg",
+              "title": "Meant to Live",
+              "artist": "Switchfoot",
+              "url": "https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg",
+              "image": "https://i.scdn.co/image/ab67616d0000b273656001849b39dfee31b8d855",
+              "plays": 1
+            },
+            {
+              "id": "5MNxNuo0XSHx7MPXbsR57W",
+              "title": "You",
+              "artist": "Breaking Benjamin",
+              "url": "https://open.spotify.com/track/5MNxNuo0XSHx7MPXbsR57W",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737a3d77a6bd0814a5998f7749",
+              "plays": 1
+            },
+            {
+              "id": "7HBYKU22eiPXpOMh1op7Bf",
+              "title": "When I Go Out, I Want To Go Out On A Chariot Of Fire",
+              "artist": "Escape the Fate",
+              "url": "https://open.spotify.com/track/7HBYKU22eiPXpOMh1op7Bf",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732541614ba5551322c8a1a478",
+              "plays": 1
+            },
+            {
+              "id": "22GZHx4AxvmmVtad0aHyQZ",
+              "title": "The Importance of Cocaine",
+              "artist": "Dance Gavin Dance",
+              "url": "https://open.spotify.com/track/22GZHx4AxvmmVtad0aHyQZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739d5a1376b0bc2afc179f0018",
+              "plays": 1
+            },
+            {
+              "id": "4Uiw0Sl9yskBaC6P4DcdVD",
+              "title": "Be Quiet and Drive (Far Away)",
+              "artist": "Deftones",
+              "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+              "plays": 1
+            },
+            {
+              "id": "2iiBRLeAWVr20kf1XN4zZu",
+              "title": "Secrets",
+              "artist": "Amira Elfeky",
+              "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735dff4e3a62f39e409f3f803a",
+              "plays": 1
+            },
+            {
+              "id": "0k1iYOopB0ZTQjdK6lsopE",
+              "title": "God Complex",
+              "artist": "VIOLENT VIRA",
+              "url": "https://open.spotify.com/track/0k1iYOopB0ZTQjdK6lsopE",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734f062d01dc9287023821ee9e",
+              "plays": 1
+            },
+            {
+              "id": "3Ps0sj3z3bEP4LbAVt8gYY",
+              "title": "Ow! (Splidao!) [I Like It, Though]",
+              "artist": "Hail The Sun",
+              "url": "https://open.spotify.com/track/3Ps0sj3z3bEP4LbAVt8gYY",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730c6624da5287f9d3b96c8768",
+              "plays": 1
+            },
+            {
+              "id": "48vr34351V9Sz1QVxmbYNf",
+              "title": "Today I Saw The Whole World",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/48vr34351V9Sz1QVxmbYNf",
+              "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+              "plays": 1
+            },
+            {
+              "id": "60OKW0mZiPFHVpHl3eHueg",
+              "title": "Fix Me",
+              "artist": "10 Years",
+              "url": "https://open.spotify.com/track/60OKW0mZiPFHVpHl3eHueg",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731ff855f3f2d8250af39392c3",
+              "plays": 1
+            },
+            {
+              "id": "2BZYgf4QEl9DpllRjIiEUs",
+              "title": "Panic Prone",
+              "artist": "Chevelle",
+              "url": "https://open.spotify.com/track/2BZYgf4QEl9DpllRjIiEUs",
+              "image": "https://i.scdn.co/image/ab67616d0000b27307fbe8ce8e4a75f1c34ff87e",
+              "plays": 1
+            },
+            {
+              "id": "2AYshwcSzJR1jMlMMDuPBt",
+              "title": "Holland",
+              "artist": "Her Words Kill",
+              "url": "https://open.spotify.com/track/2AYshwcSzJR1jMlMMDuPBt",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739bc794960f426c97e4dc1bd4",
+              "plays": 1
+            },
+            {
+              "id": "2G1xOn9PhRgi63XWp2ToZx",
+              "title": "Crawl",
+              "artist": "Breaking Benjamin",
+              "url": "https://open.spotify.com/track/2G1xOn9PhRgi63XWp2ToZx",
+              "image": "https://i.scdn.co/image/ab67616d0000b27308cdafd988bd04d9b14159d3",
+              "plays": 1
+            },
+            {
+              "id": "3cbTV3IZZvSBYVcl0xuZbY",
+              "title": "Bound For The Floor",
+              "artist": "Local H",
+              "url": "https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f5504d1dd44f61d6e8fd8625",
+              "plays": 1
+            },
+            {
+              "id": "3pavDZo8o2ctgkVhERSzy6",
+              "title": "Driven Under",
+              "artist": "Seether",
+              "url": "https://open.spotify.com/track/3pavDZo8o2ctgkVhERSzy6",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731085abdeea4d93b7c1d39554",
+              "plays": 1
+            },
+            {
+              "id": "6p5duPGjAdVYLq2kOGXYUD",
+              "title": "Tonight (demo)",
+              "artist": "Amira Elfeky",
+              "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f75c601cdd5658053a7b0ba5",
+              "plays": 1
+            },
+            {
+              "id": "5rLi8B8qgk6qThwRnKHW2P",
+              "title": "The Ballad of Mona Lisa",
+              "artist": "Panic! At The Disco",
+              "url": "https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d8f40ad88ed77a939b716d19",
+              "plays": 1
+            },
+            {
+              "id": "6kCMI0NPb6EXKcWZVZm8Kh",
+              "title": "Dead Messages",
+              "artist": "Hail The Sun",
+              "url": "https://open.spotify.com/track/6kCMI0NPb6EXKcWZVZm8Kh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730c6624da5287f9d3b96c8768",
+              "plays": 1
+            },
+            {
+              "id": "6LhGzSZlIGxZpyIXXZn9ZV",
+              "title": "Dive In",
+              "artist": "Pierce The Veil",
+              "url": "https://open.spotify.com/track/6LhGzSZlIGxZpyIXXZn9ZV",
+              "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+              "plays": 1
+            },
+            {
+              "id": "2AMEArFOkOhRxTY3ahlPuc",
+              "title": "Through The Iris",
+              "artist": "10 Years",
+              "url": "https://open.spotify.com/track/2AMEArFOkOhRxTY3ahlPuc",
+              "image": "https://i.scdn.co/image/ab67616d0000b27366812882de8214e916e4d9d1",
+              "plays": 1
+            },
+            {
+              "id": "2pYnpQHChbpwxla0gYcHhB",
+              "title": "Letter from a Thief",
+              "artist": "Chevelle",
+              "url": "https://open.spotify.com/track/2pYnpQHChbpwxla0gYcHhB",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d19b2b5d0bd2ac50f24e09db",
+              "plays": 1
+            },
+            {
+              "id": "3eFx554nKpVNe4otynSsK0",
+              "title": "Niki Fm",
+              "artist": "Hawthorne Heights",
+              "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4b59e1dd1a9c0fa4dc27c61",
+              "plays": 1
+            },
+            {
+              "id": "0FCCTnUJEczeSspOHfEmW8",
+              "title": "Topless",
+              "artist": "Breaking Benjamin",
+              "url": "https://open.spotify.com/track/0FCCTnUJEczeSspOHfEmW8",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737a3d77a6bd0814a5998f7749",
+              "plays": 1
+            },
+            {
+              "id": "4iDQezFTnOwgnrPYiqQ6TP",
+              "title": "All That I’m Living For",
+              "artist": "Evanescence",
+              "url": "https://open.spotify.com/track/4iDQezFTnOwgnrPYiqQ6TP",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737b8aabae10ab5bbe7c7f11c5",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-13T17:40:52.073Z",
+      "lastPlayedAt": "2026-10-14T16:10:55.225Z",
       "lastKeys": [
-        "[1791913252073,\"1NMXkYmP983tmztiArxJEn\"]"
+        "[1791994255225,\"1ky0WbFjkBCBieaGXJM3GX\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-13T17:40:52.073Z"
+      "through": "2026-10-14T16:10:55.225Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-13T19:18:20.052Z",
-    "updatedAt": "2026-10-13T19:18:20.052Z"
+    "checkedAt": "2026-10-14T17:11:31.072Z",
+    "updatedAt": "2026-10-14T17:11:31.072Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-13T19:18:20.052Z",
-    "updatedAt": "2026-10-13T19:18:20.052Z"
+    "checkedAt": "2026-10-14T17:11:31.072Z",
+    "updatedAt": "2026-10-14T17:11:31.072Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -5122,156 +5502,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-10-13T19:18:21.359Z",
+    "snapshotAt": "2026-10-14T17:11:32.551Z",
     "skills": [
       {
         "key": "overall",
         "value": 1777,
-        "rank": 184137,
+        "rank": 184223,
         "xp": 34640511
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 234713,
+        "rank": 234818,
         "xp": 1144608
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 200447,
+        "rank": 200523,
         "xp": 1242260
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 229316,
+        "rank": 229414,
         "xp": 2461556
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 212904,
+        "rank": 212968,
         "xp": 2935741
       },
       {
         "key": "ranged",
         "value": 77,
-        "rank": 226103,
+        "rank": 226179,
         "xp": 1563543
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 173933,
+        "rank": 174012,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 174496,
+        "rank": 174560,
         "xp": 3215758
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 259769,
+        "rank": 259865,
         "xp": 850632
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275312,
+        "rank": 275403,
         "xp": 867351
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 257811,
+        "rank": 257902,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294638,
+        "rank": 294722,
         "xp": 829472
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 197784,
+        "rank": 197839,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214468,
+        "rank": 214541,
         "xp": 908888
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191002,
+        "rank": 191090,
         "xp": 926885
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 270345,
+        "rank": 270456,
         "xp": 936233
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 178493,
+        "rank": 178563,
         "xp": 880471
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 161168,
+        "rank": 161216,
         "xp": 1439015
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 239212,
+        "rank": 239308,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 209052,
+        "rank": 209122,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 77,
-        "rank": 190038,
+        "rank": 190087,
         "xp": 1613160
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 150304,
+        "rank": 150352,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 234321,
+        "rank": 234406,
         "xp": 946256
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 160506,
+        "rank": 160565,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 92436,
+        "rank": 92568,
         "xp": 418096
       }
     ],
@@ -5284,27 +5664,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 143059
+        "rank": 143110
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 53526
+        "rank": 53609
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 81416
+        "rank": 81453
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90016
+        "rank": 90036
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59569
+        "rank": 59586
       },
       {
         "key": "giant_mole",
@@ -5314,17 +5694,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 138691
+        "rank": 138740
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 90309
+        "rank": 90395
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 32407
+        "rank": 32531
       },
       {
         "key": "obor",
@@ -5334,12 +5714,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79669
+        "rank": 79704
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 107951
+        "rank": 108001
       },
       {
         "key": "the_gauntlet",
@@ -5349,12 +5729,12 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 98,
-        "rank": 91950
+        "rank": 92005
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 104120
+        "rank": 104210
       },
       {
         "key": "tztok_jad",
@@ -5364,12 +5744,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164489
+        "rank": 164523
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49941
+        "rank": 49950
       }
     ],
     "activities": [
@@ -5386,27 +5766,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 159241
+        "rank": 159278
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92199
+        "rank": 92243
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116859
+        "rank": 116890
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 150112
+        "rank": 150148
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 162827
+        "rank": 162870
       },
       {
         "key": "clue_scrolls_elite",
@@ -5421,7 +5801,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82330
+        "rank": 82337
       },
       {
         "key": "pvp_arena",
@@ -5436,7 +5816,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 117294
+        "rank": 117349
       },
       {
         "key": "colosseum_glory",
@@ -5450,8 +5830,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-13T19:18:20.052Z",
-    "updatedAt": "2026-10-13T19:18:20.052Z"
+    "checkedAt": "2026-10-14T17:11:31.072Z",
+    "updatedAt": "2026-10-14T17:11:31.072Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -6408,7 +6788,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-13T19:18:20.052Z",
-    "updatedAt": "2026-10-13T19:18:20.052Z"
+    "checkedAt": "2026-10-14T17:11:31.072Z",
+    "updatedAt": "2026-10-14T17:11:31.072Z"
   }
 }
