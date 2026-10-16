@@ -1,10 +1,40 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-15T17:02:23.383Z",
+  "generatedAt": "2026-10-16T16:40:31.237Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "2CcpyG2gyFmmlaIE0sO27o",
+        "title": "Amy Says",
+        "artist": "Flyleaf",
+        "album": "Remember To Live",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736ed8fcbbebd61c6c1132de40",
+        "url": "https://open.spotify.com/track/2CcpyG2gyFmmlaIE0sO27o",
+        "durationMs": 217946,
+        "playedAt": "2026-10-16T16:37:44.291Z"
+      },
+      {
+        "id": "1NMXkYmP983tmztiArxJEn",
+        "title": "Set Me On Fire",
+        "artist": "Flyleaf",
+        "album": "Between The Stars (Special Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d847cf31217b924a230e7494",
+        "url": "https://open.spotify.com/track/1NMXkYmP983tmztiArxJEn",
+        "durationMs": 217689,
+        "playedAt": "2026-10-16T16:32:43.408Z"
+      },
+      {
+        "id": "6nmDEbjMZru5j55HIkX2yZ",
+        "title": "Diamond Eyes",
+        "artist": "Deftones",
+        "album": "Diamond Eyes",
+        "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+        "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ",
+        "durationMs": 188266,
+        "playedAt": "2026-10-16T16:32:22.934Z"
+      },
       {
         "id": "3UygY7qW2cvG9Llkay6i1i",
         "title": "Going Under",
@@ -13,7 +43,17 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
         "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i",
         "durationMs": 214946,
-        "playedAt": "2026-10-15T16:36:02.863Z"
+        "playedAt": "2026-10-15T21:47:23.265Z"
+      },
+      {
+        "id": "1zN6ynJG4PdR61YWv4PQ3Y",
+        "title": "All Around Me",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
+        "durationMs": 198506,
+        "playedAt": "2026-10-15T17:43:34.318Z"
       },
       {
         "id": "1ky0WbFjkBCBieaGXJM3GX",
@@ -44,46 +84,6 @@
         "url": "https://open.spotify.com/track/6bGac1gBHs7kUKihrudMzq",
         "durationMs": 237400,
         "playedAt": "2026-10-14T16:03:28.037Z"
-      },
-      {
-        "id": "2cD8Xfw7s1cjNy40fTwXWV",
-        "title": "please don't hurt me",
-        "artist": "jeniverse",
-        "album": "please don't hurt me",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731339094e5e7c21ec533681db",
-        "url": "https://open.spotify.com/track/2cD8Xfw7s1cjNy40fTwXWV",
-        "durationMs": 166702,
-        "playedAt": "2026-10-14T15:59:30.154Z"
-      },
-      {
-        "id": "0aYQsp1vZZcX0JBEJvKF7N",
-        "title": "Words As Weapons",
-        "artist": "Seether",
-        "album": "Isolate And Medicate (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273620a53b5b5b5e6367c318359",
-        "url": "https://open.spotify.com/track/0aYQsp1vZZcX0JBEJvKF7N",
-        "durationMs": 240200,
-        "playedAt": "2026-10-14T15:56:42.922Z"
-      },
-      {
-        "id": "1AxdkK4JqNuo9wNeqgD24Q",
-        "title": "Cage On The Ground",
-        "artist": "Flyleaf",
-        "album": "New Horizons",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f08b64cddba0eaf69d4322df",
-        "url": "https://open.spotify.com/track/1AxdkK4JqNuo9wNeqgD24Q",
-        "durationMs": 213893,
-        "playedAt": "2026-10-14T15:52:42.249Z"
-      },
-      {
-        "id": "1CKfTyQ4JMJxM9HFlvz187",
-        "title": "Smashed Into Pieces",
-        "artist": "Silverstein",
-        "album": "When Broken Is Easily Fixed",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea6e6f676b39b921d6491e3a",
-        "url": "https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187",
-        "durationMs": 222813,
-        "playedAt": "2026-10-14T15:49:07.798Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 243,
+          "plays": 248,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3484,7 +3484,7 @@
               "id": "4IliztYDlfMvzQzbx50o60",
               "name": "Flyleaf",
               "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
-              "plays": 50
+              "plays": 53
             },
             {
               "id": "6MUyqmIQ35inLjch0YzIEG",
@@ -3544,7 +3544,7 @@
               "id": "6Ghvu1VvMGScGpOUJBAHNH",
               "name": "Deftones",
               "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH",
-              "plays": 9
+              "plays": 10
             },
             {
               "id": "55VydwMyCuGcavwPuhutPL",
@@ -3568,7 +3568,7 @@
               "id": "5nGIFgo0shDenQYSE0Sn7c",
               "name": "Evanescence",
               "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c",
-              "plays": 8
+              "plays": 9
             },
             {
               "id": "68tKVjVvcqUfKFFLr2j0Ek",
@@ -3960,7 +3960,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 4
+              "plays": 5
             },
             {
               "id": "3xKTpGCsafXzV4muM1Hpl3",
@@ -4360,7 +4360,7 @@
               "artist": "Deftones",
               "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ",
               "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1H3cv1QRzBChdsOnPdyrfD",
@@ -5080,7 +5080,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/2CcpyG2gyFmmlaIE0sO27o",
               "image": "https://i.scdn.co/image/ab67616d0000b2736ed8fcbbebd61c6c1132de40",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1NMXkYmP983tmztiArxJEn",
@@ -5088,7 +5088,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/1NMXkYmP983tmztiArxJEn",
               "image": "https://i.scdn.co/image/ab67616d0000b273d847cf31217b924a230e7494",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "6SOzNLaZF6gHGgh7qU56hE",
@@ -5480,27 +5480,27 @@
               "artist": "Evanescence",
               "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i",
               "image": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
-              "plays": 2
+              "plays": 3
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-15T16:36:02.863Z",
+      "lastPlayedAt": "2026-10-16T16:37:44.291Z",
       "lastKeys": [
-        "[1792082162863,\"3UygY7qW2cvG9Llkay6i1i\"]"
+        "[1792168664291,\"2CcpyG2gyFmmlaIE0sO27o\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-15T16:36:02.863Z"
+      "through": "2026-10-16T16:37:44.291Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-15T17:02:23.383Z",
-    "updatedAt": "2026-10-15T17:02:23.383Z"
+    "checkedAt": "2026-10-16T16:40:31.237Z",
+    "updatedAt": "2026-10-16T16:40:31.237Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-15T17:02:23.383Z",
-    "updatedAt": "2026-10-15T17:02:23.383Z"
+    "checkedAt": "2026-10-16T16:40:31.237Z",
+    "updatedAt": "2026-10-16T16:40:31.237Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -5510,156 +5510,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-10-15T17:02:24.764Z",
+    "snapshotAt": "2026-10-16T16:40:34.211Z",
     "skills": [
       {
         "key": "overall",
         "value": 1778,
-        "rank": 183998,
+        "rank": 184092,
         "xp": 34856540
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 234925,
+        "rank": 235028,
         "xp": 1144820
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 200293,
+        "rank": 200394,
         "xp": 1245404
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 229507,
+        "rank": 229626,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 212939,
+        "rank": 213031,
         "xp": 2941831
       },
       {
         "key": "ranged",
         "value": 77,
-        "rank": 226080,
+        "rank": 226178,
         "xp": 1567829
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 174090,
+        "rank": 174174,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 174484,
+        "rank": 174552,
         "xp": 3222247
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 259780,
+        "rank": 259874,
         "xp": 851532
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275477,
+        "rank": 275596,
         "xp": 867581
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 257985,
+        "rank": 258106,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294699,
+        "rank": 294790,
         "xp": 830072
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 197884,
+        "rank": 197928,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214563,
+        "rank": 214665,
         "xp": 909693
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191063,
+        "rank": 191152,
         "xp": 927690
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 270546,
+        "rank": 270648,
         "xp": 936443
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 178633,
+        "rank": 178722,
         "xp": 880531
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 161295,
+        "rank": 161360,
         "xp": 1439040
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 239393,
+        "rank": 239482,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 209208,
+        "rank": 209300,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 78,
-        "rank": 184407,
+        "rank": 184489,
         "xp": 1791623
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 150422,
+        "rank": 150478,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 234501,
+        "rank": 234597,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 160648,
+        "rank": 160720,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 91649,
+        "rank": 91798,
         "xp": 430576
       }
     ],
@@ -5672,27 +5672,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 143171
+        "rank": 143224
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 53707
+        "rank": 53801
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 81497
+        "rank": 81552
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90063
+        "rank": 90095
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59616
+        "rank": 59646
       },
       {
         "key": "giant_mole",
@@ -5702,17 +5702,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 138800
+        "rank": 138850
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 90505
+        "rank": 90568
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 32681
+        "rank": 32838
       },
       {
         "key": "obor",
@@ -5722,12 +5722,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79754
+        "rank": 79799
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108049
+        "rank": 108097
       },
       {
         "key": "the_gauntlet",
@@ -5737,12 +5737,12 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 100,
-        "rank": 91886
+        "rank": 91932
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 104319
+        "rank": 104420
       },
       {
         "key": "tztok_jad",
@@ -5752,12 +5752,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164570
+        "rank": 164609
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 49964
+        "rank": 49985
       }
     ],
     "activities": [
@@ -5774,27 +5774,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 159328
+        "rank": 159382
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92279
+        "rank": 92323
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 116926
+        "rank": 116970
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 150209
+        "rank": 150253
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 162920
+        "rank": 162965
       },
       {
         "key": "clue_scrolls_elite",
@@ -5809,7 +5809,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82339
+        "rank": 82349
       },
       {
         "key": "pvp_arena",
@@ -5824,7 +5824,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 117414
+        "rank": 117475
       },
       {
         "key": "colosseum_glory",
@@ -5838,8 +5838,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-15T17:02:23.383Z",
-    "updatedAt": "2026-10-15T17:02:23.383Z"
+    "checkedAt": "2026-10-16T16:40:31.237Z",
+    "updatedAt": "2026-10-16T16:40:31.237Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -6796,7 +6796,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-15T17:02:23.383Z",
-    "updatedAt": "2026-10-15T17:02:23.383Z"
+    "checkedAt": "2026-10-16T16:40:31.237Z",
+    "updatedAt": "2026-10-16T16:40:31.237Z"
   }
 }
