@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T15:36:55.848Z",
+  "generatedAt": "2026-10-18T15:52:57.856Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "1BAgF5hLVlpbb9AyXZ8R5W",
-        "title": "What You Did",
+        "id": "6EMynpZ10GVcwVqiLZj6Ye",
+        "title": "Champagne Supernova",
+        "artist": "Oasis",
+        "album": "(What's The Story) Morning Glory?",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
+        "url": "https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye",
+        "durationMs": 450506,
+        "playedAt": "2026-10-18T00:46:54.562Z"
+      },
+      {
+        "id": "6NZW1GygsP6UnHVciP8m8a",
+        "title": "Whisper",
+        "artist": "Ally Nicholas",
+        "album": "Whisper",
+        "image": "https://i.scdn.co/image/ab67616d0000b27341026d0e3528b44709a965af",
+        "url": "https://open.spotify.com/track/6NZW1GygsP6UnHVciP8m8a",
+        "durationMs": 213248,
+        "playedAt": "2026-10-17T22:45:40.357Z"
+      },
+      {
+        "id": "1EUX3YDS5kbgejgMJSuAgn",
+        "title": "Cut",
+        "artist": "Sweet Pill",
+        "album": "Where the Heart Is",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b9368400e3af542f39b0c3c3",
+        "url": "https://open.spotify.com/track/1EUX3YDS5kbgejgMJSuAgn",
+        "durationMs": 134972,
+        "playedAt": "2026-10-17T18:06:14.762Z"
+      },
+      {
+        "id": "0rmj31pdOLE4JlbpMr3p8z",
+        "title": "Strange",
+        "artist": "The Sewing Club",
+        "album": "Strange",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733865fbf2063dba985e62cff0",
+        "url": "https://open.spotify.com/track/0rmj31pdOLE4JlbpMr3p8z",
+        "durationMs": 224156,
+        "playedAt": "2026-10-17T18:03:59.221Z"
+      },
+      {
+        "id": "7wYCva1bI1AkHRQoVXhy8F",
+        "title": "Crave",
+        "artist": "Paramore",
+        "album": "This Is Why",
+        "image": "https://i.scdn.co/image/ab67616d0000b27305f425b3ea2d3609d2d8b962",
+        "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F",
+        "durationMs": 235012,
+        "playedAt": "2026-10-17T18:00:14.567Z"
+      },
+      {
+        "id": "3FI0iAAAjmR31xpZEwbdys",
+        "title": "Circle With Me",
+        "artist": "Spiritbox",
+        "album": "Eternal Blue",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733e234c82f96fa4ded8e5ca47",
+        "url": "https://open.spotify.com/track/3FI0iAAAjmR31xpZEwbdys",
+        "durationMs": 233880,
+        "playedAt": "2026-10-17T17:56:19.022Z"
+      },
+      {
+        "id": "79IgD1wf3xltQdDK3l5Why",
+        "title": "In My Room",
+        "artist": "Julia Wolf",
+        "album": "In My Room",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739c314ae07968354119a803da",
+        "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why",
+        "durationMs": 163874,
+        "playedAt": "2026-10-17T17:50:30.960Z"
+      },
+      {
+        "id": "3hT8vYVE47WS3pP6uCLVHk",
+        "title": "Repulse",
         "artist": "Love Rarely",
         "album": "Pain Travels",
         "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/1BAgF5hLVlpbb9AyXZ8R5W",
-        "durationMs": 294661,
-        "playedAt": "2026-10-17T03:47:01.021Z"
-      },
-      {
-        "id": "1Nr2VWP2aAjRUqyqpQS5N4",
-        "title": "Disappear",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/1Nr2VWP2aAjRUqyqpQS5N4",
-        "durationMs": 234251,
-        "playedAt": "2026-10-17T03:42:05.848Z"
-      },
-      {
-        "id": "4mIau5RjhSbqahhKXtt66W",
-        "title": "Entropy",
-        "artist": "Love Rarely",
-        "album": "Lonely People",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736c24851c897571a54b8bbb61",
-        "url": "https://open.spotify.com/track/4mIau5RjhSbqahhKXtt66W",
-        "durationMs": 166064,
-        "playedAt": "2026-10-17T03:38:11.105Z"
-      },
-      {
-        "id": "6Sk1yWcYE6mQ6fLYA2UaHH",
-        "title": "I'll Try",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/6Sk1yWcYE6mQ6fLYA2UaHH",
-        "durationMs": 180296,
-        "playedAt": "2026-10-17T03:35:24.475Z"
-      },
-      {
-        "id": "08jYTI4ETlL5TcLiOy8Emk",
-        "title": "Haunted",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/08jYTI4ETlL5TcLiOy8Emk",
-        "durationMs": 187252,
-        "playedAt": "2026-10-17T03:32:23.696Z"
-      },
-      {
-        "id": "4O45xLeZFOMJRlNLCnmV2Z",
-        "title": "Say Yes",
-        "artist": "Love Rarely",
-        "album": "Say Yes",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735e6e2cfe639fc0f46debffba",
-        "url": "https://open.spotify.com/track/4O45xLeZFOMJRlNLCnmV2Z",
-        "durationMs": 152500,
-        "playedAt": "2026-10-17T03:29:15.955Z"
-      },
-      {
-        "id": "07MMpvtDlRkoy6VYx56v24",
-        "title": "Mould",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/07MMpvtDlRkoy6VYx56v24",
-        "durationMs": 196543,
-        "playedAt": "2026-10-17T03:26:42.970Z"
-      },
-      {
-        "id": "0Vy8jdKgm0r70X6dzQVodD",
-        "title": "Will",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/0Vy8jdKgm0r70X6dzQVodD",
-        "durationMs": 198983,
-        "playedAt": "2026-10-17T03:23:25.922Z"
+        "url": "https://open.spotify.com/track/3hT8vYVE47WS3pP6uCLVHk",
+        "durationMs": 64296,
+        "playedAt": "2026-10-17T03:50:24.676Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 286,
+          "plays": 294,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3436,7 +3436,7 @@
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 18
+              "plays": 19
             },
             {
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
@@ -3688,7 +3688,7 @@
               "id": "5yvGiZLSWJTPBlZpVbPnEZ",
               "name": "Julia Wolf",
               "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "1IHjrY7ygKbmLVoUV1VcXc",
@@ -3868,7 +3868,7 @@
               "id": "3vfL7qtWVnyObFrObnBkmM",
               "name": "Love Rarely",
               "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM",
-              "plays": 10
+              "plays": 11
             },
             {
               "id": "4XK21VQVuQig0YgCNqINhY",
@@ -3880,6 +3880,36 @@
               "id": "1AS1xVK5NBQkj4cZtmwqsu",
               "name": "Psychic Babble",
               "url": "https://open.spotify.com/artist/1AS1xVK5NBQkj4cZtmwqsu",
+              "plays": 1
+            },
+            {
+              "id": "2DaxqgrOhkeH0fpeiQq2f4",
+              "name": "Oasis",
+              "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4",
+              "plays": 1
+            },
+            {
+              "id": "3F2at4eIx4GXByVo0hGJaX",
+              "name": "Ally Nicholas",
+              "url": "https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX",
+              "plays": 1
+            },
+            {
+              "id": "0fNyhBvhR5Xw6s0EYQewUa",
+              "name": "Sweet Pill",
+              "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa",
+              "plays": 1
+            },
+            {
+              "id": "4dEUp9bmI8xPLDdVfEN24Q",
+              "name": "The Sewing Club",
+              "url": "https://open.spotify.com/artist/4dEUp9bmI8xPLDdVfEN24Q",
+              "plays": 1
+            },
+            {
+              "id": "4MzJMcHQBl9SIYSjwWn8QW",
+              "name": "Spiritbox",
+              "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW",
               "plays": 1
             }
           ],
@@ -5651,26 +5681,90 @@
               "url": "https://open.spotify.com/track/1hIGfKLGsymTR1As8QmJ2v",
               "image": "https://i.scdn.co/image/ab67616d0000b273f08b64cddba0eaf69d4322df",
               "plays": 1
+            },
+            {
+              "id": "6EMynpZ10GVcwVqiLZj6Ye",
+              "title": "Champagne Supernova",
+              "artist": "Oasis",
+              "url": "https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
+              "plays": 1
+            },
+            {
+              "id": "6NZW1GygsP6UnHVciP8m8a",
+              "title": "Whisper",
+              "artist": "Ally Nicholas",
+              "url": "https://open.spotify.com/track/6NZW1GygsP6UnHVciP8m8a",
+              "image": "https://i.scdn.co/image/ab67616d0000b27341026d0e3528b44709a965af",
+              "plays": 1
+            },
+            {
+              "id": "1EUX3YDS5kbgejgMJSuAgn",
+              "title": "Cut",
+              "artist": "Sweet Pill",
+              "url": "https://open.spotify.com/track/1EUX3YDS5kbgejgMJSuAgn",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b9368400e3af542f39b0c3c3",
+              "plays": 1
+            },
+            {
+              "id": "0rmj31pdOLE4JlbpMr3p8z",
+              "title": "Strange",
+              "artist": "The Sewing Club",
+              "url": "https://open.spotify.com/track/0rmj31pdOLE4JlbpMr3p8z",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733865fbf2063dba985e62cff0",
+              "plays": 1
+            },
+            {
+              "id": "7wYCva1bI1AkHRQoVXhy8F",
+              "title": "Crave",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F",
+              "image": "https://i.scdn.co/image/ab67616d0000b27305f425b3ea2d3609d2d8b962",
+              "plays": 1
+            },
+            {
+              "id": "3FI0iAAAjmR31xpZEwbdys",
+              "title": "Circle With Me",
+              "artist": "Spiritbox",
+              "url": "https://open.spotify.com/track/3FI0iAAAjmR31xpZEwbdys",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733e234c82f96fa4ded8e5ca47",
+              "plays": 1
+            },
+            {
+              "id": "79IgD1wf3xltQdDK3l5Why",
+              "title": "In My Room",
+              "artist": "Julia Wolf",
+              "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739c314ae07968354119a803da",
+              "plays": 1
+            },
+            {
+              "id": "3hT8vYVE47WS3pP6uCLVHk",
+              "title": "Repulse",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/3hT8vYVE47WS3pP6uCLVHk",
+              "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-17T03:47:01.021Z",
+      "lastPlayedAt": "2026-10-18T00:46:54.562Z",
       "lastKeys": [
-        "[1792208821021,\"1BAgF5hLVlpbb9AyXZ8R5W\"]"
+        "[1792284414562,\"6EMynpZ10GVcwVqiLZj6Ye\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-17T03:47:01.021Z"
+      "through": "2026-10-18T00:46:54.562Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-17T15:36:55.848Z",
-    "updatedAt": "2026-10-17T15:36:55.848Z"
+    "checkedAt": "2026-10-18T15:52:57.856Z",
+    "updatedAt": "2026-10-18T15:52:57.856Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-17T15:36:55.848Z",
-    "updatedAt": "2026-10-17T15:36:55.848Z"
+    "checkedAt": "2026-10-18T15:52:57.856Z",
+    "updatedAt": "2026-10-18T15:52:57.856Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -5680,156 +5774,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 98,
-    "snapshotAt": "2026-10-17T15:36:57.032Z",
+    "snapshotAt": "2026-10-18T15:52:58.728Z",
     "skills": [
       {
         "key": "overall",
         "value": 1778,
-        "rank": 184174,
-        "xp": 34856540
+        "rank": 184284,
+        "xp": 34856570
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 235131,
+        "rank": 235246,
         "xp": 1144820
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 200487,
+        "rank": 200586,
         "xp": 1245404
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 229743,
+        "rank": 229886,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 83,
-        "rank": 213155,
+        "rank": 213263,
         "xp": 2941831
       },
       {
         "key": "ranged",
         "value": 77,
-        "rank": 226277,
+        "rank": 226383,
         "xp": 1567829
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 174255,
+        "rank": 174360,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 174623,
-        "xp": 3222247
+        "rank": 174722,
+        "xp": 3222277
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 259990,
+        "rank": 260123,
         "xp": 851532
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275710,
+        "rank": 275845,
         "xp": 867581
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 258222,
+        "rank": 258363,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294879,
+        "rank": 294969,
         "xp": 830072
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 197996,
+        "rank": 198063,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214772,
+        "rank": 214883,
         "xp": 909693
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191245,
+        "rank": 191361,
         "xp": 927690
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 270744,
+        "rank": 270868,
         "xp": 936443
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 178796,
+        "rank": 178894,
         "xp": 880531
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 161444,
+        "rank": 161540,
         "xp": 1439040
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 239588,
+        "rank": 239697,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 209379,
+        "rank": 209493,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 78,
-        "rank": 184567,
+        "rank": 184628,
         "xp": 1791623
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 150547,
+        "rank": 150618,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 234708,
+        "rank": 234822,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 160814,
+        "rank": 160905,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 91930,
+        "rank": 92106,
         "xp": 430576
       }
     ],
@@ -5842,27 +5936,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 143278
+        "rank": 143355
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 53899
+        "rank": 54015
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 81596
+        "rank": 81649
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90127
+        "rank": 90177
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59666
+        "rank": 59695
       },
       {
         "key": "giant_mole",
@@ -5872,17 +5966,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 138896
+        "rank": 138954
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 90655
+        "rank": 90766
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 33004
+        "rank": 33197
       },
       {
         "key": "obor",
@@ -5892,12 +5986,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79855
+        "rank": 79925
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108163
+        "rank": 108238
       },
       {
         "key": "the_gauntlet",
@@ -5907,12 +6001,12 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 100,
-        "rank": 91979
+        "rank": 92062
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 104533
+        "rank": 104665
       },
       {
         "key": "tztok_jad",
@@ -5922,12 +6016,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164669
+        "rank": 164721
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50003
+        "rank": 50026
       }
     ],
     "activities": [
@@ -5944,27 +6038,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 159435
+        "rank": 159503
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92379
+        "rank": 92438
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117006
+        "rank": 117050
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 150310
+        "rank": 150367
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163015
+        "rank": 163065
       },
       {
         "key": "clue_scrolls_elite",
@@ -5979,7 +6073,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82357
+        "rank": 82373
       },
       {
         "key": "pvp_arena",
@@ -5994,7 +6088,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 117548
+        "rank": 117625
       },
       {
         "key": "colosseum_glory",
@@ -6008,8 +6102,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-17T15:36:55.848Z",
-    "updatedAt": "2026-10-17T15:36:55.848Z"
+    "checkedAt": "2026-10-18T15:52:57.856Z",
+    "updatedAt": "2026-10-18T15:52:57.856Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -6966,7 +7060,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-17T15:36:55.848Z",
-    "updatedAt": "2026-10-17T15:36:55.848Z"
+    "checkedAt": "2026-10-18T15:52:57.856Z",
+    "updatedAt": "2026-10-18T15:52:57.856Z"
   }
 }
