@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T15:52:57.856Z",
+  "generatedAt": "2026-10-19T18:43:28.596Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "6EMynpZ10GVcwVqiLZj6Ye",
-        "title": "Champagne Supernova",
-        "artist": "Oasis",
-        "album": "(What's The Story) Morning Glory?",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
-        "url": "https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye",
-        "durationMs": 450506,
-        "playedAt": "2026-10-18T00:46:54.562Z"
+        "id": "2YgCsEs3VbyQxO5AzqxEUL",
+        "title": "a lil bit",
+        "artist": "yergurl",
+        "album": "courtship ❦",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730db86839ba593bc64d4fe9da",
+        "url": "https://open.spotify.com/track/2YgCsEs3VbyQxO5AzqxEUL",
+        "durationMs": 136866,
+        "playedAt": "2026-10-19T17:35:37.893Z"
       },
       {
-        "id": "6NZW1GygsP6UnHVciP8m8a",
-        "title": "Whisper",
-        "artist": "Ally Nicholas",
-        "album": "Whisper",
-        "image": "https://i.scdn.co/image/ab67616d0000b27341026d0e3528b44709a965af",
-        "url": "https://open.spotify.com/track/6NZW1GygsP6UnHVciP8m8a",
-        "durationMs": 213248,
-        "playedAt": "2026-10-17T22:45:40.357Z"
+        "id": "4O45RxFmWr88UfFlNtsXUy",
+        "title": "Image",
+        "artist": "Magdalena Bay",
+        "album": "Imaginal Disk",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3390485ba30a0a99feaa0dd",
+        "url": "https://open.spotify.com/track/4O45RxFmWr88UfFlNtsXUy",
+        "durationMs": 212866,
+        "playedAt": "2026-10-19T16:00:02.994Z"
       },
       {
-        "id": "1EUX3YDS5kbgejgMJSuAgn",
-        "title": "Cut",
-        "artist": "Sweet Pill",
-        "album": "Where the Heart Is",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b9368400e3af542f39b0c3c3",
-        "url": "https://open.spotify.com/track/1EUX3YDS5kbgejgMJSuAgn",
-        "durationMs": 134972,
-        "playedAt": "2026-10-17T18:06:14.762Z"
+        "id": "3Vv6jWPmzKXlaoKsVwNM0O",
+        "title": "ACCELERANDO",
+        "artist": "Grimes, VADAKIN",
+        "album": "ACCELERANDO",
+        "image": "https://i.scdn.co/image/ab67616d0000b27302c7e82ae51bd0ec43d6a9e0",
+        "url": "https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O",
+        "durationMs": 242245,
+        "playedAt": "2026-10-18T21:57:12.612Z"
       },
       {
-        "id": "0rmj31pdOLE4JlbpMr3p8z",
-        "title": "Strange",
-        "artist": "The Sewing Club",
-        "album": "Strange",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733865fbf2063dba985e62cff0",
-        "url": "https://open.spotify.com/track/0rmj31pdOLE4JlbpMr3p8z",
-        "durationMs": 224156,
-        "playedAt": "2026-10-17T18:03:59.221Z"
+        "id": "5qpqDZNQIvu6W2uOhIwmPV",
+        "title": "Autobahn",
+        "artist": "Kim Petras",
+        "album": "Detour (Rare N' Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273beff8fc8be8cdc0b5ffbbeef",
+        "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV",
+        "durationMs": 258083,
+        "playedAt": "2026-10-18T21:53:09.858Z"
       },
       {
-        "id": "7wYCva1bI1AkHRQoVXhy8F",
-        "title": "Crave",
-        "artist": "Paramore",
-        "album": "This Is Why",
-        "image": "https://i.scdn.co/image/ab67616d0000b27305f425b3ea2d3609d2d8b962",
-        "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F",
-        "durationMs": 235012,
-        "playedAt": "2026-10-17T18:00:14.567Z"
+        "id": "6eqQLOOiqBnrwKQEzXoHll",
+        "title": "CRANK",
+        "artist": "Slayyyter",
+        "album": "WOR$T GIRL IN AMERICA",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+        "url": "https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll",
+        "durationMs": 175743,
+        "playedAt": "2026-10-18T21:48:51.368Z"
       },
       {
-        "id": "3FI0iAAAjmR31xpZEwbdys",
-        "title": "Circle With Me",
-        "artist": "Spiritbox",
-        "album": "Eternal Blue",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733e234c82f96fa4ded8e5ca47",
-        "url": "https://open.spotify.com/track/3FI0iAAAjmR31xpZEwbdys",
-        "durationMs": 233880,
-        "playedAt": "2026-10-17T17:56:19.022Z"
+        "id": "7B3BwNecBhKvNwSMOOl7Gk",
+        "title": "Fame is a Gun",
+        "artist": "Addison Rae",
+        "album": "Addison",
+        "image": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593",
+        "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk",
+        "durationMs": 183237,
+        "playedAt": "2026-10-18T21:42:21.793Z"
       },
       {
-        "id": "79IgD1wf3xltQdDK3l5Why",
-        "title": "In My Room",
-        "artist": "Julia Wolf",
-        "album": "In My Room",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739c314ae07968354119a803da",
-        "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why",
-        "durationMs": 163874,
-        "playedAt": "2026-10-17T17:50:30.960Z"
+        "id": "5HR2slVri2Y9wyhSKDj9w6",
+        "title": "Music is Code you can Hear",
+        "artist": "DJ_Dave",
+        "album": "Hardcore Software",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b83872877cca465bd747be4c",
+        "url": "https://open.spotify.com/track/5HR2slVri2Y9wyhSKDj9w6",
+        "durationMs": 236571,
+        "playedAt": "2026-10-18T21:39:18.028Z"
       },
       {
-        "id": "3hT8vYVE47WS3pP6uCLVHk",
-        "title": "Repulse",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/3hT8vYVE47WS3pP6uCLVHk",
-        "durationMs": 64296,
-        "playedAt": "2026-10-17T03:50:24.676Z"
+        "id": "0YkeK5SK19nXZgBdLCXTMj",
+        "title": "i think he's got a girl",
+        "artist": "Slayyyter",
+        "album": "i think he's got a girl",
+        "image": "https://i.scdn.co/image/ab6742d3000053b755a25034f0e013217d1b5042",
+        "url": "https://open.spotify.com/track/0YkeK5SK19nXZgBdLCXTMj",
+        "durationMs": 216234,
+        "playedAt": "2026-10-18T21:35:21.429Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 294,
+          "plays": 304,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3886,7 +3886,7 @@
               "id": "2DaxqgrOhkeH0fpeiQq2f4",
               "name": "Oasis",
               "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3F2at4eIx4GXByVo0hGJaX",
@@ -3910,6 +3910,54 @@
               "id": "4MzJMcHQBl9SIYSjwWn8QW",
               "name": "Spiritbox",
               "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW",
+              "plays": 1
+            },
+            {
+              "id": "256Y9onrKClLcW4xSDtbwo",
+              "name": "yergurl",
+              "url": "https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo",
+              "plays": 1
+            },
+            {
+              "id": "1oPRcJUkloHaRLYx0olBLJ",
+              "name": "Magdalena Bay",
+              "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ",
+              "plays": 2
+            },
+            {
+              "id": "053q0ukIDRgzwTr4vNSwab",
+              "name": "Grimes",
+              "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab",
+              "plays": 1
+            },
+            {
+              "id": "67KVnh5ZMCqghjFzGWojzZ",
+              "name": "VADAKIN",
+              "url": "https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ",
+              "plays": 1
+            },
+            {
+              "id": "3Xt3RrJMFv5SZkCfUE8C1J",
+              "name": "Kim Petras",
+              "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J",
+              "plays": 1
+            },
+            {
+              "id": "4QM5QCHicznALtX885CnZC",
+              "name": "Slayyyter",
+              "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
+              "plays": 2
+            },
+            {
+              "id": "4gvjmrtzydbMpyJaXUtwvP",
+              "name": "Addison Rae",
+              "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP",
+              "plays": 1
+            },
+            {
+              "id": "78ZgfyDjF59qBIWrGHRdme",
+              "name": "DJ_Dave",
+              "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme",
               "plays": 1
             }
           ],
@@ -5688,7 +5736,7 @@
               "artist": "Oasis",
               "url": "https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye",
               "image": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "6NZW1GygsP6UnHVciP8m8a",
@@ -5745,26 +5793,90 @@
               "url": "https://open.spotify.com/track/3hT8vYVE47WS3pP6uCLVHk",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
               "plays": 1
+            },
+            {
+              "id": "2YgCsEs3VbyQxO5AzqxEUL",
+              "title": "a lil bit",
+              "artist": "yergurl",
+              "url": "https://open.spotify.com/track/2YgCsEs3VbyQxO5AzqxEUL",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730db86839ba593bc64d4fe9da",
+              "plays": 1
+            },
+            {
+              "id": "4O45RxFmWr88UfFlNtsXUy",
+              "title": "Image",
+              "artist": "Magdalena Bay",
+              "url": "https://open.spotify.com/track/4O45RxFmWr88UfFlNtsXUy",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a3390485ba30a0a99feaa0dd",
+              "plays": 2
+            },
+            {
+              "id": "3Vv6jWPmzKXlaoKsVwNM0O",
+              "title": "ACCELERANDO",
+              "artist": "Grimes, VADAKIN",
+              "url": "https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O",
+              "image": "https://i.scdn.co/image/ab67616d0000b27302c7e82ae51bd0ec43d6a9e0",
+              "plays": 1
+            },
+            {
+              "id": "5qpqDZNQIvu6W2uOhIwmPV",
+              "title": "Autobahn",
+              "artist": "Kim Petras",
+              "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV",
+              "image": "https://i.scdn.co/image/ab67616d0000b273beff8fc8be8cdc0b5ffbbeef",
+              "plays": 1
+            },
+            {
+              "id": "6eqQLOOiqBnrwKQEzXoHll",
+              "title": "CRANK",
+              "artist": "Slayyyter",
+              "url": "https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+              "plays": 1
+            },
+            {
+              "id": "7B3BwNecBhKvNwSMOOl7Gk",
+              "title": "Fame is a Gun",
+              "artist": "Addison Rae",
+              "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk",
+              "image": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593",
+              "plays": 1
+            },
+            {
+              "id": "5HR2slVri2Y9wyhSKDj9w6",
+              "title": "Music is Code you can Hear",
+              "artist": "DJ_Dave",
+              "url": "https://open.spotify.com/track/5HR2slVri2Y9wyhSKDj9w6",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b83872877cca465bd747be4c",
+              "plays": 1
+            },
+            {
+              "id": "0YkeK5SK19nXZgBdLCXTMj",
+              "title": "i think he's got a girl",
+              "artist": "Slayyyter",
+              "url": "https://open.spotify.com/track/0YkeK5SK19nXZgBdLCXTMj",
+              "image": "https://i.scdn.co/image/ab6742d3000053b755a25034f0e013217d1b5042",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-18T00:46:54.562Z",
+      "lastPlayedAt": "2026-10-19T17:35:37.893Z",
       "lastKeys": [
-        "[1792284414562,\"6EMynpZ10GVcwVqiLZj6Ye\"]"
+        "[1792431337893,\"2YgCsEs3VbyQxO5AzqxEUL\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-18T00:46:54.562Z"
+      "through": "2026-10-19T17:35:37.893Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-18T15:52:57.856Z",
-    "updatedAt": "2026-10-18T15:52:57.856Z"
+    "checkedAt": "2026-10-19T18:43:28.596Z",
+    "updatedAt": "2026-10-19T18:43:28.596Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-18T15:52:57.856Z",
-    "updatedAt": "2026-10-18T15:52:57.856Z"
+    "checkedAt": "2026-10-19T18:43:28.596Z",
+    "updatedAt": "2026-10-19T18:43:28.596Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -5773,157 +5885,157 @@
     "username": "Nonduality",
     "playerId": 3375407,
     "type": "ironman",
-    "combat": 98,
-    "snapshotAt": "2026-10-18T15:52:58.728Z",
+    "combat": 99,
+    "snapshotAt": "2026-10-19T18:43:30.483Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1778,
-        "rank": 184284,
-        "xp": 34856570
+        "value": 1779,
+        "rank": 184060,
+        "xp": 34928179
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 235246,
-        "xp": 1144820
+        "rank": 235379,
+        "xp": 1145492
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 200586,
-        "xp": 1245404
+        "rank": 199873,
+        "xp": 1254954
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 229886,
+        "rank": 230010,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
-        "value": 83,
-        "rank": 213263,
-        "xp": 2941831
+        "value": 84,
+        "rank": 212920,
+        "xp": 2961048
       },
       {
         "key": "ranged",
         "value": 77,
-        "rank": 226383,
-        "xp": 1567829
+        "rank": 225689,
+        "xp": 1586644
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 174360,
+        "rank": 174486,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 174722,
-        "xp": 3222277
+        "rank": 174534,
+        "xp": 3235880
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 260123,
-        "xp": 851532
+        "rank": 259748,
+        "xp": 854382
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275845,
-        "xp": 867581
+        "rank": 275888,
+        "xp": 868141
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 258363,
+        "rank": 258502,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294969,
-        "xp": 830072
+        "rank": 294860,
+        "xp": 831602
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198063,
+        "rank": 198135,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214883,
-        "xp": 909693
+        "rank": 214880,
+        "xp": 911698
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191361,
-        "xp": 927690
+        "rank": 191262,
+        "xp": 929695
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 270868,
-        "xp": 936443
+        "rank": 270927,
+        "xp": 937003
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 178894,
-        "xp": 880531
+        "rank": 179000,
+        "xp": 880701
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 161540,
+        "rank": 161633,
         "xp": 1439040
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 239697,
+        "rank": 239836,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 209493,
+        "rank": 209603,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 78,
-        "rank": 184628,
-        "xp": 1791623
+        "rank": 184723,
+        "xp": 1791695
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 150618,
+        "rank": 150713,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 234822,
+        "rank": 234967,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 160905,
+        "rank": 160999,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 92106,
+        "rank": 92276,
         "xp": 430576
       }
     ],
@@ -5936,27 +6048,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 143355
+        "rank": 143425
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 54015
+        "rank": 54114
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 81649
+        "rank": 81709
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90177
+        "rank": 90221
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59695
+        "rank": 59729
       },
       {
         "key": "giant_mole",
@@ -5966,17 +6078,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 138954
+        "rank": 139009
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 90766
+        "rank": 90902
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 33197
+        "rank": 33401
       },
       {
         "key": "obor",
@@ -5986,12 +6098,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79925
+        "rank": 79993
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108238
+        "rank": 108287
       },
       {
         "key": "the_gauntlet",
@@ -6000,13 +6112,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 100,
-        "rank": 92062
+        "value": 107,
+        "rank": 91062
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 104665
+        "rank": 104800
       },
       {
         "key": "tztok_jad",
@@ -6016,12 +6128,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164721
+        "rank": 164784
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50026
+        "rank": 50043
       }
     ],
     "activities": [
@@ -6038,27 +6150,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 159503
+        "rank": 159575
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92438
+        "rank": 92494
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117050
+        "rank": 117092
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 150367
+        "rank": 150434
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163065
+        "rank": 163117
       },
       {
         "key": "clue_scrolls_elite",
@@ -6073,7 +6185,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82373
+        "rank": 82381
       },
       {
         "key": "pvp_arena",
@@ -6088,7 +6200,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 117625
+        "rank": 117716
       },
       {
         "key": "colosseum_glory",
@@ -6102,8 +6214,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-18T15:52:57.856Z",
-    "updatedAt": "2026-10-18T15:52:57.856Z"
+    "checkedAt": "2026-10-19T18:43:28.596Z",
+    "updatedAt": "2026-10-19T18:43:28.596Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -7060,7 +7172,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-18T15:52:57.856Z",
-    "updatedAt": "2026-10-18T15:52:57.856Z"
+    "checkedAt": "2026-10-19T18:43:28.596Z",
+    "updatedAt": "2026-10-19T18:43:28.596Z"
   }
 }
