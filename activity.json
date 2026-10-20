@@ -1,10 +1,50 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T18:43:28.596Z",
+  "generatedAt": "2026-10-20T17:08:37.083Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "4EWJfU7jFJ0TfmHce25R1p",
+        "title": "Tried And True",
+        "artist": "Pretty Sick",
+        "album": "Streetwise",
+        "image": "https://i.scdn.co/image/ab67616d0000b273489cff6c3d053e56c22d3dd3",
+        "url": "https://open.spotify.com/track/4EWJfU7jFJ0TfmHce25R1p",
+        "durationMs": 162627,
+        "playedAt": "2026-10-20T02:13:12.148Z"
+      },
+      {
+        "id": "2MPPfi5cmH58o6MExajW6W",
+        "title": "Snapdragon",
+        "artist": "Sandhouse",
+        "album": "Snapdragon",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739a00169ca933ae1febb8fa49",
+        "url": "https://open.spotify.com/track/2MPPfi5cmH58o6MExajW6W",
+        "durationMs": 168180,
+        "playedAt": "2026-10-20T02:10:28.956Z"
+      },
+      {
+        "id": "0Gic2wnMVet2tfx03w1TVa",
+        "title": "I Don't Recognise You",
+        "artist": "NewDad",
+        "album": "Waves",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e3fa865bfae8c1e7e7d223df",
+        "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa",
+        "durationMs": 275013,
+        "playedAt": "2026-10-20T02:07:40.356Z"
+      },
+      {
+        "id": "0rmj31pdOLE4JlbpMr3p8z",
+        "title": "Strange",
+        "artist": "The Sewing Club",
+        "album": "Strange",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733865fbf2063dba985e62cff0",
+        "url": "https://open.spotify.com/track/0rmj31pdOLE4JlbpMr3p8z",
+        "durationMs": 224156,
+        "playedAt": "2026-10-19T20:03:01.548Z"
+      },
       {
         "id": "2YgCsEs3VbyQxO5AzqxEUL",
         "title": "a lil bit",
@@ -44,46 +84,6 @@
         "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV",
         "durationMs": 258083,
         "playedAt": "2026-10-18T21:53:09.858Z"
-      },
-      {
-        "id": "6eqQLOOiqBnrwKQEzXoHll",
-        "title": "CRANK",
-        "artist": "Slayyyter",
-        "album": "WOR$T GIRL IN AMERICA",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
-        "url": "https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll",
-        "durationMs": 175743,
-        "playedAt": "2026-10-18T21:48:51.368Z"
-      },
-      {
-        "id": "7B3BwNecBhKvNwSMOOl7Gk",
-        "title": "Fame is a Gun",
-        "artist": "Addison Rae",
-        "album": "Addison",
-        "image": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593",
-        "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk",
-        "durationMs": 183237,
-        "playedAt": "2026-10-18T21:42:21.793Z"
-      },
-      {
-        "id": "5HR2slVri2Y9wyhSKDj9w6",
-        "title": "Music is Code you can Hear",
-        "artist": "DJ_Dave",
-        "album": "Hardcore Software",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b83872877cca465bd747be4c",
-        "url": "https://open.spotify.com/track/5HR2slVri2Y9wyhSKDj9w6",
-        "durationMs": 236571,
-        "playedAt": "2026-10-18T21:39:18.028Z"
-      },
-      {
-        "id": "0YkeK5SK19nXZgBdLCXTMj",
-        "title": "i think he's got a girl",
-        "artist": "Slayyyter",
-        "album": "i think he's got a girl",
-        "image": "https://i.scdn.co/image/ab6742d3000053b755a25034f0e013217d1b5042",
-        "url": "https://open.spotify.com/track/0YkeK5SK19nXZgBdLCXTMj",
-        "durationMs": 216234,
-        "playedAt": "2026-10-18T21:35:21.429Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 304,
+          "plays": 309,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3904,7 +3904,7 @@
               "id": "4dEUp9bmI8xPLDdVfEN24Q",
               "name": "The Sewing Club",
               "url": "https://open.spotify.com/artist/4dEUp9bmI8xPLDdVfEN24Q",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4MzJMcHQBl9SIYSjwWn8QW",
@@ -3959,6 +3959,24 @@
               "name": "DJ_Dave",
               "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme",
               "plays": 1
+            },
+            {
+              "id": "5JUGL6ec4eULQ5eVEbOC7e",
+              "name": "Pretty Sick",
+              "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e",
+              "plays": 1
+            },
+            {
+              "id": "52MaMxgeAkCxISb1tZuDyq",
+              "name": "Sandhouse",
+              "url": "https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq",
+              "plays": 1
+            },
+            {
+              "id": "1yz8XixOiIJJ9IxjbnfYV6",
+              "name": "NewDad",
+              "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6",
+              "plays": 2
             }
           ],
           "tracks": [
@@ -5760,7 +5778,7 @@
               "artist": "The Sewing Club",
               "url": "https://open.spotify.com/track/0rmj31pdOLE4JlbpMr3p8z",
               "image": "https://i.scdn.co/image/ab67616d0000b2733865fbf2063dba985e62cff0",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "7wYCva1bI1AkHRQoVXhy8F",
@@ -5857,26 +5875,50 @@
               "url": "https://open.spotify.com/track/0YkeK5SK19nXZgBdLCXTMj",
               "image": "https://i.scdn.co/image/ab6742d3000053b755a25034f0e013217d1b5042",
               "plays": 1
+            },
+            {
+              "id": "4EWJfU7jFJ0TfmHce25R1p",
+              "title": "Tried And True",
+              "artist": "Pretty Sick",
+              "url": "https://open.spotify.com/track/4EWJfU7jFJ0TfmHce25R1p",
+              "image": "https://i.scdn.co/image/ab67616d0000b273489cff6c3d053e56c22d3dd3",
+              "plays": 1
+            },
+            {
+              "id": "2MPPfi5cmH58o6MExajW6W",
+              "title": "Snapdragon",
+              "artist": "Sandhouse",
+              "url": "https://open.spotify.com/track/2MPPfi5cmH58o6MExajW6W",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739a00169ca933ae1febb8fa49",
+              "plays": 1
+            },
+            {
+              "id": "0Gic2wnMVet2tfx03w1TVa",
+              "title": "I Don't Recognise You",
+              "artist": "NewDad",
+              "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e3fa865bfae8c1e7e7d223df",
+              "plays": 2
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-19T17:35:37.893Z",
+      "lastPlayedAt": "2026-10-20T02:13:12.148Z",
       "lastKeys": [
-        "[1792431337893,\"2YgCsEs3VbyQxO5AzqxEUL\"]"
+        "[1792462392148,\"4EWJfU7jFJ0TfmHce25R1p\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-19T17:35:37.893Z"
+      "through": "2026-10-20T02:13:12.148Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-19T18:43:28.596Z",
-    "updatedAt": "2026-10-19T18:43:28.596Z"
+    "checkedAt": "2026-10-20T17:08:37.083Z",
+    "updatedAt": "2026-10-20T17:08:37.083Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-19T18:43:28.596Z",
-    "updatedAt": "2026-10-19T18:43:28.596Z"
+    "checkedAt": "2026-10-20T17:08:37.083Z",
+    "updatedAt": "2026-10-20T17:08:37.083Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -5886,156 +5928,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-10-19T18:43:30.483Z",
+    "snapshotAt": "2026-10-20T17:08:38.580Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1779,
-        "rank": 184060,
-        "xp": 34928179
+        "value": 1780,
+        "rank": 183844,
+        "xp": 34955047
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 235379,
-        "xp": 1145492
+        "rank": 235491,
+        "xp": 1145732
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 199873,
-        "xp": 1254954
+        "rank": 199760,
+        "xp": 1257516
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 230010,
+        "rank": 230107,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 212920,
-        "xp": 2961048
+        "rank": 212909,
+        "xp": 2966195
       },
       {
         "key": "ranged",
         "value": 77,
-        "rank": 225689,
-        "xp": 1586644
+        "rank": 225611,
+        "xp": 1591609
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 174486,
+        "rank": 174554,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 84,
-        "rank": 174534,
-        "xp": 3235880
+        "rank": 174529,
+        "xp": 3239296
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 259748,
-        "xp": 854382
+        "rank": 259698,
+        "xp": 854997
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275888,
-        "xp": 868141
+        "rank": 275950,
+        "xp": 868281
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 258502,
+        "rank": 258606,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294860,
-        "xp": 831602
+        "rank": 294884,
+        "xp": 831982
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198135,
+        "rank": 198190,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214880,
-        "xp": 911698
+        "rank": 214930,
+        "xp": 912193
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191262,
-        "xp": 929695
+        "rank": 191295,
+        "xp": 930190
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 270927,
-        "xp": 937003
+        "rank": 271048,
+        "xp": 937143
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 179000,
-        "xp": 880701
+        "rank": 179061,
+        "xp": 880824
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 161633,
+        "rank": 161714,
         "xp": 1439040
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 239836,
+        "rank": 239947,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 209603,
+        "rank": 209679,
         "xp": 721675
       },
       {
         "key": "farming",
-        "value": 78,
-        "rank": 184723,
-        "xp": 1791695
+        "value": 79,
+        "rank": 184627,
+        "xp": 1799845
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 150713,
+        "rank": 150792,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 234967,
+        "rank": 235073,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 160999,
+        "rank": 161073,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 92276,
+        "rank": 92428,
         "xp": 430576
       }
     ],
@@ -6048,27 +6090,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 143425
+        "rank": 143481
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 54114
+        "rank": 54182
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 81709
+        "rank": 81762
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90221
+        "rank": 90242
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59729
+        "rank": 59747
       },
       {
         "key": "giant_mole",
@@ -6078,17 +6120,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139009
+        "rank": 139044
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 90902
+        "rank": 90986
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 33401
+        "rank": 33533
       },
       {
         "key": "obor",
@@ -6098,12 +6140,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 79993
+        "rank": 80032
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108287
+        "rank": 108332
       },
       {
         "key": "the_gauntlet",
@@ -6112,13 +6154,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 107,
-        "rank": 91062
+        "value": 109,
+        "rank": 90865
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 104800
+        "rank": 104887
       },
       {
         "key": "tztok_jad",
@@ -6128,12 +6170,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164784
+        "rank": 164830
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50043
+        "rank": 50060
       }
     ],
     "activities": [
@@ -6150,27 +6192,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 159575
+        "rank": 159632
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92494
+        "rank": 92525
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117092
+        "rank": 117133
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 150434
+        "rank": 150480
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163117
+        "rank": 163166
       },
       {
         "key": "clue_scrolls_elite",
@@ -6185,7 +6227,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82381
+        "rank": 82387
       },
       {
         "key": "pvp_arena",
@@ -6200,7 +6242,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 117716
+        "rank": 117781
       },
       {
         "key": "colosseum_glory",
@@ -6214,14 +6256,14 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-19T18:43:28.596Z",
-    "updatedAt": "2026-10-19T18:43:28.596Z"
+    "checkedAt": "2026-10-20T17:08:37.083Z",
+    "updatedAt": "2026-10-20T17:08:37.083Z"
   },
   "collectionLog": {
     "username": "Nonduality",
     "availability": "synced",
     "obtained": 189,
-    "available": 1717,
+    "available": 1734,
     "syncedAt": "2026-10-13 04:23:32",
     "items": [
       {
@@ -7172,7 +7214,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-19T18:43:28.596Z",
-    "updatedAt": "2026-10-19T18:43:28.596Z"
+    "checkedAt": "2026-10-20T17:08:37.083Z",
+    "updatedAt": "2026-10-20T17:08:37.083Z"
   }
 }
