@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T17:13:46.813Z",
+  "generatedAt": "2026-10-22T17:11:49.640Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "6Q3lFQgpvhA9VApFKLFZtZ",
-        "title": "Strategy",
-        "artist": "TWICE",
-        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
-        "url": "https://open.spotify.com/track/6Q3lFQgpvhA9VApFKLFZtZ",
-        "durationMs": 168645,
-        "playedAt": "2026-10-20T19:46:38.229Z"
+        "id": "1leOJnHs7HFXF4B5Nsgkmk",
+        "title": "Skin To Skin",
+        "artist": "Movements",
+        "album": "No Good Left To Give",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738629b74fb82237edb43477ce",
+        "url": "https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk",
+        "durationMs": 240906,
+        "playedAt": "2026-10-22T16:58:07.968Z"
       },
       {
-        "id": "02sy7FAs8dkDNYsHp4Ul3f",
-        "title": "Soda Pop",
-        "artist": "Saja Boys, Andrew Choi, Neckwav, Danny Chung, KEVIN WOO, samUIL Lee, KPop Demon Hunters Cast",
-        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
-        "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f",
-        "durationMs": 150686,
-        "playedAt": "2026-10-20T19:43:48.900Z"
+        "id": "5UMltx4PE50jf9GCEMA3t8",
+        "title": "Dissolve Me",
+        "artist": "Movements",
+        "album": "Happier Now",
+        "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+        "url": "https://open.spotify.com/track/5UMltx4PE50jf9GCEMA3t8",
+        "durationMs": 207514,
+        "playedAt": "2026-10-22T16:54:07.229Z"
       },
       {
-        "id": "5tVnzVWIKrmmuOPGbXUbT4",
-        "title": "Golden - David Guetta REM/X",
-        "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast, David Guetta",
-        "album": "Golden [David Guetta REM/X (from the Netflix film KPop Demon Hunters)]",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739febcc4cd68d476ac83877cf",
-        "url": "https://open.spotify.com/track/5tVnzVWIKrmmuOPGbXUbT4",
-        "durationMs": 176250,
-        "playedAt": "2026-10-20T19:40:41.561Z"
+        "id": "6AgtouHw1KrKy1PsoLjY3o",
+        "title": "Daylily",
+        "artist": "Movements",
+        "album": "Feel Something",
+        "image": "https://i.scdn.co/image/ab67616d0000b273222a7f5b3077122bca25eef0",
+        "url": "https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o",
+        "durationMs": 208853,
+        "playedAt": "2026-10-22T16:50:39.795Z"
       },
       {
-        "id": "0MHStU0muAIEMbwdnebYu2",
-        "title": "Takedown",
-        "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
-        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
-        "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2",
-        "durationMs": 182016,
-        "playedAt": "2026-10-20T19:37:44.823Z"
+        "id": "50ASFow3YrVJJpqdzaM1YD",
+        "title": "Carried Away",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD",
+        "durationMs": 207500,
+        "playedAt": "2026-10-22T16:02:03.934Z"
       },
       {
-        "id": "5sBDrrtLGbV64QJnEqfjer",
-        "title": "What It Sounds Like",
-        "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
-        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
-        "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer",
-        "durationMs": 250268,
-        "playedAt": "2026-10-20T19:34:42.318Z"
+        "id": "3DjcaX0PRpvbC19ffTsz9z",
+        "title": "Husk (2025)",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/3DjcaX0PRpvbC19ffTsz9z",
+        "durationMs": 201860,
+        "playedAt": "2026-10-21T19:51:09.419Z"
       },
       {
-        "id": "3RXUgPNIbUgFxsDWuBQEt6",
-        "title": "How It’s Done",
-        "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
-        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
-        "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6",
-        "durationMs": 176059,
-        "playedAt": "2026-10-20T19:30:31.558Z"
+        "id": "5RHhmGMV3FKxRa63AIfIgZ",
+        "title": "Another Stone",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ",
+        "durationMs": 190280,
+        "playedAt": "2026-10-21T19:47:47.522Z"
       },
       {
-        "id": "1FE3y5rW4l9I7prqRLnLi4",
-        "title": "Bang Bang",
-        "artist": "Momma",
-        "album": "Bang Bang",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ca96d844d759977da9f4e3c5",
-        "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4",
-        "durationMs": 172867,
-        "playedAt": "2026-10-20T19:27:07.396Z"
+        "id": "13UqmpJo3DKZOJkGA6aH5U",
+        "title": "Ring Of Past (2025)",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/13UqmpJo3DKZOJkGA6aH5U",
+        "durationMs": 202821,
+        "playedAt": "2026-10-21T19:44:37.300Z"
       },
       {
-        "id": "6LMdNshhDtSq5pUSlPjTsE",
-        "title": "crank 2",
-        "artist": "Slayyyter",
-        "album": "crank 2",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f",
-        "url": "https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE",
-        "durationMs": 199696,
-        "playedAt": "2026-10-20T19:27:00.737Z"
+        "id": "6R2YSITVeRTFwDczaxSnQS",
+        "title": "Hard To See",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/6R2YSITVeRTFwDczaxSnQS",
+        "durationMs": 212321,
+        "playedAt": "2026-10-21T19:41:14.425Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 317,
+          "plays": 343,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -4024,36 +4024,66 @@
               "id": "7mW7Tv7NvywKKXqafZo0Lc",
               "name": "KPop Demon Hunters Cast",
               "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc",
-              "plays": 5
+              "plays": 6
             },
             {
               "id": "2yNNYQBChuox9A5Ka93BIn",
               "name": "HUNTR/X",
               "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn",
-              "plays": 4
+              "plays": 5
             },
             {
               "id": "0RMJOzHDhAKY1o2j0W0vxY",
               "name": "EJAE",
               "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY",
-              "plays": 4
+              "plays": 5
             },
             {
               "id": "0Wwji82sLA0Hcvtuak3omb",
               "name": "AUDREY NUNA",
               "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb",
-              "plays": 4
+              "plays": 5
             },
             {
               "id": "6U1dV7aL68N7Gb0Naq34V5",
               "name": "REI AMI",
               "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5",
-              "plays": 4
+              "plays": 5
             },
             {
               "id": "1Cs0zKBU1kc0i8ypK3B9ai",
               "name": "David Guetta",
               "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai",
+              "plays": 1
+            },
+            {
+              "id": "1kkyfIopIiVvaPHHlbsfac",
+              "name": "Movements",
+              "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac",
+              "plays": 3
+            },
+            {
+              "id": "3zmfs9cQwzJl575W1ZYXeT",
+              "name": "Men I Trust",
+              "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT",
+              "plays": 8
+            },
+            {
+              "id": "4wXchxfTTggLtzkoUhO86Q",
+              "name": "Soccer Mommy",
+              "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q",
+              "plays": 14
+            },
+            {
+              "id": "4Eun8YBC7P0psGdIf0GRtl",
+              "name": "Winter",
+              "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl",
+              "plays": 1
+            },
+            {
+              "id": "34LdbFt5sVXKTJOzf1iExQ",
+              "name": "Bully",
+              "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ",
               "plays": 1
             }
           ],
@@ -6016,7 +6046,7 @@
               "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
               "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer",
               "image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3RXUgPNIbUgFxsDWuBQEt6",
@@ -6041,26 +6071,218 @@
               "url": "https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE",
               "image": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f",
               "plays": 1
+            },
+            {
+              "id": "1leOJnHs7HFXF4B5Nsgkmk",
+              "title": "Skin To Skin",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738629b74fb82237edb43477ce",
+              "plays": 1
+            },
+            {
+              "id": "5UMltx4PE50jf9GCEMA3t8",
+              "title": "Dissolve Me",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/5UMltx4PE50jf9GCEMA3t8",
+              "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+              "plays": 1
+            },
+            {
+              "id": "6AgtouHw1KrKy1PsoLjY3o",
+              "title": "Daylily",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o",
+              "image": "https://i.scdn.co/image/ab67616d0000b273222a7f5b3077122bca25eef0",
+              "plays": 1
+            },
+            {
+              "id": "50ASFow3YrVJJpqdzaM1YD",
+              "title": "Carried Away",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "3DjcaX0PRpvbC19ffTsz9z",
+              "title": "Husk (2025)",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/3DjcaX0PRpvbC19ffTsz9z",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "5RHhmGMV3FKxRa63AIfIgZ",
+              "title": "Another Stone",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "13UqmpJo3DKZOJkGA6aH5U",
+              "title": "Ring Of Past (2025)",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/13UqmpJo3DKZOJkGA6aH5U",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "6R2YSITVeRTFwDczaxSnQS",
+              "title": "Hard To See",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/6R2YSITVeRTFwDczaxSnQS",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "04H7h3KJAQp9JHCSPGlp9A",
+              "title": "Come Back Down",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/04H7h3KJAQp9JHCSPGlp9A",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "2HcMkGeghyXdJRT1g85u0t",
+              "title": "To Ease You",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/2HcMkGeghyXdJRT1g85u0t",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 2
+            },
+            {
+              "id": "4yhAcg6xUHtZgt731WsFl1",
+              "title": "Blossom (Wasting All My Time)",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/4yhAcg6xUHtZgt731WsFl1",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735b3865880c7946fd6283db25",
+              "plays": 1
+            },
+            {
+              "id": "42X4yrloZBT5wVlKAALdbh",
+              "title": "without you - mixtape version",
+              "artist": "Winter, Soccer Mommy",
+              "url": "https://open.spotify.com/track/42X4yrloZBT5wVlKAALdbh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739109adc6fa3e582b51336385",
+              "plays": 1
+            },
+            {
+              "id": "5hfu9r4JcERCBwimhrPIUN",
+              "title": "Feel It All The Time",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN",
+              "image": "https://i.scdn.co/image/ab67616d0000b273af4f070d3683d9b5027059ab",
+              "plays": 1
+            },
+            {
+              "id": "3IjCWCIwQgpsV7yuNy6mmX",
+              "title": "Abigail",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/3IjCWCIwQgpsV7yuNy6mmX",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d809f7c91fd64a3b89ce2b45",
+              "plays": 1
+            },
+            {
+              "id": "3VJ8JnA1femj0x5KCcfBpT",
+              "title": "bloodstream",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c330e261afcd6e0ae256f3aa",
+              "plays": 1
+            },
+            {
+              "id": "03XXxwaGlNHtF0p0bblc1J",
+              "title": "Henry",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/03XXxwaGlNHtF0p0bblc1J",
+              "image": "https://i.scdn.co/image/ab67616d0000b27361a57cfd357656c6bb344156",
+              "plays": 1
+            },
+            {
+              "id": "7hDEqKECXWU1syQCwJsFCb",
+              "title": "Indie Rokkers",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/7hDEqKECXWU1syQCwJsFCb",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b64fac191eb728a2d1a8c497",
+              "plays": 1
+            },
+            {
+              "id": "7n8Q0KwanjDMOiqejTb8lI",
+              "title": "Driver",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/7n8Q0KwanjDMOiqejTb8lI",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d809f7c91fd64a3b89ce2b45",
+              "plays": 1
+            },
+            {
+              "id": "1ugQO8HhKXJ2kXaKJ6bznA",
+              "title": "Lose You",
+              "artist": "Bully, Soccer Mommy",
+              "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730e10e3ce5c735a10b665a7d5",
+              "plays": 1
+            },
+            {
+              "id": "5gG1tBzjqPWXTevct5kaLX",
+              "title": "Shotgun",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX",
+              "image": "https://i.scdn.co/image/ab67616d0000b273af4f070d3683d9b5027059ab",
+              "plays": 1
+            },
+            {
+              "id": "5EDBVVqd2ogoG89XVQOvsn",
+              "title": "yellow is the color of her eyes",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c330e261afcd6e0ae256f3aa",
+              "plays": 1
+            },
+            {
+              "id": "3BpUZB0tw4zNmG3Iw1mclL",
+              "title": "Your Dog",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735b3865880c7946fd6283db25",
+              "plays": 1
+            },
+            {
+              "id": "2drtd6SptpMJ1KylMQ7mrE",
+              "title": "circle the drain",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c330e261afcd6e0ae256f3aa",
+              "plays": 1
+            },
+            {
+              "id": "2nh2i8stFugX5PeT4MUavZ",
+              "title": "Rings Of Saturn",
+              "artist": "Soccer Mommy",
+              "url": "https://open.spotify.com/track/2nh2i8stFugX5PeT4MUavZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b27307211fdd23e8dafa0d8d4c4a",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-20T19:46:38.229Z",
+      "lastPlayedAt": "2026-10-22T16:58:07.968Z",
       "lastKeys": [
-        "[1792525598229,\"6Q3lFQgpvhA9VApFKLFZtZ\"]"
+        "[1792688287968,\"1leOJnHs7HFXF4B5Nsgkmk\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-20T19:46:38.229Z"
+      "through": "2026-10-22T16:58:07.968Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-21T17:13:46.813Z",
-    "updatedAt": "2026-10-21T17:13:46.813Z"
+    "checkedAt": "2026-10-22T17:11:49.640Z",
+    "updatedAt": "2026-10-22T17:11:49.640Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-21T17:13:46.813Z",
-    "updatedAt": "2026-10-21T17:13:46.813Z"
+    "checkedAt": "2026-10-22T17:11:49.640Z",
+    "updatedAt": "2026-10-22T17:11:49.640Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -6070,156 +6292,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-10-21T17:13:52.230Z",
+    "snapshotAt": "2026-10-22T17:11:50.721Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1780,
-        "rank": 183922,
-        "xp": 35180355
+        "value": 1781,
+        "rank": 183682,
+        "xp": 35241804
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 235592,
-        "xp": 1146404
+        "rank": 235675,
+        "xp": 1147268
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 198802,
-        "xp": 1266978
+        "rank": 198017,
+        "xp": 1275085
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 230226,
+        "rank": 230312,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 212536,
-        "xp": 2986048
+        "rank": 212219,
+        "xp": 3002500
       },
       {
         "key": "ranged",
         "value": 77,
-        "rank": 224951,
-        "xp": 1612689
+        "rank": 224489,
+        "xp": 1628779
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 174627,
+        "rank": 174686,
         "xp": 797030
       },
       {
         "key": "magic",
-        "value": 84,
-        "rank": 174323,
-        "xp": 3253398
+        "value": 85,
+        "rank": 174108,
+        "xp": 3265181
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 259317,
-        "xp": 858027
+        "rank": 259040,
+        "xp": 860277
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275950,
-        "xp": 868911
+        "rank": 275949,
+        "xp": 869411
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 258712,
+        "rank": 258803,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294647,
-        "xp": 833872
+        "rank": 294533,
+        "xp": 835202
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198237,
+        "rank": 198264,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214853,
-        "xp": 914483
+        "rank": 214808,
+        "xp": 916153
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191129,
-        "xp": 932480
+        "rank": 191024,
+        "xp": 934150
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 271061,
-        "xp": 937783
+        "rank": 271108,
+        "xp": 938283
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 179119,
-        "xp": 881014
+        "rank": 179166,
+        "xp": 881184
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 161779,
+        "rank": 161821,
         "xp": 1439065
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 240043,
+        "rank": 240104,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 209762,
+        "rank": 209840,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 79,
-        "rank": 180438,
-        "xp": 1948999
+        "rank": 180507,
+        "xp": 1949062
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 150841,
+        "rank": 150901,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 235170,
+        "rank": 235252,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 161146,
+        "rank": 161222,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 92569,
+        "rank": 92701,
         "xp": 430576
       }
     ],
@@ -6232,27 +6454,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 143530
+        "rank": 143581
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 54257
+        "rank": 54330
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 81819
+        "rank": 81869
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90281
+        "rank": 90305
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59778
+        "rank": 59796
       },
       {
         "key": "giant_mole",
@@ -6262,17 +6484,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139100
+        "rank": 139133
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 91061
+        "rank": 91135
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 33651
+        "rank": 33779
       },
       {
         "key": "obor",
@@ -6282,12 +6504,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80078
+        "rank": 80117
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108364
+        "rank": 108392
       },
       {
         "key": "the_gauntlet",
@@ -6296,13 +6518,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 114,
-        "rank": 90284
+        "value": 120,
+        "rank": 89625
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 104982
+        "rank": 105069
       },
       {
         "key": "tztok_jad",
@@ -6312,12 +6534,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164863
+        "rank": 164884
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50078
+        "rank": 50087
       }
     ],
     "activities": [
@@ -6334,27 +6556,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 159696
+        "rank": 159744
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92561
+        "rank": 92617
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117157
+        "rank": 117185
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 150536
+        "rank": 150583
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163205
+        "rank": 163238
       },
       {
         "key": "clue_scrolls_elite",
@@ -6369,7 +6591,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82389
+        "rank": 82387
       },
       {
         "key": "pvp_arena",
@@ -6384,7 +6606,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 117843
+        "rank": 117914
       },
       {
         "key": "colosseum_glory",
@@ -6398,15 +6620,15 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-21T17:13:46.813Z",
-    "updatedAt": "2026-10-21T17:13:46.813Z"
+    "checkedAt": "2026-10-22T17:11:49.640Z",
+    "updatedAt": "2026-10-22T17:11:49.640Z"
   },
   "collectionLog": {
     "username": "Nonduality",
     "availability": "synced",
     "obtained": 189,
     "available": 1734,
-    "syncedAt": "2026-10-13 04:23:32",
+    "syncedAt": "2026-10-21 22:55:04",
     "items": [
       {
         "id": 29895,
@@ -6491,7 +6713,7 @@
       {
         "id": 4207,
         "name": "Crystal weapon seed",
-        "count": 1
+        "count": 2
       },
       {
         "id": 23859,
@@ -7336,7 +7558,7 @@
       {
         "id": 22875,
         "name": "Hespori seed",
-        "count": 24
+        "count": 25
       },
       {
         "id": 7538,
@@ -7355,10 +7577,8 @@
       }
     ],
     "notable": [],
-    "status": "stale",
-    "checkedAt": "2026-10-21T17:13:46.813Z",
-    "updatedAt": "2026-10-20T17:08:37.083Z",
-    "error": "403",
-    "retryAt": null
+    "status": "ok",
+    "checkedAt": "2026-10-22T17:11:49.640Z",
+    "updatedAt": "2026-10-22T17:11:49.640Z"
   }
 }
