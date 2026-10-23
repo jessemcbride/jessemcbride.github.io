@@ -1,89 +1,97 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T17:11:49.640Z",
+  "generatedAt": "2026-10-23T17:08:50.424Z",
   "spotify": {
-    "current": null,
-    "isPlaying": false,
+    "current": {
+      "id": "6RPDAf8p0lGL3jxpnuNotC",
+      "title": "Cassie",
+      "artist": "Flyleaf",
+      "album": "Flyleaf",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+      "url": "https://open.spotify.com/track/6RPDAf8p0lGL3jxpnuNotC",
+      "durationMs": 178520
+    },
+    "isPlaying": true,
     "recent": [
       {
-        "id": "1leOJnHs7HFXF4B5Nsgkmk",
-        "title": "Skin To Skin",
-        "artist": "Movements",
-        "album": "No Good Left To Give",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738629b74fb82237edb43477ce",
-        "url": "https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk",
-        "durationMs": 240906,
-        "playedAt": "2026-10-22T16:58:07.968Z"
+        "id": "6FOWzfUUvKryjmmUjSu1pX",
+        "title": "This Close",
+        "artist": "Flyleaf",
+        "album": "Memento Mori (Expanded)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
+        "url": "https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX",
+        "durationMs": 199933,
+        "playedAt": "2026-10-23T17:07:13.266Z"
       },
       {
-        "id": "5UMltx4PE50jf9GCEMA3t8",
-        "title": "Dissolve Me",
-        "artist": "Movements",
-        "album": "Happier Now",
-        "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
-        "url": "https://open.spotify.com/track/5UMltx4PE50jf9GCEMA3t8",
-        "durationMs": 207514,
-        "playedAt": "2026-10-22T16:54:07.229Z"
+        "id": "3v2XiE8ztYHOsrjIBN4Xh2",
+        "title": "Again",
+        "artist": "Flyleaf",
+        "album": "Memento Mori (Expanded)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
+        "url": "https://open.spotify.com/track/3v2XiE8ztYHOsrjIBN4Xh2",
+        "durationMs": 184920,
+        "playedAt": "2026-10-23T17:03:52.820Z"
       },
       {
-        "id": "6AgtouHw1KrKy1PsoLjY3o",
-        "title": "Daylily",
-        "artist": "Movements",
-        "album": "Feel Something",
-        "image": "https://i.scdn.co/image/ab67616d0000b273222a7f5b3077122bca25eef0",
-        "url": "https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o",
-        "durationMs": 208853,
-        "playedAt": "2026-10-22T16:50:39.795Z"
+        "id": "4BIWl6xOUupdv3jpWtPSDC",
+        "title": "Fully Alive",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC",
+        "durationMs": 154133,
+        "playedAt": "2026-10-23T17:00:47.432Z"
       },
       {
-        "id": "50ASFow3YrVJJpqdzaM1YD",
-        "title": "Carried Away",
+        "id": "3FP8A246XpuafFofRhDlWG",
+        "title": "I'm So Sick",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
+        "durationMs": 175880,
+        "playedAt": "2026-10-23T16:58:13.232Z"
+      },
+      {
+        "id": "1zN6ynJG4PdR61YWv4PQ3Y",
+        "title": "All Around Me",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
+        "durationMs": 198506,
+        "playedAt": "2026-10-23T16:55:16.907Z"
+      },
+      {
+        "id": "04H7h3KJAQp9JHCSPGlp9A",
+        "title": "Come Back Down",
         "artist": "Men I Trust",
         "album": "Equus Caballus",
         "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
-        "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD",
-        "durationMs": 207500,
-        "playedAt": "2026-10-22T16:02:03.934Z"
+        "url": "https://open.spotify.com/track/04H7h3KJAQp9JHCSPGlp9A",
+        "durationMs": 195126,
+        "playedAt": "2026-10-23T16:53:56.320Z"
       },
       {
-        "id": "3DjcaX0PRpvbC19ffTsz9z",
-        "title": "Husk (2025)",
+        "id": "2HcMkGeghyXdJRT1g85u0t",
+        "title": "To Ease You",
         "artist": "Men I Trust",
         "album": "Equus Caballus",
         "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
-        "url": "https://open.spotify.com/track/3DjcaX0PRpvbC19ffTsz9z",
-        "durationMs": 201860,
-        "playedAt": "2026-10-21T19:51:09.419Z"
+        "url": "https://open.spotify.com/track/2HcMkGeghyXdJRT1g85u0t",
+        "durationMs": 192798,
+        "playedAt": "2026-10-23T13:28:31.075Z"
       },
       {
-        "id": "5RHhmGMV3FKxRa63AIfIgZ",
-        "title": "Another Stone",
-        "artist": "Men I Trust",
-        "album": "Equus Caballus",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
-        "url": "https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ",
-        "durationMs": 190280,
-        "playedAt": "2026-10-21T19:47:47.522Z"
-      },
-      {
-        "id": "13UqmpJo3DKZOJkGA6aH5U",
-        "title": "Ring Of Past (2025)",
-        "artist": "Men I Trust",
-        "album": "Equus Caballus",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
-        "url": "https://open.spotify.com/track/13UqmpJo3DKZOJkGA6aH5U",
-        "durationMs": 202821,
-        "playedAt": "2026-10-21T19:44:37.300Z"
-      },
-      {
-        "id": "6R2YSITVeRTFwDczaxSnQS",
-        "title": "Hard To See",
-        "artist": "Men I Trust",
-        "album": "Equus Caballus",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
-        "url": "https://open.spotify.com/track/6R2YSITVeRTFwDczaxSnQS",
-        "durationMs": 212321,
-        "playedAt": "2026-10-21T19:41:14.425Z"
+        "id": "3wCJGNuWIoeKHsrZdAybiO",
+        "title": "Cuntology 101",
+        "artist": "Lambrini Girls",
+        "album": "Who Let The Dogs Out",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a8c6fca043ed3e87f90fbffa",
+        "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO",
+        "durationMs": 138533,
+        "playedAt": "2026-10-23T13:25:10.002Z"
       }
     ],
     "observed": {
@@ -3424,7 +3432,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 343,
+          "plays": 378,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3436,7 +3444,7 @@
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 19
+              "plays": 20
             },
             {
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
@@ -3484,7 +3492,7 @@
               "id": "4IliztYDlfMvzQzbx50o60",
               "name": "Flyleaf",
               "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
-              "plays": 79
+              "plays": 84
             },
             {
               "id": "6MUyqmIQ35inLjch0YzIEG",
@@ -3496,7 +3504,7 @@
               "id": "3z6Gk257P9jNcZbBXJNX5i",
               "name": "Regina Spektor",
               "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i",
-              "plays": 4
+              "plays": 5
             },
             {
               "id": "4iJLPqClelZOBCBifm8Fzv",
@@ -3514,7 +3522,7 @@
               "id": "0YrtvWJMgSdVrk3SfNjTbx",
               "name": "Death Cab for Cutie",
               "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "250b0Wlc5Vk0CoUsaCY84M",
@@ -3868,7 +3876,7 @@
               "id": "3vfL7qtWVnyObFrObnBkmM",
               "name": "Love Rarely",
               "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM",
-              "plays": 11
+              "plays": 24
             },
             {
               "id": "4XK21VQVuQig0YgCNqINhY",
@@ -3988,43 +3996,43 @@
               "id": "0BJ2EjOqcfgFvlZXNKrNbE",
               "name": "Saja Boys",
               "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "7JBaynR7JFeniONqbnn1U4",
               "name": "Andrew Choi",
               "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5bXNU0MAF2HSqyFPhYtscH",
               "name": "Neckwav",
               "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "11pXvO7wYuzRWYONDOBd33",
               "name": "Danny Chung",
               "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2RYonYiVhhzBz82UFXOvEN",
               "name": "KEVIN WOO",
               "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1eDupbD9kIx8UaZlzcBG5r",
               "name": "samUIL Lee",
               "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "7mW7Tv7NvywKKXqafZo0Lc",
               "name": "KPop Demon Hunters Cast",
               "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc",
-              "plays": 6
+              "plays": 7
             },
             {
               "id": "2yNNYQBChuox9A5Ka93BIn",
@@ -4060,13 +4068,13 @@
               "id": "1kkyfIopIiVvaPHHlbsfac",
               "name": "Movements",
               "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "3zmfs9cQwzJl575W1ZYXeT",
               "name": "Men I Trust",
               "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT",
-              "plays": 8
+              "plays": 11
             },
             {
               "id": "4wXchxfTTggLtzkoUhO86Q",
@@ -4084,6 +4092,66 @@
               "id": "34LdbFt5sVXKTJOzf1iExQ",
               "name": "Bully",
               "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ",
+              "plays": 1
+            },
+            {
+              "id": "6VR4TJ20WGiho2xZWMuuWb",
+              "name": "Lambrini Girls",
+              "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb",
+              "plays": 1
+            },
+            {
+              "id": "7cg61q8kK8jlFi8TKKw70p",
+              "name": "Afrika Bambaataa",
+              "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p",
+              "plays": 1
+            },
+            {
+              "id": "4zdcKwAK7lkYxgER54yfcP",
+              "name": "The Soulsonic Force",
+              "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP",
+              "plays": 1
+            },
+            {
+              "id": "6WUYWmJKUgwQWaPjHq5OcP",
+              "name": "Rockell",
+              "url": "https://open.spotify.com/artist/6WUYWmJKUgwQWaPjHq5OcP",
+              "plays": 1
+            },
+            {
+              "id": "0roCoWVCD0Qgr0u15TO3dT",
+              "name": "Planet Patrol",
+              "url": "https://open.spotify.com/artist/0roCoWVCD0Qgr0u15TO3dT",
+              "plays": 1
+            },
+            {
+              "id": "2fpDcOSlkE5VVZdL6BEczL",
+              "name": "Debbie Deb",
+              "url": "https://open.spotify.com/artist/2fpDcOSlkE5VVZdL6BEczL",
+              "plays": 1
+            },
+            {
+              "id": "5tyf3H4sgUqM5DxTUXe6Sg",
+              "name": "Freestyle",
+              "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg",
+              "plays": 1
+            },
+            {
+              "id": "0zOcE3mg9nS6l3yxt1Y0bK",
+              "name": "The Fray",
+              "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK",
+              "plays": 1
+            },
+            {
+              "id": "0p4nmQO2msCgU4IF37Wi3j",
+              "name": "Avril Lavigne",
+              "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j",
+              "plays": 1
+            },
+            {
+              "id": "4dpARuHxo51G3z768sgnrY",
+              "name": "Adele",
+              "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
               "plays": 1
             }
           ],
@@ -4182,7 +4250,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 6
+              "plays": 7
             },
             {
               "id": "3xKTpGCsafXzV4muM1Hpl3",
@@ -4198,7 +4266,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX",
               "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-              "plays": 5
+              "plays": 6
             },
             {
               "id": "2bbhyUWJ5VjdfI3P4PRLu2",
@@ -4206,7 +4274,7 @@
               "artist": "Regina Spektor",
               "url": "https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2",
               "image": "https://i.scdn.co/image/ab67616d0000b2737fd2d3669c086850c0f766e8",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "3mokABTMvRjILYV9iuvW5e",
@@ -4238,7 +4306,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 8
+              "plays": 9
             },
             {
               "id": "3l24Vnw1YbWv8UEKaZLjCE",
@@ -4254,7 +4322,7 @@
               "artist": "Death Cab for Cutie",
               "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ",
               "image": "https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1J2WmkS1Z18AuDWZCgIC5K",
@@ -5350,7 +5418,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/3v2XiE8ztYHOsrjIBN4Xh2",
               "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "4BIWl6xOUupdv3jpWtPSDC",
@@ -5358,7 +5426,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "4zqXJPkiVVJdR0yYiM4mCd",
@@ -5710,7 +5778,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/1BAgF5hLVlpbb9AyXZ8R5W",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1Nr2VWP2aAjRUqyqpQS5N4",
@@ -5718,7 +5786,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/1Nr2VWP2aAjRUqyqpQS5N4",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4mIau5RjhSbqahhKXtt66W",
@@ -5726,7 +5794,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/4mIau5RjhSbqahhKXtt66W",
               "image": "https://i.scdn.co/image/ab67616d0000b2736c24851c897571a54b8bbb61",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "6Sk1yWcYE6mQ6fLYA2UaHH",
@@ -5734,7 +5802,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/6Sk1yWcYE6mQ6fLYA2UaHH",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "08jYTI4ETlL5TcLiOy8Emk",
@@ -5742,7 +5810,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/08jYTI4ETlL5TcLiOy8Emk",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4O45xLeZFOMJRlNLCnmV2Z",
@@ -5750,7 +5818,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/4O45xLeZFOMJRlNLCnmV2Z",
               "image": "https://i.scdn.co/image/ab67616d0000b2735e6e2cfe639fc0f46debffba",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "07MMpvtDlRkoy6VYx56v24",
@@ -5758,7 +5826,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/07MMpvtDlRkoy6VYx56v24",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "0Vy8jdKgm0r70X6dzQVodD",
@@ -5766,7 +5834,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/0Vy8jdKgm0r70X6dzQVodD",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "7o2CcBCoun96kz0ElBTXkv",
@@ -5774,7 +5842,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/7o2CcBCoun96kz0ElBTXkv",
               "image": "https://i.scdn.co/image/ab67616d0000b2732a127a6f2a64ac9ab1acd86c",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "31mdtbN2VooDM0ybXE41DC",
@@ -5782,7 +5850,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/31mdtbN2VooDM0ybXE41DC",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "0iG11wutsKHDBqq0HLWcLz",
@@ -5918,7 +5986,7 @@
               "artist": "Love Rarely",
               "url": "https://open.spotify.com/track/3hT8vYVE47WS3pP6uCLVHk",
               "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2YgCsEs3VbyQxO5AzqxEUL",
@@ -6142,7 +6210,7 @@
               "artist": "Men I Trust",
               "url": "https://open.spotify.com/track/04H7h3KJAQp9JHCSPGlp9A",
               "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "2HcMkGeghyXdJRT1g85u0t",
@@ -6150,7 +6218,7 @@
               "artist": "Men I Trust",
               "url": "https://open.spotify.com/track/2HcMkGeghyXdJRT1g85u0t",
               "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "4yhAcg6xUHtZgt731WsFl1",
@@ -6263,26 +6331,138 @@
               "url": "https://open.spotify.com/track/2nh2i8stFugX5PeT4MUavZ",
               "image": "https://i.scdn.co/image/ab67616d0000b27307211fdd23e8dafa0d8d4c4a",
               "plays": 1
+            },
+            {
+              "id": "3wCJGNuWIoeKHsrZdAybiO",
+              "title": "Cuntology 101",
+              "artist": "Lambrini Girls",
+              "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a8c6fca043ed3e87f90fbffa",
+              "plays": 1
+            },
+            {
+              "id": "4FupIlegZgvXUuK79qcoKW",
+              "title": "Planet Rock",
+              "artist": "Afrika Bambaataa, The Soulsonic Force",
+              "url": "https://open.spotify.com/track/4FupIlegZgvXUuK79qcoKW",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bb1a36b4eeee70faca9cde59",
+              "plays": 1
+            },
+            {
+              "id": "4Xf27f2BIY6FmvifqxQ7RD",
+              "title": "In A Dream - Original Mix",
+              "artist": "Rockell",
+              "url": "https://open.spotify.com/track/4Xf27f2BIY6FmvifqxQ7RD",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734c4183ecf2f8a38d1a284f37",
+              "plays": 1
+            },
+            {
+              "id": "5db6ueT1fGuf1yml0A4K4s",
+              "title": "Play at Your Own Risk - 12\" Version",
+              "artist": "Planet Patrol",
+              "url": "https://open.spotify.com/track/5db6ueT1fGuf1yml0A4K4s",
+              "image": "https://i.scdn.co/image/ab67616d0000b27347dd2a863872c2284b308087",
+              "plays": 1
+            },
+            {
+              "id": "6bFGodepI4y7w4AJBcCB1E",
+              "title": "When I Hear Music",
+              "artist": "Debbie Deb",
+              "url": "https://open.spotify.com/track/6bFGodepI4y7w4AJBcCB1E",
+              "image": "https://i.scdn.co/image/ab67616d0000b273906fd7e9ae1c01f91a9675be",
+              "plays": 1
+            },
+            {
+              "id": "5xeOHHzD2y8fuXWAPg6TNj",
+              "title": "Don't Stop the Rock",
+              "artist": "Freestyle",
+              "url": "https://open.spotify.com/track/5xeOHHzD2y8fuXWAPg6TNj",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4bc50940ce3abd7c53fe1c2",
+              "plays": 1
+            },
+            {
+              "id": "1N62wozuHCvczCkY4QidpP",
+              "title": "Over My Head (Cable Car)",
+              "artist": "The Fray",
+              "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP",
+              "image": "https://i.scdn.co/image/ab67616d0000b27359b8b957f164ce660919f1f4",
+              "plays": 1
+            },
+            {
+              "id": "4uXIRjg59foMumtQ9jhxBd",
+              "title": "Blame",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/4uXIRjg59foMumtQ9jhxBd",
+              "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+              "plays": 1
+            },
+            {
+              "id": "1JdKrFyoU05abww0Zv0ayQ",
+              "title": "That's What You Get",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb",
+              "plays": 1
+            },
+            {
+              "id": "1jlG3KJ3gdYmhfuySFfpO1",
+              "title": "I'm with You",
+              "artist": "Avril Lavigne",
+              "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240",
+              "plays": 1
+            },
+            {
+              "id": "5FgPwJ7Nh2FVmIXviKl2VF",
+              "title": "Make You Feel My Love",
+              "artist": "Adele",
+              "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF",
+              "image": "https://i.scdn.co/image/ab67616d0000b27362e62cf225b72fca8d765168",
+              "plays": 1
+            },
+            {
+              "id": "51bYS4c5PEPJ5fvldijpRC",
+              "title": "Whiplash",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/51bYS4c5PEPJ5fvldijpRC",
+              "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+              "plays": 1
+            },
+            {
+              "id": "4mW87rC2y8oJWYCglzBuO1",
+              "title": "Kept",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bbdeb854dea1b22807e6926d",
+              "plays": 1
+            },
+            {
+              "id": "1I37Zz2g3hk9eWxaNkj031",
+              "title": "Your Idol",
+              "artist": "Saja Boys, Andrew Choi, Neckwav, Danny Chung, KEVIN WOO, samUIL Lee, KPop Demon Hunters Cast",
+              "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-22T16:58:07.968Z",
+      "lastPlayedAt": "2026-10-23T17:07:13.266Z",
       "lastKeys": [
-        "[1792688287968,\"1leOJnHs7HFXF4B5Nsgkmk\"]"
+        "[1792775233266,\"6FOWzfUUvKryjmmUjSu1pX\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-22T16:58:07.968Z"
+      "through": "2026-10-23T17:07:13.266Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-22T17:11:49.640Z",
-    "updatedAt": "2026-10-22T17:11:49.640Z"
+    "checkedAt": "2026-10-23T17:08:50.424Z",
+    "updatedAt": "2026-10-23T17:08:50.424Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-22T17:11:49.640Z",
-    "updatedAt": "2026-10-22T17:11:49.640Z"
+    "checkedAt": "2026-10-23T17:08:50.424Z",
+    "updatedAt": "2026-10-23T17:08:50.424Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -6292,156 +6472,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-10-22T17:11:50.721Z",
+    "snapshotAt": "2026-10-23T17:08:54.593Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1781,
-        "rank": 183682,
-        "xp": 35241804
+        "value": 1782,
+        "rank": 183502,
+        "xp": 35268509
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 235675,
-        "xp": 1147268
+        "rank": 235783,
+        "xp": 1147556
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 198017,
-        "xp": 1275085
+        "rank": 197826,
+        "xp": 1278411
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 230312,
+        "rank": 230434,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 212219,
-        "xp": 3002500
+        "rank": 212138,
+        "xp": 3009431
       },
       {
         "key": "ranged",
-        "value": 77,
-        "rank": 224489,
-        "xp": 1628779
+        "value": 78,
+        "rank": 224186,
+        "xp": 1635994
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 174686,
+        "rank": 174768,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 174108,
-        "xp": 3265181
+        "rank": 174036,
+        "xp": 3270524
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 259040,
-        "xp": 860277
+        "rank": 258958,
+        "xp": 861282
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275949,
-        "xp": 869411
+        "rank": 276007,
+        "xp": 869621
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 258803,
+        "rank": 258908,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294533,
-        "xp": 835202
+        "rank": 294512,
+        "xp": 835832
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198264,
+        "rank": 198290,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214808,
-        "xp": 916153
+        "rank": 214849,
+        "xp": 916883
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191024,
-        "xp": 934150
+        "rank": 191015,
+        "xp": 934880
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 271108,
-        "xp": 938283
+        "rank": 271198,
+        "xp": 938493
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 179166,
-        "xp": 881184
+        "rank": 179239,
+        "xp": 881244
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 161821,
+        "rank": 161907,
         "xp": 1439065
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 240104,
+        "rank": 240212,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 209840,
+        "rank": 209921,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 79,
-        "rank": 180507,
-        "xp": 1949062
+        "rank": 180588,
+        "xp": 1949089
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 150901,
+        "rank": 150983,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 235252,
+        "rank": 235356,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 161222,
+        "rank": 161308,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 92701,
+        "rank": 92836,
         "xp": 430576
       }
     ],
@@ -6454,27 +6634,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 143581
+        "rank": 143635
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 54330
+        "rank": 54395
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 81869
+        "rank": 81917
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90305
+        "rank": 90336
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59796
+        "rank": 59829
       },
       {
         "key": "giant_mole",
@@ -6484,17 +6664,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139133
+        "rank": 139186
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 91135
+        "rank": 91222
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 33779
+        "rank": 33891
       },
       {
         "key": "obor",
@@ -6504,12 +6684,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80117
+        "rank": 80162
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108392
+        "rank": 108433
       },
       {
         "key": "the_gauntlet",
@@ -6518,13 +6698,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 120,
-        "rank": 89625
+        "value": 123,
+        "rank": 89266
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 105069
+        "rank": 105146
       },
       {
         "key": "tztok_jad",
@@ -6534,12 +6714,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 164884
+        "rank": 164903
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50087
+        "rank": 50104
       }
     ],
     "activities": [
@@ -6556,27 +6736,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 159744
+        "rank": 159792
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92617
+        "rank": 92675
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117185
+        "rank": 117227
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 150583
+        "rank": 150634
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163238
+        "rank": 163282
       },
       {
         "key": "clue_scrolls_elite",
@@ -6591,7 +6771,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82387
+        "rank": 82396
       },
       {
         "key": "pvp_arena",
@@ -6606,7 +6786,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 117914
+        "rank": 117982
       },
       {
         "key": "colosseum_glory",
@@ -6620,8 +6800,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-22T17:11:49.640Z",
-    "updatedAt": "2026-10-22T17:11:49.640Z"
+    "checkedAt": "2026-10-23T17:08:50.424Z",
+    "updatedAt": "2026-10-23T17:08:50.424Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -7578,7 +7758,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-22T17:11:49.640Z",
-    "updatedAt": "2026-10-22T17:11:49.640Z"
+    "checkedAt": "2026-10-23T17:08:50.424Z",
+    "updatedAt": "2026-10-23T17:08:50.424Z"
   }
 }
