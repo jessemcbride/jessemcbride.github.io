@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T16:22:10.495Z",
+  "generatedAt": "2026-10-26T18:41:10.198Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "2WFdlRkayA3E9x0KU29mck",
-        "title": "Drop It Off (feat. Migos)",
-        "artist": "Young Dolph, Migos",
-        "album": "Gelato",
-        "image": "https://i.scdn.co/image/ab67616d0000b27326e242232d86e24efdce335d",
-        "url": "https://open.spotify.com/track/2WFdlRkayA3E9x0KU29mck",
-        "durationMs": 165019,
-        "playedAt": "2026-10-25T15:47:48.467Z"
+        "id": "3s6sLTCG8QZmpIIRgIW4HS",
+        "title": "Doubt",
+        "artist": "Slow Pulp",
+        "album": "Yard",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735a3cfea06bd542ea962a8482",
+        "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS",
+        "durationMs": 155733,
+        "playedAt": "2026-10-26T17:32:45.654Z"
       },
       {
-        "id": "4hUyFOasVQYLz7rIWlDnCD",
-        "title": "Whole Lot",
-        "artist": "Young Dolph",
-        "album": "Gelato",
-        "image": "https://i.scdn.co/image/ab67616d0000b27326e242232d86e24efdce335d",
-        "url": "https://open.spotify.com/track/4hUyFOasVQYLz7rIWlDnCD",
-        "durationMs": 176111,
-        "playedAt": "2026-10-25T14:46:43.428Z"
+        "id": "1oABrgkUeG6UEtaBcCBqKn",
+        "title": "What You Need",
+        "artist": "Jay Som, Soft Glas",
+        "album": "Belong",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734e8f32343aef69db5124b30d",
+        "url": "https://open.spotify.com/track/1oABrgkUeG6UEtaBcCBqKn",
+        "durationMs": 230513,
+        "playedAt": "2026-10-26T15:04:21.279Z"
       },
       {
-        "id": "5Ue1qoEEUJFnf6u7mBfzYy",
-        "title": "WITH EYES TO SEE",
-        "artist": "Polyphia",
-        "album": "WITH EYES TO SEE",
-        "image": "https://i.scdn.co/image/ab6742d3000053b7b6d43a2ed32b47b0c598895e",
-        "url": "https://open.spotify.com/track/5Ue1qoEEUJFnf6u7mBfzYy",
-        "durationMs": 247413,
-        "playedAt": "2026-10-25T14:43:23.347Z"
+        "id": "1U4g0mmPVhdqMGswdReqV7",
+        "title": "Ohio All The Time",
+        "artist": "Momma",
+        "album": "Welcome to My Blue Sky",
+        "image": "https://i.scdn.co/image/ab67616d0000b27362a6c3654e1aebedfda776ec",
+        "url": "https://open.spotify.com/track/1U4g0mmPVhdqMGswdReqV7",
+        "durationMs": 184820,
+        "playedAt": "2026-10-26T15:00:30.275Z"
       },
       {
-        "id": "1dbAaDY8CzR0ds9wJJeG4m",
-        "title": "NEAR DEATH",
-        "artist": "Polyphia",
-        "album": "BE NOT AFRAID",
-        "image": "https://i.scdn.co/image/ab67616d0000b273960fbc74bdb5923cee56ba83",
-        "url": "https://open.spotify.com/track/1dbAaDY8CzR0ds9wJJeG4m",
-        "durationMs": 132246,
-        "playedAt": "2026-10-25T14:43:23.347Z"
+        "id": "3MW6Nrv1iaFPgwlxWTyoDH",
+        "title": "I Hope You're Right",
+        "artist": "Pool Kids",
+        "album": "Pool Kids",
+        "image": "https://i.scdn.co/image/ab67616d0000b27347ed88593a1aef0e6f877a2b",
+        "url": "https://open.spotify.com/track/3MW6Nrv1iaFPgwlxWTyoDH",
+        "durationMs": 198135,
+        "playedAt": "2026-10-26T14:57:24.898Z"
       },
       {
-        "id": "1ipSpQfzBbhPFhYm6tfVIz",
-        "title": "Mr. Glock",
-        "artist": "Key Glock",
-        "album": "Yellow Tape",
-        "image": "https://i.scdn.co/image/ab67616d0000b27377d6678d66fd48ecfed2cfe8",
-        "url": "https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz",
-        "durationMs": 146880,
-        "playedAt": "2026-10-25T14:43:03.859Z"
+        "id": "5IIt7FDYJOn3sMDOmTcVuN",
+        "title": "One Million",
+        "artist": "Rocket",
+        "album": "R is for Rocket",
+        "image": "https://i.scdn.co/image/ab67616d0000b273436a5bad59fd996ff645dfc3",
+        "url": "https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN",
+        "durationMs": 227354,
+        "playedAt": "2026-10-26T14:54:06.282Z"
       },
       {
-        "id": "3Yt2ph8Ko0JBANpdawzSF2",
-        "title": "Major (feat. Key Glock)",
-        "artist": "Young Dolph, Key Glock",
-        "album": "Role Model",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b2f6366e5147fdc4ce664447",
-        "url": "https://open.spotify.com/track/3Yt2ph8Ko0JBANpdawzSF2",
-        "durationMs": 195546,
-        "playedAt": "2026-10-25T14:40:36.989Z"
+        "id": "4Gxl4xj8QwfeiWa5uvWuyN",
+        "title": "Alright Ok",
+        "artist": "The Sewing Club",
+        "album": "Sew",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f48429acb317e04e6e660d95",
+        "url": "https://open.spotify.com/track/4Gxl4xj8QwfeiWa5uvWuyN",
+        "durationMs": 186707,
+        "playedAt": "2026-10-26T14:50:18.435Z"
       },
       {
-        "id": "0LhYf2L5svsIPcwx1XO0MX",
-        "title": "Until It Rot",
-        "artist": "Young Dolph",
-        "album": "Rich Slave",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d2ac2d5b457bcad2eddef496",
-        "url": "https://open.spotify.com/track/0LhYf2L5svsIPcwx1XO0MX",
-        "durationMs": 173826,
-        "playedAt": "2026-10-25T14:37:21.566Z"
+        "id": "48kjJJiIOGBhCX3Bnz8qJe",
+        "title": "Godlike",
+        "artist": "Twen",
+        "album": "Fate Euphoric",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ded6416fdfd6529b9afaf72f",
+        "url": "https://open.spotify.com/track/48kjJJiIOGBhCX3Bnz8qJe",
+        "durationMs": 307708,
+        "playedAt": "2026-10-26T14:47:11.248Z"
       },
       {
-        "id": "4BXb9CjTqQydthC2Hg1htj",
-        "title": "CAN YOU FEEL IT",
-        "artist": "Polyphia",
-        "album": "BE NOT AFRAID",
-        "image": "https://i.scdn.co/image/ab67616d0000b273960fbc74bdb5923cee56ba83",
-        "url": "https://open.spotify.com/track/4BXb9CjTqQydthC2Hg1htj",
-        "durationMs": 183750,
-        "playedAt": "2026-10-25T02:43:17.042Z"
+        "id": "2QYmaiPbbXxXMBrvWj34m0",
+        "title": "Speeding 72",
+        "artist": "Momma",
+        "album": "Household Name",
+        "image": "https://i.scdn.co/image/ab67616d0000b273088d81927483865772a923cd",
+        "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0",
+        "durationMs": 238360,
+        "playedAt": "2026-10-26T14:42:02.984Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 413,
+          "plays": 431,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3526,7 +3526,7 @@
               "id": "5Wj0an60VgRckYV9zlDe1e",
               "name": "Momma",
               "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e",
-              "plays": 3
+              "plays": 6
             },
             {
               "id": "4XDi67ZENZcbfKnvMnTYsI",
@@ -3904,7 +3904,7 @@
               "id": "4dEUp9bmI8xPLDdVfEN24Q",
               "name": "The Sewing Club",
               "url": "https://open.spotify.com/artist/4dEUp9bmI8xPLDdVfEN24Q",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "4MzJMcHQBl9SIYSjwWn8QW",
@@ -3946,7 +3946,7 @@
               "id": "4QM5QCHicznALtX885CnZC",
               "name": "Slayyyter",
               "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "4gvjmrtzydbMpyJaXUtwvP",
@@ -4150,13 +4150,13 @@
               "id": "3HiuzBlSW7pGDXlSFMhO2g",
               "name": "Young Dolph",
               "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g",
-              "plays": 11
+              "plays": 15
             },
             {
               "id": "6oMuImdp5ZcFhWP0ESe6mG",
               "name": "Migos",
               "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4vGrte8FDu062Ntj0RsPiZ",
@@ -4180,25 +4180,25 @@
               "id": "1wmiQ6ytATiGnJs6uFluKO",
               "name": "Jay Som",
               "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "64YO6kjOrspjCGA2GQwsT0",
               "name": "Soft Glas",
               "url": "https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2JFTRDi5v7JtqoouVe1z5D",
               "name": "Slow Pulp",
               "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D",
-              "plays": 1
+              "plays": 4
             },
             {
               "id": "7iyWvxyp2SxGg3L66TmHbO",
               "name": "Twen",
               "url": "https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "0Bg1joLOL52mJS0kf0pIDx",
@@ -4252,6 +4252,42 @@
               "id": "2Bv1Fns7qP5fQrrGQRA3Of",
               "name": "Pebbles&TamTam",
               "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of",
+              "plays": 1
+            },
+            {
+              "id": "6yoW6SfviQ5D4Wa5jGxh7f",
+              "name": "Pool Kids",
+              "url": "https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f",
+              "plays": 1
+            },
+            {
+              "id": "6TMJgSdBIPPtQJbAB8yPpO",
+              "name": "Rocket",
+              "url": "https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO",
+              "plays": 1
+            },
+            {
+              "id": "25uiPmTg16RbhZWAqwLBy5",
+              "name": "Charli xcx",
+              "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+              "plays": 1
+            },
+            {
+              "id": "1McMsnEElThX1knmY4oliG",
+              "name": "Olivia Rodrigo",
+              "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
+              "plays": 1
+            },
+            {
+              "id": "7GlBOeep6PqTfFi59PTUUN",
+              "name": "Chappell Roan",
+              "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN",
+              "plays": 1
+            },
+            {
+              "id": "6icQOAFXDZKsumw3YXyusw",
+              "name": "Lil Yachty",
+              "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw",
               "plays": 1
             }
           ],
@@ -4462,7 +4498,7 @@
               "artist": "Momma",
               "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0",
               "image": "https://i.scdn.co/image/ab67616d0000b273088d81927483865772a923cd",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "2PcJoVkfjcbvoqBxV1Nj7y",
@@ -6550,7 +6586,7 @@
               "artist": "Young Dolph, Migos",
               "url": "https://open.spotify.com/track/2WFdlRkayA3E9x0KU29mck",
               "image": "https://i.scdn.co/image/ab67616d0000b27326e242232d86e24efdce335d",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4hUyFOasVQYLz7rIWlDnCD",
@@ -6630,7 +6666,7 @@
               "artist": "Jay Som, Soft Glas",
               "url": "https://open.spotify.com/track/1oABrgkUeG6UEtaBcCBqKn",
               "image": "https://i.scdn.co/image/ab67616d0000b2734e8f32343aef69db5124b30d",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "7dSwZn9FbhEidKJNLr4qlE",
@@ -6646,7 +6682,7 @@
               "artist": "Twen",
               "url": "https://open.spotify.com/track/48kjJJiIOGBhCX3Bnz8qJe",
               "image": "https://i.scdn.co/image/ab67616d0000b273ded6416fdfd6529b9afaf72f",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1jZn0LEE00LiubbExRchKM",
@@ -6743,26 +6779,122 @@
               "url": "https://open.spotify.com/track/1BaUCDLiR6u3axnZ7jryk4",
               "image": "https://i.scdn.co/image/ab67616d0000b273441cc899c6f6ba53de5575a2",
               "plays": 1
+            },
+            {
+              "id": "3s6sLTCG8QZmpIIRgIW4HS",
+              "title": "Doubt",
+              "artist": "Slow Pulp",
+              "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735a3cfea06bd542ea962a8482",
+              "plays": 2
+            },
+            {
+              "id": "1U4g0mmPVhdqMGswdReqV7",
+              "title": "Ohio All The Time",
+              "artist": "Momma",
+              "url": "https://open.spotify.com/track/1U4g0mmPVhdqMGswdReqV7",
+              "image": "https://i.scdn.co/image/ab67616d0000b27362a6c3654e1aebedfda776ec",
+              "plays": 1
+            },
+            {
+              "id": "3MW6Nrv1iaFPgwlxWTyoDH",
+              "title": "I Hope You're Right",
+              "artist": "Pool Kids",
+              "url": "https://open.spotify.com/track/3MW6Nrv1iaFPgwlxWTyoDH",
+              "image": "https://i.scdn.co/image/ab67616d0000b27347ed88593a1aef0e6f877a2b",
+              "plays": 1
+            },
+            {
+              "id": "5IIt7FDYJOn3sMDOmTcVuN",
+              "title": "One Million",
+              "artist": "Rocket",
+              "url": "https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN",
+              "image": "https://i.scdn.co/image/ab67616d0000b273436a5bad59fd996ff645dfc3",
+              "plays": 1
+            },
+            {
+              "id": "4Gxl4xj8QwfeiWa5uvWuyN",
+              "title": "Alright Ok",
+              "artist": "The Sewing Club",
+              "url": "https://open.spotify.com/track/4Gxl4xj8QwfeiWa5uvWuyN",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f48429acb317e04e6e660d95",
+              "plays": 1
+            },
+            {
+              "id": "1KMLE9r3Y9nHqtiXHHxX9e",
+              "title": "Better Man",
+              "artist": "Slow Pulp",
+              "url": "https://open.spotify.com/track/1KMLE9r3Y9nHqtiXHHxX9e",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735d1274a8274ff426c48e95e6",
+              "plays": 1
+            },
+            {
+              "id": "6Xp2Zm2sJLdODReZWBBifO",
+              "title": "DANCE...",
+              "artist": "Slayyyter",
+              "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+              "plays": 1
+            },
+            {
+              "id": "3d5NbAerF2MMHw9tdIxiFH",
+              "title": "SS26",
+              "artist": "Charli xcx",
+              "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH",
+              "image": "https://i.scdn.co/image/ab67616d0000b273516b540fe2ff881fdc36d7f3",
+              "plays": 1
+            },
+            {
+              "id": "3XmwAZpIMNpTJy8faw3ajD",
+              "title": "expectations (feat. Chappell Roan)",
+              "artist": "Olivia Rodrigo, Chappell Roan",
+              "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD",
+              "image": "https://i.scdn.co/image/ab67616d0000b273706ab55cf3e8cb64efb0ccba",
+              "plays": 1
+            },
+            {
+              "id": "0bDwLG09LMpFTMSW2TsJ6t",
+              "title": "Bagg (feat. Lil Yachty)",
+              "artist": "Young Dolph, Lil Yachty",
+              "url": "https://open.spotify.com/track/0bDwLG09LMpFTMSW2TsJ6t",
+              "image": "https://i.scdn.co/image/ab67616d0000b27326e242232d86e24efdce335d",
+              "plays": 1
+            },
+            {
+              "id": "7ArriwtgNsjjgkA9ZmJABT",
+              "title": "Yeezy",
+              "artist": "Young Dolph",
+              "url": "https://open.spotify.com/track/7ArriwtgNsjjgkA9ZmJABT",
+              "image": "https://i.scdn.co/image/ab67616d0000b27326e242232d86e24efdce335d",
+              "plays": 1
+            },
+            {
+              "id": "4Nu1wSHuHrnsCPkiUylC8Z",
+              "title": "Run It Up",
+              "artist": "Young Dolph",
+              "url": "https://open.spotify.com/track/4Nu1wSHuHrnsCPkiUylC8Z",
+              "image": "https://i.scdn.co/image/ab67616d0000b27326e242232d86e24efdce335d",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-25T15:47:48.467Z",
+      "lastPlayedAt": "2026-10-26T17:32:45.654Z",
       "lastKeys": [
-        "[1792943268467,\"2WFdlRkayA3E9x0KU29mck\"]"
+        "[1793035965654,\"3s6sLTCG8QZmpIIRgIW4HS\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-25T15:47:48.467Z"
+      "through": "2026-10-26T17:32:45.654Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-25T16:22:10.495Z",
-    "updatedAt": "2026-10-25T16:22:10.495Z"
+    "checkedAt": "2026-10-26T18:41:10.198Z",
+    "updatedAt": "2026-10-26T18:41:10.198Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-25T16:22:10.495Z",
-    "updatedAt": "2026-10-25T16:22:10.495Z"
+    "checkedAt": "2026-10-26T18:41:10.198Z",
+    "updatedAt": "2026-10-26T18:41:10.198Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -6772,156 +6904,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-10-25T16:22:13.767Z",
+    "snapshotAt": "2026-10-26T18:41:11.649Z",
     "skills": [
       {
         "key": "overall",
         "value": 1782,
-        "rank": 183701,
-        "xp": 35295507
+        "rank": 183799,
+        "xp": 35421112
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 235994,
-        "xp": 1147924
+        "rank": 236094,
+        "xp": 1149360
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 197785,
-        "xp": 1281791
+        "rank": 196818,
+        "xp": 1298046
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 230682,
+        "rank": 230817,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 212166,
-        "xp": 3016655
+        "rank": 211461,
+        "xp": 3050214
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 224074,
-        "xp": 1643783
+        "rank": 222825,
+        "xp": 1678078
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 174954,
+        "rank": 175073,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 174067,
-        "xp": 3275031
+        "rank": 173581,
+        "xp": 3298128
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 259033,
-        "xp": 862347
+        "rank": 258413,
+        "xp": 867132
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 276201,
-        "xp": 869831
+        "rank": 276168,
+        "xp": 870811
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 259114,
+        "rank": 259271,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294605,
-        "xp": 836482
+        "rank": 294288,
+        "xp": 839202
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198416,
+        "rank": 198459,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 215018,
-        "xp": 917638
+        "rank": 214910,
+        "xp": 921158
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191142,
-        "xp": 935635
+        "rank": 190885,
+        "xp": 939155
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 271396,
-        "xp": 938703
+        "rank": 271393,
+        "xp": 939703
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 179431,
-        "xp": 881304
+        "rank": 179526,
+        "xp": 881614
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162047,
+        "rank": 162133,
         "xp": 1439065
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 240436,
+        "rank": 240565,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 210125,
+        "rank": 210239,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 79,
-        "rank": 180737,
-        "xp": 1949114
+        "rank": 180821,
+        "xp": 1949242
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 151158,
+        "rank": 151237,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 235605,
+        "rank": 235708,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 161485,
+        "rank": 161578,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 93100,
+        "rank": 93258,
         "xp": 430576
       }
     ],
@@ -6934,27 +7066,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 143763
+        "rank": 143826
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 54539
+        "rank": 54629
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82013
+        "rank": 82060
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90402
+        "rank": 90450
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59885
+        "rank": 59916
       },
       {
         "key": "giant_mole",
@@ -6964,17 +7096,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139290
+        "rank": 139351
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 91446
+        "rank": 91565
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 34201
+        "rank": 34343
       },
       {
         "key": "obor",
@@ -6984,12 +7116,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80272
+        "rank": 80324
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108541
+        "rank": 108607
       },
       {
         "key": "the_gauntlet",
@@ -6998,13 +7130,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 125,
-        "rank": 89197
+        "value": 137,
+        "rank": 87728
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 105390
+        "rank": 105509
       },
       {
         "key": "tztok_jad",
@@ -7014,12 +7146,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165000
+        "rank": 165037
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50149
+        "rank": 50164
       }
     ],
     "activities": [
@@ -7036,27 +7168,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 159899
+        "rank": 159964
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92770
+        "rank": 92811
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117297
+        "rank": 117342
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 150762
+        "rank": 150823
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163370
+        "rank": 163422
       },
       {
         "key": "clue_scrolls_elite",
@@ -7086,7 +7218,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 118179
+        "rank": 118255
       },
       {
         "key": "colosseum_glory",
@@ -7100,8 +7232,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-25T16:22:10.495Z",
-    "updatedAt": "2026-10-25T16:22:10.495Z"
+    "checkedAt": "2026-10-26T18:41:10.198Z",
+    "updatedAt": "2026-10-26T18:41:10.198Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -8058,7 +8190,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-25T16:22:10.495Z",
-    "updatedAt": "2026-10-25T16:22:10.495Z"
+    "checkedAt": "2026-10-26T18:41:10.198Z",
+    "updatedAt": "2026-10-26T18:41:10.198Z"
   }
 }
