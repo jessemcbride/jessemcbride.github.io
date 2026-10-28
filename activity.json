@@ -1,97 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T18:01:42.881Z",
+  "generatedAt": "2026-10-28T18:21:17.342Z",
   "spotify": {
-    "current": {
-      "id": "6FOWzfUUvKryjmmUjSu1pX",
-      "title": "This Close",
-      "artist": "Flyleaf",
-      "album": "Memento Mori (Expanded)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-      "url": "https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX",
-      "durationMs": 199933
-    },
-    "isPlaying": true,
+    "current": null,
+    "isPlaying": false,
     "recent": [
       {
-        "id": "3v2XiE8ztYHOsrjIBN4Xh2",
-        "title": "Again",
+        "id": "35ISBknsCeZQtq66xABI9g",
+        "title": "Messy",
+        "artist": "Lola Young",
+        "album": "This Wasn't Meant For You Anyway",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736aa2a180c7b009ca8454ef89",
+        "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g",
+        "durationMs": 284066,
+        "playedAt": "2026-10-28T16:43:40.079Z"
+      },
+      {
+        "id": "1Bv3h7Vc4AaYA2BcSM3rVd",
+        "title": "All I Wanted",
+        "artist": "Paramore",
+        "album": "Brand New Eyes",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
+        "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd",
+        "durationMs": 225786,
+        "playedAt": "2026-10-28T13:42:29.661Z"
+      },
+      {
+        "id": "1Qv9uxtqrNIA5zTUSYrWZG",
+        "title": "Manchild",
+        "artist": "Sabrina Carpenter",
+        "album": "Manchild",
+        "image": "https://i.scdn.co/image/ab6742d3000053b73e56d65f6b7c8bf4139a0f0f",
+        "url": "https://open.spotify.com/track/1Qv9uxtqrNIA5zTUSYrWZG",
+        "durationMs": 236300,
+        "playedAt": "2026-10-28T13:38:13.694Z"
+      },
+      {
+        "id": "2BwO5K8Q7EPAJSGze3AAh9",
+        "title": "Manchild",
+        "artist": "Sabrina Carpenter",
+        "album": "Man’s Best Friend",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+        "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9",
+        "durationMs": 213645,
+        "playedAt": "2026-10-28T13:37:58.330Z"
+      },
+      {
+        "id": "1oABrgkUeG6UEtaBcCBqKn",
+        "title": "What You Need",
+        "artist": "Jay Som, Soft Glas",
+        "album": "Belong",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734e8f32343aef69db5124b30d",
+        "url": "https://open.spotify.com/track/1oABrgkUeG6UEtaBcCBqKn",
+        "durationMs": 230513,
+        "playedAt": "2026-10-28T13:31:03.277Z"
+      },
+      {
+        "id": "3yiWkaQvp8cYt64M1bSVb9",
+        "title": "Kill Me",
+        "artist": "Hayley Williams",
+        "album": "Ego Death At A Bachelorette Party",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+        "url": "https://open.spotify.com/track/3yiWkaQvp8cYt64M1bSVb9",
+        "durationMs": 167973,
+        "playedAt": "2026-10-28T13:23:46.273Z"
+      },
+      {
+        "id": "3XmwAZpIMNpTJy8faw3ajD",
+        "title": "expectations (feat. Chappell Roan)",
+        "artist": "Olivia Rodrigo, Chappell Roan",
+        "album": "expectations (feat. Chappell Roan)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273706ab55cf3e8cb64efb0ccba",
+        "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD",
+        "durationMs": 223935,
+        "playedAt": "2026-10-28T13:20:58.209Z"
+      },
+      {
+        "id": "5kutbkxgxSZywKeeKIfpEM",
+        "title": "Missing",
         "artist": "Flyleaf",
         "album": "Memento Mori (Expanded)",
         "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-        "url": "https://open.spotify.com/track/3v2XiE8ztYHOsrjIBN4Xh2",
-        "durationMs": 184920,
-        "playedAt": "2026-10-27T17:59:02.037Z"
-      },
-      {
-        "id": "4BIWl6xOUupdv3jpWtPSDC",
-        "title": "Fully Alive",
-        "artist": "Flyleaf",
-        "album": "Flyleaf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-        "url": "https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC",
-        "durationMs": 154133,
-        "playedAt": "2026-10-27T17:55:56.640Z"
-      },
-      {
-        "id": "3FP8A246XpuafFofRhDlWG",
-        "title": "I'm So Sick",
-        "artist": "Flyleaf",
-        "album": "Flyleaf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-        "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
-        "durationMs": 175880,
-        "playedAt": "2026-10-27T17:53:22.506Z"
-      },
-      {
-        "id": "1zN6ynJG4PdR61YWv4PQ3Y",
-        "title": "All Around Me",
-        "artist": "Flyleaf",
-        "album": "Flyleaf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-        "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
-        "durationMs": 198506,
-        "playedAt": "2026-10-27T17:50:26.081Z"
-      },
-      {
-        "id": "3nC63MCw9qxn2uneBWqP7W",
-        "title": "At It Again",
-        "artist": "Slow Pulp",
-        "album": "Moveys",
-        "image": "https://i.scdn.co/image/ab67616d0000b27352a17efb55a62f0a7e7f7713",
-        "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W",
-        "durationMs": 123331,
-        "playedAt": "2026-10-27T16:03:18.967Z"
-      },
-      {
-        "id": "2QYmaiPbbXxXMBrvWj34m0",
-        "title": "Speeding 72",
-        "artist": "Momma",
-        "album": "Household Name",
-        "image": "https://i.scdn.co/image/ab67616d0000b273088d81927483865772a923cd",
-        "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0",
-        "durationMs": 238360,
-        "playedAt": "2026-10-27T16:01:15.150Z"
-      },
-      {
-        "id": "4ImZ8dmqmUncas43Lb3bJg",
-        "title": "Blood",
-        "artist": "Sweet Pill",
-        "album": "Where the Heart Is",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b9368400e3af542f39b0c3c3",
-        "url": "https://open.spotify.com/track/4ImZ8dmqmUncas43Lb3bJg",
-        "durationMs": 139671,
-        "playedAt": "2026-10-27T15:57:16.240Z"
-      },
-      {
-        "id": "04LZdlv8Ccy3FezHBiBQGW",
-        "title": "Tapdance In Limbo",
-        "artist": "Twen",
-        "album": "Fate Euphoric",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ded6416fdfd6529b9afaf72f",
-        "url": "https://open.spotify.com/track/04LZdlv8Ccy3FezHBiBQGW",
-        "durationMs": 270239,
-        "playedAt": "2026-10-27T15:56:18.538Z"
+        "url": "https://open.spotify.com/track/5kutbkxgxSZywKeeKIfpEM",
+        "durationMs": 174440,
+        "playedAt": "2026-10-28T13:17:08.858Z"
       }
     ],
     "observed": {
@@ -3432,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 458,
+          "plays": 508,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3444,7 +3436,7 @@
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 20
+              "plays": 23
             },
             {
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
@@ -3492,7 +3484,7 @@
               "id": "4IliztYDlfMvzQzbx50o60",
               "name": "Flyleaf",
               "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
-              "plays": 98
+              "plays": 99
             },
             {
               "id": "6MUyqmIQ35inLjch0YzIEG",
@@ -3534,7 +3526,7 @@
               "id": "5Wj0an60VgRckYV9zlDe1e",
               "name": "Momma",
               "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e",
-              "plays": 11
+              "plays": 12
             },
             {
               "id": "4XDi67ZENZcbfKnvMnTYsI",
@@ -3954,7 +3946,7 @@
               "id": "4QM5QCHicznALtX885CnZC",
               "name": "Slayyyter",
               "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
-              "plays": 4
+              "plays": 6
             },
             {
               "id": "4gvjmrtzydbMpyJaXUtwvP",
@@ -3984,7 +3976,7 @@
               "id": "1yz8XixOiIJJ9IxjbnfYV6",
               "name": "NewDad",
               "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "7n2Ycct7Beij7Dj7meI4X0",
@@ -4074,7 +4066,7 @@
               "id": "3zmfs9cQwzJl575W1ZYXeT",
               "name": "Men I Trust",
               "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT",
-              "plays": 11
+              "plays": 12
             },
             {
               "id": "4wXchxfTTggLtzkoUhO86Q",
@@ -4146,7 +4138,7 @@
               "id": "0p4nmQO2msCgU4IF37Wi3j",
               "name": "Avril Lavigne",
               "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4dpARuHxo51G3z768sgnrY",
@@ -4188,19 +4180,19 @@
               "id": "1wmiQ6ytATiGnJs6uFluKO",
               "name": "Jay Som",
               "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO",
-              "plays": 3
+              "plays": 5
             },
             {
               "id": "64YO6kjOrspjCGA2GQwsT0",
               "name": "Soft Glas",
               "url": "https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "2JFTRDi5v7JtqoouVe1z5D",
               "name": "Slow Pulp",
               "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D",
-              "plays": 5
+              "plays": 7
             },
             {
               "id": "7iyWvxyp2SxGg3L66TmHbO",
@@ -4278,19 +4270,19 @@
               "id": "25uiPmTg16RbhZWAqwLBy5",
               "name": "Charli xcx",
               "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
-              "plays": 1
+              "plays": 4
             },
             {
               "id": "1McMsnEElThX1knmY4oliG",
               "name": "Olivia Rodrigo",
               "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "7GlBOeep6PqTfFi59PTUUN",
               "name": "Chappell Roan",
               "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "6icQOAFXDZKsumw3YXyusw",
@@ -4338,6 +4330,144 @@
               "id": "3XRj6XMmub9546oUagEqHY",
               "name": "Hannah Cole",
               "url": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY",
+              "plays": 2
+            },
+            {
+              "id": "67FB4n52MgexGQIG8s0yUH",
+              "name": "Lola Young",
+              "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH",
+              "plays": 2
+            },
+            {
+              "id": "74KM79TiuVKeVCqs8QtB0B",
+              "name": "Sabrina Carpenter",
+              "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B",
+              "plays": 5
+            },
+            {
+              "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+              "name": "Hayley Williams",
+              "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM",
+              "plays": 4
+            },
+            {
+              "id": "3uwAm6vQy7kWPS2bciKWx9",
+              "name": "girl in red",
+              "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9",
+              "plays": 1
+            },
+            {
+              "id": "2sSGPbdZJkaSE2AbcGOACx",
+              "name": "The Marías",
+              "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
+              "plays": 2
+            },
+            {
+              "id": "0zzKEeF2bAVKrWeKc9CyJV",
+              "name": "Florence Road",
+              "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV",
+              "plays": 1
+            },
+            {
+              "id": "4yiQZ8tQPux8cPriYMWUFP",
+              "name": "Gwen Stefani",
+              "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP",
+              "plays": 1
+            },
+            {
+              "id": "1HY2Jd0NmPuamShAr6KMms",
+              "name": "Lady Gaga",
+              "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
+              "plays": 1
+            },
+            {
+              "id": "71gxkPYviG8kwEzEZGM1FH",
+              "name": "Porch Light",
+              "url": "https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH",
+              "plays": 1
+            },
+            {
+              "id": "4wrzxtBZw20ufDstKyTnnP",
+              "name": "Rachel Chinouriri",
+              "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP",
+              "plays": 1
+            },
+            {
+              "id": "7eKkW1zo5uzW8kUntiiBvz",
+              "name": "Malcolm Todd",
+              "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
+              "plays": 1
+            },
+            {
+              "id": "5FxD8fkQZ6KcsSYupDVoSO",
+              "name": "Omar Apollo",
+              "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO",
+              "plays": 1
+            },
+            {
+              "id": "00x1fYSGhdqScXBRpSj3DW",
+              "name": "Olivia Dean",
+              "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
+              "plays": 1
+            },
+            {
+              "id": "66T34XqGkEWbzKWALSBDuR",
+              "name": "Haute & Freddy",
+              "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR",
+              "plays": 1
+            },
+            {
+              "id": "09Wl9YiRr5l1rChWktQD4o",
+              "name": "NoSo",
+              "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o",
+              "plays": 1
+            },
+            {
+              "id": "35l9BRT7MXmM8bv2WDQiyB",
+              "name": "beabadoobee",
+              "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB",
+              "plays": 1
+            },
+            {
+              "id": "26ZYSsr8RPofalTXPh4yyq",
+              "name": "Emelie Trahan",
+              "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq",
+              "plays": 1
+            },
+            {
+              "id": "2HkSsS8O2U2gPhnCGVN5vn",
+              "name": "BETWEEN FRIENDS",
+              "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn",
+              "plays": 1
+            },
+            {
+              "id": "78rUTD7y6Cy67W1RVzYs7t",
+              "name": "PinkPantheress",
+              "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t",
+              "plays": 1
+            },
+            {
+              "id": "4G9NDjRyZFDlJKMRL8hx3S",
+              "name": "sombr",
+              "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S",
+              "plays": 1
+            },
+            {
+              "id": "7onlSHoWhsACf62nMcr780",
+              "name": "Hunnygloss",
+              "url": "https://open.spotify.com/artist/7onlSHoWhsACf62nMcr780",
+              "plays": 1
+            },
+            {
+              "id": "6O9vGMmTwzihULICPCsNf2",
+              "name": "Balu Brigada",
+              "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2",
+              "plays": 1
+            },
+            {
+              "id": "6y6iXD929Jqq0xc6lgwhl1",
+              "name": "LAUREL",
+              "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1",
               "plays": 1
             }
           ],
@@ -4356,7 +4486,7 @@
               "artist": "Paramore",
               "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd",
               "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "2jAZg043nuMGUcdtvmEIJE",
@@ -5588,7 +5718,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/5kutbkxgxSZywKeeKIfpEM",
               "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "6RPDAf8p0lGL3jxpnuNotC",
@@ -6148,7 +6278,7 @@
               "artist": "Paramore",
               "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F",
               "image": "https://i.scdn.co/image/ab67616d0000b27305f425b3ea2d3609d2d8b962",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3FI0iAAAjmR31xpZEwbdys",
@@ -6716,7 +6846,7 @@
               "artist": "Jay Som, Soft Glas",
               "url": "https://open.spotify.com/track/1oABrgkUeG6UEtaBcCBqKn",
               "image": "https://i.scdn.co/image/ab67616d0000b2734e8f32343aef69db5124b30d",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "7dSwZn9FbhEidKJNLr4qlE",
@@ -6900,7 +7030,7 @@
               "artist": "Olivia Rodrigo, Chappell Roan",
               "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD",
               "image": "https://i.scdn.co/image/ab67616d0000b273706ab55cf3e8cb64efb0ccba",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "0bDwLG09LMpFTMSW2TsJ6t",
@@ -7061,26 +7191,370 @@
               "url": "https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe",
               "image": "https://i.scdn.co/image/ab67616d0000b273088d81927483865772a923cd",
               "plays": 1
+            },
+            {
+              "id": "35ISBknsCeZQtq66xABI9g",
+              "title": "Messy",
+              "artist": "Lola Young",
+              "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736aa2a180c7b009ca8454ef89",
+              "plays": 2
+            },
+            {
+              "id": "1Qv9uxtqrNIA5zTUSYrWZG",
+              "title": "Manchild",
+              "artist": "Sabrina Carpenter",
+              "url": "https://open.spotify.com/track/1Qv9uxtqrNIA5zTUSYrWZG",
+              "image": "https://i.scdn.co/image/ab6742d3000053b73e56d65f6b7c8bf4139a0f0f",
+              "plays": 1
+            },
+            {
+              "id": "2BwO5K8Q7EPAJSGze3AAh9",
+              "title": "Manchild",
+              "artist": "Sabrina Carpenter",
+              "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+              "plays": 2
+            },
+            {
+              "id": "3yiWkaQvp8cYt64M1bSVb9",
+              "title": "Kill Me",
+              "artist": "Hayley Williams",
+              "url": "https://open.spotify.com/track/3yiWkaQvp8cYt64M1bSVb9",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+              "plays": 1
+            },
+            {
+              "id": "74v28tCHJ9tRSvwKbQdqJc",
+              "title": "Seven (Album V)",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/74v28tCHJ9tRSvwKbQdqJc",
+              "image": "https://i.scdn.co/image/ab67616d0000b273080a103172ab636cd50df7f0",
+              "plays": 1
+            },
+            {
+              "id": "6IPwKM3fUUzlElbvKw2sKl",
+              "title": "we fell in love in october",
+              "artist": "girl in red",
+              "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl",
+              "image": "https://i.scdn.co/image/ab67616d0000b273deade9f354749841f09feca2",
+              "plays": 1
+            },
+            {
+              "id": "4E0P1xs3JNmsNr5c5nFTZJ",
+              "title": "Back To Me",
+              "artist": "The Marías",
+              "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a66ab2cbaebcc84ddd45a078",
+              "plays": 1
+            },
+            {
+              "id": "2b7zdV4i5vEaRlZAkiIAR5",
+              "title": "Falling Apart",
+              "artist": "Slow Pulp",
+              "url": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5",
+              "image": "https://i.scdn.co/image/ab67616d0000b27352a17efb55a62f0a7e7f7713",
+              "plays": 1
+            },
+            {
+              "id": "2gyxAWHebV7xPYVxqoi86f",
+              "title": "get him back!",
+              "artist": "Olivia Rodrigo",
+              "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+              "plays": 1
+            },
+            {
+              "id": "2NEfVaMjt95EgNyFu8dKNY",
+              "title": "Big Bite",
+              "artist": "Hannah Cole",
+              "url": "https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ee0b0225f1392f0c18bdb1b9",
+              "plays": 1
+            },
+            {
+              "id": "1UHS8Rf6h5Ar3CDWRd3wjF",
+              "title": "Bed Chem",
+              "artist": "Sabrina Carpenter",
+              "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF",
+              "image": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+              "plays": 1
+            },
+            {
+              "id": "2vJPGLhq3pub8fG9wAFN0Y",
+              "title": "7563",
+              "artist": "Florence Road",
+              "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734fbe95cdcdf220a9f4135fae",
+              "plays": 1
+            },
+            {
+              "id": "0WbMK4wrZ1wFSty9F7FCgu",
+              "title": "Good Luck, Babe!",
+              "artist": "Chappell Roan",
+              "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu",
+              "image": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+              "plays": 1
+            },
+            {
+              "id": "7bZsx7Zif6FIhrcZrh0LVm",
+              "title": "What You Waiting For?",
+              "artist": "Gwen Stefani",
+              "url": "https://open.spotify.com/track/7bZsx7Zif6FIhrcZrh0LVm",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737c7136a182372ccdffb3d3c4",
+              "plays": 1
+            },
+            {
+              "id": "5xEM5hIgJ1jjgcEBfpkt2F",
+              "title": "Complicated",
+              "artist": "Avril Lavigne",
+              "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240",
+              "plays": 1
+            },
+            {
+              "id": "7Hqig8kp32q2Ire3ECQvWM",
+              "title": "Paparazzi",
+              "artist": "Lady Gaga",
+              "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM",
+              "image": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+              "plays": 1
+            },
+            {
+              "id": "4p3ZHnh9AJuZeyJ93WooeI",
+              "title": "Past Lives - feat. Hayley Williams",
+              "artist": "Jay Som, Hayley Williams",
+              "url": "https://open.spotify.com/track/4p3ZHnh9AJuZeyJ93WooeI",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734e8f32343aef69db5124b30d",
+              "plays": 1
+            },
+            {
+              "id": "4wDgL9CFL7ee8Z7gwQCXJW",
+              "title": "At Home",
+              "artist": "Slow Pulp",
+              "url": "https://open.spotify.com/track/4wDgL9CFL7ee8Z7gwQCXJW",
+              "image": "https://i.scdn.co/image/ab67616d0000b273467640da5226221e42b654b5",
+              "plays": 1
+            },
+            {
+              "id": "0NDKrxRuw0H3tZxbpYIhze",
+              "title": "I Caught Myself",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze",
+              "image": "https://i.scdn.co/image/ab67616d0000b273eff73e0f01f187ab1ce996f8",
+              "plays": 1
+            },
+            {
+              "id": "6isjxsCiPOE57WMrd8WVMM",
+              "title": "Dream of Me",
+              "artist": "NewDad",
+              "url": "https://open.spotify.com/track/6isjxsCiPOE57WMrd8WVMM",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732392a7230aed7d58429151d1",
+              "plays": 1
+            },
+            {
+              "id": "46i6oWlLNJVhUPaRnWX6v0",
+              "title": "Upside",
+              "artist": "Porch Light",
+              "url": "https://open.spotify.com/track/46i6oWlLNJVhUPaRnWX6v0",
+              "image": "https://i.scdn.co/image/ab67616d0000b273638c5007c9669e79805fc982",
+              "plays": 1
+            },
+            {
+              "id": "3hC0ml3GujH8WfbwGbG2VY",
+              "title": "Not Sacred",
+              "artist": "Momma",
+              "url": "https://open.spotify.com/track/3hC0ml3GujH8WfbwGbG2VY",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cb006027905bb7b6df41928b",
+              "plays": 1
+            },
+            {
+              "id": "2gWY1fvwvKPQFFoahY4p3v",
+              "title": "Never Need Me",
+              "artist": "Rachel Chinouriri",
+              "url": "https://open.spotify.com/track/2gWY1fvwvKPQFFoahY4p3v",
+              "image": "https://i.scdn.co/image/ab67616d0000b27388e15b861bc38f527f4122e8",
+              "plays": 1
+            },
+            {
+              "id": "2TAKt1x0k9AltDJm31GhEu",
+              "title": "Bleed (feat. Omar Apollo)",
+              "artist": "Malcolm Todd, Omar Apollo",
+              "url": "https://open.spotify.com/track/2TAKt1x0k9AltDJm31GhEu",
+              "image": "https://i.scdn.co/image/ab67616d0000b27387607b2c8f5f52f1f057be0d",
+              "plays": 1
+            },
+            {
+              "id": "19RybK6XDbAVpcdxSbZL1o",
+              "title": "Apple",
+              "artist": "Charli xcx",
+              "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+              "plays": 1
+            },
+            {
+              "id": "5iALdwbhnUHa8zGStA3h1J",
+              "title": "Parachute",
+              "artist": "Hayley Williams",
+              "url": "https://open.spotify.com/track/5iALdwbhnUHa8zGStA3h1J",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+              "plays": 1
+            },
+            {
+              "id": "1qbmS6ep2hbBRaEZFpn7BX",
+              "title": "Man I Need",
+              "artist": "Olivia Dean",
+              "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2",
+              "plays": 1
+            },
+            {
+              "id": "2LIOTreGvPk5GdpeGUqYIu",
+              "title": "Shy Girl",
+              "artist": "Haute & Freddy",
+              "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu",
+              "image": "https://i.scdn.co/image/ab67616d0000b273528f41b9db60ce18ba04f252",
+              "plays": 1
+            },
+            {
+              "id": "5G2f63n7IPVPPjfNIGih7Q",
+              "title": "Taste",
+              "artist": "Sabrina Carpenter",
+              "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q",
+              "image": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+              "plays": 1
+            },
+            {
+              "id": "1RtL0D6XycKWLCDt0pxpCf",
+              "title": "Sugar",
+              "artist": "NoSo",
+              "url": "https://open.spotify.com/track/1RtL0D6XycKWLCDt0pxpCf",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ff194a35e37554c81f9b2fa1",
+              "plays": 1
+            },
+            {
+              "id": "4w2GLmK2wnioVnb5CPQeex",
+              "title": "360",
+              "artist": "Charli xcx",
+              "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+              "plays": 1
+            },
+            {
+              "id": "0rLtUuQgwIlw6vv2eqHKdt",
+              "title": "BEAT UP CHANEL$",
+              "artist": "Slayyyter",
+              "url": "https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+              "plays": 1
+            },
+            {
+              "id": "0qWoOHqTirzo59FQ9eoECH",
+              "title": "All I Did Was Dream of You (feat. The Marías)",
+              "artist": "beabadoobee, The Marías",
+              "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+              "plays": 1
+            },
+            {
+              "id": "3cvxnOEMYkOWKKi3yJbZ1Y",
+              "title": "Smile More",
+              "artist": "Emelie Trahan",
+              "url": "https://open.spotify.com/track/3cvxnOEMYkOWKKi3yJbZ1Y",
+              "image": "https://i.scdn.co/image/ab67616d0000b27318ca779a40ec87dd4281323b",
+              "plays": 1
+            },
+            {
+              "id": "21h2iExSGlab9SbLjZya1t",
+              "title": "Hard",
+              "artist": "Hayley Williams",
+              "url": "https://open.spotify.com/track/21h2iExSGlab9SbLjZya1t",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+              "plays": 1
+            },
+            {
+              "id": "4EtgDIWb8Wm5mnaK701c0C",
+              "title": "affection",
+              "artist": "BETWEEN FRIENDS",
+              "url": "https://open.spotify.com/track/4EtgDIWb8Wm5mnaK701c0C",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738d9d93cf95ef819563e021ff",
+              "plays": 1
+            },
+            {
+              "id": "5h68SoVFGleijCtjEja3xG",
+              "title": "365",
+              "artist": "Charli xcx",
+              "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+              "plays": 1
+            },
+            {
+              "id": "7aYGCP34Xo6XujY7Ix1DxB",
+              "title": "Girl Like Me",
+              "artist": "PinkPantheress",
+              "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+              "plays": 1
+            },
+            {
+              "id": "7qjZnBKE73H4Oxkopwulqe",
+              "title": "back to friends",
+              "artist": "sombr",
+              "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
+              "plays": 1
+            },
+            {
+              "id": "7bHXfRWxRDR3uHzXVnZW7d",
+              "title": "Drop Dead",
+              "artist": "Hunnygloss",
+              "url": "https://open.spotify.com/track/7bHXfRWxRDR3uHzXVnZW7d",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c024ee33b179510f1ad53c0b",
+              "plays": 1
+            },
+            {
+              "id": "2SGyf0hCuB81F85cHXuRjl",
+              "title": "So Cold",
+              "artist": "Balu Brigada",
+              "url": "https://open.spotify.com/track/2SGyf0hCuB81F85cHXuRjl",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731fc8017bbf246da18b953789",
+              "plays": 1
+            },
+            {
+              "id": "4CBfY6tYGrm6o5wluoPKaT",
+              "title": "Scream Drive Faster",
+              "artist": "LAUREL",
+              "url": "https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT",
+              "image": "https://i.scdn.co/image/ab67616d0000b27355e00e99a232c2117de6c00a",
+              "plays": 1
+            },
+            {
+              "id": "6jMEUqnoREUTIJyVqJaWth",
+              "title": "CANNIBALISM!",
+              "artist": "Slayyyter",
+              "url": "https://open.spotify.com/track/6jMEUqnoREUTIJyVqJaWth",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-27T17:59:02.037Z",
+      "lastPlayedAt": "2026-10-28T16:43:40.079Z",
       "lastKeys": [
-        "[1793123942037,\"3v2XiE8ztYHOsrjIBN4Xh2\"]"
+        "[1793205820079,\"35ISBknsCeZQtq66xABI9g\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-27T17:59:02.037Z"
+      "through": "2026-10-28T16:43:40.079Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-27T18:01:42.881Z",
-    "updatedAt": "2026-10-27T18:01:42.881Z"
+    "checkedAt": "2026-10-28T18:21:17.342Z",
+    "updatedAt": "2026-10-28T18:21:17.342Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-27T18:01:42.881Z",
-    "updatedAt": "2026-10-27T18:01:42.881Z"
+    "checkedAt": "2026-10-28T18:21:17.342Z",
+    "updatedAt": "2026-10-28T18:21:17.342Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -7090,156 +7564,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-10-27T18:01:48.750Z",
+    "snapshotAt": "2026-10-28T18:21:19.016Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1782,
-        "rank": 183886,
-        "xp": 35448183
+        "value": 1783,
+        "rank": 183645,
+        "xp": 35530217
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 236190,
-        "xp": 1149984
+        "rank": 236250,
+        "xp": 1150428
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 196741,
-        "xp": 1301781
+        "rank": 196684,
+        "xp": 1304388
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 230924,
+        "rank": 231010,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 211397,
-        "xp": 3057241
+        "rank": 211363,
+        "xp": 3062443
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 222668,
-        "xp": 1683605
+        "rank": 222554,
+        "xp": 1688349
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 175132,
+        "rank": 175181,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 173524,
-        "xp": 3303368
+        "rank": 173468,
+        "xp": 3307561
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 258370,
-        "xp": 868107
+        "rank": 258337,
+        "xp": 868767
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 276219,
-        "xp": 871161
+        "rank": 276262,
+        "xp": 871371
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 259369,
+        "rank": 259455,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294240,
-        "xp": 839972
+        "rank": 294223,
+        "xp": 840482
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198486,
+        "rank": 198505,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 214927,
-        "xp": 922333
+        "rank": 214933,
+        "xp": 923063
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190858,
-        "xp": 940330
+        "rank": 190860,
+        "xp": 941060
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 271409,
-        "xp": 940053
+        "rank": 271466,
+        "xp": 940263
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 179580,
-        "xp": 881694
+        "rank": 179634,
+        "xp": 881754
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162194,
-        "xp": 1439065
+        "rank": 162238,
+        "xp": 1439090
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 240637,
+        "rank": 240703,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 210314,
+        "rank": 210372,
         "xp": 721675
       },
       {
         "key": "farming",
-        "value": 79,
-        "rank": 180895,
-        "xp": 1949285
+        "value": 80,
+        "rank": 178855,
+        "xp": 2010994
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 151304,
+        "rank": 151362,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 235807,
+        "rank": 235875,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 161643,
+        "rank": 161675,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 93412,
+        "rank": 93528,
         "xp": 430576
       }
     ],
@@ -7252,27 +7726,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 143870
+        "rank": 143910
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 54705
+        "rank": 54782
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82108
+        "rank": 82151
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90472
+        "rank": 90500
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59929
+        "rank": 59940
       },
       {
         "key": "giant_mole",
@@ -7282,17 +7756,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139392
+        "rank": 139434
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 91645
+        "rank": 91713
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 34454
+        "rank": 34557
       },
       {
         "key": "obor",
@@ -7302,12 +7776,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80369
+        "rank": 80397
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108647
+        "rank": 108671
       },
       {
         "key": "the_gauntlet",
@@ -7316,13 +7790,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 139,
-        "rank": 87572
+        "value": 141,
+        "rank": 87374
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 105595
+        "rank": 105660
       },
       {
         "key": "tztok_jad",
@@ -7332,12 +7806,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165059
+        "rank": 165069
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50177
+        "rank": 50197
       }
     ],
     "activities": [
@@ -7354,27 +7828,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160005
+        "rank": 160048
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92851
+        "rank": 92887
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117374
+        "rank": 117393
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 150869
+        "rank": 150905
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163468
+        "rank": 163497
       },
       {
         "key": "clue_scrolls_elite",
@@ -7389,7 +7863,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82411
+        "rank": 82405
       },
       {
         "key": "pvp_arena",
@@ -7404,7 +7878,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 118307
+        "rank": 118348
       },
       {
         "key": "colosseum_glory",
@@ -7418,8 +7892,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-27T18:01:42.881Z",
-    "updatedAt": "2026-10-27T18:01:42.881Z"
+    "checkedAt": "2026-10-28T18:21:17.342Z",
+    "updatedAt": "2026-10-28T18:21:17.342Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -8376,7 +8850,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-27T18:01:42.881Z",
-    "updatedAt": "2026-10-27T18:01:42.881Z"
+    "checkedAt": "2026-10-28T18:21:17.342Z",
+    "updatedAt": "2026-10-28T18:21:17.342Z"
   }
 }
