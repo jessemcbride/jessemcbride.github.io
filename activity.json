@@ -1,10 +1,40 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T18:28:59.122Z",
+  "generatedAt": "2026-10-30T18:01:18.352Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "3i4xZSH1kTLE22TUvUFMYo",
+        "title": "Emergency",
+        "artist": "Paramore",
+        "album": "All We Know Is Falling",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+        "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo",
+        "durationMs": 240040,
+        "playedAt": "2026-10-29T20:27:35.135Z"
+      },
+      {
+        "id": "6OyKBwLzq4h15XmxeWf5n4",
+        "title": "Cute Without The 'E' (Cut From The Team) - Remastered 2019",
+        "artist": "Taking Back Sunday",
+        "album": "Tell All Your Friends (Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731fc8bc00af1c877377d1dcf8",
+        "url": "https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4",
+        "durationMs": 212937,
+        "playedAt": "2026-10-29T20:23:34.625Z"
+      },
+      {
+        "id": "23DHUWJ7iEieNPMPKvjzBV",
+        "title": "Ohio Is For Lovers",
+        "artist": "Hawthorne Heights",
+        "album": "The Silence In Black And White (Re-Issue)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b4b59e1dd1a9c0fa4dc27c61",
+        "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV",
+        "durationMs": 244480,
+        "playedAt": "2026-10-29T20:20:01.182Z"
+      },
       {
         "id": "71U9X93wy4BQGyvmjFqApv",
         "title": "Voices",
@@ -13,7 +43,7 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415",
         "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv",
         "durationMs": 217524,
-        "playedAt": "2026-10-29T15:42:43.137Z"
+        "playedAt": "2026-10-29T20:15:56.194Z"
       },
       {
         "id": "2UMuVwCwPUdTmAYYgd88Fg",
@@ -54,36 +84,6 @@
         "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39",
         "durationMs": 185733,
         "playedAt": "2026-10-29T15:27:20.760Z"
-      },
-      {
-        "id": "38a5auOkoZAiate2CPfDUM",
-        "title": "A Decade Under The Influence",
-        "artist": "Taking Back Sunday",
-        "album": "A Decade Under The Influence",
-        "image": "https://i.scdn.co/image/ab6742d3000053b734ffc8bc1b023a8f4918aed1",
-        "url": "https://open.spotify.com/track/38a5auOkoZAiate2CPfDUM",
-        "durationMs": 253486,
-        "playedAt": "2026-10-29T15:24:14.880Z"
-      },
-      {
-        "id": "6um5ccNzX7k3SRsVnLupvI",
-        "title": "A Decade Under The Influence",
-        "artist": "Taking Back Sunday",
-        "album": "Where You Want To Be",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
-        "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI",
-        "durationMs": 247760,
-        "playedAt": "2026-10-29T15:13:49.327Z"
-      },
-      {
-        "id": "2L8eTF6iQtez7xsduIK3DN",
-        "title": "What Are You, A Cop?",
-        "artist": "Carly Cosgrove",
-        "album": "The Cleanest of Houses Are Empty",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739cb71074c81d5c9835463a92",
-        "url": "https://open.spotify.com/track/2L8eTF6iQtez7xsduIK3DN",
-        "durationMs": 251431,
-        "playedAt": "2026-10-29T15:12:49.964Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 540,
+          "plays": 544,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3436,13 +3436,13 @@
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 24
+              "plays": 25
             },
             {
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
               "name": "Saosin",
               "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
-              "plays": 15
+              "plays": 16
             },
             {
               "id": "0Fvioi4bZVGbxPu7H2sowS",
@@ -3628,7 +3628,7 @@
               "id": "24XtlMhEMNdi822vi0MhY1",
               "name": "Taking Back Sunday",
               "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
-              "plays": 15
+              "plays": 16
             },
             {
               "id": "5n71fmAB8Un2IfAPn64erN",
@@ -3658,7 +3658,7 @@
               "id": "126FigDBtqwS2YsOYMTPQe",
               "name": "Hawthorne Heights",
               "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "3N8Hy6xQnQv1F1XCiyGQqA",
@@ -5196,7 +5196,7 @@
               "artist": "Saosin",
               "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv",
               "image": "https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "5heRy6IDNiQXDJf1tZ6SUc",
@@ -5284,7 +5284,7 @@
               "artist": "Hawthorne Heights",
               "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV",
               "image": "https://i.scdn.co/image/ab67616d0000b273b4b59e1dd1a9c0fa4dc27c61",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2Tc9VznHtQUmfOgE3L1RdN",
@@ -5300,7 +5300,7 @@
               "artist": "Taking Back Sunday",
               "url": "https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4",
               "image": "https://i.scdn.co/image/ab67616d0000b2731fc8bc00af1c877377d1dcf8",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1ZLtE9tSJdaUiIJ9YoKHQe",
@@ -5380,7 +5380,7 @@
               "artist": "Paramore",
               "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo",
               "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "7cITfGsdjGaTP0b5oiLL0z",
@@ -7761,22 +7761,22 @@
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-29T15:42:43.137Z",
+      "lastPlayedAt": "2026-10-29T20:27:35.135Z",
       "lastKeys": [
-        "[1793288563137,\"71U9X93wy4BQGyvmjFqApv\"]"
+        "[1793305655135,\"3i4xZSH1kTLE22TUvUFMYo\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-29T15:42:43.137Z"
+      "through": "2026-10-29T20:27:35.135Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-29T18:28:59.122Z",
-    "updatedAt": "2026-10-29T18:28:59.122Z"
+    "checkedAt": "2026-10-30T18:01:18.352Z",
+    "updatedAt": "2026-10-30T18:01:18.352Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-29T18:28:59.122Z",
-    "updatedAt": "2026-10-29T18:28:59.122Z"
+    "checkedAt": "2026-10-30T18:01:18.352Z",
+    "updatedAt": "2026-10-30T18:01:18.352Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -7786,156 +7786,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-10-29T18:29:00.416Z",
+    "snapshotAt": "2026-10-30T18:01:23.614Z",
     "skills": [
       {
         "key": "overall",
         "value": 1783,
-        "rank": 183737,
-        "xp": 35543300
+        "rank": 183824,
+        "xp": 35559212
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 236391,
-        "xp": 1150428
+        "rank": 236479,
+        "xp": 1151060
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 196799,
-        "xp": 1304388
+        "rank": 196785,
+        "xp": 1306461
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 231117,
+        "rank": 231218,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 211469,
-        "xp": 3062455
+        "rank": 211462,
+        "xp": 3066605
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 222655,
-        "xp": 1688349
+        "rank": 222590,
+        "xp": 1691882
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 175262,
+        "rank": 175336,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 173525,
-        "xp": 3307954
+        "rank": 173550,
+        "xp": 3310718
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 258425,
-        "xp": 868767
+        "rank": 258424,
+        "xp": 869352
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 276375,
-        "xp": 871371
+        "rank": 276445,
+        "xp": 871571
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 259553,
+        "rank": 259650,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294323,
-        "xp": 840482
+        "rank": 294336,
+        "xp": 840952
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198544,
+        "rank": 198581,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 215034,
-        "xp": 923063
+        "rank": 215096,
+        "xp": 923668
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190943,
-        "xp": 941060
+        "rank": 190970,
+        "xp": 941665
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 271583,
-        "xp": 940263
+        "rank": 271636,
+        "xp": 940473
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 179722,
-        "xp": 881754
+        "rank": 179783,
+        "xp": 881814
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162277,
+        "rank": 162338,
         "xp": 1439090
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 240792,
+        "rank": 240883,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 210464,
+        "rank": 210552,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 178402,
-        "xp": 2023672
+        "rank": 178475,
+        "xp": 2023697
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 151439,
+        "rank": 151529,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 235972,
+        "rank": 236072,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 161748,
+        "rank": 161824,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 93647,
+        "rank": 93772,
         "xp": 430576
       }
     ],
@@ -7948,27 +7948,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 143953
+        "rank": 144008
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 54848
+        "rank": 54932
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82203
+        "rank": 82247
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90523
+        "rank": 90549
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 59969
+        "rank": 60002
       },
       {
         "key": "giant_mole",
@@ -7978,17 +7978,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139487
+        "rank": 139546
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 91819
+        "rank": 91904
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 34686
+        "rank": 34818
       },
       {
         "key": "obor",
@@ -7998,12 +7998,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80440
+        "rank": 80482
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108704
+        "rank": 108750
       },
       {
         "key": "the_gauntlet",
@@ -8012,13 +8012,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 141,
-        "rank": 87431
+        "value": 142,
+        "rank": 87388
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 105748
+        "rank": 105831
       },
       {
         "key": "tztok_jad",
@@ -8028,12 +8028,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165095
+        "rank": 165125
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50210
+        "rank": 50220
       }
     ],
     "activities": [
@@ -8050,27 +8050,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160110
+        "rank": 160161
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92926
+        "rank": 92974
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117427
+        "rank": 117467
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 150958
+        "rank": 151033
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163535
+        "rank": 163578
       },
       {
         "key": "clue_scrolls_elite",
@@ -8085,7 +8085,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82407
+        "rank": 82405
       },
       {
         "key": "pvp_arena",
@@ -8100,7 +8100,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 118430
+        "rank": 118506
       },
       {
         "key": "colosseum_glory",
@@ -8114,8 +8114,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-29T18:28:59.122Z",
-    "updatedAt": "2026-10-29T18:28:59.122Z"
+    "checkedAt": "2026-10-30T18:01:18.352Z",
+    "updatedAt": "2026-10-30T18:01:18.352Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -9072,7 +9072,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-29T18:28:59.122Z",
-    "updatedAt": "2026-10-29T18:28:59.122Z"
+    "checkedAt": "2026-10-30T18:01:18.352Z",
+    "updatedAt": "2026-10-30T18:01:18.352Z"
   }
 }
