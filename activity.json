@@ -1,10 +1,50 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T18:01:18.352Z",
+  "generatedAt": "2026-10-31T17:15:15.956Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "5heRy6IDNiQXDJf1tZ6SUc",
+        "title": "Liar (It Takes One To Know One)",
+        "artist": "Taking Back Sunday",
+        "album": "Louder Now (Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
+        "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc",
+        "durationMs": 191133,
+        "playedAt": "2026-10-30T22:43:36.603Z"
+      },
+      {
+        "id": "6um5ccNzX7k3SRsVnLupvI",
+        "title": "A Decade Under The Influence",
+        "artist": "Taking Back Sunday",
+        "album": "Where You Want To Be",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
+        "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI",
+        "durationMs": 247760,
+        "playedAt": "2026-10-30T22:40:24.983Z"
+      },
+      {
+        "id": "313yF0VXTCmFFoYEJF7nBQ",
+        "title": "Writing On The Walls",
+        "artist": "Underoath",
+        "album": "Define The Great Line",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732356287844a9caa378291699",
+        "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ",
+        "durationMs": 242413,
+        "playedAt": "2026-10-30T22:34:46.425Z"
+      },
+      {
+        "id": "2gBSMgQb1o3wKwdAPAtX9C",
+        "title": "Buried Myself Alive",
+        "artist": "The Used",
+        "album": "Buried Myself Alive",
+        "image": "https://i.scdn.co/image/ab6742d3000053b7aeda81d778a171a8e09de0c7",
+        "url": "https://open.spotify.com/track/2gBSMgQb1o3wKwdAPAtX9C",
+        "durationMs": 215936,
+        "playedAt": "2026-10-30T22:34:46.425Z"
+      },
       {
         "id": "3i4xZSH1kTLE22TUvUFMYo",
         "title": "Emergency",
@@ -44,46 +84,6 @@
         "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv",
         "durationMs": 217524,
         "playedAt": "2026-10-29T20:15:56.194Z"
-      },
-      {
-        "id": "2UMuVwCwPUdTmAYYgd88Fg",
-        "title": "New Medicines",
-        "artist": "Dead Poetic",
-        "album": "New Medicines",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b882ec6465c6f88d8093a34",
-        "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg",
-        "durationMs": 242040,
-        "playedAt": "2026-10-29T15:38:38.415Z"
-      },
-      {
-        "id": "5jZ1Z2GFTf2gwmFc3qiUxs",
-        "title": "The Taste of Ink",
-        "artist": "The Used",
-        "album": "The Used",
-        "image": "https://i.scdn.co/image/ab67616d0000b273850d8da4ce418aba90f156d0",
-        "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs",
-        "durationMs": 208693,
-        "playedAt": "2026-10-29T15:34:35.898Z"
-      },
-      {
-        "id": "6fTgbkBiMITtHUmik95ClX",
-        "title": "MakeDamnSure",
-        "artist": "Taking Back Sunday",
-        "album": "Louder Now (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
-        "url": "https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX",
-        "durationMs": 208280,
-        "playedAt": "2026-10-29T15:31:06.692Z"
-      },
-      {
-        "id": "7mG2RbhyzGsjpQOz568d39",
-        "title": "Pressure",
-        "artist": "Paramore",
-        "album": "All We Know Is Falling",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
-        "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39",
-        "durationMs": 185733,
-        "playedAt": "2026-10-29T15:27:20.760Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 544,
+          "plays": 549,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3550,7 +3550,7 @@
               "id": "55VydwMyCuGcavwPuhutPL",
               "name": "The Used",
               "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL",
-              "plays": 8
+              "plays": 9
             },
             {
               "id": "20JZFwl6HVl6yg8a4H3ZqK",
@@ -3628,7 +3628,7 @@
               "id": "24XtlMhEMNdi822vi0MhY1",
               "name": "Taking Back Sunday",
               "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
-              "plays": 16
+              "plays": 19
             },
             {
               "id": "5n71fmAB8Un2IfAPn64erN",
@@ -3640,7 +3640,7 @@
               "id": "3GzWhE2xadJiW8MqRKIVSK",
               "name": "Underoath",
               "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "591yCCsZCLXvaJ0Rg38vLZ",
@@ -5204,7 +5204,7 @@
               "artist": "Taking Back Sunday",
               "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc",
               "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "15n4p6R6Tuht5KAgK3g3IX",
@@ -5396,7 +5396,7 @@
               "artist": "Taking Back Sunday",
               "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI",
               "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
-              "plays": 5
+              "plays": 7
             },
             {
               "id": "4chdIr2d5FwtO0vmie4lA4",
@@ -7757,26 +7757,42 @@
               "url": "https://open.spotify.com/track/4hrL6mHfQ6JjnLt83vLkpl",
               "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
               "plays": 1
+            },
+            {
+              "id": "313yF0VXTCmFFoYEJF7nBQ",
+              "title": "Writing On The Walls",
+              "artist": "Underoath",
+              "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732356287844a9caa378291699",
+              "plays": 1
+            },
+            {
+              "id": "2gBSMgQb1o3wKwdAPAtX9C",
+              "title": "Buried Myself Alive",
+              "artist": "The Used",
+              "url": "https://open.spotify.com/track/2gBSMgQb1o3wKwdAPAtX9C",
+              "image": "https://i.scdn.co/image/ab6742d3000053b7aeda81d778a171a8e09de0c7",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-29T20:27:35.135Z",
+      "lastPlayedAt": "2026-10-30T22:43:36.603Z",
       "lastKeys": [
-        "[1793305655135,\"3i4xZSH1kTLE22TUvUFMYo\"]"
+        "[1793400216603,\"5heRy6IDNiQXDJf1tZ6SUc\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-29T20:27:35.135Z"
+      "through": "2026-10-30T22:43:36.603Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-30T18:01:18.352Z",
-    "updatedAt": "2026-10-30T18:01:18.352Z"
+    "checkedAt": "2026-10-31T17:15:15.956Z",
+    "updatedAt": "2026-10-31T17:15:15.956Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-30T18:01:18.352Z",
-    "updatedAt": "2026-10-30T18:01:18.352Z"
+    "checkedAt": "2026-10-31T17:15:15.956Z",
+    "updatedAt": "2026-10-31T17:15:15.956Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -7786,156 +7802,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-10-30T18:01:23.614Z",
+    "snapshotAt": "2026-10-31T17:15:19.283Z",
     "skills": [
       {
         "key": "overall",
         "value": 1783,
-        "rank": 183824,
+        "rank": 183904,
         "xp": 35559212
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 236479,
+        "rank": 236567,
         "xp": 1151060
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 196785,
+        "rank": 196908,
         "xp": 1306461
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 231218,
+        "rank": 231315,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 211462,
+        "rank": 211556,
         "xp": 3066605
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 222590,
+        "rank": 222688,
         "xp": 1691882
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 175336,
+        "rank": 175431,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 173550,
+        "rank": 173615,
         "xp": 3310718
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 258424,
+        "rank": 258533,
         "xp": 869352
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 276445,
+        "rank": 276573,
         "xp": 871571
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 259650,
+        "rank": 259763,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294336,
+        "rank": 294428,
         "xp": 840952
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198581,
+        "rank": 198635,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 215096,
+        "rank": 215197,
         "xp": 923668
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190970,
+        "rank": 191066,
         "xp": 941665
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 271636,
+        "rank": 271749,
         "xp": 940473
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 179783,
+        "rank": 179860,
         "xp": 881814
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162338,
+        "rank": 162407,
         "xp": 1439090
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 240883,
+        "rank": 240984,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 210552,
+        "rank": 210652,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 178475,
+        "rank": 178549,
         "xp": 2023697
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 151529,
+        "rank": 151607,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 236072,
+        "rank": 236167,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 161824,
+        "rank": 161908,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 93772,
+        "rank": 93888,
         "xp": 430576
       }
     ],
@@ -7948,27 +7964,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144008
+        "rank": 144072
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 54932
+        "rank": 55017
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82247
+        "rank": 82291
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90549
+        "rank": 90588
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60002
+        "rank": 60026
       },
       {
         "key": "giant_mole",
@@ -7978,17 +7994,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139546
+        "rank": 139593
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 91904
+        "rank": 92007
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 34818
+        "rank": 34960
       },
       {
         "key": "obor",
@@ -7998,12 +8014,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80482
+        "rank": 80538
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108750
+        "rank": 108801
       },
       {
         "key": "the_gauntlet",
@@ -8013,12 +8029,12 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 142,
-        "rank": 87388
+        "rank": 87454
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 105831
+        "rank": 105940
       },
       {
         "key": "tztok_jad",
@@ -8028,12 +8044,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165125
+        "rank": 165162
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50220
+        "rank": 50236
       }
     ],
     "activities": [
@@ -8050,27 +8066,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160161
+        "rank": 160229
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 92974
+        "rank": 93018
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117467
+        "rank": 117502
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151033
+        "rank": 151083
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163578
+        "rank": 163627
       },
       {
         "key": "clue_scrolls_elite",
@@ -8085,7 +8101,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82405
+        "rank": 82409
       },
       {
         "key": "pvp_arena",
@@ -8100,7 +8116,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 118506
+        "rank": 118585
       },
       {
         "key": "colosseum_glory",
@@ -8114,8 +8130,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-30T18:01:18.352Z",
-    "updatedAt": "2026-10-30T18:01:18.352Z"
+    "checkedAt": "2026-10-31T17:15:15.956Z",
+    "updatedAt": "2026-10-31T17:15:15.956Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -9072,7 +9088,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-30T18:01:18.352Z",
-    "updatedAt": "2026-10-30T18:01:18.352Z"
+    "checkedAt": "2026-10-31T17:15:15.956Z",
+    "updatedAt": "2026-10-31T17:15:15.956Z"
   }
 }
