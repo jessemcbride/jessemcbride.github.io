@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T17:15:15.956Z",
+  "generatedAt": "2026-11-01T17:56:12.814Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "5heRy6IDNiQXDJf1tZ6SUc",
-        "title": "Liar (It Takes One To Know One)",
-        "artist": "Taking Back Sunday",
-        "album": "Louder Now (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
-        "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc",
-        "durationMs": 191133,
-        "playedAt": "2026-10-30T22:43:36.603Z"
+        "id": "6zpSvSBqQL8u3RS4mUYfEd",
+        "title": "evil cute angel bb",
+        "artist": "AMARA ctk100, DBBD",
+        "album": "evil cute angel bb",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c95e701ea45e0e08aba96ff3",
+        "url": "https://open.spotify.com/track/6zpSvSBqQL8u3RS4mUYfEd",
+        "durationMs": 203089,
+        "playedAt": "2026-11-01T17:16:55.291Z"
       },
       {
-        "id": "6um5ccNzX7k3SRsVnLupvI",
-        "title": "A Decade Under The Influence",
-        "artist": "Taking Back Sunday",
-        "album": "Where You Want To Be",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
-        "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI",
-        "durationMs": 247760,
-        "playedAt": "2026-10-30T22:40:24.983Z"
+        "id": "4cBEjZhCBgXf2ZKmPb84be",
+        "title": "black0ut",
+        "artist": "Reysha Rami",
+        "album": "black0ut",
+        "image": "https://i.scdn.co/image/ab67616d0000b273242f9bb1dc0931917ca854f3",
+        "url": "https://open.spotify.com/track/4cBEjZhCBgXf2ZKmPb84be",
+        "durationMs": 116280,
+        "playedAt": "2026-11-01T05:15:40.078Z"
       },
       {
-        "id": "313yF0VXTCmFFoYEJF7nBQ",
-        "title": "Writing On The Walls",
-        "artist": "Underoath",
-        "album": "Define The Great Line",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732356287844a9caa378291699",
-        "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ",
-        "durationMs": 242413,
-        "playedAt": "2026-10-30T22:34:46.425Z"
+        "id": "3OEhcaHabVo4Oc2fdMb6DO",
+        "title": "Party",
+        "artist": "Troye Sivan",
+        "album": "She’s the Best",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734dae177fcfce289edd39bed2",
+        "url": "https://open.spotify.com/track/3OEhcaHabVo4Oc2fdMb6DO",
+        "durationMs": 201331,
+        "playedAt": "2026-11-01T05:13:43.280Z"
       },
       {
-        "id": "2gBSMgQb1o3wKwdAPAtX9C",
-        "title": "Buried Myself Alive",
-        "artist": "The Used",
-        "album": "Buried Myself Alive",
-        "image": "https://i.scdn.co/image/ab6742d3000053b7aeda81d778a171a8e09de0c7",
-        "url": "https://open.spotify.com/track/2gBSMgQb1o3wKwdAPAtX9C",
-        "durationMs": 215936,
-        "playedAt": "2026-10-30T22:34:46.425Z"
+        "id": "16avQsEDeyH5poyoJ2hyv3",
+        "title": "A Toast to the future kids!",
+        "artist": "Emarosa",
+        "album": "Emarosa",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733b9e750154f65cb27e515605",
+        "url": "https://open.spotify.com/track/16avQsEDeyH5poyoJ2hyv3",
+        "durationMs": 228986,
+        "playedAt": "2026-11-01T05:10:22.466Z"
       },
       {
-        "id": "3i4xZSH1kTLE22TUvUFMYo",
-        "title": "Emergency",
-        "artist": "Paramore",
-        "album": "All We Know Is Falling",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
-        "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo",
-        "durationMs": 240040,
-        "playedAt": "2026-10-29T20:27:35.135Z"
+        "id": "0e7Nhkz1m36BjJxlwVUjJh",
+        "title": "Same Thing We Do Everyday Pinky",
+        "artist": "Broadway, Craig Owens",
+        "album": "Kingdoms",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734e6e1264e7b5ea39c7bd2310",
+        "url": "https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh",
+        "durationMs": 285226,
+        "playedAt": "2026-11-01T05:10:00.606Z"
       },
       {
-        "id": "6OyKBwLzq4h15XmxeWf5n4",
-        "title": "Cute Without The 'E' (Cut From The Team) - Remastered 2019",
-        "artist": "Taking Back Sunday",
-        "album": "Tell All Your Friends (Remastered)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731fc8bc00af1c877377d1dcf8",
-        "url": "https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4",
-        "durationMs": 212937,
-        "playedAt": "2026-10-29T20:23:34.625Z"
-      },
-      {
-        "id": "23DHUWJ7iEieNPMPKvjzBV",
-        "title": "Ohio Is For Lovers",
-        "artist": "Hawthorne Heights",
-        "album": "The Silence In Black And White (Re-Issue)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b4b59e1dd1a9c0fa4dc27c61",
-        "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV",
-        "durationMs": 244480,
-        "playedAt": "2026-10-29T20:20:01.182Z"
-      },
-      {
-        "id": "71U9X93wy4BQGyvmjFqApv",
-        "title": "Voices",
+        "id": "4amcY5vhp2Z40EhNVa2xHl",
+        "title": "It's So Simple",
         "artist": "Saosin",
         "album": "Saosin",
         "image": "https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415",
-        "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv",
-        "durationMs": 217524,
-        "playedAt": "2026-10-29T20:15:56.194Z"
+        "url": "https://open.spotify.com/track/4amcY5vhp2Z40EhNVa2xHl",
+        "durationMs": 168773,
+        "playedAt": "2026-10-31T21:11:10.144Z"
+      },
+      {
+        "id": "7zVv1G1EB8k7BbrTF6f2SQ",
+        "title": "Walls",
+        "artist": "Emery",
+        "album": "The Weak's End",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b07cdbd49eeb3a820646bc5b",
+        "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ",
+        "durationMs": 203706,
+        "playedAt": "2026-10-31T21:08:20.841Z"
+      },
+      {
+        "id": "2Kl16QuHGGiK7Je4VGzQIt",
+        "title": "The Transition",
+        "artist": "Hawthorne Heights",
+        "album": "The Silence In Black And White (Re-Issue)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b4b59e1dd1a9c0fa4dc27c61",
+        "url": "https://open.spotify.com/track/2Kl16QuHGGiK7Je4VGzQIt",
+        "durationMs": 244706,
+        "playedAt": "2026-10-31T21:04:56.619Z"
       }
     ],
     "observed": {
@@ -3424,7 +3424,7 @@
         },
         {
           "month": "2026-10",
-          "plays": 549,
+          "plays": 556,
           "artists": [
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -3442,7 +3442,7 @@
               "id": "1NUOfvAhA9AvsF1ISMkgHX",
               "name": "Saosin",
               "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
-              "plays": 16
+              "plays": 17
             },
             {
               "id": "0Fvioi4bZVGbxPu7H2sowS",
@@ -3454,7 +3454,7 @@
               "id": "14NIQxiBiZtbmZMXUwS6KD",
               "name": "Dead Poetic",
               "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "11FY888Qctoy6YueCpFkXT",
@@ -3466,13 +3466,13 @@
               "id": "2MHDadaguMvdlKiOFMP4B5",
               "name": "Broadway",
               "url": "https://open.spotify.com/artist/2MHDadaguMvdlKiOFMP4B5",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5aYf0AInMznHfXGaemKEBv",
               "name": "Craig Owens",
               "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "7t2C8WwLyKUKRe0LVh8zl9",
@@ -3574,7 +3574,7 @@
               "id": "68tKVjVvcqUfKFFLr2j0Ek",
               "name": "Emarosa",
               "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5ojhEavq6altxW8fWIlLum",
@@ -3628,7 +3628,7 @@
               "id": "24XtlMhEMNdi822vi0MhY1",
               "name": "Taking Back Sunday",
               "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
-              "plays": 19
+              "plays": 20
             },
             {
               "id": "5n71fmAB8Un2IfAPn64erN",
@@ -3652,13 +3652,13 @@
               "id": "4feAxLUxIU7G4KXhH0h2ni",
               "name": "Emery",
               "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "126FigDBtqwS2YsOYMTPQe",
               "name": "Hawthorne Heights",
               "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "3N8Hy6xQnQv1F1XCiyGQqA",
@@ -4588,7 +4588,7 @@
               "artist": "Dead Poetic",
               "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg",
               "image": "https://i.scdn.co/image/ab67616d0000b2733b882ec6465c6f88d8093a34",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "1bujdcYDzWPyJHUiL6PXul",
@@ -4604,7 +4604,7 @@
               "artist": "Broadway, Craig Owens",
               "url": "https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh",
               "image": "https://i.scdn.co/image/ab67616d0000b2734e6e1264e7b5ea39c7bd2310",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4qsWwHVBWmAEV0509TBVZI",
@@ -4908,7 +4908,7 @@
               "artist": "Emarosa",
               "url": "https://open.spotify.com/track/1WPoATdYDxAmso3K6OpsaY",
               "image": "https://i.scdn.co/image/ab67616d0000b2730e28419ec0d1051e7d4f97fc",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "40WWeoX26jtsfdmFx5iRty",
@@ -5244,7 +5244,7 @@
               "artist": "Taking Back Sunday",
               "url": "https://open.spotify.com/track/1JFPraHovseDzutd6BOIry",
               "image": "https://i.scdn.co/image/ab67616d0000b2731fc8bc00af1c877377d1dcf8",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "6rOx8Ymk3bv7k7DBcxqjwp",
@@ -7773,26 +7773,140 @@
               "url": "https://open.spotify.com/track/2gBSMgQb1o3wKwdAPAtX9C",
               "image": "https://i.scdn.co/image/ab6742d3000053b7aeda81d778a171a8e09de0c7",
               "plays": 1
+            },
+            {
+              "id": "4amcY5vhp2Z40EhNVa2xHl",
+              "title": "It's So Simple",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/4amcY5vhp2Z40EhNVa2xHl",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415",
+              "plays": 1
+            },
+            {
+              "id": "7zVv1G1EB8k7BbrTF6f2SQ",
+              "title": "Walls",
+              "artist": "Emery",
+              "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b07cdbd49eeb3a820646bc5b",
+              "plays": 1
+            },
+            {
+              "id": "2Kl16QuHGGiK7Je4VGzQIt",
+              "title": "The Transition",
+              "artist": "Hawthorne Heights",
+              "url": "https://open.spotify.com/track/2Kl16QuHGGiK7Je4VGzQIt",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4b59e1dd1a9c0fa4dc27c61",
+              "plays": 1
+            }
+          ]
+        },
+        {
+          "month": "2026-11",
+          "plays": 5,
+          "artists": [
+            {
+              "id": "6g40AmE4t6z5wPuFbytdsy",
+              "name": "AMARA ctk100",
+              "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy",
+              "plays": 1
+            },
+            {
+              "id": "69UVGTxhvI9zrl4tVafMgC",
+              "name": "DBBD",
+              "url": "https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC",
+              "plays": 1
+            },
+            {
+              "id": "3V3EAJjX9EmvSsjm79J32j",
+              "name": "Reysha Rami",
+              "url": "https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j",
+              "plays": 1
+            },
+            {
+              "id": "3WGpXCj9YhhfX11TToZcXP",
+              "name": "Troye Sivan",
+              "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP",
+              "plays": 1
+            },
+            {
+              "id": "68tKVjVvcqUfKFFLr2j0Ek",
+              "name": "Emarosa",
+              "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek",
+              "plays": 1
+            },
+            {
+              "id": "2MHDadaguMvdlKiOFMP4B5",
+              "name": "Broadway",
+              "url": "https://open.spotify.com/artist/2MHDadaguMvdlKiOFMP4B5",
+              "plays": 1
+            },
+            {
+              "id": "5aYf0AInMznHfXGaemKEBv",
+              "name": "Craig Owens",
+              "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv",
+              "plays": 1
+            }
+          ],
+          "tracks": [
+            {
+              "id": "6zpSvSBqQL8u3RS4mUYfEd",
+              "title": "evil cute angel bb",
+              "artist": "AMARA ctk100, DBBD",
+              "url": "https://open.spotify.com/track/6zpSvSBqQL8u3RS4mUYfEd",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c95e701ea45e0e08aba96ff3",
+              "plays": 1
+            },
+            {
+              "id": "4cBEjZhCBgXf2ZKmPb84be",
+              "title": "black0ut",
+              "artist": "Reysha Rami",
+              "url": "https://open.spotify.com/track/4cBEjZhCBgXf2ZKmPb84be",
+              "image": "https://i.scdn.co/image/ab67616d0000b273242f9bb1dc0931917ca854f3",
+              "plays": 1
+            },
+            {
+              "id": "3OEhcaHabVo4Oc2fdMb6DO",
+              "title": "Party",
+              "artist": "Troye Sivan",
+              "url": "https://open.spotify.com/track/3OEhcaHabVo4Oc2fdMb6DO",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734dae177fcfce289edd39bed2",
+              "plays": 1
+            },
+            {
+              "id": "16avQsEDeyH5poyoJ2hyv3",
+              "title": "A Toast to the future kids!",
+              "artist": "Emarosa",
+              "url": "https://open.spotify.com/track/16avQsEDeyH5poyoJ2hyv3",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733b9e750154f65cb27e515605",
+              "plays": 1
+            },
+            {
+              "id": "0e7Nhkz1m36BjJxlwVUjJh",
+              "title": "Same Thing We Do Everyday Pinky",
+              "artist": "Broadway, Craig Owens",
+              "url": "https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734e6e1264e7b5ea39c7bd2310",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-10-30T22:43:36.603Z",
+      "lastPlayedAt": "2026-11-01T17:16:55.291Z",
       "lastKeys": [
-        "[1793400216603,\"5heRy6IDNiQXDJf1tZ6SUc\"]"
+        "[1793553415291,\"6zpSvSBqQL8u3RS4mUYfEd\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-10-30T22:43:36.603Z"
+      "through": "2026-11-01T17:16:55.291Z"
     },
     "status": "ok",
-    "checkedAt": "2026-10-31T17:15:15.956Z",
-    "updatedAt": "2026-10-31T17:15:15.956Z"
+    "checkedAt": "2026-11-01T17:56:12.814Z",
+    "updatedAt": "2026-11-01T17:56:12.814Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-10-31T17:15:15.956Z",
-    "updatedAt": "2026-10-31T17:15:15.956Z"
+    "checkedAt": "2026-11-01T17:56:12.814Z",
+    "updatedAt": "2026-11-01T17:56:12.814Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -7802,156 +7916,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-10-31T17:15:19.283Z",
+    "snapshotAt": "2026-11-01T17:56:15.441Z",
     "skills": [
       {
         "key": "overall",
         "value": 1783,
-        "rank": 183904,
-        "xp": 35559212
+        "rank": 183984,
+        "xp": 35644646
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 236567,
-        "xp": 1151060
+        "rank": 236635,
+        "xp": 1152532
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 196908,
-        "xp": 1306461
+        "rank": 196597,
+        "xp": 1317473
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 231315,
+        "rank": 231417,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 211556,
-        "xp": 3066605
+        "rank": 211119,
+        "xp": 3088926
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 222688,
-        "xp": 1691882
+        "rank": 221993,
+        "xp": 1713365
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 175431,
+        "rank": 175518,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 173615,
-        "xp": 3310718
+        "rank": 173351,
+        "xp": 3326504
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 258533,
-        "xp": 869352
+        "rank": 258060,
+        "xp": 873057
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 276573,
-        "xp": 871571
+        "rank": 276551,
+        "xp": 872341
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 259763,
+        "rank": 259881,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294428,
-        "xp": 840952
+        "rank": 294164,
+        "xp": 843062
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198635,
+        "rank": 198694,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 215197,
-        "xp": 923668
+        "rank": 215096,
+        "xp": 926503
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191066,
-        "xp": 941665
+        "rank": 190890,
+        "xp": 944500
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 271749,
-        "xp": 940473
+        "rank": 271757,
+        "xp": 941263
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 179860,
-        "xp": 881814
+        "rank": 179932,
+        "xp": 882034
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162407,
+        "rank": 162484,
         "xp": 1439090
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 240984,
+        "rank": 241069,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 210652,
+        "rank": 210742,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 178549,
-        "xp": 2023697
+        "rank": 178608,
+        "xp": 2023792
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 151607,
+        "rank": 151675,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 236167,
+        "rank": 236262,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 161908,
+        "rank": 161985,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 93888,
+        "rank": 94013,
         "xp": 430576
       }
     ],
@@ -7964,27 +8078,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144072
+        "rank": 144131
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55017
+        "rank": 55100
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82291
+        "rank": 82345
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90588
+        "rank": 90627
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60026
+        "rank": 60062
       },
       {
         "key": "giant_mole",
@@ -7994,17 +8108,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139593
+        "rank": 139638
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92007
+        "rank": 92091
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 34960
+        "rank": 35099
       },
       {
         "key": "obor",
@@ -8014,12 +8128,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80538
+        "rank": 80589
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108801
+        "rank": 108844
       },
       {
         "key": "the_gauntlet",
@@ -8028,13 +8142,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 142,
-        "rank": 87454
+        "value": 149,
+        "rank": 86659
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 105940
+        "rank": 106053
       },
       {
         "key": "tztok_jad",
@@ -8044,12 +8158,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165162
+        "rank": 165202
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50236
+        "rank": 50257
       }
     ],
     "activities": [
@@ -8066,27 +8180,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160229
+        "rank": 160285
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93018
+        "rank": 93060
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117502
+        "rank": 117522
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151083
+        "rank": 151130
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163627
+        "rank": 163680
       },
       {
         "key": "clue_scrolls_elite",
@@ -8101,7 +8215,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82409
+        "rank": 82414
       },
       {
         "key": "pvp_arena",
@@ -8116,7 +8230,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 118585
+        "rank": 118660
       },
       {
         "key": "colosseum_glory",
@@ -8130,15 +8244,15 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-10-31T17:15:15.956Z",
-    "updatedAt": "2026-10-31T17:15:15.956Z"
+    "checkedAt": "2026-11-01T17:56:12.814Z",
+    "updatedAt": "2026-11-01T17:56:12.814Z"
   },
   "collectionLog": {
     "username": "Nonduality",
     "availability": "synced",
     "obtained": 189,
     "available": 1734,
-    "syncedAt": "2026-10-21 22:55:04",
+    "syncedAt": "2026-10-31 20:47:20",
     "items": [
       {
         "id": 29895,
@@ -8218,12 +8332,12 @@
       {
         "id": 23956,
         "name": "Crystal armour seed",
-        "count": 2
+        "count": 3
       },
       {
         "id": 4207,
         "name": "Crystal weapon seed",
-        "count": 2
+        "count": 3
       },
       {
         "id": 23859,
@@ -9088,7 +9202,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-10-31T17:15:15.956Z",
-    "updatedAt": "2026-10-31T17:15:15.956Z"
+    "checkedAt": "2026-11-01T17:56:12.814Z",
+    "updatedAt": "2026-11-01T17:56:12.814Z"
   }
 }
