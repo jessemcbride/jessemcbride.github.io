@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T17:56:12.814Z",
+  "generatedAt": "2026-11-02T21:43:26.085Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "6zpSvSBqQL8u3RS4mUYfEd",
-        "title": "evil cute angel bb",
-        "artist": "AMARA ctk100, DBBD",
-        "album": "evil cute angel bb",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c95e701ea45e0e08aba96ff3",
-        "url": "https://open.spotify.com/track/6zpSvSBqQL8u3RS4mUYfEd",
-        "durationMs": 203089,
-        "playedAt": "2026-11-01T17:16:55.291Z"
+        "id": "4Ze7DFjyVa0smRqY2Fxcnz",
+        "title": "I Want You (Fever)",
+        "artist": "Momma",
+        "album": "Welcome to My Blue Sky",
+        "image": "https://i.scdn.co/image/ab67616d0000b27362a6c3654e1aebedfda776ec",
+        "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz",
+        "durationMs": 217249,
+        "playedAt": "2026-11-02T17:33:49.475Z"
       },
       {
-        "id": "4cBEjZhCBgXf2ZKmPb84be",
-        "title": "black0ut",
-        "artist": "Reysha Rami",
-        "album": "black0ut",
-        "image": "https://i.scdn.co/image/ab67616d0000b273242f9bb1dc0931917ca854f3",
-        "url": "https://open.spotify.com/track/4cBEjZhCBgXf2ZKmPb84be",
-        "durationMs": 116280,
-        "playedAt": "2026-11-01T05:15:40.078Z"
+        "id": "0rLtUuQgwIlw6vv2eqHKdt",
+        "title": "BEAT UP CHANEL$",
+        "artist": "Slayyyter",
+        "album": "WOR$T GIRL IN AMERICA",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+        "url": "https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt",
+        "durationMs": 198937,
+        "playedAt": "2026-11-02T17:30:11.744Z"
       },
       {
-        "id": "3OEhcaHabVo4Oc2fdMb6DO",
-        "title": "Party",
-        "artist": "Troye Sivan",
-        "album": "She’s the Best",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734dae177fcfce289edd39bed2",
-        "url": "https://open.spotify.com/track/3OEhcaHabVo4Oc2fdMb6DO",
-        "durationMs": 201331,
-        "playedAt": "2026-11-01T05:13:43.280Z"
+        "id": "3XmwAZpIMNpTJy8faw3ajD",
+        "title": "expectations (feat. Chappell Roan)",
+        "artist": "Olivia Rodrigo, Chappell Roan",
+        "album": "expectations (feat. Chappell Roan)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273706ab55cf3e8cb64efb0ccba",
+        "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD",
+        "durationMs": 223935,
+        "playedAt": "2026-11-02T17:26:52.348Z"
       },
       {
-        "id": "16avQsEDeyH5poyoJ2hyv3",
-        "title": "A Toast to the future kids!",
-        "artist": "Emarosa",
-        "album": "Emarosa",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b9e750154f65cb27e515605",
-        "url": "https://open.spotify.com/track/16avQsEDeyH5poyoJ2hyv3",
-        "durationMs": 228986,
-        "playedAt": "2026-11-01T05:10:22.466Z"
+        "id": "2SXqiLAwgmCpyrftaz1YgW",
+        "title": "Ego Death At A Bachelorette Party",
+        "artist": "Hayley Williams",
+        "album": "Ego Death At A Bachelorette Party",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+        "url": "https://open.spotify.com/track/2SXqiLAwgmCpyrftaz1YgW",
+        "durationMs": 199221,
+        "playedAt": "2026-11-02T15:30:22.089Z"
       },
       {
-        "id": "0e7Nhkz1m36BjJxlwVUjJh",
-        "title": "Same Thing We Do Everyday Pinky",
-        "artist": "Broadway, Craig Owens",
-        "album": "Kingdoms",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734e6e1264e7b5ea39c7bd2310",
-        "url": "https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh",
-        "durationMs": 285226,
-        "playedAt": "2026-11-01T05:10:00.606Z"
+        "id": "1j8z4TTjJ1YOdoFEDwJTQa",
+        "title": "Ain't It Fun",
+        "artist": "Paramore",
+        "album": "Paramore",
+        "image": "https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35",
+        "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa",
+        "durationMs": 296520,
+        "playedAt": "2026-11-02T15:15:39.966Z"
       },
       {
-        "id": "4amcY5vhp2Z40EhNVa2xHl",
-        "title": "It's So Simple",
-        "artist": "Saosin",
-        "album": "Saosin",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415",
-        "url": "https://open.spotify.com/track/4amcY5vhp2Z40EhNVa2xHl",
-        "durationMs": 168773,
-        "playedAt": "2026-10-31T21:11:10.144Z"
+        "id": "2Tz12z52Mc7WVg3iwFBLOy",
+        "title": "My Darkest Hour",
+        "artist": "Scary Kids Scaring Kids",
+        "album": "The City Sleeps in Flames",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a1934aee99d679b992ef9aef",
+        "url": "https://open.spotify.com/track/2Tz12z52Mc7WVg3iwFBLOy",
+        "durationMs": 209722,
+        "playedAt": "2026-11-02T14:04:24.666Z"
       },
       {
-        "id": "7zVv1G1EB8k7BbrTF6f2SQ",
-        "title": "Walls",
-        "artist": "Emery",
-        "album": "The Weak's End",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b07cdbd49eeb3a820646bc5b",
-        "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ",
-        "durationMs": 203706,
-        "playedAt": "2026-10-31T21:08:20.841Z"
+        "id": "2VFxYVlUzDQQrf9ZLDXUIn",
+        "title": "Dear Child (I've Been Dying to Reach You)",
+        "artist": "Anthony Green",
+        "album": "Avalon",
+        "image": "https://i.scdn.co/image/ab67616d0000b27354ac46aa0c503e4df29a2f9d",
+        "url": "https://open.spotify.com/track/2VFxYVlUzDQQrf9ZLDXUIn",
+        "durationMs": 203200,
+        "playedAt": "2026-11-02T14:04:20.634Z"
       },
       {
-        "id": "2Kl16QuHGGiK7Je4VGzQIt",
-        "title": "The Transition",
-        "artist": "Hawthorne Heights",
-        "album": "The Silence In Black And White (Re-Issue)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b4b59e1dd1a9c0fa4dc27c61",
-        "url": "https://open.spotify.com/track/2Kl16QuHGGiK7Je4VGzQIt",
-        "durationMs": 244706,
-        "playedAt": "2026-10-31T21:04:56.619Z"
+        "id": "6Tpzzp6BI0oQiHChWO4wH0",
+        "title": "Frozen Creek",
+        "artist": "Circa Survive",
+        "album": "Blue Sky Noise (Deluxe - Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b0e95766fd5da135278b12d2",
+        "url": "https://open.spotify.com/track/6Tpzzp6BI0oQiHChWO4wH0",
+        "durationMs": 300013,
+        "playedAt": "2026-11-02T03:47:13.378Z"
       }
     ],
     "observed": {
@@ -7802,19 +7802,19 @@
         },
         {
           "month": "2026-11",
-          "plays": 5,
+          "plays": 33,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
               "name": "AMARA ctk100",
               "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "69UVGTxhvI9zrl4tVafMgC",
               "name": "DBBD",
               "url": "https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3V3EAJjX9EmvSsjm79J32j",
@@ -7845,6 +7845,108 @@
               "name": "Craig Owens",
               "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv",
               "plays": 1
+            },
+            {
+              "id": "5Wj0an60VgRckYV9zlDe1e",
+              "name": "Momma",
+              "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e",
+              "plays": 1
+            },
+            {
+              "id": "4QM5QCHicznALtX885CnZC",
+              "name": "Slayyyter",
+              "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
+              "plays": 1
+            },
+            {
+              "id": "1McMsnEElThX1knmY4oliG",
+              "name": "Olivia Rodrigo",
+              "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
+              "plays": 1
+            },
+            {
+              "id": "7GlBOeep6PqTfFi59PTUUN",
+              "name": "Chappell Roan",
+              "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN",
+              "plays": 1
+            },
+            {
+              "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+              "name": "Hayley Williams",
+              "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM",
+              "plays": 1
+            },
+            {
+              "id": "74XFHRwlV6OrjEM0A2NCMF",
+              "name": "Paramore",
+              "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
+              "plays": 1
+            },
+            {
+              "id": "3cdos5vq3wSUR8mEvMiqq9",
+              "name": "Scary Kids Scaring Kids",
+              "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9",
+              "plays": 2
+            },
+            {
+              "id": "0hxmHf6CqXsOLWgGXjmr7I",
+              "name": "Anthony Green",
+              "url": "https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I",
+              "plays": 3
+            },
+            {
+              "id": "11FY888Qctoy6YueCpFkXT",
+              "name": "Circa Survive",
+              "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT",
+              "plays": 1
+            },
+            {
+              "id": "5X09SRt3qx77eh0XRreLjr",
+              "name": "The Almost",
+              "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr",
+              "plays": 1
+            },
+            {
+              "id": "1NUOfvAhA9AvsF1ISMkgHX",
+              "name": "Saosin",
+              "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
+              "plays": 1
+            },
+            {
+              "id": "3Ayl7mCk0nScecqOzvNp6s",
+              "name": "Jimmy Eat World",
+              "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s",
+              "plays": 1
+            },
+            {
+              "id": "24XtlMhEMNdi822vi0MhY1",
+              "name": "Taking Back Sunday",
+              "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
+              "plays": 3
+            },
+            {
+              "id": "1Tsag5J854qxeOo2apszug",
+              "name": "Silverstein",
+              "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug",
+              "plays": 1
+            },
+            {
+              "id": "3zxKH0qp3nBCuPZCZT5Vaf",
+              "name": "Yellowcard",
+              "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf",
+              "plays": 1
+            },
+            {
+              "id": "4AP5EFbVVcBv8cfyqO0oqr",
+              "name": "Allison",
+              "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr",
+              "plays": 1
+            },
+            {
+              "id": "4feAxLUxIU7G4KXhH0h2ni",
+              "name": "Emery",
+              "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni",
+              "plays": 8
             }
           ],
           "tracks": [
@@ -7854,7 +7956,7 @@
               "artist": "AMARA ctk100, DBBD",
               "url": "https://open.spotify.com/track/6zpSvSBqQL8u3RS4mUYfEd",
               "image": "https://i.scdn.co/image/ab67616d0000b273c95e701ea45e0e08aba96ff3",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4cBEjZhCBgXf2ZKmPb84be",
@@ -7887,26 +7989,226 @@
               "url": "https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh",
               "image": "https://i.scdn.co/image/ab67616d0000b2734e6e1264e7b5ea39c7bd2310",
               "plays": 1
+            },
+            {
+              "id": "4Ze7DFjyVa0smRqY2Fxcnz",
+              "title": "I Want You (Fever)",
+              "artist": "Momma",
+              "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz",
+              "image": "https://i.scdn.co/image/ab67616d0000b27362a6c3654e1aebedfda776ec",
+              "plays": 1
+            },
+            {
+              "id": "0rLtUuQgwIlw6vv2eqHKdt",
+              "title": "BEAT UP CHANEL$",
+              "artist": "Slayyyter",
+              "url": "https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+              "plays": 1
+            },
+            {
+              "id": "3XmwAZpIMNpTJy8faw3ajD",
+              "title": "expectations (feat. Chappell Roan)",
+              "artist": "Olivia Rodrigo, Chappell Roan",
+              "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD",
+              "image": "https://i.scdn.co/image/ab67616d0000b273706ab55cf3e8cb64efb0ccba",
+              "plays": 1
+            },
+            {
+              "id": "2SXqiLAwgmCpyrftaz1YgW",
+              "title": "Ego Death At A Bachelorette Party",
+              "artist": "Hayley Williams",
+              "url": "https://open.spotify.com/track/2SXqiLAwgmCpyrftaz1YgW",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+              "plays": 1
+            },
+            {
+              "id": "1j8z4TTjJ1YOdoFEDwJTQa",
+              "title": "Ain't It Fun",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa",
+              "image": "https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35",
+              "plays": 1
+            },
+            {
+              "id": "2Tz12z52Mc7WVg3iwFBLOy",
+              "title": "My Darkest Hour",
+              "artist": "Scary Kids Scaring Kids",
+              "url": "https://open.spotify.com/track/2Tz12z52Mc7WVg3iwFBLOy",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a1934aee99d679b992ef9aef",
+              "plays": 1
+            },
+            {
+              "id": "2VFxYVlUzDQQrf9ZLDXUIn",
+              "title": "Dear Child (I've Been Dying to Reach You)",
+              "artist": "Anthony Green",
+              "url": "https://open.spotify.com/track/2VFxYVlUzDQQrf9ZLDXUIn",
+              "image": "https://i.scdn.co/image/ab67616d0000b27354ac46aa0c503e4df29a2f9d",
+              "plays": 3
+            },
+            {
+              "id": "6Tpzzp6BI0oQiHChWO4wH0",
+              "title": "Frozen Creek",
+              "artist": "Circa Survive",
+              "url": "https://open.spotify.com/track/6Tpzzp6BI0oQiHChWO4wH0",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b0e95766fd5da135278b12d2",
+              "plays": 1
+            },
+            {
+              "id": "3TQGvFALZaFeNS9D9WqG9M",
+              "title": "Drive There Now!",
+              "artist": "The Almost",
+              "url": "https://open.spotify.com/track/3TQGvFALZaFeNS9D9WqG9M",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bbea91e43ddcf4173b840e9b",
+              "plays": 1
+            },
+            {
+              "id": "663XpYXOdyF2zv4bTIXffh",
+              "title": "Bury Your Head",
+              "artist": "Saosin",
+              "url": "https://open.spotify.com/track/663XpYXOdyF2zv4bTIXffh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415",
+              "plays": 1
+            },
+            {
+              "id": "429IbFR4yp2J81CeTwF5iY",
+              "title": "Sweetness",
+              "artist": "Jimmy Eat World",
+              "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY",
+              "image": "https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6",
+              "plays": 1
+            },
+            {
+              "id": "33n3pRhzyat73ZGUzluZjx",
+              "title": "Set Phasers To Stun",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
+              "plays": 1
+            },
+            {
+              "id": "29dljceloiAgAeARUwZ3QC",
+              "title": "Smile In Your Sleep",
+              "artist": "Silverstein",
+              "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC",
+              "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+              "plays": 1
+            },
+            {
+              "id": "4D8v4RhujyyHDDyj9MKtrf",
+              "title": "Star Crossed",
+              "artist": "Scary Kids Scaring Kids",
+              "url": "https://open.spotify.com/track/4D8v4RhujyyHDDyj9MKtrf",
+              "image": "https://i.scdn.co/image/ab67616d0000b27318c2d8df739d22fe238ba669",
+              "plays": 1
+            },
+            {
+              "id": "23oxJmDc1V9uLUSmN2LIvx",
+              "title": "Ocean Avenue",
+              "artist": "Yellowcard",
+              "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d1fd8f264564d9eef7617a45",
+              "plays": 1
+            },
+            {
+              "id": "6fTgbkBiMITtHUmik95ClX",
+              "title": "MakeDamnSure",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cf43956aaef45eb4b1283e5a",
+              "plays": 1
+            },
+            {
+              "id": "6um5ccNzX7k3SRsVnLupvI",
+              "title": "A Decade Under The Influence",
+              "artist": "Taking Back Sunday",
+              "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
+              "plays": 1
+            },
+            {
+              "id": "0QBxzyoPcjNJxs7D3ve1PZ",
+              "title": "On my own",
+              "artist": "Allison, Emery",
+              "url": "https://open.spotify.com/track/0QBxzyoPcjNJxs7D3ve1PZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a5bffc7ce38cc228ce8b5ffb",
+              "plays": 1
+            },
+            {
+              "id": "0hgrzjVarvtsV8WCo7dgck",
+              "title": "In Shallow Seas We Sail",
+              "artist": "Emery",
+              "url": "https://open.spotify.com/track/0hgrzjVarvtsV8WCo7dgck",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e1914997dde99b3628b5b72b",
+              "plays": 1
+            },
+            {
+              "id": "32tkP0IY9VvUTwODm1x6JS",
+              "title": "Churches And Serial Killers",
+              "artist": "Emery",
+              "url": "https://open.spotify.com/track/32tkP0IY9VvUTwODm1x6JS",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e1914997dde99b3628b5b72b",
+              "plays": 1
+            },
+            {
+              "id": "4IYJ0fEY4zoetmq1jVyiud",
+              "title": "The Party Song",
+              "artist": "Emery",
+              "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733203d901913115172579298e",
+              "plays": 1
+            },
+            {
+              "id": "6R3hFLF5jJC7ddCltVbgQz",
+              "title": "So Cold I Could See My Breath",
+              "artist": "Emery",
+              "url": "https://open.spotify.com/track/6R3hFLF5jJC7ddCltVbgQz",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c3f775ff365006607d11d8c5",
+              "plays": 1
+            },
+            {
+              "id": "4spLHbGjPMmG6d3dltqKoT",
+              "title": "The Ponytail Parades",
+              "artist": "Emery",
+              "url": "https://open.spotify.com/track/4spLHbGjPMmG6d3dltqKoT",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b07cdbd49eeb3a820646bc5b",
+              "plays": 1
+            },
+            {
+              "id": "69YAlTHsJSww392VeNOa7Z",
+              "title": "Studying Politics",
+              "artist": "Emery",
+              "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c3f775ff365006607d11d8c5",
+              "plays": 1
+            },
+            {
+              "id": "7zVv1G1EB8k7BbrTF6f2SQ",
+              "title": "Walls",
+              "artist": "Emery",
+              "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b07cdbd49eeb3a820646bc5b",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-01T17:16:55.291Z",
+      "lastPlayedAt": "2026-11-02T17:33:49.475Z",
       "lastKeys": [
-        "[1793553415291,\"6zpSvSBqQL8u3RS4mUYfEd\"]"
+        "[1793640829475,\"4Ze7DFjyVa0smRqY2Fxcnz\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-01T17:16:55.291Z"
+      "through": "2026-11-02T17:33:49.475Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-01T17:56:12.814Z",
-    "updatedAt": "2026-11-01T17:56:12.814Z"
+    "checkedAt": "2026-11-02T21:43:26.085Z",
+    "updatedAt": "2026-11-02T21:43:26.085Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-01T17:56:12.814Z",
-    "updatedAt": "2026-11-01T17:56:12.814Z"
+    "checkedAt": "2026-11-02T21:43:26.085Z",
+    "updatedAt": "2026-11-02T21:43:26.085Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -7916,156 +8218,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-01T17:56:15.441Z",
+    "snapshotAt": "2026-11-02T21:43:27.431Z",
     "skills": [
       {
         "key": "overall",
         "value": 1783,
-        "rank": 183984,
-        "xp": 35644646
+        "rank": 184089,
+        "xp": 35653970
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 236635,
-        "xp": 1152532
+        "rank": 236745,
+        "xp": 1152820
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 196597,
-        "xp": 1317473
+        "rank": 196669,
+        "xp": 1318684
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 231417,
+        "rank": 231545,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 211119,
-        "xp": 3088926
+        "rank": 211174,
+        "xp": 3091413
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 221993,
-        "xp": 1713365
+        "rank": 222051,
+        "xp": 1715696
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 175518,
+        "rank": 175649,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 173351,
-        "xp": 3326504
+        "rank": 173391,
+        "xp": 3328355
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 258060,
-        "xp": 873057
+        "rank": 258118,
+        "xp": 873372
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 276551,
-        "xp": 872341
+        "rank": 276661,
+        "xp": 872411
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 259881,
+        "rank": 260005,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294164,
-        "xp": 843062
+        "rank": 294226,
+        "xp": 843262
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198694,
+        "rank": 198746,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 215096,
-        "xp": 926503
+        "rank": 215186,
+        "xp": 926738
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190890,
-        "xp": 944500
+        "rank": 190992,
+        "xp": 944735
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 271757,
-        "xp": 941263
+        "rank": 271885,
+        "xp": 941333
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 179932,
-        "xp": 882034
+        "rank": 180006,
+        "xp": 882054
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162484,
+        "rank": 162555,
         "xp": 1439090
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 241069,
+        "rank": 241160,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 210742,
+        "rank": 210865,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 178608,
-        "xp": 2023792
+        "rank": 178694,
+        "xp": 2023803
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 151675,
+        "rank": 151765,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 236262,
+        "rank": 236376,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 161985,
+        "rank": 162082,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 94013,
+        "rank": 94194,
         "xp": 430576
       }
     ],
@@ -8078,27 +8380,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144131
+        "rank": 144206
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55100
+        "rank": 55183
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82345
+        "rank": 82396
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90627
+        "rank": 90670
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60062
+        "rank": 60095
       },
       {
         "key": "giant_mole",
@@ -8108,17 +8410,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139638
+        "rank": 139714
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92091
+        "rank": 92188
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 35099
+        "rank": 35279
       },
       {
         "key": "obor",
@@ -8128,12 +8430,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80589
+        "rank": 80643
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108844
+        "rank": 108894
       },
       {
         "key": "the_gauntlet",
@@ -8142,13 +8444,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 149,
-        "rank": 86659
+        "value": 150,
+        "rank": 86631
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 106053
+        "rank": 106159
       },
       {
         "key": "tztok_jad",
@@ -8158,12 +8460,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165202
+        "rank": 165233
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50257
+        "rank": 50278
       }
     ],
     "activities": [
@@ -8180,27 +8482,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160285
+        "rank": 160354
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93060
+        "rank": 93114
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117522
+        "rank": 117578
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151130
+        "rank": 151201
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163680
+        "rank": 163742
       },
       {
         "key": "clue_scrolls_elite",
@@ -8215,7 +8517,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82414
+        "rank": 82420
       },
       {
         "key": "pvp_arena",
@@ -8230,7 +8532,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 118660
+        "rank": 118752
       },
       {
         "key": "colosseum_glory",
@@ -8244,8 +8546,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-01T17:56:12.814Z",
-    "updatedAt": "2026-11-01T17:56:12.814Z"
+    "checkedAt": "2026-11-02T21:43:26.085Z",
+    "updatedAt": "2026-11-02T21:43:26.085Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -9202,7 +9504,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-01T17:56:12.814Z",
-    "updatedAt": "2026-11-01T17:56:12.814Z"
+    "checkedAt": "2026-11-02T21:43:26.085Z",
+    "updatedAt": "2026-11-02T21:43:26.085Z"
   }
 }
