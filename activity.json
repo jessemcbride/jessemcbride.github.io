@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T21:43:26.085Z",
+  "generatedAt": "2026-11-03T19:29:40.693Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "4Ze7DFjyVa0smRqY2Fxcnz",
-        "title": "I Want You (Fever)",
-        "artist": "Momma",
-        "album": "Welcome to My Blue Sky",
-        "image": "https://i.scdn.co/image/ab67616d0000b27362a6c3654e1aebedfda776ec",
-        "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz",
-        "durationMs": 217249,
-        "playedAt": "2026-11-02T17:33:49.475Z"
+        "id": "3MPMc2MMs0RAv0W1Z7RgXZ",
+        "title": "La Quebradora",
+        "artist": "Banda El Recodo",
+        "album": "De Mexico para el Mundo",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b87c6945bc12d86940c1b64c",
+        "url": "https://open.spotify.com/track/3MPMc2MMs0RAv0W1Z7RgXZ",
+        "durationMs": 187022,
+        "playedAt": "2026-11-03T01:52:31.271Z"
       },
       {
-        "id": "0rLtUuQgwIlw6vv2eqHKdt",
-        "title": "BEAT UP CHANEL$",
-        "artist": "Slayyyter",
-        "album": "WOR$T GIRL IN AMERICA",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
-        "url": "https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt",
-        "durationMs": 198937,
-        "playedAt": "2026-11-02T17:30:11.744Z"
+        "id": "1YsTvffZ63Yo1eHkajbeQF",
+        "title": "Alma Enamorada",
+        "artist": "Chalino Sanchez, Los Amables Del Norte",
+        "album": "15 Éxitos",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c449ea3ee029b6fefe3c0cac",
+        "url": "https://open.spotify.com/track/1YsTvffZ63Yo1eHkajbeQF",
+        "durationMs": 175891,
+        "playedAt": "2026-11-03T01:49:23.710Z"
       },
       {
-        "id": "3XmwAZpIMNpTJy8faw3ajD",
-        "title": "expectations (feat. Chappell Roan)",
-        "artist": "Olivia Rodrigo, Chappell Roan",
-        "album": "expectations (feat. Chappell Roan)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273706ab55cf3e8cb64efb0ccba",
-        "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD",
-        "durationMs": 223935,
-        "playedAt": "2026-11-02T17:26:52.348Z"
+        "id": "4qXrPvpuBOAqEbZU66EQ1g",
+        "title": "Fallaste Corazón",
+        "artist": "Pedro Infante",
+        "album": "No Supe Decirte Adiós",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ec5e57cfed832a2f84ae445a",
+        "url": "https://open.spotify.com/track/4qXrPvpuBOAqEbZU66EQ1g",
+        "durationMs": 226906,
+        "playedAt": "2026-11-03T01:46:27.319Z"
       },
       {
-        "id": "2SXqiLAwgmCpyrftaz1YgW",
-        "title": "Ego Death At A Bachelorette Party",
-        "artist": "Hayley Williams",
-        "album": "Ego Death At A Bachelorette Party",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
-        "url": "https://open.spotify.com/track/2SXqiLAwgmCpyrftaz1YgW",
-        "durationMs": 199221,
-        "playedAt": "2026-11-02T15:30:22.089Z"
+        "id": "1BgEmUFCaCd7T146yi2k5M",
+        "title": "Que Nadie Sepa Mi Sufrir",
+        "artist": "Mi Sonora",
+        "album": "Sonoras Poderosas",
+        "image": "https://i.scdn.co/image/ab67616d0000b27337667aeb7700b904b46e4c7b",
+        "url": "https://open.spotify.com/track/1BgEmUFCaCd7T146yi2k5M",
+        "durationMs": 246320,
+        "playedAt": "2026-11-03T01:42:39.890Z"
       },
       {
-        "id": "1j8z4TTjJ1YOdoFEDwJTQa",
-        "title": "Ain't It Fun",
-        "artist": "Paramore",
-        "album": "Paramore",
-        "image": "https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35",
-        "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa",
-        "durationMs": 296520,
-        "playedAt": "2026-11-02T15:15:39.966Z"
+        "id": "5gUoppDphfYsIiguGr5drh",
+        "title": "Todo Me Gusta De Ti",
+        "artist": "Aaron Y Su Grupo Ilusion",
+        "album": "Destilando Amor",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730c5def2b885fc27fba831fb3",
+        "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh",
+        "durationMs": 247893,
+        "playedAt": "2026-11-03T01:38:33.096Z"
       },
       {
-        "id": "2Tz12z52Mc7WVg3iwFBLOy",
-        "title": "My Darkest Hour",
-        "artist": "Scary Kids Scaring Kids",
-        "album": "The City Sleeps in Flames",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a1934aee99d679b992ef9aef",
-        "url": "https://open.spotify.com/track/2Tz12z52Mc7WVg3iwFBLOy",
-        "durationMs": 209722,
-        "playedAt": "2026-11-02T14:04:24.666Z"
+        "id": "35oTTfHAv9WfEVjbz2TCLJ",
+        "title": "Un Poblano En Nueva York",
+        "artist": "Los Yes Yes",
+        "album": "Las Clasicas Con Los Yes Yes",
+        "image": "https://i.scdn.co/image/ab67616d0000b27369621d6e1622be49efd7542f",
+        "url": "https://open.spotify.com/track/35oTTfHAv9WfEVjbz2TCLJ",
+        "durationMs": 186840,
+        "playedAt": "2026-11-03T01:34:24.695Z"
       },
       {
-        "id": "2VFxYVlUzDQQrf9ZLDXUIn",
-        "title": "Dear Child (I've Been Dying to Reach You)",
-        "artist": "Anthony Green",
-        "album": "Avalon",
-        "image": "https://i.scdn.co/image/ab67616d0000b27354ac46aa0c503e4df29a2f9d",
-        "url": "https://open.spotify.com/track/2VFxYVlUzDQQrf9ZLDXUIn",
-        "durationMs": 203200,
-        "playedAt": "2026-11-02T14:04:20.634Z"
+        "id": "43a4fBKL1HlRPCYOsZdh3j",
+        "title": "Que Calor",
+        "artist": "Supermerk2",
+        "album": "Supermerk2 & Meta Guacha: 2x1",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730bd9b5b0e6906d71ec5ec9f5",
+        "url": "https://open.spotify.com/track/43a4fBKL1HlRPCYOsZdh3j",
+        "durationMs": 244653,
+        "playedAt": "2026-11-03T01:31:17.394Z"
       },
       {
-        "id": "6Tpzzp6BI0oQiHChWO4wH0",
-        "title": "Frozen Creek",
-        "artist": "Circa Survive",
-        "album": "Blue Sky Noise (Deluxe - Remastered)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b0e95766fd5da135278b12d2",
-        "url": "https://open.spotify.com/track/6Tpzzp6BI0oQiHChWO4wH0",
-        "durationMs": 300013,
-        "playedAt": "2026-11-02T03:47:13.378Z"
+        "id": "5TueyPDnDMPSRdQd7VYooI",
+        "title": "La Puerta Negra",
+        "artist": "Los Tigres Del Norte",
+        "album": "Gracias America Sin Fronteras",
+        "image": "https://i.scdn.co/image/ab67616d0000b273da6c344532d31965f8e01852",
+        "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI",
+        "durationMs": 203586,
+        "playedAt": "2026-11-03T01:27:12.194Z"
       }
     ],
     "observed": {
@@ -7802,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 33,
+          "plays": 49,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -7856,7 +7856,7 @@
               "id": "4QM5QCHicznALtX885CnZC",
               "name": "Slayyyter",
               "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1McMsnEElThX1knmY4oliG",
@@ -7880,7 +7880,7 @@
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -7947,6 +7947,90 @@
               "name": "Emery",
               "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni",
               "plays": 8
+            },
+            {
+              "id": "6AcOTCYBMvjKYy4zms0kaC",
+              "name": "Banda El Recodo",
+              "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC",
+              "plays": 1
+            },
+            {
+              "id": "7u9m43vPVTERaALXXOzrRq",
+              "name": "Chalino Sanchez",
+              "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq",
+              "plays": 1
+            },
+            {
+              "id": "7r1Ecc2TAxhyLeGac53N6K",
+              "name": "Los Amables Del Norte",
+              "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K",
+              "plays": 1
+            },
+            {
+              "id": "7y33enVLfDvft6HGNmcxdV",
+              "name": "Pedro Infante",
+              "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV",
+              "plays": 1
+            },
+            {
+              "id": "4jH6oqYKRbMmKlueYB2OqP",
+              "name": "Mi Sonora",
+              "url": "https://open.spotify.com/artist/4jH6oqYKRbMmKlueYB2OqP",
+              "plays": 1
+            },
+            {
+              "id": "1zVxAFV8uL5V816dzdHvYQ",
+              "name": "Aaron Y Su Grupo Ilusion",
+              "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ",
+              "plays": 1
+            },
+            {
+              "id": "6h9B8wche8pbvJ0wiWKn8q",
+              "name": "Los Yes Yes",
+              "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q",
+              "plays": 1
+            },
+            {
+              "id": "3coKfYwV0ppdzD65z1cu3i",
+              "name": "Supermerk2",
+              "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i",
+              "plays": 1
+            },
+            {
+              "id": "3hYtANQYrE6pd2PbtEyTIy",
+              "name": "Los Tigres Del Norte",
+              "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy",
+              "plays": 1
+            },
+            {
+              "id": "2EliUhznUrwHp1yJvhlHQF",
+              "name": "Grupo Soñador",
+              "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF",
+              "plays": 2
+            },
+            {
+              "id": "48zixAu4wMDZwpVbOenDU7",
+              "name": "Grupo Cañaveral De Humberto Pabón",
+              "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7",
+              "plays": 1
+            },
+            {
+              "id": "7bzt5lHL6bzLO3c9mkxNMW",
+              "name": "Los Socios Del Ritmo",
+              "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW",
+              "plays": 1
+            },
+            {
+              "id": "3YbOSxo85kla7RID8ugnW3",
+              "name": "Los Temerarios",
+              "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3",
+              "plays": 1
+            },
+            {
+              "id": "0ZCO8oVkMj897cKgFH7fRW",
+              "name": "Los Ángeles Azules",
+              "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW",
+              "plays": 1
             }
           ],
           "tracks": [
@@ -8004,7 +8088,7 @@
               "artist": "Slayyyter",
               "url": "https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt",
               "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3XmwAZpIMNpTJy8faw3ajD",
@@ -8028,7 +8112,7 @@
               "artist": "Paramore",
               "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa",
               "image": "https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "2Tz12z52Mc7WVg3iwFBLOy",
@@ -8189,26 +8273,138 @@
               "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ",
               "image": "https://i.scdn.co/image/ab67616d0000b273b07cdbd49eeb3a820646bc5b",
               "plays": 1
+            },
+            {
+              "id": "3MPMc2MMs0RAv0W1Z7RgXZ",
+              "title": "La Quebradora",
+              "artist": "Banda El Recodo",
+              "url": "https://open.spotify.com/track/3MPMc2MMs0RAv0W1Z7RgXZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b87c6945bc12d86940c1b64c",
+              "plays": 1
+            },
+            {
+              "id": "1YsTvffZ63Yo1eHkajbeQF",
+              "title": "Alma Enamorada",
+              "artist": "Chalino Sanchez, Los Amables Del Norte",
+              "url": "https://open.spotify.com/track/1YsTvffZ63Yo1eHkajbeQF",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c449ea3ee029b6fefe3c0cac",
+              "plays": 1
+            },
+            {
+              "id": "4qXrPvpuBOAqEbZU66EQ1g",
+              "title": "Fallaste Corazón",
+              "artist": "Pedro Infante",
+              "url": "https://open.spotify.com/track/4qXrPvpuBOAqEbZU66EQ1g",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ec5e57cfed832a2f84ae445a",
+              "plays": 1
+            },
+            {
+              "id": "1BgEmUFCaCd7T146yi2k5M",
+              "title": "Que Nadie Sepa Mi Sufrir",
+              "artist": "Mi Sonora",
+              "url": "https://open.spotify.com/track/1BgEmUFCaCd7T146yi2k5M",
+              "image": "https://i.scdn.co/image/ab67616d0000b27337667aeb7700b904b46e4c7b",
+              "plays": 1
+            },
+            {
+              "id": "5gUoppDphfYsIiguGr5drh",
+              "title": "Todo Me Gusta De Ti",
+              "artist": "Aaron Y Su Grupo Ilusion",
+              "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730c5def2b885fc27fba831fb3",
+              "plays": 1
+            },
+            {
+              "id": "35oTTfHAv9WfEVjbz2TCLJ",
+              "title": "Un Poblano En Nueva York",
+              "artist": "Los Yes Yes",
+              "url": "https://open.spotify.com/track/35oTTfHAv9WfEVjbz2TCLJ",
+              "image": "https://i.scdn.co/image/ab67616d0000b27369621d6e1622be49efd7542f",
+              "plays": 1
+            },
+            {
+              "id": "43a4fBKL1HlRPCYOsZdh3j",
+              "title": "Que Calor",
+              "artist": "Supermerk2",
+              "url": "https://open.spotify.com/track/43a4fBKL1HlRPCYOsZdh3j",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730bd9b5b0e6906d71ec5ec9f5",
+              "plays": 1
+            },
+            {
+              "id": "5TueyPDnDMPSRdQd7VYooI",
+              "title": "La Puerta Negra",
+              "artist": "Los Tigres Del Norte",
+              "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI",
+              "image": "https://i.scdn.co/image/ab67616d0000b273da6c344532d31965f8e01852",
+              "plays": 1
+            },
+            {
+              "id": "2J0QDG9aKp41dl3nT9d9IQ",
+              "title": "La Cumbia De La Cerveza",
+              "artist": "Grupo Soñador",
+              "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273de2cc0f6da8a19f32684c2f9",
+              "plays": 1
+            },
+            {
+              "id": "3klxazS2H1hEHq0xtUr8em",
+              "title": "Tiene Espinas el Rosal",
+              "artist": "Grupo Cañaveral De Humberto Pabón",
+              "url": "https://open.spotify.com/track/3klxazS2H1hEHq0xtUr8em",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735cd52f73f99a51c40b07a857",
+              "plays": 1
+            },
+            {
+              "id": "3P7xUFmNPIRnL9vgNa4ltr",
+              "title": "Llorar",
+              "artist": "Los Socios Del Ritmo",
+              "url": "https://open.spotify.com/track/3P7xUFmNPIRnL9vgNa4ltr",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b9499a6934b0e480037ea96d",
+              "plays": 1
+            },
+            {
+              "id": "7dWSrvzawBZPa7VVeHZBn7",
+              "title": "Tu Última Canción",
+              "artist": "Los Temerarios",
+              "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c0dc05e2947081840e461e69",
+              "plays": 1
+            },
+            {
+              "id": "51dNexiESqcJLsGLrmg1Nv",
+              "title": "Cómo Te Voy A Olvidar",
+              "artist": "Los Ángeles Azules",
+              "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736557d6aabc5a43e0b12d5e33",
+              "plays": 1
+            },
+            {
+              "id": "4HswuCNDyzUiRFfb8DH5Ub",
+              "title": "El Gigante De Hierro",
+              "artist": "Grupo Soñador",
+              "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub",
+              "image": "https://i.scdn.co/image/ab67616d0000b273de2cc0f6da8a19f32684c2f9",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-02T17:33:49.475Z",
+      "lastPlayedAt": "2026-11-03T01:52:31.271Z",
       "lastKeys": [
-        "[1793640829475,\"4Ze7DFjyVa0smRqY2Fxcnz\"]"
+        "[1793670751271,\"3MPMc2MMs0RAv0W1Z7RgXZ\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-02T17:33:49.475Z"
+      "through": "2026-11-03T01:52:31.271Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-02T21:43:26.085Z",
-    "updatedAt": "2026-11-02T21:43:26.085Z"
+    "checkedAt": "2026-11-03T19:29:40.693Z",
+    "updatedAt": "2026-11-03T19:29:40.693Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-02T21:43:26.085Z",
-    "updatedAt": "2026-11-02T21:43:26.085Z"
+    "checkedAt": "2026-11-03T19:29:40.693Z",
+    "updatedAt": "2026-11-03T19:29:40.693Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -8218,156 +8414,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-02T21:43:27.431Z",
+    "snapshotAt": "2026-11-03T19:29:41.617Z",
     "skills": [
       {
         "key": "overall",
         "value": 1783,
-        "rank": 184089,
+        "rank": 184151,
         "xp": 35653970
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 236745,
+        "rank": 236835,
         "xp": 1152820
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 196669,
+        "rank": 196752,
         "xp": 1318684
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 231545,
+        "rank": 231640,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 211174,
+        "rank": 211246,
         "xp": 3091413
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 222051,
+        "rank": 222125,
         "xp": 1715696
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 175649,
+        "rank": 175727,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 173391,
+        "rank": 173451,
         "xp": 3328355
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 258118,
+        "rank": 258199,
         "xp": 873372
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 276661,
+        "rank": 276762,
         "xp": 872411
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 260005,
+        "rank": 260097,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294226,
+        "rank": 294299,
         "xp": 843262
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198746,
+        "rank": 198791,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 215186,
+        "rank": 215271,
         "xp": 926738
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190992,
+        "rank": 191078,
         "xp": 944735
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 271885,
+        "rank": 271984,
         "xp": 941333
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 180006,
+        "rank": 180063,
         "xp": 882054
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162555,
+        "rank": 162631,
         "xp": 1439090
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 241160,
+        "rank": 241233,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 210865,
+        "rank": 210933,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 178694,
+        "rank": 178758,
         "xp": 2023803
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 151765,
+        "rank": 151830,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 236376,
+        "rank": 236463,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 162082,
+        "rank": 162157,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 94194,
+        "rank": 94299,
         "xp": 430576
       }
     ],
@@ -8380,27 +8576,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144206
+        "rank": 144262
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55183
+        "rank": 55245
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82396
+        "rank": 82445
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90670
+        "rank": 90696
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60095
+        "rank": 60116
       },
       {
         "key": "giant_mole",
@@ -8410,17 +8606,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139714
+        "rank": 139762
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92188
+        "rank": 92254
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 35279
+        "rank": 35381
       },
       {
         "key": "obor",
@@ -8430,12 +8626,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80643
+        "rank": 80687
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108894
+        "rank": 108918
       },
       {
         "key": "the_gauntlet",
@@ -8445,12 +8641,12 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 150,
-        "rank": 86631
+        "rank": 86686
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 106159
+        "rank": 106229
       },
       {
         "key": "tztok_jad",
@@ -8460,12 +8656,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165233
+        "rank": 165258
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50278
+        "rank": 50293
       }
     ],
     "activities": [
@@ -8482,27 +8678,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160354
+        "rank": 160398
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93114
+        "rank": 93145
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117578
+        "rank": 117608
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151201
+        "rank": 151248
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163742
+        "rank": 163771
       },
       {
         "key": "clue_scrolls_elite",
@@ -8517,7 +8713,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82420
+        "rank": 82422
       },
       {
         "key": "pvp_arena",
@@ -8532,7 +8728,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 118752
+        "rank": 118810
       },
       {
         "key": "colosseum_glory",
@@ -8546,8 +8742,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-02T21:43:26.085Z",
-    "updatedAt": "2026-11-02T21:43:26.085Z"
+    "checkedAt": "2026-11-03T19:29:40.693Z",
+    "updatedAt": "2026-11-03T19:29:40.693Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -9504,7 +9700,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-02T21:43:26.085Z",
-    "updatedAt": "2026-11-02T21:43:26.085Z"
+    "checkedAt": "2026-11-03T19:29:40.693Z",
+    "updatedAt": "2026-11-03T19:29:40.693Z"
   }
 }
