@@ -1,10 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T19:29:40.693Z",
+  "generatedAt": "2026-11-04T19:46:08.821Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "2bbhyUWJ5VjdfI3P4PRLu2",
+        "title": "Samson",
+        "artist": "Regina Spektor",
+        "album": "Begin to Hope (Special Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737fd2d3669c086850c0f766e8",
+        "url": "https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2",
+        "durationMs": 189506,
+        "playedAt": "2026-11-04T01:06:55.200Z"
+      },
+      {
+        "id": "5FgPwJ7Nh2FVmIXviKl2VF",
+        "title": "Make You Feel My Love",
+        "artist": "Adele",
+        "album": "19",
+        "image": "https://i.scdn.co/image/ab67616d0000b27362e62cf225b72fca8d765168",
+        "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF",
+        "durationMs": 212040,
+        "playedAt": "2026-11-04T00:07:03.840Z"
+      },
       {
         "id": "3MPMc2MMs0RAv0W1Z7RgXZ",
         "title": "La Quebradora",
@@ -64,26 +84,6 @@
         "url": "https://open.spotify.com/track/35oTTfHAv9WfEVjbz2TCLJ",
         "durationMs": 186840,
         "playedAt": "2026-11-03T01:34:24.695Z"
-      },
-      {
-        "id": "43a4fBKL1HlRPCYOsZdh3j",
-        "title": "Que Calor",
-        "artist": "Supermerk2",
-        "album": "Supermerk2 & Meta Guacha: 2x1",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730bd9b5b0e6906d71ec5ec9f5",
-        "url": "https://open.spotify.com/track/43a4fBKL1HlRPCYOsZdh3j",
-        "durationMs": 244653,
-        "playedAt": "2026-11-03T01:31:17.394Z"
-      },
-      {
-        "id": "5TueyPDnDMPSRdQd7VYooI",
-        "title": "La Puerta Negra",
-        "artist": "Los Tigres Del Norte",
-        "album": "Gracias America Sin Fronteras",
-        "image": "https://i.scdn.co/image/ab67616d0000b273da6c344532d31965f8e01852",
-        "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI",
-        "durationMs": 203586,
-        "playedAt": "2026-11-03T01:27:12.194Z"
       }
     ],
     "observed": {
@@ -7802,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 49,
+          "plays": 51,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -8030,6 +8030,18 @@
               "id": "0ZCO8oVkMj897cKgFH7fRW",
               "name": "Los Ángeles Azules",
               "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW",
+              "plays": 1
+            },
+            {
+              "id": "3z6Gk257P9jNcZbBXJNX5i",
+              "name": "Regina Spektor",
+              "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i",
+              "plays": 1
+            },
+            {
+              "id": "4dpARuHxo51G3z768sgnrY",
+              "name": "Adele",
+              "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
               "plays": 1
             }
           ],
@@ -8385,26 +8397,42 @@
               "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub",
               "image": "https://i.scdn.co/image/ab67616d0000b273de2cc0f6da8a19f32684c2f9",
               "plays": 1
+            },
+            {
+              "id": "2bbhyUWJ5VjdfI3P4PRLu2",
+              "title": "Samson",
+              "artist": "Regina Spektor",
+              "url": "https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737fd2d3669c086850c0f766e8",
+              "plays": 1
+            },
+            {
+              "id": "5FgPwJ7Nh2FVmIXviKl2VF",
+              "title": "Make You Feel My Love",
+              "artist": "Adele",
+              "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF",
+              "image": "https://i.scdn.co/image/ab67616d0000b27362e62cf225b72fca8d765168",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-03T01:52:31.271Z",
+      "lastPlayedAt": "2026-11-04T01:06:55.200Z",
       "lastKeys": [
-        "[1793670751271,\"3MPMc2MMs0RAv0W1Z7RgXZ\"]"
+        "[1793754415200,\"2bbhyUWJ5VjdfI3P4PRLu2\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-03T01:52:31.271Z"
+      "through": "2026-11-04T01:06:55.200Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-03T19:29:40.693Z",
-    "updatedAt": "2026-11-03T19:29:40.693Z"
+    "checkedAt": "2026-11-04T19:46:08.821Z",
+    "updatedAt": "2026-11-04T19:46:08.821Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-03T19:29:40.693Z",
-    "updatedAt": "2026-11-03T19:29:40.693Z"
+    "checkedAt": "2026-11-04T19:46:08.821Z",
+    "updatedAt": "2026-11-04T19:46:08.821Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -8414,156 +8442,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-03T19:29:41.617Z",
+    "snapshotAt": "2026-11-04T19:46:19.518Z",
     "skills": [
       {
         "key": "overall",
         "value": 1783,
-        "rank": 184151,
-        "xp": 35653970
+        "rank": 184197,
+        "xp": 35654041
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 236835,
+        "rank": 236872,
         "xp": 1152820
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 196752,
+        "rank": 196810,
         "xp": 1318684
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 231640,
+        "rank": 231716,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 211246,
+        "rank": 211279,
         "xp": 3091413
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 222125,
+        "rank": 222174,
         "xp": 1715696
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 175727,
+        "rank": 175768,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 173451,
-        "xp": 3328355
+        "rank": 173472,
+        "xp": 3328426
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 258199,
+        "rank": 258248,
         "xp": 873372
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 276762,
+        "rank": 276825,
         "xp": 872411
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 260097,
+        "rank": 260157,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294299,
+        "rank": 294339,
         "xp": 843262
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198791,
+        "rank": 198769,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 215271,
+        "rank": 215313,
         "xp": 926738
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191078,
+        "rank": 191121,
         "xp": 944735
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 271984,
+        "rank": 272071,
         "xp": 941333
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 180063,
+        "rank": 180075,
         "xp": 882054
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162631,
+        "rank": 162657,
         "xp": 1439090
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 241233,
+        "rank": 241277,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 210933,
+        "rank": 210950,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 178758,
+        "rank": 178784,
         "xp": 2023803
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 151830,
+        "rank": 151834,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 236463,
+        "rank": 236501,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 162157,
+        "rank": 162178,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 94299,
+        "rank": 94400,
         "xp": 430576
       }
     ],
@@ -8576,27 +8604,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144262
+        "rank": 144286
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55245
+        "rank": 55314
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82445
+        "rank": 82458
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90696
+        "rank": 90704
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60116
+        "rank": 60125
       },
       {
         "key": "giant_mole",
@@ -8606,17 +8634,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139762
+        "rank": 139806
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92254
+        "rank": 92310
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 35381
+        "rank": 35502
       },
       {
         "key": "obor",
@@ -8626,12 +8654,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80687
+        "rank": 80716
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108918
+        "rank": 108927
       },
       {
         "key": "the_gauntlet",
@@ -8641,12 +8669,12 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 150,
-        "rank": 86686
+        "rank": 86707
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 106229
+        "rank": 106282
       },
       {
         "key": "tztok_jad",
@@ -8656,12 +8684,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165258
+        "rank": 165233
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50293
+        "rank": 50299
       }
     ],
     "activities": [
@@ -8678,27 +8706,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160398
+        "rank": 160423
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93145
+        "rank": 93173
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117608
+        "rank": 117638
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151248
+        "rank": 151273
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163771
+        "rank": 163791
       },
       {
         "key": "clue_scrolls_elite",
@@ -8713,7 +8741,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82422
+        "rank": 82400
       },
       {
         "key": "pvp_arena",
@@ -8728,7 +8756,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 118810
+        "rank": 118798
       },
       {
         "key": "colosseum_glory",
@@ -8742,8 +8770,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-03T19:29:40.693Z",
-    "updatedAt": "2026-11-03T19:29:40.693Z"
+    "checkedAt": "2026-11-04T19:46:08.821Z",
+    "updatedAt": "2026-11-04T19:46:08.821Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -9700,7 +9728,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-03T19:29:40.693Z",
-    "updatedAt": "2026-11-03T19:29:40.693Z"
+    "checkedAt": "2026-11-04T19:46:08.821Z",
+    "updatedAt": "2026-11-04T19:46:08.821Z"
   }
 }
