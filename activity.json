@@ -1,10 +1,40 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T19:46:08.821Z",
+  "generatedAt": "2026-11-05T19:57:53.294Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "3i4xZSH1kTLE22TUvUFMYo",
+        "title": "Emergency",
+        "artist": "Paramore",
+        "album": "All We Know Is Falling",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+        "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo",
+        "durationMs": 240040,
+        "playedAt": "2026-11-05T18:32:18.497Z"
+      },
+      {
+        "id": "4AwgFDiynuu52p5xtpRlNG",
+        "title": "Cumbia Sampuesana",
+        "artist": "La Luz Roja De San Marcos",
+        "album": "Los Exitos Mas Calientes",
+        "image": "https://i.scdn.co/image/ab67616d0000b273140c515edf8eeee019553b7f",
+        "url": "https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG",
+        "durationMs": 233717,
+        "playedAt": "2026-11-05T17:33:12.568Z"
+      },
+      {
+        "id": "6um5ccNzX7k3SRsVnLupvI",
+        "title": "A Decade Under The Influence",
+        "artist": "Taking Back Sunday",
+        "album": "Where You Want To Be",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
+        "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI",
+        "durationMs": 247760,
+        "playedAt": "2026-11-05T17:30:37.661Z"
+      },
       {
         "id": "2bbhyUWJ5VjdfI3P4PRLu2",
         "title": "Samson",
@@ -54,36 +84,6 @@
         "url": "https://open.spotify.com/track/4qXrPvpuBOAqEbZU66EQ1g",
         "durationMs": 226906,
         "playedAt": "2026-11-03T01:46:27.319Z"
-      },
-      {
-        "id": "1BgEmUFCaCd7T146yi2k5M",
-        "title": "Que Nadie Sepa Mi Sufrir",
-        "artist": "Mi Sonora",
-        "album": "Sonoras Poderosas",
-        "image": "https://i.scdn.co/image/ab67616d0000b27337667aeb7700b904b46e4c7b",
-        "url": "https://open.spotify.com/track/1BgEmUFCaCd7T146yi2k5M",
-        "durationMs": 246320,
-        "playedAt": "2026-11-03T01:42:39.890Z"
-      },
-      {
-        "id": "5gUoppDphfYsIiguGr5drh",
-        "title": "Todo Me Gusta De Ti",
-        "artist": "Aaron Y Su Grupo Ilusion",
-        "album": "Destilando Amor",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730c5def2b885fc27fba831fb3",
-        "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh",
-        "durationMs": 247893,
-        "playedAt": "2026-11-03T01:38:33.096Z"
-      },
-      {
-        "id": "35oTTfHAv9WfEVjbz2TCLJ",
-        "title": "Un Poblano En Nueva York",
-        "artist": "Los Yes Yes",
-        "album": "Las Clasicas Con Los Yes Yes",
-        "image": "https://i.scdn.co/image/ab67616d0000b27369621d6e1622be49efd7542f",
-        "url": "https://open.spotify.com/track/35oTTfHAv9WfEVjbz2TCLJ",
-        "durationMs": 186840,
-        "playedAt": "2026-11-03T01:34:24.695Z"
       }
     ],
     "observed": {
@@ -7802,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 51,
+          "plays": 55,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -7880,7 +7880,7 @@
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -7922,7 +7922,7 @@
               "id": "24XtlMhEMNdi822vi0MhY1",
               "name": "Taking Back Sunday",
               "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
-              "plays": 3
+              "plays": 5
             },
             {
               "id": "1Tsag5J854qxeOo2apszug",
@@ -8042,6 +8042,12 @@
               "id": "4dpARuHxo51G3z768sgnrY",
               "name": "Adele",
               "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
+              "plays": 1
+            },
+            {
+              "id": "5YeFdMPC50VCSc91uYLOGb",
+              "name": "La Luz Roja De San Marcos",
+              "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb",
               "plays": 1
             }
           ],
@@ -8220,7 +8226,7 @@
               "artist": "Taking Back Sunday",
               "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI",
               "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
-              "plays": 1
+              "plays": 3
             },
             {
               "id": "0QBxzyoPcjNJxs7D3ve1PZ",
@@ -8413,26 +8419,42 @@
               "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF",
               "image": "https://i.scdn.co/image/ab67616d0000b27362e62cf225b72fca8d765168",
               "plays": 1
+            },
+            {
+              "id": "3i4xZSH1kTLE22TUvUFMYo",
+              "title": "Emergency",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+              "plays": 1
+            },
+            {
+              "id": "4AwgFDiynuu52p5xtpRlNG",
+              "title": "Cumbia Sampuesana",
+              "artist": "La Luz Roja De San Marcos",
+              "url": "https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG",
+              "image": "https://i.scdn.co/image/ab67616d0000b273140c515edf8eeee019553b7f",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-04T01:06:55.200Z",
+      "lastPlayedAt": "2026-11-05T18:32:18.497Z",
       "lastKeys": [
-        "[1793754415200,\"2bbhyUWJ5VjdfI3P4PRLu2\"]"
+        "[1793903538497,\"3i4xZSH1kTLE22TUvUFMYo\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-04T01:06:55.200Z"
+      "through": "2026-11-05T18:32:18.497Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-04T19:46:08.821Z",
-    "updatedAt": "2026-11-04T19:46:08.821Z"
+    "checkedAt": "2026-11-05T19:57:53.294Z",
+    "updatedAt": "2026-11-05T19:57:53.294Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-04T19:46:08.821Z",
-    "updatedAt": "2026-11-04T19:46:08.821Z"
+    "checkedAt": "2026-11-05T19:57:53.294Z",
+    "updatedAt": "2026-11-05T19:57:53.294Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -8442,156 +8464,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-04T19:46:19.518Z",
+    "snapshotAt": "2026-11-05T19:57:56.390Z",
     "skills": [
       {
         "key": "overall",
         "value": 1783,
-        "rank": 184197,
-        "xp": 35654041
+        "rank": 184290,
+        "xp": 35676881
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 236872,
-        "xp": 1152820
+        "rank": 236988,
+        "xp": 1153348
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 196810,
-        "xp": 1318684
+        "rank": 196808,
+        "xp": 1321758
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 231716,
+        "rank": 231835,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 211279,
-        "xp": 3091413
+        "rank": 211253,
+        "xp": 3097220
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 222174,
-        "xp": 1715696
+        "rank": 222099,
+        "xp": 1720302
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 175768,
+        "rank": 175841,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 173472,
-        "xp": 3328426
+        "rank": 173417,
+        "xp": 3333540
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 258248,
-        "xp": 873372
+        "rank": 258175,
+        "xp": 874467
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 276825,
-        "xp": 872411
+        "rank": 276894,
+        "xp": 872621
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 260157,
+        "rank": 260231,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294339,
-        "xp": 843262
+        "rank": 294342,
+        "xp": 843862
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198769,
+        "rank": 198820,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 215313,
-        "xp": 926738
+        "rank": 215356,
+        "xp": 927493
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191121,
-        "xp": 944735
+        "rank": 191132,
+        "xp": 945490
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 272071,
-        "xp": 941333
+        "rank": 272160,
+        "xp": 941543
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 180075,
-        "xp": 882054
+        "rank": 180128,
+        "xp": 882114
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162657,
+        "rank": 162721,
         "xp": 1439090
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 241277,
+        "rank": 241364,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 210950,
+        "rank": 211025,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 178784,
-        "xp": 2023803
+        "rank": 178840,
+        "xp": 2023829
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 151834,
+        "rank": 151894,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 236501,
+        "rank": 236604,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 162178,
+        "rank": 162238,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 94400,
+        "rank": 94520,
         "xp": 430576
       }
     ],
@@ -8604,27 +8626,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144286
+        "rank": 144325
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55314
+        "rank": 55374
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82458
+        "rank": 82504
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90704
+        "rank": 90737
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60125
+        "rank": 60146
       },
       {
         "key": "giant_mole",
@@ -8634,17 +8656,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139806
+        "rank": 139857
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92310
+        "rank": 92388
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 35502
+        "rank": 35603
       },
       {
         "key": "obor",
@@ -8654,12 +8676,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80716
+        "rank": 80753
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108927
+        "rank": 108966
       },
       {
         "key": "the_gauntlet",
@@ -8668,13 +8690,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 150,
-        "rank": 86707
+        "value": 152,
+        "rank": 86445
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 106282
+        "rank": 106351
       },
       {
         "key": "tztok_jad",
@@ -8684,12 +8706,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165233
+        "rank": 165276
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50299
+        "rank": 50315
       }
     ],
     "activities": [
@@ -8706,27 +8728,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160423
+        "rank": 160466
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93173
+        "rank": 93210
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117638
+        "rank": 117676
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151273
+        "rank": 151315
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163791
+        "rank": 163829
       },
       {
         "key": "clue_scrolls_elite",
@@ -8756,7 +8778,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 118798
+        "rank": 118856
       },
       {
         "key": "colosseum_glory",
@@ -8770,8 +8792,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-04T19:46:08.821Z",
-    "updatedAt": "2026-11-04T19:46:08.821Z"
+    "checkedAt": "2026-11-05T19:57:53.294Z",
+    "updatedAt": "2026-11-05T19:57:53.294Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -9728,7 +9750,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-04T19:46:08.821Z",
-    "updatedAt": "2026-11-04T19:46:08.821Z"
+    "checkedAt": "2026-11-05T19:57:53.294Z",
+    "updatedAt": "2026-11-05T19:57:53.294Z"
   }
 }
