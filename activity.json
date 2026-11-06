@@ -1,10 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T19:57:53.294Z",
+  "generatedAt": "2026-11-06T19:25:11.527Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "7zVv1G1EB8k7BbrTF6f2SQ",
+        "title": "Walls",
+        "artist": "Emery",
+        "album": "The Weak's End",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b07cdbd49eeb3a820646bc5b",
+        "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ",
+        "durationMs": 203706,
+        "playedAt": "2026-11-06T19:06:19.273Z"
+      },
       {
         "id": "3i4xZSH1kTLE22TUvUFMYo",
         "title": "Emergency",
@@ -13,77 +23,67 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
         "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo",
         "durationMs": 240040,
-        "playedAt": "2026-11-05T18:32:18.497Z"
+        "playedAt": "2026-11-06T19:02:55.067Z"
       },
       {
-        "id": "4AwgFDiynuu52p5xtpRlNG",
-        "title": "Cumbia Sampuesana",
-        "artist": "La Luz Roja De San Marcos",
-        "album": "Los Exitos Mas Calientes",
-        "image": "https://i.scdn.co/image/ab67616d0000b273140c515edf8eeee019553b7f",
-        "url": "https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG",
-        "durationMs": 233717,
-        "playedAt": "2026-11-05T17:33:12.568Z"
+        "id": "6cZiLDMWJ6f5ZEVzCwldF1",
+        "title": "Wildfires",
+        "artist": "State Faults",
+        "album": "Resonate/Desperate",
+        "image": "https://i.scdn.co/image/ab67616d0000b273894570fe71b95e101f7b38a7",
+        "url": "https://open.spotify.com/track/6cZiLDMWJ6f5ZEVzCwldF1",
+        "durationMs": 227040,
+        "playedAt": "2026-11-06T18:58:54.012Z"
       },
       {
-        "id": "6um5ccNzX7k3SRsVnLupvI",
-        "title": "A Decade Under The Influence",
-        "artist": "Taking Back Sunday",
-        "album": "Where You Want To Be",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b285685a56c953c1a37bf639",
-        "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI",
-        "durationMs": 247760,
-        "playedAt": "2026-11-05T17:30:37.661Z"
+        "id": "1rgudQaYkymPkhlGvgUfQU",
+        "title": "Until the Sun Fades",
+        "artist": "Foreign Hands, Matthew Mixon",
+        "album": "What's Left Unsaid",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df5fa010d41d96c5f3fe173f",
+        "url": "https://open.spotify.com/track/1rgudQaYkymPkhlGvgUfQU",
+        "durationMs": 197133,
+        "playedAt": "2026-11-06T00:38:53.072Z"
       },
       {
-        "id": "2bbhyUWJ5VjdfI3P4PRLu2",
-        "title": "Samson",
-        "artist": "Regina Spektor",
-        "album": "Begin to Hope (Special Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737fd2d3669c086850c0f766e8",
-        "url": "https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2",
-        "durationMs": 189506,
-        "playedAt": "2026-11-04T01:06:55.200Z"
+        "id": "6eiVPsPisiOX8d6SD5rQkh",
+        "title": "Contingent",
+        "artist": "Snooze",
+        "album": "I KNOW HOW YOU WILL DIE",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bcabd37507e707cbd4bdb3c6",
+        "url": "https://open.spotify.com/track/6eiVPsPisiOX8d6SD5rQkh",
+        "durationMs": 288217,
+        "playedAt": "2026-11-06T00:35:35.394Z"
       },
       {
-        "id": "5FgPwJ7Nh2FVmIXviKl2VF",
-        "title": "Make You Feel My Love",
-        "artist": "Adele",
-        "album": "19",
-        "image": "https://i.scdn.co/image/ab67616d0000b27362e62cf225b72fca8d765168",
-        "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF",
-        "durationMs": 212040,
-        "playedAt": "2026-11-04T00:07:03.840Z"
+        "id": "47SdcGLw0hbjduAMwZ4ALd",
+        "title": "Fail, Grasp, Restore",
+        "artist": "Chalk Hands",
+        "album": "Don't Think About Death",
+        "image": "https://i.scdn.co/image/ab67616d0000b27377b1d07fc1199e59c773e4e1",
+        "url": "https://open.spotify.com/track/47SdcGLw0hbjduAMwZ4ALd",
+        "durationMs": 301151,
+        "playedAt": "2026-11-06T00:30:46.671Z"
       },
       {
-        "id": "3MPMc2MMs0RAv0W1Z7RgXZ",
-        "title": "La Quebradora",
-        "artist": "Banda El Recodo",
-        "album": "De Mexico para el Mundo",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b87c6945bc12d86940c1b64c",
-        "url": "https://open.spotify.com/track/3MPMc2MMs0RAv0W1Z7RgXZ",
-        "durationMs": 187022,
-        "playedAt": "2026-11-03T01:52:31.271Z"
+        "id": "6x9gaS6Pl2nwPhHp52sGvf",
+        "title": "Melody, Save Me",
+        "artist": "Worthwhile",
+        "album": "Carry on Kid",
+        "image": "https://i.scdn.co/image/ab67616d0000b273843cdc0191cff69e87fcbb00",
+        "url": "https://open.spotify.com/track/6x9gaS6Pl2nwPhHp52sGvf",
+        "durationMs": 146639,
+        "playedAt": "2026-11-06T00:25:45.044Z"
       },
       {
-        "id": "1YsTvffZ63Yo1eHkajbeQF",
-        "title": "Alma Enamorada",
-        "artist": "Chalino Sanchez, Los Amables Del Norte",
-        "album": "15 Éxitos",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c449ea3ee029b6fefe3c0cac",
-        "url": "https://open.spotify.com/track/1YsTvffZ63Yo1eHkajbeQF",
-        "durationMs": 175891,
-        "playedAt": "2026-11-03T01:49:23.710Z"
-      },
-      {
-        "id": "4qXrPvpuBOAqEbZU66EQ1g",
-        "title": "Fallaste Corazón",
-        "artist": "Pedro Infante",
-        "album": "No Supe Decirte Adiós",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ec5e57cfed832a2f84ae445a",
-        "url": "https://open.spotify.com/track/4qXrPvpuBOAqEbZU66EQ1g",
-        "durationMs": 226906,
-        "playedAt": "2026-11-03T01:46:27.319Z"
+        "id": "2oZFaG7Xluyz6R3mCHRE4s",
+        "title": "Waiting",
+        "artist": "Departures",
+        "album": "Death Touches Us, from the Moment We Begin to Love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733b276e9be19d7e42218479e4",
+        "url": "https://open.spotify.com/track/2oZFaG7Xluyz6R3mCHRE4s",
+        "durationMs": 138562,
+        "playedAt": "2026-11-06T00:23:17.923Z"
       }
     ],
     "observed": {
@@ -7802,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 55,
+          "plays": 82,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -7880,7 +7880,7 @@
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -7946,7 +7946,7 @@
               "id": "4feAxLUxIU7G4KXhH0h2ni",
               "name": "Emery",
               "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni",
-              "plays": 8
+              "plays": 9
             },
             {
               "id": "6AcOTCYBMvjKYy4zms0kaC",
@@ -8048,6 +8048,84 @@
               "id": "5YeFdMPC50VCSc91uYLOGb",
               "name": "La Luz Roja De San Marcos",
               "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb",
+              "plays": 1
+            },
+            {
+              "id": "6D3k7skHIg72j2v9J4zT9b",
+              "name": "State Faults",
+              "url": "https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b",
+              "plays": 15
+            },
+            {
+              "id": "09RKiiT2NAJ7qYoAGOYu9w",
+              "name": "Foreign Hands",
+              "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w",
+              "plays": 1
+            },
+            {
+              "id": "6W6evBk6uISlk45PTCPzky",
+              "name": "Matthew Mixon",
+              "url": "https://open.spotify.com/artist/6W6evBk6uISlk45PTCPzky",
+              "plays": 1
+            },
+            {
+              "id": "5RbDWIVL3Sfuu8ADRe6rCT",
+              "name": "Snooze",
+              "url": "https://open.spotify.com/artist/5RbDWIVL3Sfuu8ADRe6rCT",
+              "plays": 1
+            },
+            {
+              "id": "0pgkwIutqRrTbRcZHuqfiH",
+              "name": "Chalk Hands",
+              "url": "https://open.spotify.com/artist/0pgkwIutqRrTbRcZHuqfiH",
+              "plays": 1
+            },
+            {
+              "id": "1rMXvZT2GN2jcixxObWc52",
+              "name": "Worthwhile",
+              "url": "https://open.spotify.com/artist/1rMXvZT2GN2jcixxObWc52",
+              "plays": 1
+            },
+            {
+              "id": "4kAGFycLssavzWGrMnmcV4",
+              "name": "Departures",
+              "url": "https://open.spotify.com/artist/4kAGFycLssavzWGrMnmcV4",
+              "plays": 1
+            },
+            {
+              "id": "2crdUjsZoHulUnCCxmeP2a",
+              "name": "We Never Learned To Live",
+              "url": "https://open.spotify.com/artist/2crdUjsZoHulUnCCxmeP2a",
+              "plays": 1
+            },
+            {
+              "id": "5QKhSSn4mTyMV0gMBmJK1o",
+              "name": "Ghost Chant",
+              "url": "https://open.spotify.com/artist/5QKhSSn4mTyMV0gMBmJK1o",
+              "plays": 1
+            },
+            {
+              "id": "45JFhgPpadhm9S0wIq9zIY",
+              "name": "Gatherers",
+              "url": "https://open.spotify.com/artist/45JFhgPpadhm9S0wIq9zIY",
+              "plays": 1
+            },
+            {
+              "id": "0OCkoM4fVNUbhQFsgww0a0",
+              "name": "Courtney Swain",
+              "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0",
+              "plays": 1
+            },
+            {
+              "id": "3uHCTHxtg3IVAvhyrYsZvI",
+              "name": "Rolo Tomassi",
+              "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI",
+              "plays": 1
+            },
+            {
+              "id": "7KqVvL7NOdUWyQg2B63cck",
+              "name": "Casey",
+              "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck",
               "plays": 1
             }
           ],
@@ -8290,7 +8368,7 @@
               "artist": "Emery",
               "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ",
               "image": "https://i.scdn.co/image/ab67616d0000b273b07cdbd49eeb3a820646bc5b",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3MPMc2MMs0RAv0W1Z7RgXZ",
@@ -8426,7 +8504,7 @@
               "artist": "Paramore",
               "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo",
               "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4AwgFDiynuu52p5xtpRlNG",
@@ -8435,26 +8513,226 @@
               "url": "https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG",
               "image": "https://i.scdn.co/image/ab67616d0000b273140c515edf8eeee019553b7f",
               "plays": 1
+            },
+            {
+              "id": "6cZiLDMWJ6f5ZEVzCwldF1",
+              "title": "Wildfires",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/6cZiLDMWJ6f5ZEVzCwldF1",
+              "image": "https://i.scdn.co/image/ab67616d0000b273894570fe71b95e101f7b38a7",
+              "plays": 1
+            },
+            {
+              "id": "1rgudQaYkymPkhlGvgUfQU",
+              "title": "Until the Sun Fades",
+              "artist": "Foreign Hands, Matthew Mixon",
+              "url": "https://open.spotify.com/track/1rgudQaYkymPkhlGvgUfQU",
+              "image": "https://i.scdn.co/image/ab67616d0000b273df5fa010d41d96c5f3fe173f",
+              "plays": 1
+            },
+            {
+              "id": "6eiVPsPisiOX8d6SD5rQkh",
+              "title": "Contingent",
+              "artist": "Snooze",
+              "url": "https://open.spotify.com/track/6eiVPsPisiOX8d6SD5rQkh",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bcabd37507e707cbd4bdb3c6",
+              "plays": 1
+            },
+            {
+              "id": "47SdcGLw0hbjduAMwZ4ALd",
+              "title": "Fail, Grasp, Restore",
+              "artist": "Chalk Hands",
+              "url": "https://open.spotify.com/track/47SdcGLw0hbjduAMwZ4ALd",
+              "image": "https://i.scdn.co/image/ab67616d0000b27377b1d07fc1199e59c773e4e1",
+              "plays": 1
+            },
+            {
+              "id": "6x9gaS6Pl2nwPhHp52sGvf",
+              "title": "Melody, Save Me",
+              "artist": "Worthwhile",
+              "url": "https://open.spotify.com/track/6x9gaS6Pl2nwPhHp52sGvf",
+              "image": "https://i.scdn.co/image/ab67616d0000b273843cdc0191cff69e87fcbb00",
+              "plays": 1
+            },
+            {
+              "id": "2oZFaG7Xluyz6R3mCHRE4s",
+              "title": "Waiting",
+              "artist": "Departures",
+              "url": "https://open.spotify.com/track/2oZFaG7Xluyz6R3mCHRE4s",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733b276e9be19d7e42218479e4",
+              "plays": 1
+            },
+            {
+              "id": "3EPaFEswbgIAES6KWviEuw",
+              "title": "Luma Non Luma",
+              "artist": "We Never Learned To Live",
+              "url": "https://open.spotify.com/track/3EPaFEswbgIAES6KWviEuw",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739117674c3a21f3ebf1d2f649",
+              "plays": 1
+            },
+            {
+              "id": "3yHGcogXo7txWOWBi4AN77",
+              "title": "No Future",
+              "artist": "Ghost Chant",
+              "url": "https://open.spotify.com/track/3yHGcogXo7txWOWBi4AN77",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c4f5aa8b6e0d274ec803d975",
+              "plays": 1
+            },
+            {
+              "id": "3GFTuSAqkE4LLY2fNUSQDU",
+              "title": "boxcutter",
+              "artist": "Gatherers, Courtney Swain",
+              "url": "https://open.spotify.com/track/3GFTuSAqkE4LLY2fNUSQDU",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737ab8f77900bf0098a04c5071",
+              "plays": 1
+            },
+            {
+              "id": "60qzUWBoLLARs9B82yD346",
+              "title": "Aftermath",
+              "artist": "Rolo Tomassi",
+              "url": "https://open.spotify.com/track/60qzUWBoLLARs9B82yD346",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ccbe0011daae5c84da947d90",
+              "plays": 1
+            },
+            {
+              "id": "5tYPNlnyzennd1cT4Cs06n",
+              "title": "Puncture Wounds To Heaven",
+              "artist": "Casey",
+              "url": "https://open.spotify.com/track/5tYPNlnyzennd1cT4Cs06n",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f7fe34691c75b4418646e330",
+              "plays": 1
+            },
+            {
+              "id": "5rGrbtGpyKaidJESW2ax27",
+              "title": "Olive Tree",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/5rGrbtGpyKaidJESW2ax27",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739ef30210d400114d1be94210",
+              "plays": 1
+            },
+            {
+              "id": "7B5T04kxOwOIcvajGIQVMA",
+              "title": "Bodega Head",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/7B5T04kxOwOIcvajGIQVMA",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "21Sb1hePrCAO1LQC7rXjSv",
+              "title": "Wind Song",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/21Sb1hePrCAO1LQC7rXjSv",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "4foeDf24i4u9qOMNDqJV7f",
+              "title": "Palm Reader",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/4foeDf24i4u9qOMNDqJV7f",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "2U8ZHAbPOsWeLLR6LVx3kD",
+              "title": "Nazar",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/2U8ZHAbPOsWeLLR6LVx3kD",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "44WewA5YHCfiXoDF5nPWoM",
+              "title": "Distant Omen",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/44WewA5YHCfiXoDF5nPWoM",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "4RqyVDlGO54NgH4N7RRSuQ",
+              "title": "Divination",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/4RqyVDlGO54NgH4N7RRSuQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "00WM8l3bO1WUMOdKxN6MD5",
+              "title": "Transfiguration",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/00WM8l3bO1WUMOdKxN6MD5",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "0hb523G3aAfWX8F4r75bDo",
+              "title": "No Gospel",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/0hb523G3aAfWX8F4r75bDo",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "2xSFiR0tiKqij7PhyhTuJE",
+              "title": "Looming",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/2xSFiR0tiKqij7PhyhTuJE",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "1hsmeFwweLy7QscPrjNics",
+              "title": "Heat Death",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/1hsmeFwweLy7QscPrjNics",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "5Q7EvbPIC4ipRVlduRrnMn",
+              "title": "Leviathan",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/5Q7EvbPIC4ipRVlduRrnMn",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "1T5KXWdvQAefh3XQmgb6K5",
+              "title": "Palo Santo",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/1T5KXWdvQAefh3XQmgb6K5",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
+            },
+            {
+              "id": "45OAPawP5v1r3Su3QBhOW7",
+              "title": "Blood Moon",
+              "artist": "State Faults",
+              "url": "https://open.spotify.com/track/45OAPawP5v1r3Su3QBhOW7",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-05T18:32:18.497Z",
+      "lastPlayedAt": "2026-11-06T19:06:19.273Z",
       "lastKeys": [
-        "[1793903538497,\"3i4xZSH1kTLE22TUvUFMYo\"]"
+        "[1793991979273,\"7zVv1G1EB8k7BbrTF6f2SQ\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-05T18:32:18.497Z"
+      "through": "2026-11-06T19:06:19.273Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-05T19:57:53.294Z",
-    "updatedAt": "2026-11-05T19:57:53.294Z"
+    "checkedAt": "2026-11-06T19:25:11.527Z",
+    "updatedAt": "2026-11-06T19:25:11.527Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-05T19:57:53.294Z",
-    "updatedAt": "2026-11-05T19:57:53.294Z"
+    "checkedAt": "2026-11-06T19:25:11.527Z",
+    "updatedAt": "2026-11-06T19:25:11.527Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -8464,156 +8742,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-05T19:57:56.390Z",
+    "snapshotAt": "2026-11-06T19:25:13.590Z",
     "skills": [
       {
         "key": "overall",
         "value": 1783,
-        "rank": 184290,
-        "xp": 35676881
+        "rank": 184362,
+        "xp": 35740478
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 236988,
-        "xp": 1153348
+        "rank": 237062,
+        "xp": 1154620
       },
       {
         "key": "defence",
         "value": 75,
-        "rank": 196808,
-        "xp": 1321758
+        "rank": 196636,
+        "xp": 1330403
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 231835,
+        "rank": 231935,
         "xp": 2462762
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 211253,
-        "xp": 3097220
+        "rank": 210914,
+        "xp": 3114236
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 222099,
-        "xp": 1720302
+        "rank": 221661,
+        "xp": 1735527
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 175841,
+        "rank": 175904,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 173417,
-        "xp": 3333540
+        "rank": 173173,
+        "xp": 3345876
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 258175,
-        "xp": 874467
+        "rank": 257879,
+        "xp": 877002
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 276894,
-        "xp": 872621
+        "rank": 276882,
+        "xp": 873261
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 260231,
+        "rank": 260312,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 294342,
-        "xp": 843862
+        "rank": 294199,
+        "xp": 845482
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 198820,
+        "rank": 198871,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 72,
-        "rank": 215356,
-        "xp": 927493
+        "rank": 215330,
+        "xp": 929238
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 191132,
-        "xp": 945490
+        "rank": 191021,
+        "xp": 947235
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 272160,
-        "xp": 941543
+        "rank": 272170,
+        "xp": 942153
       },
       {
         "key": "herblore",
         "value": 71,
-        "rank": 180128,
-        "xp": 882114
+        "rank": 180176,
+        "xp": 882254
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162721,
+        "rank": 162794,
         "xp": 1439090
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 241364,
+        "rank": 241449,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 211025,
+        "rank": 211086,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 178840,
-        "xp": 2023829
+        "rank": 178884,
+        "xp": 2023897
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 151894,
+        "rank": 151949,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 236604,
+        "rank": 236688,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 162238,
+        "rank": 162290,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 94520,
+        "rank": 94638,
         "xp": 430576
       }
     ],
@@ -8626,27 +8904,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144325
+        "rank": 144374
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55374
+        "rank": 55433
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82504
+        "rank": 82545
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90737
+        "rank": 90763
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60146
+        "rank": 60162
       },
       {
         "key": "giant_mole",
@@ -8656,17 +8934,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 139857
+        "rank": 139905
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92388
+        "rank": 92430
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 35603
+        "rank": 35699
       },
       {
         "key": "obor",
@@ -8676,12 +8954,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80753
+        "rank": 80788
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 108966
+        "rank": 109014
       },
       {
         "key": "the_gauntlet",
@@ -8690,13 +8968,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 152,
-        "rank": 86445
+        "value": 157,
+        "rank": 85810
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 106351
+        "rank": 106409
       },
       {
         "key": "tztok_jad",
@@ -8706,12 +8984,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165276
+        "rank": 165323
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50315
+        "rank": 50322
       }
     ],
     "activities": [
@@ -8728,27 +9006,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160466
+        "rank": 160518
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93210
+        "rank": 93250
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117676
+        "rank": 117705
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151315
+        "rank": 151367
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163829
+        "rank": 163868
       },
       {
         "key": "clue_scrolls_elite",
@@ -8763,7 +9041,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82400
+        "rank": 82404
       },
       {
         "key": "pvp_arena",
@@ -8778,7 +9056,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 118856
+        "rank": 118907
       },
       {
         "key": "colosseum_glory",
@@ -8792,8 +9070,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-05T19:57:53.294Z",
-    "updatedAt": "2026-11-05T19:57:53.294Z"
+    "checkedAt": "2026-11-06T19:25:11.527Z",
+    "updatedAt": "2026-11-06T19:25:11.527Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -9750,7 +10028,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-05T19:57:53.294Z",
-    "updatedAt": "2026-11-05T19:57:53.294Z"
+    "checkedAt": "2026-11-06T19:25:11.527Z",
+    "updatedAt": "2026-11-06T19:25:11.527Z"
   }
 }
