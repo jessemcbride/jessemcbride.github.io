@@ -1,89 +1,97 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T22:22:57.686Z",
+  "generatedAt": "2026-11-10T19:44:29.813Z",
   "spotify": {
-    "current": null,
-    "isPlaying": false,
+    "current": {
+      "id": "139izBI0AhdIJRMvCz1VZz",
+      "title": "I Like It Like That",
+      "artist": "Fcukers",
+      "album": "Ö",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386b7c80f34422c3c287f698e",
+      "url": "https://open.spotify.com/track/139izBI0AhdIJRMvCz1VZz",
+      "durationMs": 173772
+    },
+    "isPlaying": true,
     "recent": [
       {
-        "id": "6PXYOVPBzO3xojFhQAvmde",
-        "title": "Suffocate (feat. Poppy)",
-        "artist": "Knocked Loose, Poppy",
-        "album": "You Won't Go Before You're Supposed To",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-        "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde",
-        "durationMs": 164695,
-        "playedAt": "2026-11-09T16:28:02.033Z"
+        "id": "5x4sT7xRfaKgonNHenKDAN",
+        "title": "Lake Cabin in Rain",
+        "artist": "Rocket FX",
+        "album": "Cabin in the Rain",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e573745a3c23655567563491",
+        "url": "https://open.spotify.com/track/5x4sT7xRfaKgonNHenKDAN",
+        "durationMs": 127086,
+        "playedAt": "2026-11-10T05:50:36.992Z"
       },
       {
-        "id": "5XteqPfhtbveJEWtNrh44c",
-        "title": "Ambient Spaceship Engine Noise for Relaxation and Focus",
-        "artist": "Cheesy Nirvosa",
-        "album": "Ambient Spaceship Engine Noise for Relaxation and Focus",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734b330d11464f4b4e93fdc471",
-        "url": "https://open.spotify.com/track/5XteqPfhtbveJEWtNrh44c",
-        "durationMs": 3599979,
-        "playedAt": "2026-11-09T13:13:29.501Z"
+        "id": "19a7gf1CPt9Oyx2yFwfqgC",
+        "title": "Jungle Pitter Patter",
+        "artist": "NatuREM",
+        "album": "Calming Cloud Rain",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736c64a3ecd966ec9e76657081",
+        "url": "https://open.spotify.com/track/19a7gf1CPt9Oyx2yFwfqgC",
+        "durationMs": 188000,
+        "playedAt": "2026-11-10T05:47:50.497Z"
       },
       {
-        "id": "1qsfrc4AmfSX3cR7kftQya",
-        "title": "That Sweet Ambient Spaceship Noise Everyone Likes",
-        "artist": "Cheesy Nirvosa",
-        "album": "That Sweet Ambient Spaceship Noise Everyone Likes",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b26d7975564caf0514da164f",
-        "url": "https://open.spotify.com/track/1qsfrc4AmfSX3cR7kftQya",
-        "durationMs": 3598785,
-        "playedAt": "2026-11-09T10:22:07.415Z"
+        "id": "7i2PkX3jg207FL6wkvfBNL",
+        "title": "Dazzling Drops (Rain)",
+        "artist": "Earth Alliance",
+        "album": "Dazzling Drops (Rain)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739e05a1ed2e30ac8e48eb6587",
+        "url": "https://open.spotify.com/track/7i2PkX3jg207FL6wkvfBNL",
+        "durationMs": 200000,
+        "playedAt": "2026-11-10T05:44:42.513Z"
       },
       {
-        "id": "2NTvN8wjwuYghI1RYxxQKq",
-        "title": "Super Deep Space Shuttle Main Engine Noise",
-        "artist": "Cheesy Nirvosa",
-        "album": "Super Deep Space Shuttle Main Engine Noise",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e67573bb082fc9cf26257c95",
-        "url": "https://open.spotify.com/track/2NTvN8wjwuYghI1RYxxQKq",
-        "durationMs": 3593202,
-        "playedAt": "2026-11-09T09:22:08.744Z"
+        "id": "1okGLDjpL04V0dQ2YFOH4h",
+        "title": "Soft Evening Rain",
+        "artist": "BCCF",
+        "album": "Soft Evening Rain",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c061f5b68e947d5a7e11a01f",
+        "url": "https://open.spotify.com/track/1okGLDjpL04V0dQ2YFOH4h",
+        "durationMs": 126000,
+        "playedAt": "2026-11-10T05:41:22.532Z"
       },
       {
-        "id": "2ho5Yp4NqRuxqpGSKmYzbZ",
-        "title": "Starship Engine Noise for Sleep and Focus",
-        "artist": "Cheesy Nirvosa",
-        "album": "Starship Engine Noise for Sleep and Focus",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731d1afa78355c5a217912a455",
-        "url": "https://open.spotify.com/track/2ho5Yp4NqRuxqpGSKmYzbZ",
-        "durationMs": 3599751,
-        "playedAt": "2026-11-09T08:22:15.441Z"
+        "id": "4e5JOQghdsdUCNedcA5qG3",
+        "title": "Harmonious White Noise",
+        "artist": "Orchestrate the Universe",
+        "album": "Harmonious White Noise",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e09ec117f0898319b9631738",
+        "url": "https://open.spotify.com/track/4e5JOQghdsdUCNedcA5qG3",
+        "durationMs": 128062,
+        "playedAt": "2026-11-10T05:33:36.338Z"
       },
       {
-        "id": "0jZ9z09TFqgzoO10zrqAmn",
-        "title": "Celestial Starship Ambient Space Noise",
-        "artist": "Cheesy Nirvosa",
-        "album": "Celestial Starship Ambient Space Noise",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731ce8b0d6a689fb329a9ac89e",
-        "url": "https://open.spotify.com/track/0jZ9z09TFqgzoO10zrqAmn",
-        "durationMs": 3601345,
-        "playedAt": "2026-11-09T07:22:15.730Z"
+        "id": "6zvZfv1uoIAoJOQj521RNM",
+        "title": "Whispering White Calm",
+        "artist": "Historic Site",
+        "album": "Whispering White Calm",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320cc3f6a25261acb9bd5beba",
+        "url": "https://open.spotify.com/track/6zvZfv1uoIAoJOQj521RNM",
+        "durationMs": 121994,
+        "playedAt": "2026-11-10T05:31:28.221Z"
       },
       {
-        "id": "48UPSzbZjgc449aqz8bxox",
-        "title": "Californication",
-        "artist": "Red Hot Chili Peppers",
-        "album": "Californication (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
-        "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox",
-        "durationMs": 329733,
-        "playedAt": "2026-11-09T04:20:10.498Z"
+        "id": "2hV0wH6FkGxCugwOsjPaa2",
+        "title": "Early Morning White Noise",
+        "artist": "Way Beyond",
+        "album": "Early Morning White Noise",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733c702904698250732330548a",
+        "url": "https://open.spotify.com/track/2hV0wH6FkGxCugwOsjPaa2",
+        "durationMs": 155933,
+        "playedAt": "2026-11-10T05:29:26.210Z"
       },
       {
-        "id": "3ZOEytgrvLwQaqXreDs2Jx",
-        "title": "Can't Stop",
-        "artist": "Red Hot Chili Peppers",
-        "album": "By the Way (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4",
-        "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
-        "durationMs": 269000,
-        "playedAt": "2026-11-09T03:01:18.069Z"
+        "id": "4fnPVmEYukkPLX36cpaRvo",
+        "title": "Aligned White Noise",
+        "artist": "Spacetiming",
+        "album": "Aligned White Noise",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fe86732b0ab52872e7228968",
+        "url": "https://open.spotify.com/track/4fnPVmEYukkPLX36cpaRvo",
+        "durationMs": 164306,
+        "playedAt": "2026-11-10T05:26:50.331Z"
       }
     ],
     "observed": {
@@ -7802,7 +7810,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 150,
+          "plays": 164,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -8222,7 +8230,7 @@
               "id": "4qrHkx5cgWIslciLXUMrYw",
               "name": "Knocked Loose",
               "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5mlbvTfWUOfDrUIK6dkNzv",
@@ -8253,6 +8261,72 @@
               "name": "glaive",
               "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565",
               "plays": 2
+            },
+            {
+              "id": "3dFUAutVe4CdBO7DMDtIN5",
+              "name": "Rocket FX",
+              "url": "https://open.spotify.com/artist/3dFUAutVe4CdBO7DMDtIN5",
+              "plays": 2
+            },
+            {
+              "id": "03eX3RX46RbMeY7FA8xF99",
+              "name": "NatuREM",
+              "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99",
+              "plays": 1
+            },
+            {
+              "id": "4u2F224Db72rESovXGKNGZ",
+              "name": "Earth Alliance",
+              "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ",
+              "plays": 1
+            },
+            {
+              "id": "3nom2q4wk6XDl2RN6xTs5f",
+              "name": "BCCF",
+              "url": "https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f",
+              "plays": 1
+            },
+            {
+              "id": "1zNZgpcWzRGBIxYh815Mim",
+              "name": "Orchestrate the Universe",
+              "url": "https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim",
+              "plays": 1
+            },
+            {
+              "id": "2b6lrSLIjDIaFN8hd7py6a",
+              "name": "Historic Site",
+              "url": "https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a",
+              "plays": 1
+            },
+            {
+              "id": "7qZK8mnemfBOD9VVjRxB1Z",
+              "name": "Way Beyond",
+              "url": "https://open.spotify.com/artist/7qZK8mnemfBOD9VVjRxB1Z",
+              "plays": 1
+            },
+            {
+              "id": "5eFO9GqXr6CFXygAtUlxGa",
+              "name": "Spacetiming",
+              "url": "https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa",
+              "plays": 1
+            },
+            {
+              "id": "7HNpdpSzEr0e88c60UTUEJ",
+              "name": "Abstract Time",
+              "url": "https://open.spotify.com/artist/7HNpdpSzEr0e88c60UTUEJ",
+              "plays": 1
+            },
+            {
+              "id": "1cRsTwM4gsatUmJwts7hYJ",
+              "name": "Larnac HD",
+              "url": "https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ",
+              "plays": 2
+            },
+            {
+              "id": "1YCAJzn4RldXoowAlME5uB",
+              "name": "Brooke St.",
+              "url": "https://open.spotify.com/artist/1YCAJzn4RldXoowAlME5uB",
+              "plays": 1
             }
           ],
           "tracks": [
@@ -9303,26 +9377,122 @@
               "url": "https://open.spotify.com/track/2BV6Zq422VBibc7B01DOHh",
               "image": "https://i.scdn.co/image/ab67616d0000b27339fedf61abad94ee76ff6a7f",
               "plays": 2
+            },
+            {
+              "id": "5x4sT7xRfaKgonNHenKDAN",
+              "title": "Lake Cabin in Rain",
+              "artist": "Rocket FX",
+              "url": "https://open.spotify.com/track/5x4sT7xRfaKgonNHenKDAN",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e573745a3c23655567563491",
+              "plays": 2
+            },
+            {
+              "id": "19a7gf1CPt9Oyx2yFwfqgC",
+              "title": "Jungle Pitter Patter",
+              "artist": "NatuREM",
+              "url": "https://open.spotify.com/track/19a7gf1CPt9Oyx2yFwfqgC",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736c64a3ecd966ec9e76657081",
+              "plays": 1
+            },
+            {
+              "id": "7i2PkX3jg207FL6wkvfBNL",
+              "title": "Dazzling Drops (Rain)",
+              "artist": "Earth Alliance",
+              "url": "https://open.spotify.com/track/7i2PkX3jg207FL6wkvfBNL",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739e05a1ed2e30ac8e48eb6587",
+              "plays": 1
+            },
+            {
+              "id": "1okGLDjpL04V0dQ2YFOH4h",
+              "title": "Soft Evening Rain",
+              "artist": "BCCF",
+              "url": "https://open.spotify.com/track/1okGLDjpL04V0dQ2YFOH4h",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c061f5b68e947d5a7e11a01f",
+              "plays": 1
+            },
+            {
+              "id": "4e5JOQghdsdUCNedcA5qG3",
+              "title": "Harmonious White Noise",
+              "artist": "Orchestrate the Universe",
+              "url": "https://open.spotify.com/track/4e5JOQghdsdUCNedcA5qG3",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e09ec117f0898319b9631738",
+              "plays": 1
+            },
+            {
+              "id": "6zvZfv1uoIAoJOQj521RNM",
+              "title": "Whispering White Calm",
+              "artist": "Historic Site",
+              "url": "https://open.spotify.com/track/6zvZfv1uoIAoJOQj521RNM",
+              "image": "https://i.scdn.co/image/ab67616d0000b27320cc3f6a25261acb9bd5beba",
+              "plays": 1
+            },
+            {
+              "id": "2hV0wH6FkGxCugwOsjPaa2",
+              "title": "Early Morning White Noise",
+              "artist": "Way Beyond",
+              "url": "https://open.spotify.com/track/2hV0wH6FkGxCugwOsjPaa2",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733c702904698250732330548a",
+              "plays": 1
+            },
+            {
+              "id": "4fnPVmEYukkPLX36cpaRvo",
+              "title": "Aligned White Noise",
+              "artist": "Spacetiming",
+              "url": "https://open.spotify.com/track/4fnPVmEYukkPLX36cpaRvo",
+              "image": "https://i.scdn.co/image/ab67616d0000b273fe86732b0ab52872e7228968",
+              "plays": 1
+            },
+            {
+              "id": "3fF0696fsyJP7zXqhQ7GLC",
+              "title": "Atmospheric White Noise",
+              "artist": "Abstract Time",
+              "url": "https://open.spotify.com/track/3fF0696fsyJP7zXqhQ7GLC",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733dbc5461983d7e23f20b8f53",
+              "plays": 1
+            },
+            {
+              "id": "53PHCS3cgaXm3JCIlAw6z8",
+              "title": "Airplane Sleep Pt.1",
+              "artist": "Larnac HD",
+              "url": "https://open.spotify.com/track/53PHCS3cgaXm3JCIlAw6z8",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e142747694e256d5499d5d5e",
+              "plays": 2
+            },
+            {
+              "id": "57w2PtfGRtww8JYBrKV9HZ",
+              "title": "Railway Express",
+              "artist": "Brooke St.",
+              "url": "https://open.spotify.com/track/57w2PtfGRtww8JYBrKV9HZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b27380f4cb637809eb5bd94b565c",
+              "plays": 1
+            },
+            {
+              "id": "12KkNzIniU4U2LAHNgVDvw",
+              "title": "Blinding Faith",
+              "artist": "Knocked Loose",
+              "url": "https://open.spotify.com/track/12KkNzIniU4U2LAHNgVDvw",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-09T16:28:02.033Z",
+      "lastPlayedAt": "2026-11-10T05:50:36.992Z",
       "lastKeys": [
-        "[1794241682033,\"6PXYOVPBzO3xojFhQAvmde\"]"
+        "[1794289836992,\"5x4sT7xRfaKgonNHenKDAN\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-09T16:28:02.033Z"
+      "through": "2026-11-10T05:50:36.992Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-09T22:22:57.686Z",
-    "updatedAt": "2026-11-09T22:22:57.686Z"
+    "checkedAt": "2026-11-10T19:44:29.813Z",
+    "updatedAt": "2026-11-10T19:44:29.813Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-09T22:22:57.686Z",
-    "updatedAt": "2026-11-09T22:22:57.686Z"
+    "checkedAt": "2026-11-10T19:44:29.813Z",
+    "updatedAt": "2026-11-10T19:44:29.813Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -9332,156 +9502,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-09T22:23:00.339Z",
+    "snapshotAt": "2026-11-10T19:44:31.176Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1784,
-        "rank": 184311,
-        "xp": 35899220
+        "value": 1786,
+        "rank": 183741,
+        "xp": 36069935
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 237371,
-        "xp": 1157528
+        "rank": 237418,
+        "xp": 1159155
       },
       {
         "key": "defence",
         "value": 76,
-        "rank": 195517,
-        "xp": 1348735
+        "rank": 195338,
+        "xp": 1353395
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 232233,
-        "xp": 2462762
+        "rank": 232263,
+        "xp": 2464141
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 210272,
-        "xp": 3152606
+        "rank": 210112,
+        "xp": 3161427
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 220573,
-        "xp": 1775487
+        "rank": 220433,
+        "xp": 1781596
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 176137,
+        "rank": 176168,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 172832,
-        "xp": 3371946
+        "rank": 172745,
+        "xp": 3378054
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 257319,
-        "xp": 883302
+        "rank": 257186,
+        "xp": 884577
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275253,
-        "xp": 882666
+        "rank": 275250,
+        "xp": 882946
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 260608,
+        "rank": 260656,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 293868,
-        "xp": 849692
+        "rank": 293762,
+        "xp": 850542
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199020,
+        "rank": 199003,
         "xp": 6713732
       },
       {
         "key": "crafting",
-        "value": 72,
-        "rank": 215273,
-        "xp": 934003
+        "value": 73,
+        "rank": 210270,
+        "xp": 1053428
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190842,
-        "xp": 952000
+        "rank": 190812,
+        "xp": 952990
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 272379,
-        "xp": 943513
+        "rank": 272385,
+        "xp": 943793
       },
       {
         "key": "herblore",
-        "value": 71,
-        "rank": 180385,
-        "xp": 882771
+        "value": 72,
+        "rank": 179431,
+        "xp": 901621
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 162995,
-        "xp": 1439090
+        "rank": 163020,
+        "xp": 1439115
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 241735,
+        "rank": 241761,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 211333,
+        "rank": 211381,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179026,
-        "xp": 2025677
+        "rank": 179046,
+        "xp": 2025713
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152148,
+        "rank": 152167,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 236981,
+        "rank": 237024,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 162540,
+        "rank": 162577,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 95042,
+        "rank": 95151,
         "xp": 430576
       }
     ],
@@ -9494,27 +9664,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144524
+        "rank": 144545
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55639
+        "rank": 55685
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82690
+        "rank": 82715
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90846
+        "rank": 90865
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60227
+        "rank": 60249
       },
       {
         "key": "giant_mole",
@@ -9524,17 +9694,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140026
+        "rank": 140052
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92660
+        "rank": 92699
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 36037
+        "rank": 36122
       },
       {
         "key": "obor",
@@ -9544,12 +9714,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80915
+        "rank": 80941
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109141
+        "rank": 109151
       },
       {
         "key": "the_gauntlet",
@@ -9558,13 +9728,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 169,
-        "rank": 84436
+        "value": 172,
+        "rank": 84065
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 106683
+        "rank": 106733
       },
       {
         "key": "tztok_jad",
@@ -9574,12 +9744,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165425
+        "rank": 165397
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50368
+        "rank": 50377
       }
     ],
     "activities": [
@@ -9596,27 +9766,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160681
+        "rank": 160709
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93350
+        "rank": 93374
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117817
+        "rank": 117843
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151513
+        "rank": 151539
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 163993
+        "rank": 164020
       },
       {
         "key": "clue_scrolls_elite",
@@ -9631,7 +9801,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82415
+        "rank": 82412
       },
       {
         "key": "pvp_arena",
@@ -9646,7 +9816,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 119098
+        "rank": 119126
       },
       {
         "key": "colosseum_glory",
@@ -9660,8 +9830,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-09T22:22:57.686Z",
-    "updatedAt": "2026-11-09T22:22:57.686Z"
+    "checkedAt": "2026-11-10T19:44:29.813Z",
+    "updatedAt": "2026-11-10T19:44:29.813Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -10618,7 +10788,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-09T22:22:57.686Z",
-    "updatedAt": "2026-11-09T22:22:57.686Z"
+    "checkedAt": "2026-11-10T19:44:29.813Z",
+    "updatedAt": "2026-11-10T19:44:29.813Z"
   }
 }
