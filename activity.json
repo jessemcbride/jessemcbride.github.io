@@ -1,97 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T19:44:29.813Z",
+  "generatedAt": "2026-11-11T19:36:45.995Z",
   "spotify": {
-    "current": {
-      "id": "139izBI0AhdIJRMvCz1VZz",
-      "title": "I Like It Like That",
-      "artist": "Fcukers",
-      "album": "Ö",
-      "image": "https://i.scdn.co/image/ab67616d0000b27386b7c80f34422c3c287f698e",
-      "url": "https://open.spotify.com/track/139izBI0AhdIJRMvCz1VZz",
-      "durationMs": 173772
-    },
-    "isPlaying": true,
+    "current": null,
+    "isPlaying": false,
     "recent": [
       {
-        "id": "5x4sT7xRfaKgonNHenKDAN",
-        "title": "Lake Cabin in Rain",
-        "artist": "Rocket FX",
-        "album": "Cabin in the Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e573745a3c23655567563491",
-        "url": "https://open.spotify.com/track/5x4sT7xRfaKgonNHenKDAN",
-        "durationMs": 127086,
-        "playedAt": "2026-11-10T05:50:36.992Z"
+        "id": "7xQYVjs4wZNdCwO0EeAWMC",
+        "title": "Born Slippy (Nuxx)",
+        "artist": "Underworld",
+        "album": "1992 - 2012",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e34bdf6792b78c2da36a767",
+        "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC",
+        "durationMs": 456480,
+        "playedAt": "2026-11-11T18:43:40.412Z"
       },
       {
-        "id": "19a7gf1CPt9Oyx2yFwfqgC",
-        "title": "Jungle Pitter Patter",
-        "artist": "NatuREM",
-        "album": "Calming Cloud Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736c64a3ecd966ec9e76657081",
-        "url": "https://open.spotify.com/track/19a7gf1CPt9Oyx2yFwfqgC",
-        "durationMs": 188000,
-        "playedAt": "2026-11-10T05:47:50.497Z"
+        "id": "7ub14NqqyR1MDUTXyFBTzO",
+        "title": "Immaterial",
+        "artist": "SOPHIE",
+        "album": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e9c0c7255ac40aa40d29bfb3",
+        "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO",
+        "durationMs": 232806,
+        "playedAt": "2026-11-11T16:39:54.922Z"
       },
       {
-        "id": "7i2PkX3jg207FL6wkvfBNL",
-        "title": "Dazzling Drops (Rain)",
-        "artist": "Earth Alliance",
-        "album": "Dazzling Drops (Rain)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739e05a1ed2e30ac8e48eb6587",
-        "url": "https://open.spotify.com/track/7i2PkX3jg207FL6wkvfBNL",
-        "durationMs": 200000,
-        "playedAt": "2026-11-10T05:44:42.513Z"
+        "id": "3ne63mn2I1EXKi6kwpqq5X",
+        "title": "Torture Me (feat. Skrillex)",
+        "artist": "100 gecs, Skrillex",
+        "album": "Torture Me (feat. Skrillex)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27319e5e33fbc27c6d7aa77cf58",
+        "url": "https://open.spotify.com/track/3ne63mn2I1EXKi6kwpqq5X",
+        "durationMs": 113493,
+        "playedAt": "2026-11-11T16:35:59.231Z"
       },
       {
-        "id": "1okGLDjpL04V0dQ2YFOH4h",
-        "title": "Soft Evening Rain",
-        "artist": "BCCF",
-        "album": "Soft Evening Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c061f5b68e947d5a7e11a01f",
-        "url": "https://open.spotify.com/track/1okGLDjpL04V0dQ2YFOH4h",
-        "durationMs": 126000,
-        "playedAt": "2026-11-10T05:41:22.532Z"
+        "id": "5ZbztTcvj6QWWbeYsL4GTa",
+        "title": "Fuck My Computer",
+        "artist": "Ninajirachi",
+        "album": "I Love My Computer",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733b9b742c5c525af6e6767d87",
+        "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa",
+        "durationMs": 190577,
+        "playedAt": "2026-11-11T16:32:16.613Z"
       },
       {
-        "id": "4e5JOQghdsdUCNedcA5qG3",
-        "title": "Harmonious White Noise",
-        "artist": "Orchestrate the Universe",
-        "album": "Harmonious White Noise",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e09ec117f0898319b9631738",
-        "url": "https://open.spotify.com/track/4e5JOQghdsdUCNedcA5qG3",
-        "durationMs": 128062,
-        "playedAt": "2026-11-10T05:33:36.338Z"
+        "id": "2ljvO8ZpKFMT3HXwCjW4Yw",
+        "title": "anthems",
+        "artist": "Charli xcx",
+        "album": "how i'm feeling now",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa",
+        "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw",
+        "durationMs": 171813,
+        "playedAt": "2026-11-11T16:29:05.579Z"
       },
       {
-        "id": "6zvZfv1uoIAoJOQj521RNM",
-        "title": "Whispering White Calm",
-        "artist": "Historic Site",
-        "album": "Whispering White Calm",
-        "image": "https://i.scdn.co/image/ab67616d0000b27320cc3f6a25261acb9bd5beba",
-        "url": "https://open.spotify.com/track/6zvZfv1uoIAoJOQj521RNM",
-        "durationMs": 121994,
-        "playedAt": "2026-11-10T05:31:28.221Z"
+        "id": "0qMZXgcLfkl5RI3q50KHMH",
+        "title": "Dumbest Girl Alive",
+        "artist": "100 gecs",
+        "album": "10,000 gecs",
+        "image": "https://i.scdn.co/image/ab67616d0000b273140bf64ac9cddf05beaff312",
+        "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH",
+        "durationMs": 137440,
+        "playedAt": "2026-11-11T16:26:13.241Z"
       },
       {
-        "id": "2hV0wH6FkGxCugwOsjPaa2",
-        "title": "Early Morning White Noise",
-        "artist": "Way Beyond",
-        "album": "Early Morning White Noise",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733c702904698250732330548a",
-        "url": "https://open.spotify.com/track/2hV0wH6FkGxCugwOsjPaa2",
-        "durationMs": 155933,
-        "playedAt": "2026-11-10T05:29:26.210Z"
+        "id": "6eqQLOOiqBnrwKQEzXoHll",
+        "title": "CRANK",
+        "artist": "Slayyyter",
+        "album": "WOR$T GIRL IN AMERICA",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+        "url": "https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll",
+        "durationMs": 175743,
+        "playedAt": "2026-11-11T16:23:28.629Z"
       },
       {
-        "id": "4fnPVmEYukkPLX36cpaRvo",
-        "title": "Aligned White Noise",
-        "artist": "Spacetiming",
-        "album": "Aligned White Noise",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fe86732b0ab52872e7228968",
-        "url": "https://open.spotify.com/track/4fnPVmEYukkPLX36cpaRvo",
-        "durationMs": 164306,
-        "playedAt": "2026-11-10T05:26:50.331Z"
+        "id": "0xu869oKDmbWv66goofbFq",
+        "title": "I’m your girl right? - Fcukers Remix",
+        "artist": "Tove Lo, Fcukers",
+        "album": "I’m your girl right? (Fcukers Remix)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739203553def2613662164b569",
+        "url": "https://open.spotify.com/track/0xu869oKDmbWv66goofbFq",
+        "durationMs": 343239,
+        "playedAt": "2026-11-10T20:28:21.348Z"
       }
     ],
     "observed": {
@@ -7810,19 +7802,19 @@
         },
         {
           "month": "2026-11",
-          "plays": 164,
+          "plays": 182,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
               "name": "AMARA ctk100",
               "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "69UVGTxhvI9zrl4tVafMgC",
               "name": "DBBD",
               "url": "https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "3V3EAJjX9EmvSsjm79J32j",
@@ -7834,7 +7826,7 @@
               "id": "3WGpXCj9YhhfX11TToZcXP",
               "name": "Troye Sivan",
               "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "68tKVjVvcqUfKFFLr2j0Ek",
@@ -7864,7 +7856,7 @@
               "id": "4QM5QCHicznALtX885CnZC",
               "name": "Slayyyter",
               "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "1McMsnEElThX1knmY4oliG",
@@ -8254,7 +8246,7 @@
               "id": "5D5Qbe1lf3aMnLsPSzXItu",
               "name": "Tiffany Day",
               "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "4cJKDGSv4Dz9QycXYmo565",
@@ -8327,6 +8319,90 @@
               "name": "Brooke St.",
               "url": "https://open.spotify.com/artist/1YCAJzn4RldXoowAlME5uB",
               "plays": 1
+            },
+            {
+              "id": "1PXHzxRDiLnjqNrRn2Xbsa",
+              "name": "Underworld",
+              "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa",
+              "plays": 1
+            },
+            {
+              "id": "5a2w2tgpLwv26BYJf2qYwu",
+              "name": "SOPHIE",
+              "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu",
+              "plays": 1
+            },
+            {
+              "id": "6PfSUFtkMVoDkx4MQkzOi3",
+              "name": "100 gecs",
+              "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3",
+              "plays": 2
+            },
+            {
+              "id": "5he5w2lnU9x7JFhnwcekXX",
+              "name": "Skrillex",
+              "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX",
+              "plays": 1
+            },
+            {
+              "id": "3MekbRujJg5VZThubOlrkR",
+              "name": "Ninajirachi",
+              "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR",
+              "plays": 2
+            },
+            {
+              "id": "25uiPmTg16RbhZWAqwLBy5",
+              "name": "Charli xcx",
+              "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+              "plays": 1
+            },
+            {
+              "id": "4NHQUGzhtTLFvgF5SZesLK",
+              "name": "Tove Lo",
+              "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK",
+              "plays": 1
+            },
+            {
+              "id": "3UtzOHYm3lQALkKzVD4wyO",
+              "name": "Fcukers",
+              "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO",
+              "plays": 4
+            },
+            {
+              "id": "2Bv1Fns7qP5fQrrGQRA3Of",
+              "name": "Pebbles&TamTam",
+              "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of",
+              "plays": 1
+            },
+            {
+              "id": "2eMb96S1ZJ1YQ7FhWAzWJL",
+              "name": "Pearly Drops",
+              "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL",
+              "plays": 1
+            },
+            {
+              "id": "11gWrKZMBsGQWmobv3oNfW",
+              "name": "Alison Wonderland",
+              "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW",
+              "plays": 1
+            },
+            {
+              "id": "78ZgfyDjF59qBIWrGHRdme",
+              "name": "DJ_Dave",
+              "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme",
+              "plays": 1
+            },
+            {
+              "id": "5l9wiTZVfqQTfMDOt0HtwC",
+              "name": "Tiga",
+              "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC",
+              "plays": 1
+            },
+            {
+              "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+              "name": "Chris Lake",
+              "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE",
+              "plays": 1
             }
           ],
           "tracks": [
@@ -8336,7 +8412,7 @@
               "artist": "AMARA ctk100, DBBD",
               "url": "https://open.spotify.com/track/6zpSvSBqQL8u3RS4mUYfEd",
               "image": "https://i.scdn.co/image/ab67616d0000b273c95e701ea45e0e08aba96ff3",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "4cBEjZhCBgXf2ZKmPb84be",
@@ -8352,7 +8428,7 @@
               "artist": "Troye Sivan",
               "url": "https://open.spotify.com/track/3OEhcaHabVo4Oc2fdMb6DO",
               "image": "https://i.scdn.co/image/ab67616d0000b2734dae177fcfce289edd39bed2",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "16avQsEDeyH5poyoJ2hyv3",
@@ -9473,26 +9549,154 @@
               "url": "https://open.spotify.com/track/12KkNzIniU4U2LAHNgVDvw",
               "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
               "plays": 1
+            },
+            {
+              "id": "7xQYVjs4wZNdCwO0EeAWMC",
+              "title": "Born Slippy (Nuxx)",
+              "artist": "Underworld",
+              "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731e34bdf6792b78c2da36a767",
+              "plays": 1
+            },
+            {
+              "id": "7ub14NqqyR1MDUTXyFBTzO",
+              "title": "Immaterial",
+              "artist": "SOPHIE",
+              "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e9c0c7255ac40aa40d29bfb3",
+              "plays": 1
+            },
+            {
+              "id": "3ne63mn2I1EXKi6kwpqq5X",
+              "title": "Torture Me (feat. Skrillex)",
+              "artist": "100 gecs, Skrillex",
+              "url": "https://open.spotify.com/track/3ne63mn2I1EXKi6kwpqq5X",
+              "image": "https://i.scdn.co/image/ab67616d0000b27319e5e33fbc27c6d7aa77cf58",
+              "plays": 1
+            },
+            {
+              "id": "5ZbztTcvj6QWWbeYsL4GTa",
+              "title": "Fuck My Computer",
+              "artist": "Ninajirachi",
+              "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733b9b742c5c525af6e6767d87",
+              "plays": 1
+            },
+            {
+              "id": "2ljvO8ZpKFMT3HXwCjW4Yw",
+              "title": "anthems",
+              "artist": "Charli xcx",
+              "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa",
+              "plays": 1
+            },
+            {
+              "id": "0qMZXgcLfkl5RI3q50KHMH",
+              "title": "Dumbest Girl Alive",
+              "artist": "100 gecs",
+              "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH",
+              "image": "https://i.scdn.co/image/ab67616d0000b273140bf64ac9cddf05beaff312",
+              "plays": 1
+            },
+            {
+              "id": "6eqQLOOiqBnrwKQEzXoHll",
+              "title": "CRANK",
+              "artist": "Slayyyter",
+              "url": "https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+              "plays": 1
+            },
+            {
+              "id": "0xu869oKDmbWv66goofbFq",
+              "title": "I’m your girl right? - Fcukers Remix",
+              "artist": "Tove Lo, Fcukers",
+              "url": "https://open.spotify.com/track/0xu869oKDmbWv66goofbFq",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739203553def2613662164b569",
+              "plays": 1
+            },
+            {
+              "id": "3pgIu0Lky0ZP43JwFbAY0f",
+              "title": "Case Closed",
+              "artist": "Pebbles&TamTam",
+              "url": "https://open.spotify.com/track/3pgIu0Lky0ZP43JwFbAY0f",
+              "image": "https://i.scdn.co/image/ab67616d0000b27382a08a7b642d1cb38aebc55a",
+              "plays": 1
+            },
+            {
+              "id": "0OV191noT9tzOg2QwaWN39",
+              "title": "Delusional On Sunset Blvd",
+              "artist": "Pearly Drops",
+              "url": "https://open.spotify.com/track/0OV191noT9tzOg2QwaWN39",
+              "image": "https://i.scdn.co/image/ab67616d0000b273919bee4ca9f1ccdb014dfabc",
+              "plays": 1
+            },
+            {
+              "id": "7Ei2LsA34MJPITPv72dvZw",
+              "title": "Heaven",
+              "artist": "Alison Wonderland, Ninajirachi",
+              "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw",
+              "image": "https://i.scdn.co/image/ab67616d0000b27316ae773aaf7974eed292b97a",
+              "plays": 1
+            },
+            {
+              "id": "3a8iTdYCX6sxmb3Vq4VtR9",
+              "title": "Fail-safe",
+              "artist": "DJ_Dave",
+              "url": "https://open.spotify.com/track/3a8iTdYCX6sxmb3Vq4VtR9",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b83872877cca465bd747be4c",
+              "plays": 1
+            },
+            {
+              "id": "0snzpWpjUj6dxRFrsNQOZs",
+              "title": "if you wanna party, come over to my house",
+              "artist": "Fcukers",
+              "url": "https://open.spotify.com/track/0snzpWpjUj6dxRFrsNQOZs",
+              "image": "https://i.scdn.co/image/ab67616d0000b27386b7c80f34422c3c287f698e",
+              "plays": 1
+            },
+            {
+              "id": "3vt2JsfvpAvlxfIcFO7lZe",
+              "title": "PRETTY4U",
+              "artist": "Tiffany Day",
+              "url": "https://open.spotify.com/track/3vt2JsfvpAvlxfIcFO7lZe",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b5b273ebd1632a05019cd75c",
+              "plays": 1
+            },
+            {
+              "id": "7zaEgzOLvTbc33n5iyiK2K",
+              "title": "SILK SCARF - Chris Lake Remix",
+              "artist": "Tiga, Fcukers, Chris Lake",
+              "url": "https://open.spotify.com/track/7zaEgzOLvTbc33n5iyiK2K",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a9c74f60479835e277703b32",
+              "plays": 1
+            },
+            {
+              "id": "139izBI0AhdIJRMvCz1VZz",
+              "title": "I Like It Like That",
+              "artist": "Fcukers",
+              "url": "https://open.spotify.com/track/139izBI0AhdIJRMvCz1VZz",
+              "image": "https://i.scdn.co/image/ab67616d0000b27386b7c80f34422c3c287f698e",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-10T05:50:36.992Z",
+      "lastPlayedAt": "2026-11-11T18:43:40.412Z",
       "lastKeys": [
-        "[1794289836992,\"5x4sT7xRfaKgonNHenKDAN\"]"
+        "[1794422620412,\"7xQYVjs4wZNdCwO0EeAWMC\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-10T05:50:36.992Z"
+      "through": "2026-11-11T18:43:40.412Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-10T19:44:29.813Z",
-    "updatedAt": "2026-11-10T19:44:29.813Z"
+    "checkedAt": "2026-11-11T19:36:45.995Z",
+    "updatedAt": "2026-11-11T19:36:45.995Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-10T19:44:29.813Z",
-    "updatedAt": "2026-11-10T19:44:29.813Z"
+    "checkedAt": "2026-11-11T19:36:45.995Z",
+    "updatedAt": "2026-11-11T19:36:45.995Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -9502,156 +9706,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-10T19:44:31.176Z",
+    "snapshotAt": "2026-11-11T19:36:47.478Z",
     "skills": [
       {
         "key": "overall",
         "value": 1786,
-        "rank": 183741,
-        "xp": 36069935
+        "rank": 183807,
+        "xp": 36094476
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 237418,
-        "xp": 1159155
+        "rank": 237514,
+        "xp": 1159779
       },
       {
         "key": "defence",
         "value": 76,
-        "rank": 195338,
-        "xp": 1353395
+        "rank": 195292,
+        "xp": 1356201
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 232263,
+        "rank": 232346,
         "xp": 2464141
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 210112,
-        "xp": 3161427
+        "rank": 210067,
+        "xp": 3167137
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 220433,
-        "xp": 1781596
+        "rank": 220372,
+        "xp": 1786885
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 176168,
+        "rank": 176237,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 172745,
-        "xp": 3378054
+        "rank": 172720,
+        "xp": 3381826
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 257186,
-        "xp": 884577
+        "rank": 257130,
+        "xp": 885642
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275250,
-        "xp": 882946
+        "rank": 275285,
+        "xp": 883156
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 260656,
+        "rank": 260731,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 293762,
-        "xp": 850542
+        "rank": 293795,
+        "xp": 851112
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199003,
+        "rank": 199029,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 73,
-        "rank": 210270,
-        "xp": 1053428
+        "rank": 210310,
+        "xp": 1054183
       },
       {
         "key": "smithing",
         "value": 72,
         "rank": 190812,
-        "xp": 952990
+        "xp": 953745
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 272385,
-        "xp": 943793
+        "rank": 272457,
+        "xp": 944003
       },
       {
         "key": "herblore",
         "value": 72,
-        "rank": 179431,
-        "xp": 901621
+        "rank": 179181,
+        "xp": 904368
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 163020,
+        "rank": 163064,
         "xp": 1439115
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 241761,
+        "rank": 241847,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 211381,
+        "rank": 211429,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179046,
-        "xp": 2025713
+        "rank": 179116,
+        "xp": 2025741
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152167,
+        "rank": 152211,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 237024,
+        "rank": 237123,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 162577,
+        "rank": 162653,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 95151,
+        "rank": 95258,
         "xp": 430576
       }
     ],
@@ -9664,27 +9868,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144545
+        "rank": 144586
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55685
+        "rank": 55752
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82715
+        "rank": 82745
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90865
+        "rank": 90892
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60249
+        "rank": 60271
       },
       {
         "key": "giant_mole",
@@ -9694,17 +9898,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140052
+        "rank": 140083
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92699
+        "rank": 92774
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 36122
+        "rank": 36219
       },
       {
         "key": "obor",
@@ -9714,12 +9918,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80941
+        "rank": 80973
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109151
+        "rank": 109201
       },
       {
         "key": "the_gauntlet",
@@ -9728,13 +9932,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 172,
-        "rank": 84065
+        "value": 174,
+        "rank": 83858
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 106733
+        "rank": 106815
       },
       {
         "key": "tztok_jad",
@@ -9744,12 +9948,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165397
+        "rank": 165413
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50377
+        "rank": 50389
       }
     ],
     "activities": [
@@ -9766,27 +9970,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160709
+        "rank": 160756
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93374
+        "rank": 93403
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117843
+        "rank": 117867
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151539
+        "rank": 151585
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 164020
+        "rank": 164068
       },
       {
         "key": "clue_scrolls_elite",
@@ -9801,7 +10005,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82412
+        "rank": 82409
       },
       {
         "key": "pvp_arena",
@@ -9816,7 +10020,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 119126
+        "rank": 119183
       },
       {
         "key": "colosseum_glory",
@@ -9830,8 +10034,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-10T19:44:29.813Z",
-    "updatedAt": "2026-11-10T19:44:29.813Z"
+    "checkedAt": "2026-11-11T19:36:45.995Z",
+    "updatedAt": "2026-11-11T19:36:45.995Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -10788,7 +10992,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-10T19:44:29.813Z",
-    "updatedAt": "2026-11-10T19:44:29.813Z"
+    "checkedAt": "2026-11-11T19:36:45.995Z",
+    "updatedAt": "2026-11-11T19:36:45.995Z"
   }
 }
