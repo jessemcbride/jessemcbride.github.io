@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T19:36:45.995Z",
+  "generatedAt": "2026-11-12T19:55:06.935Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "7xQYVjs4wZNdCwO0EeAWMC",
-        "title": "Born Slippy (Nuxx)",
-        "artist": "Underworld",
-        "album": "1992 - 2012",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731e34bdf6792b78c2da36a767",
-        "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC",
-        "durationMs": 456480,
-        "playedAt": "2026-11-11T18:43:40.412Z"
+        "id": "0faXHILILebCGnJBPU6KJJ",
+        "title": "The Diary of Jane - Single Version",
+        "artist": "Breaking Benjamin",
+        "album": "Phobia (Clean Version)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735aa75a47afe2804e280bd149",
+        "url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ",
+        "durationMs": 200546,
+        "playedAt": "2026-11-12T16:59:55.112Z"
       },
       {
-        "id": "7ub14NqqyR1MDUTXyFBTzO",
-        "title": "Immaterial",
-        "artist": "SOPHIE",
-        "album": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e9c0c7255ac40aa40d29bfb3",
-        "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO",
-        "durationMs": 232806,
-        "playedAt": "2026-11-11T16:39:54.922Z"
+        "id": "1ZLtE9tSJdaUiIJ9YoKHQe",
+        "title": "Decode",
+        "artist": "Paramore",
+        "album": "Decode",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b236d0eae2659e7e7adb8b56",
+        "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe",
+        "durationMs": 261959,
+        "playedAt": "2026-11-12T16:56:28.503Z"
       },
       {
-        "id": "3ne63mn2I1EXKi6kwpqq5X",
-        "title": "Torture Me (feat. Skrillex)",
-        "artist": "100 gecs, Skrillex",
-        "album": "Torture Me (feat. Skrillex)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27319e5e33fbc27c6d7aa77cf58",
-        "url": "https://open.spotify.com/track/3ne63mn2I1EXKi6kwpqq5X",
-        "durationMs": 113493,
-        "playedAt": "2026-11-11T16:35:59.231Z"
+        "id": "1fr92Vupmcs2vgLMFVQ7rd",
+        "title": "In the Shadows",
+        "artist": "The Rasmus",
+        "album": "Dead Letters",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739ee03a565b0bbf6af8b9733c",
+        "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd",
+        "durationMs": 257920,
+        "playedAt": "2026-11-12T16:36:43.373Z"
       },
       {
-        "id": "5ZbztTcvj6QWWbeYsL4GTa",
-        "title": "Fuck My Computer",
+        "id": "3v2XiE8ztYHOsrjIBN4Xh2",
+        "title": "Again",
+        "artist": "Flyleaf",
+        "album": "Memento Mori (Expanded)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
+        "url": "https://open.spotify.com/track/3v2XiE8ztYHOsrjIBN4Xh2",
+        "durationMs": 184920,
+        "playedAt": "2026-11-12T16:31:59.371Z"
+      },
+      {
+        "id": "4BIWl6xOUupdv3jpWtPSDC",
+        "title": "Fully Alive",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC",
+        "durationMs": 154133,
+        "playedAt": "2026-11-12T16:28:32.102Z"
+      },
+      {
+        "id": "3FP8A246XpuafFofRhDlWG",
+        "title": "I'm So Sick",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
+        "durationMs": 175880,
+        "playedAt": "2026-11-12T16:25:57.992Z"
+      },
+      {
+        "id": "1zN6ynJG4PdR61YWv4PQ3Y",
+        "title": "All Around Me",
+        "artist": "Flyleaf",
+        "album": "Flyleaf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+        "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
+        "durationMs": 198506,
+        "playedAt": "2026-11-12T16:23:01.596Z"
+      },
+      {
+        "id": "42a9PusvgFnyH0WgdCn6PV",
+        "title": "London Song",
         "artist": "Ninajirachi",
         "album": "I Love My Computer",
         "image": "https://i.scdn.co/image/ab67616d0000b2733b9b742c5c525af6e6767d87",
-        "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa",
-        "durationMs": 190577,
-        "playedAt": "2026-11-11T16:32:16.613Z"
-      },
-      {
-        "id": "2ljvO8ZpKFMT3HXwCjW4Yw",
-        "title": "anthems",
-        "artist": "Charli xcx",
-        "album": "how i'm feeling now",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa",
-        "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw",
-        "durationMs": 171813,
-        "playedAt": "2026-11-11T16:29:05.579Z"
-      },
-      {
-        "id": "0qMZXgcLfkl5RI3q50KHMH",
-        "title": "Dumbest Girl Alive",
-        "artist": "100 gecs",
-        "album": "10,000 gecs",
-        "image": "https://i.scdn.co/image/ab67616d0000b273140bf64ac9cddf05beaff312",
-        "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH",
-        "durationMs": 137440,
-        "playedAt": "2026-11-11T16:26:13.241Z"
-      },
-      {
-        "id": "6eqQLOOiqBnrwKQEzXoHll",
-        "title": "CRANK",
-        "artist": "Slayyyter",
-        "album": "WOR$T GIRL IN AMERICA",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
-        "url": "https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll",
-        "durationMs": 175743,
-        "playedAt": "2026-11-11T16:23:28.629Z"
-      },
-      {
-        "id": "0xu869oKDmbWv66goofbFq",
-        "title": "I’m your girl right? - Fcukers Remix",
-        "artist": "Tove Lo, Fcukers",
-        "album": "I’m your girl right? (Fcukers Remix)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739203553def2613662164b569",
-        "url": "https://open.spotify.com/track/0xu869oKDmbWv66goofbFq",
-        "durationMs": 343239,
-        "playedAt": "2026-11-10T20:28:21.348Z"
+        "url": "https://open.spotify.com/track/42a9PusvgFnyH0WgdCn6PV",
+        "durationMs": 195049,
+        "playedAt": "2026-11-12T16:19:32.343Z"
       }
     ],
     "observed": {
@@ -7802,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 182,
+          "plays": 190,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -7880,7 +7880,7 @@
               "id": "74XFHRwlV6OrjEM0A2NCMF",
               "name": "Paramore",
               "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
-              "plays": 4
+              "plays": 5
             },
             {
               "id": "3cdos5vq3wSUR8mEvMiqq9",
@@ -8138,7 +8138,7 @@
               "id": "4IliztYDlfMvzQzbx50o60",
               "name": "Flyleaf",
               "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
-              "plays": 6
+              "plays": 10
             },
             {
               "id": "4NiJW4q9ichVqL1aUsgGAN",
@@ -8348,7 +8348,7 @@
               "id": "3MekbRujJg5VZThubOlrkR",
               "name": "Ninajirachi",
               "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "25uiPmTg16RbhZWAqwLBy5",
@@ -8402,6 +8402,18 @@
               "id": "5Igpc9iLZ3YGtKeYfSrrOE",
               "name": "Chris Lake",
               "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE",
+              "plays": 1
+            },
+            {
+              "id": "5BtHciL0e0zOP7prIHn3pP",
+              "name": "Breaking Benjamin",
+              "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP",
+              "plays": 1
+            },
+            {
+              "id": "76ptJV8617638xrpeoUtzl",
+              "name": "The Rasmus",
+              "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl",
               "plays": 1
             }
           ],
@@ -9020,7 +9032,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/3v2XiE8ztYHOsrjIBN4Xh2",
               "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4BIWl6xOUupdv3jpWtPSDC",
@@ -9028,7 +9040,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3FP8A246XpuafFofRhDlWG",
@@ -9036,7 +9048,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1zN6ynJG4PdR61YWv4PQ3Y",
@@ -9044,7 +9056,7 @@
               "artist": "Flyleaf",
               "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
               "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4IX6QvjOI62tyHigVsTUlv",
@@ -9677,26 +9689,58 @@
               "url": "https://open.spotify.com/track/139izBI0AhdIJRMvCz1VZz",
               "image": "https://i.scdn.co/image/ab67616d0000b27386b7c80f34422c3c287f698e",
               "plays": 1
+            },
+            {
+              "id": "0faXHILILebCGnJBPU6KJJ",
+              "title": "The Diary of Jane - Single Version",
+              "artist": "Breaking Benjamin",
+              "url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735aa75a47afe2804e280bd149",
+              "plays": 1
+            },
+            {
+              "id": "1ZLtE9tSJdaUiIJ9YoKHQe",
+              "title": "Decode",
+              "artist": "Paramore",
+              "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b236d0eae2659e7e7adb8b56",
+              "plays": 1
+            },
+            {
+              "id": "1fr92Vupmcs2vgLMFVQ7rd",
+              "title": "In the Shadows",
+              "artist": "The Rasmus",
+              "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739ee03a565b0bbf6af8b9733c",
+              "plays": 1
+            },
+            {
+              "id": "42a9PusvgFnyH0WgdCn6PV",
+              "title": "London Song",
+              "artist": "Ninajirachi",
+              "url": "https://open.spotify.com/track/42a9PusvgFnyH0WgdCn6PV",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733b9b742c5c525af6e6767d87",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-11T18:43:40.412Z",
+      "lastPlayedAt": "2026-11-12T16:59:55.112Z",
       "lastKeys": [
-        "[1794422620412,\"7xQYVjs4wZNdCwO0EeAWMC\"]"
+        "[1794502795112,\"0faXHILILebCGnJBPU6KJJ\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-11T18:43:40.412Z"
+      "through": "2026-11-12T16:59:55.112Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-11T19:36:45.995Z",
-    "updatedAt": "2026-11-11T19:36:45.995Z"
+    "checkedAt": "2026-11-12T19:55:06.935Z",
+    "updatedAt": "2026-11-12T19:55:06.935Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-11T19:36:45.995Z",
-    "updatedAt": "2026-11-11T19:36:45.995Z"
+    "checkedAt": "2026-11-12T19:55:06.935Z",
+    "updatedAt": "2026-11-12T19:55:06.935Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -9706,156 +9750,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-11T19:36:47.478Z",
+    "snapshotAt": "2026-11-12T19:55:13.250Z",
     "skills": [
       {
         "key": "overall",
         "value": 1786,
-        "rank": 183807,
-        "xp": 36094476
+        "rank": 183850,
+        "xp": 36130338
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 237514,
-        "xp": 1159779
+        "rank": 237589,
+        "xp": 1160267
       },
       {
         "key": "defence",
         "value": 76,
-        "rank": 195292,
-        "xp": 1356201
+        "rank": 195108,
+        "xp": 1361199
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 232346,
+        "rank": 232403,
         "xp": 2464141
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 210067,
-        "xp": 3167137
+        "rank": 209908,
+        "xp": 3176922
       },
       {
         "key": "ranged",
         "value": 78,
-        "rank": 220372,
-        "xp": 1786885
+        "rank": 220172,
+        "xp": 1795777
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 176237,
+        "rank": 176288,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 172720,
-        "xp": 3381826
+        "rank": 172662,
+        "xp": 3388489
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 257130,
-        "xp": 885642
+        "rank": 256998,
+        "xp": 887112
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275285,
-        "xp": 883156
+        "rank": 275299,
+        "xp": 883436
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 260731,
+        "rank": 260782,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 293795,
-        "xp": 851112
+        "rank": 293692,
+        "xp": 852072
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199029,
+        "rank": 199031,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 73,
-        "rank": 210310,
-        "xp": 1054183
+        "rank": 210337,
+        "xp": 1055148
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190812,
-        "xp": 953745
+        "rank": 190772,
+        "xp": 954710
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 272457,
-        "xp": 944003
+        "rank": 272512,
+        "xp": 944283
       },
       {
         "key": "herblore",
         "value": 72,
-        "rank": 179181,
-        "xp": 904368
+        "rank": 179227,
+        "xp": 904448
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 163064,
+        "rank": 163103,
         "xp": 1439115
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 241847,
+        "rank": 241906,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 211429,
+        "rank": 211472,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179116,
-        "xp": 2025741
+        "rank": 179145,
+        "xp": 2025777
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152211,
+        "rank": 152233,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 237123,
+        "rank": 237186,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 162653,
+        "rank": 162706,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 95258,
+        "rank": 95398,
         "xp": 430576
       }
     ],
@@ -9868,27 +9912,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144586
+        "rank": 144609
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55752
+        "rank": 55808
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82745
+        "rank": 82793
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90892
+        "rank": 90913
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60271
+        "rank": 60292
       },
       {
         "key": "giant_mole",
@@ -9898,17 +9942,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140083
+        "rank": 140123
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92774
+        "rank": 92856
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 36219
+        "rank": 36312
       },
       {
         "key": "obor",
@@ -9918,12 +9962,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80973
+        "rank": 80997
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109201
+        "rank": 109210
       },
       {
         "key": "the_gauntlet",
@@ -9932,13 +9976,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 174,
-        "rank": 83858
+        "value": 178,
+        "rank": 83358
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 106815
+        "rank": 106891
       },
       {
         "key": "tztok_jad",
@@ -9948,12 +9992,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165413
+        "rank": 165401
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50389
+        "rank": 50403
       }
     ],
     "activities": [
@@ -9970,27 +10014,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160756
+        "rank": 160799
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93403
+        "rank": 93443
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117867
+        "rank": 117887
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151585
+        "rank": 151611
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 164068
+        "rank": 164092
       },
       {
         "key": "clue_scrolls_elite",
@@ -10005,7 +10049,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82409
+        "rank": 82405
       },
       {
         "key": "pvp_arena",
@@ -10020,7 +10064,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 119183
+        "rank": 119215
       },
       {
         "key": "colosseum_glory",
@@ -10034,8 +10078,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-11T19:36:45.995Z",
-    "updatedAt": "2026-11-11T19:36:45.995Z"
+    "checkedAt": "2026-11-12T19:55:06.935Z",
+    "updatedAt": "2026-11-12T19:55:06.935Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -10992,7 +11036,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-11T19:36:45.995Z",
-    "updatedAt": "2026-11-11T19:36:45.995Z"
+    "checkedAt": "2026-11-12T19:55:06.935Z",
+    "updatedAt": "2026-11-12T19:55:06.935Z"
   }
 }
