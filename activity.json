@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T19:55:06.935Z",
+  "generatedAt": "2026-11-13T19:43:11.733Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "0faXHILILebCGnJBPU6KJJ",
-        "title": "The Diary of Jane - Single Version",
-        "artist": "Breaking Benjamin",
-        "album": "Phobia (Clean Version)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735aa75a47afe2804e280bd149",
-        "url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ",
-        "durationMs": 200546,
-        "playedAt": "2026-11-12T16:59:55.112Z"
+        "id": "3DWOTqMQGp5q75fnVsWwaN",
+        "title": "Hey There Delilah - Bonus Track",
+        "artist": "Plain White T's",
+        "album": "Every Second Counts",
+        "image": "https://i.scdn.co/image/ab67616d0000b273596eb3b2abe78e33702b657f",
+        "url": "https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN",
+        "durationMs": 233280,
+        "playedAt": "2026-11-13T15:59:41.747Z"
       },
       {
-        "id": "1ZLtE9tSJdaUiIJ9YoKHQe",
-        "title": "Decode",
-        "artist": "Paramore",
-        "album": "Decode",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b236d0eae2659e7e7adb8b56",
-        "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe",
-        "durationMs": 261959,
-        "playedAt": "2026-11-12T16:56:28.503Z"
+        "id": "6MDTpYxPFL0wtFd0pjfKws",
+        "title": "Rhythm Of Love",
+        "artist": "Plain White T's",
+        "album": "Wonders Of The Younger",
+        "image": "https://i.scdn.co/image/ab67616d0000b27382553135f696b573f09a9a7d",
+        "url": "https://open.spotify.com/track/6MDTpYxPFL0wtFd0pjfKws",
+        "durationMs": 200200,
+        "playedAt": "2026-11-13T15:55:47.938Z"
       },
       {
-        "id": "1fr92Vupmcs2vgLMFVQ7rd",
-        "title": "In the Shadows",
-        "artist": "The Rasmus",
-        "album": "Dead Letters",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739ee03a565b0bbf6af8b9733c",
-        "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd",
-        "durationMs": 257920,
-        "playedAt": "2026-11-12T16:36:43.373Z"
+        "id": "3Vs1rV7DHlQpA7cknTZli9",
+        "title": "bad em up",
+        "artist": "oakland",
+        "album": "bad em up",
+        "image": "https://i.scdn.co/image/ab67616d0000b273973ca5273e42805ee2f46ca4",
+        "url": "https://open.spotify.com/track/3Vs1rV7DHlQpA7cknTZli9",
+        "durationMs": 154385,
+        "playedAt": "2026-11-13T15:51:23.461Z"
       },
       {
-        "id": "3v2XiE8ztYHOsrjIBN4Xh2",
-        "title": "Again",
-        "artist": "Flyleaf",
-        "album": "Memento Mori (Expanded)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
-        "url": "https://open.spotify.com/track/3v2XiE8ztYHOsrjIBN4Xh2",
-        "durationMs": 184920,
-        "playedAt": "2026-11-12T16:31:59.371Z"
+        "id": "3wwOqdtGSYD8U5pUwhAIdu",
+        "title": "Muffin Top",
+        "artist": "Jeff Richmond, Jane Krakowski",
+        "album": "30 Rock",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737ef5d624d6987e469d355b79",
+        "url": "https://open.spotify.com/track/3wwOqdtGSYD8U5pUwhAIdu",
+        "durationMs": 118026,
+        "playedAt": "2026-11-13T15:15:06.054Z"
       },
       {
-        "id": "4BIWl6xOUupdv3jpWtPSDC",
-        "title": "Fully Alive",
-        "artist": "Flyleaf",
-        "album": "Flyleaf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-        "url": "https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC",
-        "durationMs": 154133,
-        "playedAt": "2026-11-12T16:28:32.102Z"
+        "id": "57L9e2EIeXUFf6Et6iuXew",
+        "title": "F.I.T.F",
+        "artist": "Cap1talA, Awaiting Kvng, CLARK, BexBlu",
+        "album": "GRACE 4 DA HUNGRY",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738939f06799be6f1446879860",
+        "url": "https://open.spotify.com/track/57L9e2EIeXUFf6Et6iuXew",
+        "durationMs": 161176,
+        "playedAt": "2026-11-13T01:53:30.248Z"
       },
       {
-        "id": "3FP8A246XpuafFofRhDlWG",
-        "title": "I'm So Sick",
-        "artist": "Flyleaf",
-        "album": "Flyleaf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-        "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG",
-        "durationMs": 175880,
-        "playedAt": "2026-11-12T16:25:57.992Z"
+        "id": "1uCXKG8zhkTsGxJIXZNrw9",
+        "title": "the hood dream",
+        "artist": "808mystic",
+        "album": "the hood dream",
+        "image": "https://i.scdn.co/image/ab67616d0000b27375c02b82711e1ae74383fa3e",
+        "url": "https://open.spotify.com/track/1uCXKG8zhkTsGxJIXZNrw9",
+        "durationMs": 224460,
+        "playedAt": "2026-11-13T01:50:48.557Z"
       },
       {
-        "id": "1zN6ynJG4PdR61YWv4PQ3Y",
-        "title": "All Around Me",
-        "artist": "Flyleaf",
-        "album": "Flyleaf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
-        "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y",
-        "durationMs": 198506,
-        "playedAt": "2026-11-12T16:23:01.596Z"
+        "id": "6eJzRlm8EmkgyCzeBMgKty",
+        "title": "Resilience",
+        "artist": "db., Paul Stephan",
+        "album": "Resilience",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736c626cafa4f5b648558f30f0",
+        "url": "https://open.spotify.com/track/6eJzRlm8EmkgyCzeBMgKty",
+        "durationMs": 137168,
+        "playedAt": "2026-11-13T01:47:03.596Z"
       },
       {
-        "id": "42a9PusvgFnyH0WgdCn6PV",
-        "title": "London Song",
-        "artist": "Ninajirachi",
-        "album": "I Love My Computer",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b9b742c5c525af6e6767d87",
-        "url": "https://open.spotify.com/track/42a9PusvgFnyH0WgdCn6PV",
-        "durationMs": 195049,
-        "playedAt": "2026-11-12T16:19:32.343Z"
+        "id": "1skgStMiBAJ2v9Xv7rii6t",
+        "title": "GROWTH & RELAX",
+        "artist": "Paul Stephan, db.",
+        "album": "GROWTH & RELAX",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736cb0f4cb1456fba3c40c0389",
+        "url": "https://open.spotify.com/track/1skgStMiBAJ2v9Xv7rii6t",
+        "durationMs": 171624,
+        "playedAt": "2026-11-13T01:44:45.947Z"
       }
     ],
     "observed": {
@@ -7802,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 190,
+          "plays": 207,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -8414,6 +8414,132 @@
               "id": "76ptJV8617638xrpeoUtzl",
               "name": "The Rasmus",
               "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl",
+              "plays": 1
+            },
+            {
+              "id": "1g1yxsNVPhMUl9GrMjEb2o",
+              "name": "Plain White T's",
+              "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o",
+              "plays": 2
+            },
+            {
+              "id": "4CfWjzq3Zc0UwRZduTCzgz",
+              "name": "oakland",
+              "url": "https://open.spotify.com/artist/4CfWjzq3Zc0UwRZduTCzgz",
+              "plays": 1
+            },
+            {
+              "id": "69udE1SS0NDUtbx6HKiO4r",
+              "name": "Jeff Richmond",
+              "url": "https://open.spotify.com/artist/69udE1SS0NDUtbx6HKiO4r",
+              "plays": 1
+            },
+            {
+              "id": "7Eb5SuBHafZ7rSw3wwS5lO",
+              "name": "Jane Krakowski",
+              "url": "https://open.spotify.com/artist/7Eb5SuBHafZ7rSw3wwS5lO",
+              "plays": 1
+            },
+            {
+              "id": "0s3JtIl5TIWbFD08yesQdW",
+              "name": "Cap1talA",
+              "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW",
+              "plays": 1
+            },
+            {
+              "id": "4kzXgdwAgZoKXO8GNMgvFc",
+              "name": "Awaiting Kvng",
+              "url": "https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc",
+              "plays": 1
+            },
+            {
+              "id": "3oe253onRmaxNiz7NkNELQ",
+              "name": "CLARK",
+              "url": "https://open.spotify.com/artist/3oe253onRmaxNiz7NkNELQ",
+              "plays": 1
+            },
+            {
+              "id": "5pXt1B1htTEbkBbQrgNbhy",
+              "name": "BexBlu",
+              "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy",
+              "plays": 4
+            },
+            {
+              "id": "2ccryHSU1JpKIV3Pidipbq",
+              "name": "808mystic",
+              "url": "https://open.spotify.com/artist/2ccryHSU1JpKIV3Pidipbq",
+              "plays": 1
+            },
+            {
+              "id": "1G0EC1iC9XLhQ03JyKEFSW",
+              "name": "db.",
+              "url": "https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW",
+              "plays": 2
+            },
+            {
+              "id": "4mJjROPMjSeN3bcyUR2sXF",
+              "name": "Paul Stephan",
+              "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF",
+              "plays": 4
+            },
+            {
+              "id": "3a1tBryiczPAZpgoZN9Rzg",
+              "name": "Asake",
+              "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg",
+              "plays": 2
+            },
+            {
+              "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+              "name": "Travis Scott",
+              "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
+              "plays": 1
+            },
+            {
+              "id": "1GuqTQbuixFHD6eBkFwVcb",
+              "name": "Sammy Virji",
+              "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb",
+              "plays": 1
+            },
+            {
+              "id": "2p1fiYHYiXz9qi0JJyxBzN",
+              "name": "Skepta",
+              "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN",
+              "plays": 4
+            },
+            {
+              "id": "3EjNHY8UswIZAxMjqXewVH",
+              "name": "Douvelle19",
+              "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH",
+              "plays": 1
+            },
+            {
+              "id": "4oLeXFyACqeem2VImYeBFe",
+              "name": "Fred again..",
+              "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe",
+              "plays": 1
+            },
+            {
+              "id": "79NDEw5QWlDC9KaIbogNhS",
+              "name": "PlaqueBoyMax",
+              "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS",
+              "plays": 1
+            },
+            {
+              "id": "03ojdQidPtScdEq8KU2V9K",
+              "name": "Lex Luger",
+              "url": "https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K",
+              "plays": 1
+            },
+            {
+              "id": "2KShewLkb92FKEZ6N4cVP9",
+              "name": "Vanco",
+              "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9",
+              "plays": 1
+            },
+            {
+              "id": "19I4tYiChJoxEO5EuviXpz",
+              "name": "AFI",
+              "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz",
               "plays": 1
             }
           ],
@@ -9721,26 +9847,154 @@
               "url": "https://open.spotify.com/track/42a9PusvgFnyH0WgdCn6PV",
               "image": "https://i.scdn.co/image/ab67616d0000b2733b9b742c5c525af6e6767d87",
               "plays": 1
+            },
+            {
+              "id": "3DWOTqMQGp5q75fnVsWwaN",
+              "title": "Hey There Delilah - Bonus Track",
+              "artist": "Plain White T's",
+              "url": "https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN",
+              "image": "https://i.scdn.co/image/ab67616d0000b273596eb3b2abe78e33702b657f",
+              "plays": 1
+            },
+            {
+              "id": "6MDTpYxPFL0wtFd0pjfKws",
+              "title": "Rhythm Of Love",
+              "artist": "Plain White T's",
+              "url": "https://open.spotify.com/track/6MDTpYxPFL0wtFd0pjfKws",
+              "image": "https://i.scdn.co/image/ab67616d0000b27382553135f696b573f09a9a7d",
+              "plays": 1
+            },
+            {
+              "id": "3Vs1rV7DHlQpA7cknTZli9",
+              "title": "bad em up",
+              "artist": "oakland",
+              "url": "https://open.spotify.com/track/3Vs1rV7DHlQpA7cknTZli9",
+              "image": "https://i.scdn.co/image/ab67616d0000b273973ca5273e42805ee2f46ca4",
+              "plays": 1
+            },
+            {
+              "id": "3wwOqdtGSYD8U5pUwhAIdu",
+              "title": "Muffin Top",
+              "artist": "Jeff Richmond, Jane Krakowski",
+              "url": "https://open.spotify.com/track/3wwOqdtGSYD8U5pUwhAIdu",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737ef5d624d6987e469d355b79",
+              "plays": 1
+            },
+            {
+              "id": "57L9e2EIeXUFf6Et6iuXew",
+              "title": "F.I.T.F",
+              "artist": "Cap1talA, Awaiting Kvng, CLARK, BexBlu",
+              "url": "https://open.spotify.com/track/57L9e2EIeXUFf6Et6iuXew",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738939f06799be6f1446879860",
+              "plays": 1
+            },
+            {
+              "id": "1uCXKG8zhkTsGxJIXZNrw9",
+              "title": "the hood dream",
+              "artist": "808mystic",
+              "url": "https://open.spotify.com/track/1uCXKG8zhkTsGxJIXZNrw9",
+              "image": "https://i.scdn.co/image/ab67616d0000b27375c02b82711e1ae74383fa3e",
+              "plays": 1
+            },
+            {
+              "id": "6eJzRlm8EmkgyCzeBMgKty",
+              "title": "Resilience",
+              "artist": "db., Paul Stephan",
+              "url": "https://open.spotify.com/track/6eJzRlm8EmkgyCzeBMgKty",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736c626cafa4f5b648558f30f0",
+              "plays": 1
+            },
+            {
+              "id": "1skgStMiBAJ2v9Xv7rii6t",
+              "title": "GROWTH & RELAX",
+              "artist": "Paul Stephan, db.",
+              "url": "https://open.spotify.com/track/1skgStMiBAJ2v9Xv7rii6t",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736cb0f4cb1456fba3c40c0389",
+              "plays": 1
+            },
+            {
+              "id": "36Ce51BaHK5ANV2XDkHL7X",
+              "title": "checkonechecktwo_",
+              "artist": "BexBlu",
+              "url": "https://open.spotify.com/track/36Ce51BaHK5ANV2XDkHL7X",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739cc4a5c24830074aae06e170",
+              "plays": 1
+            },
+            {
+              "id": "1F20jGNfCjT1qjuuE9lBkw",
+              "title": "SOUND OF THE SOUTH",
+              "artist": "BexBlu, Paul Stephan",
+              "url": "https://open.spotify.com/track/1F20jGNfCjT1qjuuE9lBkw",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735f97acca06a56259639a87d8",
+              "plays": 2
+            },
+            {
+              "id": "1qxKva4IzWde7m2jLpZvDU",
+              "title": "Active",
+              "artist": "Asake, Travis Scott",
+              "url": "https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737c45c1c29c18a5e0b46fc117",
+              "plays": 1
+            },
+            {
+              "id": "0s3vgltpJZvqyV49ojFJnu",
+              "title": "Cops & Robbers - Douvelle19 Remix",
+              "artist": "Sammy Virji, Skepta, Douvelle19",
+              "url": "https://open.spotify.com/track/0s3vgltpJZvqyV49ojFJnu",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736932d2b4d8d2eb6984f43bf4",
+              "plays": 1
+            },
+            {
+              "id": "1lbNgoJ5iMrMluCyhI4OQP",
+              "title": "Victory Lap",
+              "artist": "Fred again.., Skepta, PlaqueBoyMax",
+              "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bf705b821b031cefe91d7b90",
+              "plays": 1
+            },
+            {
+              "id": "2nVP6HXSfFSD5ISwQmaQ8w",
+              "title": "Currency",
+              "artist": "Skepta",
+              "url": "https://open.spotify.com/track/2nVP6HXSfFSD5ISwQmaQ8w",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bb6ed2bcfdcac86babef4076",
+              "plays": 1
+            },
+            {
+              "id": "3JL7OwWcUt045JNYKOOD9A",
+              "title": "Aloe Vera (feat. Asake)",
+              "artist": "Skepta, Asake, Lex Luger, Vanco",
+              "url": "https://open.spotify.com/track/3JL7OwWcUt045JNYKOOD9A",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735a800118f925e41820664b5c",
+              "plays": 1
+            },
+            {
+              "id": "0Ti2dlF2xLjXblvdU5fCxM",
+              "title": "Miss Murder",
+              "artist": "AFI",
+              "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736c050d183c1fff7158c7bcd3",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-12T16:59:55.112Z",
+      "lastPlayedAt": "2026-11-13T15:59:41.747Z",
       "lastKeys": [
-        "[1794502795112,\"0faXHILILebCGnJBPU6KJJ\"]"
+        "[1794585581747,\"3DWOTqMQGp5q75fnVsWwaN\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-12T16:59:55.112Z"
+      "through": "2026-11-13T15:59:41.747Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-12T19:55:06.935Z",
-    "updatedAt": "2026-11-12T19:55:06.935Z"
+    "checkedAt": "2026-11-13T19:43:11.733Z",
+    "updatedAt": "2026-11-13T19:43:11.733Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-12T19:55:06.935Z",
-    "updatedAt": "2026-11-12T19:55:06.935Z"
+    "checkedAt": "2026-11-13T19:43:11.733Z",
+    "updatedAt": "2026-11-13T19:43:11.733Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -9750,156 +10004,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-12T19:55:13.250Z",
+    "snapshotAt": "2026-11-13T19:43:13.929Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1786,
-        "rank": 183850,
-        "xp": 36130338
+        "value": 1787,
+        "rank": 183638,
+        "xp": 36162623
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 237589,
-        "xp": 1160267
+        "rank": 237683,
+        "xp": 1160891
       },
       {
         "key": "defence",
         "value": 76,
-        "rank": 195108,
-        "xp": 1361199
+        "rank": 195022,
+        "xp": 1365385
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 232403,
+        "rank": 232503,
         "xp": 2464141
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 209908,
-        "xp": 3176922
+        "rank": 209801,
+        "xp": 3185526
       },
       {
         "key": "ranged",
-        "value": 78,
-        "rank": 220172,
-        "xp": 1795777
+        "value": 79,
+        "rank": 219920,
+        "xp": 1804239
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 176288,
+        "rank": 176363,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 172662,
-        "xp": 3388489
+        "rank": 172614,
+        "xp": 3394069
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 256998,
-        "xp": 887112
+        "rank": 256890,
+        "xp": 888462
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275299,
-        "xp": 883436
+        "rank": 275321,
+        "xp": 883756
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 260782,
+        "rank": 260857,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 293692,
-        "xp": 852072
+        "rank": 293699,
+        "xp": 852782
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199031,
+        "rank": 199076,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 73,
-        "rank": 210337,
-        "xp": 1055148
+        "rank": 210378,
+        "xp": 1056163
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190772,
-        "xp": 954710
+        "rank": 190761,
+        "xp": 955725
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 272512,
-        "xp": 944283
+        "rank": 272587,
+        "xp": 944583
       },
       {
         "key": "herblore",
         "value": 72,
-        "rank": 179227,
-        "xp": 904448
+        "rank": 179276,
+        "xp": 904528
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 163103,
+        "rank": 163160,
         "xp": 1439115
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 241906,
+        "rank": 241984,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 211472,
+        "rank": 211535,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179145,
-        "xp": 2025777
+        "rank": 179200,
+        "xp": 2025816
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152233,
+        "rank": 152283,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 237186,
+        "rank": 237297,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 162706,
+        "rank": 162772,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 95398,
+        "rank": 95514,
         "xp": 430576
       }
     ],
@@ -9912,27 +10166,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144609
+        "rank": 144653
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55808
+        "rank": 55875
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82793
+        "rank": 82832
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90913
+        "rank": 90941
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60292
+        "rank": 60309
       },
       {
         "key": "giant_mole",
@@ -9942,17 +10196,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140123
+        "rank": 140167
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92856
+        "rank": 92918
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 36312
+        "rank": 36407
       },
       {
         "key": "obor",
@@ -9962,12 +10216,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 80997
+        "rank": 81042
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109210
+        "rank": 109252
       },
       {
         "key": "the_gauntlet",
@@ -9976,13 +10230,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 178,
-        "rank": 83358
+        "value": 181,
+        "rank": 83007
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 106891
+        "rank": 106963
       },
       {
         "key": "tztok_jad",
@@ -9992,12 +10246,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165401
+        "rank": 165423
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50403
+        "rank": 50412
       }
     ],
     "activities": [
@@ -10014,27 +10268,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160799
+        "rank": 160843
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93443
+        "rank": 93482
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117887
+        "rank": 117914
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151611
+        "rank": 151659
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 164092
+        "rank": 164128
       },
       {
         "key": "clue_scrolls_elite",
@@ -10049,7 +10303,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82405
+        "rank": 82408
       },
       {
         "key": "pvp_arena",
@@ -10064,7 +10318,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 119215
+        "rank": 119282
       },
       {
         "key": "colosseum_glory",
@@ -10078,8 +10332,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-12T19:55:06.935Z",
-    "updatedAt": "2026-11-12T19:55:06.935Z"
+    "checkedAt": "2026-11-13T19:43:11.733Z",
+    "updatedAt": "2026-11-13T19:43:11.733Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -11036,7 +11290,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-12T19:55:06.935Z",
-    "updatedAt": "2026-11-12T19:55:06.935Z"
+    "checkedAt": "2026-11-13T19:43:11.733Z",
+    "updatedAt": "2026-11-13T19:43:11.733Z"
   }
 }
