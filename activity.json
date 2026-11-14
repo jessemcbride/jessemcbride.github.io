@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T19:43:11.733Z",
+  "generatedAt": "2026-11-14T18:03:19.665Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "3DWOTqMQGp5q75fnVsWwaN",
-        "title": "Hey There Delilah - Bonus Track",
-        "artist": "Plain White T's",
-        "album": "Every Second Counts",
-        "image": "https://i.scdn.co/image/ab67616d0000b273596eb3b2abe78e33702b657f",
-        "url": "https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN",
-        "durationMs": 233280,
-        "playedAt": "2026-11-13T15:59:41.747Z"
+        "id": "1Q9gtac5N9RFdq5dKuToST",
+        "title": "The Calm That Keeps You Awake",
+        "artist": "Knocked Loose",
+        "album": "You Won't Go Before You're Supposed To",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+        "url": "https://open.spotify.com/track/1Q9gtac5N9RFdq5dKuToST",
+        "durationMs": 161514,
+        "playedAt": "2026-11-13T22:23:34.254Z"
       },
       {
-        "id": "6MDTpYxPFL0wtFd0pjfKws",
-        "title": "Rhythm Of Love",
-        "artist": "Plain White T's",
-        "album": "Wonders Of The Younger",
-        "image": "https://i.scdn.co/image/ab67616d0000b27382553135f696b573f09a9a7d",
-        "url": "https://open.spotify.com/track/6MDTpYxPFL0wtFd0pjfKws",
-        "durationMs": 200200,
-        "playedAt": "2026-11-13T15:55:47.938Z"
+        "id": "3IXBQaQJ5ljpWwndAVvixg",
+        "title": "Slaughterhouse 2 (feat. Chris Motionless)",
+        "artist": "Knocked Loose, Motionless In White, Chris Motionless",
+        "album": "You Won't Go Before You're Supposed To",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+        "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg",
+        "durationMs": 183721,
+        "playedAt": "2026-11-13T22:20:52.708Z"
       },
       {
-        "id": "3Vs1rV7DHlQpA7cknTZli9",
-        "title": "bad em up",
-        "artist": "oakland",
-        "album": "bad em up",
-        "image": "https://i.scdn.co/image/ab67616d0000b273973ca5273e42805ee2f46ca4",
-        "url": "https://open.spotify.com/track/3Vs1rV7DHlQpA7cknTZli9",
-        "durationMs": 154385,
-        "playedAt": "2026-11-13T15:51:23.461Z"
+        "id": "52axOqZVdRqyH7ZTYGJX1Z",
+        "title": "Take Me Home",
+        "artist": "Knocked Loose",
+        "album": "You Won't Go Before You're Supposed To",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+        "url": "https://open.spotify.com/track/52axOqZVdRqyH7ZTYGJX1Z",
+        "durationMs": 135678,
+        "playedAt": "2026-11-13T22:17:49.007Z"
       },
       {
-        "id": "3wwOqdtGSYD8U5pUwhAIdu",
-        "title": "Muffin Top",
-        "artist": "Jeff Richmond, Jane Krakowski",
-        "album": "30 Rock",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737ef5d624d6987e469d355b79",
-        "url": "https://open.spotify.com/track/3wwOqdtGSYD8U5pUwhAIdu",
-        "durationMs": 118026,
-        "playedAt": "2026-11-13T15:15:06.054Z"
+        "id": "304147FnUgPZ5ko2sFDSFm",
+        "title": "Moss Covers All",
+        "artist": "Knocked Loose",
+        "album": "You Won't Go Before You're Supposed To",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+        "url": "https://open.spotify.com/track/304147FnUgPZ5ko2sFDSFm",
+        "durationMs": 46354,
+        "playedAt": "2026-11-13T22:15:33.302Z"
       },
       {
-        "id": "57L9e2EIeXUFf6Et6iuXew",
-        "title": "F.I.T.F",
-        "artist": "Cap1talA, Awaiting Kvng, CLARK, BexBlu",
-        "album": "GRACE 4 DA HUNGRY",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738939f06799be6f1446879860",
-        "url": "https://open.spotify.com/track/57L9e2EIeXUFf6Et6iuXew",
-        "durationMs": 161176,
-        "playedAt": "2026-11-13T01:53:30.248Z"
+        "id": "5hPjTibz6wInfJQvImFp9I",
+        "title": "Don't Reach For Me",
+        "artist": "Knocked Loose",
+        "album": "You Won't Go Before You're Supposed To",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+        "url": "https://open.spotify.com/track/5hPjTibz6wInfJQvImFp9I",
+        "durationMs": 225240,
+        "playedAt": "2026-11-13T22:14:46.982Z"
       },
       {
-        "id": "1uCXKG8zhkTsGxJIXZNrw9",
-        "title": "the hood dream",
-        "artist": "808mystic",
-        "album": "the hood dream",
-        "image": "https://i.scdn.co/image/ab67616d0000b27375c02b82711e1ae74383fa3e",
-        "url": "https://open.spotify.com/track/1uCXKG8zhkTsGxJIXZNrw9",
-        "durationMs": 224460,
-        "playedAt": "2026-11-13T01:50:48.557Z"
+        "id": "6PXYOVPBzO3xojFhQAvmde",
+        "title": "Suffocate (feat. Poppy)",
+        "artist": "Knocked Loose, Poppy",
+        "album": "You Won't Go Before You're Supposed To",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+        "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde",
+        "durationMs": 164695,
+        "playedAt": "2026-11-13T22:11:01.694Z"
       },
       {
-        "id": "6eJzRlm8EmkgyCzeBMgKty",
-        "title": "Resilience",
-        "artist": "db., Paul Stephan",
-        "album": "Resilience",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736c626cafa4f5b648558f30f0",
-        "url": "https://open.spotify.com/track/6eJzRlm8EmkgyCzeBMgKty",
-        "durationMs": 137168,
-        "playedAt": "2026-11-13T01:47:03.596Z"
+        "id": "7sSnydn10cmiEDOd4hPKxU",
+        "title": "Piece By Piece",
+        "artist": "Knocked Loose",
+        "album": "You Won't Go Before You're Supposed To",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+        "url": "https://open.spotify.com/track/7sSnydn10cmiEDOd4hPKxU",
+        "durationMs": 171176,
+        "playedAt": "2026-11-13T22:08:16.997Z"
       },
       {
-        "id": "1skgStMiBAJ2v9Xv7rii6t",
-        "title": "GROWTH & RELAX",
-        "artist": "Paul Stephan, db.",
-        "album": "GROWTH & RELAX",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736cb0f4cb1456fba3c40c0389",
-        "url": "https://open.spotify.com/track/1skgStMiBAJ2v9Xv7rii6t",
-        "durationMs": 171624,
-        "playedAt": "2026-11-13T01:44:45.947Z"
+        "id": "7wk4CsCdm795itk3Yir8pS",
+        "title": "Thirst",
+        "artist": "Knocked Loose",
+        "album": "You Won't Go Before You're Supposed To",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+        "url": "https://open.spotify.com/track/7wk4CsCdm795itk3Yir8pS",
+        "durationMs": 106875,
+        "playedAt": "2026-11-13T22:05:25.896Z"
       }
     ],
     "observed": {
@@ -7802,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 207,
+          "plays": 216,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -8222,13 +8222,13 @@
               "id": "4qrHkx5cgWIslciLXUMrYw",
               "name": "Knocked Loose",
               "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw",
-              "plays": 2
+              "plays": 10
             },
             {
               "id": "5mlbvTfWUOfDrUIK6dkNzv",
               "name": "Poppy",
               "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3e9iOsz5fwUAp3oX5Tcyyr",
@@ -8420,7 +8420,7 @@
               "id": "1g1yxsNVPhMUl9GrMjEb2o",
               "name": "Plain White T's",
               "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "4CfWjzq3Zc0UwRZduTCzgz",
@@ -8540,6 +8540,18 @@
               "id": "19I4tYiChJoxEO5EuviXpz",
               "name": "AFI",
               "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz",
+              "plays": 1
+            },
+            {
+              "id": "6MwPCCR936cYfM1dLsGVnl",
+              "name": "Motionless In White",
+              "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl",
+              "plays": 1
+            },
+            {
+              "id": "2bulKOP1y1iUYGE6FcMrHd",
+              "name": "Chris Motionless",
+              "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd",
               "plays": 1
             }
           ],
@@ -9510,7 +9522,7 @@
               "artist": "Knocked Loose, Poppy",
               "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde",
               "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5XteqPfhtbveJEWtNrh44c",
@@ -9975,26 +9987,90 @@
               "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM",
               "image": "https://i.scdn.co/image/ab67616d0000b2736c050d183c1fff7158c7bcd3",
               "plays": 1
+            },
+            {
+              "id": "1Q9gtac5N9RFdq5dKuToST",
+              "title": "The Calm That Keeps You Awake",
+              "artist": "Knocked Loose",
+              "url": "https://open.spotify.com/track/1Q9gtac5N9RFdq5dKuToST",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+              "plays": 1
+            },
+            {
+              "id": "3IXBQaQJ5ljpWwndAVvixg",
+              "title": "Slaughterhouse 2 (feat. Chris Motionless)",
+              "artist": "Knocked Loose, Motionless In White, Chris Motionless",
+              "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+              "plays": 1
+            },
+            {
+              "id": "52axOqZVdRqyH7ZTYGJX1Z",
+              "title": "Take Me Home",
+              "artist": "Knocked Loose",
+              "url": "https://open.spotify.com/track/52axOqZVdRqyH7ZTYGJX1Z",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+              "plays": 1
+            },
+            {
+              "id": "304147FnUgPZ5ko2sFDSFm",
+              "title": "Moss Covers All",
+              "artist": "Knocked Loose",
+              "url": "https://open.spotify.com/track/304147FnUgPZ5ko2sFDSFm",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+              "plays": 1
+            },
+            {
+              "id": "5hPjTibz6wInfJQvImFp9I",
+              "title": "Don't Reach For Me",
+              "artist": "Knocked Loose",
+              "url": "https://open.spotify.com/track/5hPjTibz6wInfJQvImFp9I",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+              "plays": 1
+            },
+            {
+              "id": "7sSnydn10cmiEDOd4hPKxU",
+              "title": "Piece By Piece",
+              "artist": "Knocked Loose",
+              "url": "https://open.spotify.com/track/7sSnydn10cmiEDOd4hPKxU",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+              "plays": 1
+            },
+            {
+              "id": "7wk4CsCdm795itk3Yir8pS",
+              "title": "Thirst",
+              "artist": "Knocked Loose",
+              "url": "https://open.spotify.com/track/7wk4CsCdm795itk3Yir8pS",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
+              "plays": 1
+            },
+            {
+              "id": "5VWmMZCfJ4yVkJw9ZLFXej",
+              "title": "1, 2, 3, 4",
+              "artist": "Plain White T's",
+              "url": "https://open.spotify.com/track/5VWmMZCfJ4yVkJw9ZLFXej",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735401a744c4292cf397ad32b5",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-13T15:59:41.747Z",
+      "lastPlayedAt": "2026-11-13T22:23:34.254Z",
       "lastKeys": [
-        "[1794585581747,\"3DWOTqMQGp5q75fnVsWwaN\"]"
+        "[1794608614254,\"1Q9gtac5N9RFdq5dKuToST\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-13T15:59:41.747Z"
+      "through": "2026-11-13T22:23:34.254Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-13T19:43:11.733Z",
-    "updatedAt": "2026-11-13T19:43:11.733Z"
+    "checkedAt": "2026-11-14T18:03:19.665Z",
+    "updatedAt": "2026-11-14T18:03:19.665Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-13T19:43:11.733Z",
-    "updatedAt": "2026-11-13T19:43:11.733Z"
+    "checkedAt": "2026-11-14T18:03:19.665Z",
+    "updatedAt": "2026-11-14T18:03:19.665Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -10004,156 +10080,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-13T19:43:13.929Z",
+    "snapshotAt": "2026-11-14T18:03:26.261Z",
     "skills": [
       {
         "key": "overall",
         "value": 1787,
-        "rank": 183638,
-        "xp": 36162623
+        "rank": 183713,
+        "xp": 36214675
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 237683,
-        "xp": 1160891
+        "rank": 237776,
+        "xp": 1161563
       },
       {
         "key": "defence",
         "value": 76,
-        "rank": 195022,
-        "xp": 1365385
+        "rank": 194932,
+        "xp": 1369707
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 232503,
+        "rank": 232580,
         "xp": 2464141
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 209801,
-        "xp": 3185526
+        "rank": 209682,
+        "xp": 3194646
       },
       {
         "key": "ranged",
         "value": 79,
-        "rank": 219920,
-        "xp": 1804239
+        "rank": 219693,
+        "xp": 1813658
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 176363,
+        "rank": 176426,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 172614,
-        "xp": 3394069
+        "rank": 172508,
+        "xp": 3401850
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 256890,
-        "xp": 888462
+        "rank": 256778,
+        "xp": 889887
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275321,
-        "xp": 883756
+        "rank": 275365,
+        "xp": 883996
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 260857,
+        "rank": 260963,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 293699,
-        "xp": 852782
+        "rank": 293675,
+        "xp": 853602
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199076,
+        "rank": 199132,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 73,
-        "rank": 210378,
-        "xp": 1056163
+        "rank": 210429,
+        "xp": 1057143
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190761,
-        "xp": 955725
+        "rank": 190758,
+        "xp": 956665
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 272587,
-        "xp": 944583
+        "rank": 272664,
+        "xp": 944823
       },
       {
         "key": "herblore",
         "value": 72,
-        "rank": 179276,
-        "xp": 904528
+        "rank": 177790,
+        "xp": 920358
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 163160,
+        "rank": 163221,
         "xp": 1439115
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 241984,
+        "rank": 242086,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 211535,
+        "rank": 211607,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179200,
-        "xp": 2025816
+        "rank": 179245,
+        "xp": 2026079
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152283,
+        "rank": 152339,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 237297,
+        "rank": 237401,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 162772,
+        "rank": 162854,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 95514,
+        "rank": 95635,
         "xp": 430576
       }
     ],
@@ -10166,27 +10242,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144653
+        "rank": 144704
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 55875
+        "rank": 55943
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82832
+        "rank": 82869
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 90941
+        "rank": 90974
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60309
+        "rank": 60330
       },
       {
         "key": "giant_mole",
@@ -10196,17 +10272,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140167
+        "rank": 140207
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 92918
+        "rank": 93000
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 36407
+        "rank": 36506
       },
       {
         "key": "obor",
@@ -10216,12 +10292,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 81042
+        "rank": 81085
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109252
+        "rank": 109305
       },
       {
         "key": "the_gauntlet",
@@ -10230,13 +10306,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 181,
-        "rank": 83007
+        "value": 184,
+        "rank": 82634
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 106963
+        "rank": 107052
       },
       {
         "key": "tztok_jad",
@@ -10246,12 +10322,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165423
+        "rank": 165460
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50412
+        "rank": 50423
       }
     ],
     "activities": [
@@ -10268,27 +10344,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160843
+        "rank": 160891
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93482
+        "rank": 93512
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117914
+        "rank": 117950
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151659
+        "rank": 151710
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 164128
+        "rank": 164176
       },
       {
         "key": "clue_scrolls_elite",
@@ -10303,7 +10379,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82408
+        "rank": 82412
       },
       {
         "key": "pvp_arena",
@@ -10318,7 +10394,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 119282
+        "rank": 119341
       },
       {
         "key": "colosseum_glory",
@@ -10332,8 +10408,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-13T19:43:11.733Z",
-    "updatedAt": "2026-11-13T19:43:11.733Z"
+    "checkedAt": "2026-11-14T18:03:19.665Z",
+    "updatedAt": "2026-11-14T18:03:19.665Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -11290,7 +11366,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-13T19:43:11.733Z",
-    "updatedAt": "2026-11-13T19:43:11.733Z"
+    "checkedAt": "2026-11-14T18:03:19.665Z",
+    "updatedAt": "2026-11-14T18:03:19.665Z"
   }
 }
