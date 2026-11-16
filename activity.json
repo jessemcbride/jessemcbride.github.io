@@ -1,10 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T18:51:56.300Z",
+  "generatedAt": "2026-11-16T22:03:21.339Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
+      {
+        "id": "3ExlReuvyQzfQbIxMOWvsv",
+        "title": "parasite",
+        "artist": "thrown",
+        "album": "EXTENDED PAIN",
+        "image": "https://i.scdn.co/image/ab67616d0000b27388eb2ff782b743eed6a79d43",
+        "url": "https://open.spotify.com/track/3ExlReuvyQzfQbIxMOWvsv",
+        "durationMs": 154753,
+        "playedAt": "2026-11-16T04:50:58.492Z"
+      },
       {
         "id": "5PZZ3G5djpINln9xcMxcmB",
         "title": "the center’s falling out",
@@ -74,16 +84,6 @@
         "url": "https://open.spotify.com/track/0qW7uuJfh6tuDocaamHi0I",
         "durationMs": 147227,
         "playedAt": "2026-11-14T23:14:29.007Z"
-      },
-      {
-        "id": "6cBMnwQRW3JYxugwJE3LC4",
-        "title": "Red Teeth",
-        "artist": "Dealer",
-        "album": "New Order Of Mind",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731106005aff377dfb33e064d3",
-        "url": "https://open.spotify.com/track/6cBMnwQRW3JYxugwJE3LC4",
-        "durationMs": 174967,
-        "playedAt": "2026-11-14T23:12:01.228Z"
       }
     ],
     "observed": {
@@ -7802,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 236,
+          "plays": 237,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -8600,7 +8600,7 @@
               "id": "5eBCPtU2iPbzuMRre9BePt",
               "name": "thrown",
               "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4ZWRLOs7c4drt9mKGc0Ds0",
@@ -10249,26 +10249,34 @@
               "url": "https://open.spotify.com/track/4VksDJS5zhseecrsTD8uPr",
               "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
               "plays": 1
+            },
+            {
+              "id": "3ExlReuvyQzfQbIxMOWvsv",
+              "title": "parasite",
+              "artist": "thrown",
+              "url": "https://open.spotify.com/track/3ExlReuvyQzfQbIxMOWvsv",
+              "image": "https://i.scdn.co/image/ab67616d0000b27388eb2ff782b743eed6a79d43",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-14T23:30:49.696Z",
+      "lastPlayedAt": "2026-11-16T04:50:58.492Z",
       "lastKeys": [
-        "[1794699049696,\"5PZZ3G5djpINln9xcMxcmB\"]"
+        "[1794804658492,\"3ExlReuvyQzfQbIxMOWvsv\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-14T23:30:49.696Z"
+      "through": "2026-11-16T04:50:58.492Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-15T18:51:56.300Z",
-    "updatedAt": "2026-11-15T18:51:56.300Z"
+    "checkedAt": "2026-11-16T22:03:21.339Z",
+    "updatedAt": "2026-11-16T22:03:21.339Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-15T18:51:56.300Z",
-    "updatedAt": "2026-11-15T18:51:56.300Z"
+    "checkedAt": "2026-11-16T22:03:21.339Z",
+    "updatedAt": "2026-11-16T22:03:21.339Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -10278,156 +10286,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-15T18:51:57.570Z",
+    "snapshotAt": "2026-11-16T22:03:22.619Z",
     "skills": [
       {
         "key": "overall",
         "value": 1787,
-        "rank": 183811,
+        "rank": 183905,
         "xp": 36233108
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 237900,
+        "rank": 238024,
         "xp": 1161775
       },
       {
         "key": "defence",
         "value": 76,
-        "rank": 194952,
+        "rank": 195053,
         "xp": 1372138
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 232689,
+        "rank": 232812,
         "xp": 2464141
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 209696,
+        "rank": 209815,
         "xp": 3199641
       },
       {
         "key": "ranged",
         "value": 79,
-        "rank": 219617,
+        "rank": 219703,
         "xp": 1818716
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 176518,
+        "rank": 176616,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 172531,
+        "rank": 172626,
         "xp": 3405090
       },
       {
         "key": "cooking",
         "value": 71,
-        "rank": 256794,
+        "rank": 256892,
         "xp": 890577
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275457,
+        "rank": 275589,
         "xp": 884136
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 261068,
+        "rank": 261184,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 293693,
+        "rank": 293808,
         "xp": 854072
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199174,
+        "rank": 199243,
         "xp": 6713732
       },
       {
         "key": "crafting",
         "value": 73,
-        "rank": 210514,
+        "rank": 210618,
         "xp": 1057638
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190822,
+        "rank": 190928,
         "xp": 957160
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 272769,
+        "rank": 272929,
         "xp": 944963
       },
       {
         "key": "herblore",
         "value": 72,
-        "rank": 177879,
+        "rank": 177962,
         "xp": 920408
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 163306,
+        "rank": 163397,
         "xp": 1439115
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 242177,
+        "rank": 242304,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 211697,
+        "rank": 211810,
         "xp": 721675
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179317,
+        "rank": 179404,
         "xp": 2026096
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152431,
+        "rank": 152516,
         "xp": 784000
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 237517,
+        "rank": 237626,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 162950,
+        "rank": 163055,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 95782,
+        "rank": 95945,
         "xp": 430576
       }
     ],
@@ -10440,27 +10448,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144764
+        "rank": 144820
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 56008
+        "rank": 56086
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 82928
+        "rank": 83001
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 91000
+        "rank": 91031
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60366
+        "rank": 60390
       },
       {
         "key": "giant_mole",
@@ -10470,17 +10478,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140252
+        "rank": 140303
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 93075
+        "rank": 93154
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 36628
+        "rank": 36763
       },
       {
         "key": "obor",
@@ -10490,12 +10498,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 81137
+        "rank": 81196
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109354
+        "rank": 109413
       },
       {
         "key": "the_gauntlet",
@@ -10505,12 +10513,12 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 186,
-        "rank": 82411
+        "rank": 82469
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 107161
+        "rank": 107266
       },
       {
         "key": "tztok_jad",
@@ -10520,12 +10528,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165497
+        "rank": 165565
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50449
+        "rank": 50465
       }
     ],
     "activities": [
@@ -10542,27 +10550,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 160957
+        "rank": 161027
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93551
+        "rank": 93599
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 117986
+        "rank": 118020
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151766
+        "rank": 151820
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 164219
+        "rank": 164276
       },
       {
         "key": "clue_scrolls_elite",
@@ -10577,7 +10585,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82421
+        "rank": 82433
       },
       {
         "key": "pvp_arena",
@@ -10592,7 +10600,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 119433
+        "rank": 119515
       },
       {
         "key": "colosseum_glory",
@@ -10606,8 +10614,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-15T18:51:56.300Z",
-    "updatedAt": "2026-11-15T18:51:56.300Z"
+    "checkedAt": "2026-11-16T22:03:21.339Z",
+    "updatedAt": "2026-11-16T22:03:21.339Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -11564,7 +11572,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-15T18:51:56.300Z",
-    "updatedAt": "2026-11-15T18:51:56.300Z"
+    "checkedAt": "2026-11-16T22:03:21.339Z",
+    "updatedAt": "2026-11-16T22:03:21.339Z"
   }
 }
