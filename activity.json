@@ -1,97 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T20:33:01.546Z",
+  "generatedAt": "2026-11-19T20:38:34.213Z",
   "spotify": {
-    "current": {
-      "id": "4VksDJS5zhseecrsTD8uPr",
-      "title": "Sit & Mourn",
-      "artist": "Knocked Loose",
-      "album": "You Won't Go Before You're Supposed To",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-      "url": "https://open.spotify.com/track/4VksDJS5zhseecrsTD8uPr",
-      "durationMs": 286895
-    },
-    "isPlaying": true,
+    "current": null,
+    "isPlaying": false,
     "recent": [
       {
-        "id": "12KkNzIniU4U2LAHNgVDvw",
-        "title": "Blinding Faith",
-        "artist": "Knocked Loose",
-        "album": "You Won't Go Before You're Supposed To",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-        "url": "https://open.spotify.com/track/12KkNzIniU4U2LAHNgVDvw",
-        "durationMs": 171090,
-        "playedAt": "2026-11-18T19:09:54.179Z"
+        "id": "0eBiJ9ffG8F0NUDnsjMohR",
+        "title": "Is it the Glow of Street Lights or Heaven?",
+        "artist": "Appleseed",
+        "album": "Is it the Glow of Street Lights or Heaven?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bc2e3687a7f1e6df2126a98a",
+        "url": "https://open.spotify.com/track/0eBiJ9ffG8F0NUDnsjMohR",
+        "durationMs": 175000,
+        "playedAt": "2026-11-19T19:19:18.699Z"
       },
       {
-        "id": "1Q9gtac5N9RFdq5dKuToST",
-        "title": "The Calm That Keeps You Awake",
-        "artist": "Knocked Loose",
-        "album": "You Won't Go Before You're Supposed To",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-        "url": "https://open.spotify.com/track/1Q9gtac5N9RFdq5dKuToST",
-        "durationMs": 161514,
-        "playedAt": "2026-11-18T15:11:57.664Z"
+        "id": "3x0sXz9N9oRt5fSfYOfhF3",
+        "title": "Listen to Me",
+        "artist": "Appleseed",
+        "album": "Listen to Me",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fb828351073dfa04c359aa10",
+        "url": "https://open.spotify.com/track/3x0sXz9N9oRt5fSfYOfhF3",
+        "durationMs": 192938,
+        "playedAt": "2026-11-19T19:16:23.209Z"
       },
       {
-        "id": "3IXBQaQJ5ljpWwndAVvixg",
-        "title": "Slaughterhouse 2 (feat. Chris Motionless)",
-        "artist": "Knocked Loose, Motionless In White, Chris Motionless",
-        "album": "You Won't Go Before You're Supposed To",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-        "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg",
-        "durationMs": 183721,
-        "playedAt": "2026-11-18T15:08:52.701Z"
+        "id": "21n7rdWjnZVIkJHwLZ7wk4",
+        "title": "System",
+        "artist": "Appleseed",
+        "album": "Appleseed",
+        "image": "https://i.scdn.co/image/ab67616d0000b273598b1204edfd35e112b4da67",
+        "url": "https://open.spotify.com/track/21n7rdWjnZVIkJHwLZ7wk4",
+        "durationMs": 176805,
+        "playedAt": "2026-11-19T19:13:09.805Z"
       },
       {
-        "id": "304147FnUgPZ5ko2sFDSFm",
-        "title": "Moss Covers All",
-        "artist": "Knocked Loose",
-        "album": "You Won't Go Before You're Supposed To",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-        "url": "https://open.spotify.com/track/304147FnUgPZ5ko2sFDSFm",
-        "durationMs": 46354,
-        "playedAt": "2026-11-18T14:52:43.544Z"
+        "id": "69JRmmkM58WZRUbhnzEVMT",
+        "title": "Ride the Wave",
+        "artist": "Appleseed",
+        "album": "Appleseed",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737090eb6025cbf1c3297df844",
+        "url": "https://open.spotify.com/track/69JRmmkM58WZRUbhnzEVMT",
+        "durationMs": 209665,
+        "playedAt": "2026-11-19T19:09:47.831Z"
       },
       {
-        "id": "5hPjTibz6wInfJQvImFp9I",
-        "title": "Don't Reach For Me",
-        "artist": "Knocked Loose",
-        "album": "You Won't Go Before You're Supposed To",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-        "url": "https://open.spotify.com/track/5hPjTibz6wInfJQvImFp9I",
-        "durationMs": 225240,
-        "playedAt": "2026-11-18T14:51:57.263Z"
+        "id": "4hrL6mHfQ6JjnLt83vLkpl",
+        "title": "Where I Sit",
+        "artist": "Men I Trust",
+        "album": "Equus Caballus",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+        "url": "https://open.spotify.com/track/4hrL6mHfQ6JjnLt83vLkpl",
+        "durationMs": 195877,
+        "playedAt": "2026-11-19T19:09:40.708Z"
       },
       {
-        "id": "6PXYOVPBzO3xojFhQAvmde",
-        "title": "Suffocate (feat. Poppy)",
-        "artist": "Knocked Loose, Poppy",
-        "album": "You Won't Go Before You're Supposed To",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-        "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde",
-        "durationMs": 164695,
-        "playedAt": "2026-11-18T14:48:11.984Z"
+        "id": "394RVGS5QnrYpDDxDGE7dI",
+        "title": "Is it the Glow of Street Lights or Heaven? - Acoustic Version",
+        "artist": "Appleseed",
+        "album": "Appleseed",
+        "image": "https://i.scdn.co/image/ab67616d0000b273598b1204edfd35e112b4da67",
+        "url": "https://open.spotify.com/track/394RVGS5QnrYpDDxDGE7dI",
+        "durationMs": 182397,
+        "playedAt": "2026-11-19T17:55:44.763Z"
       },
       {
-        "id": "7sSnydn10cmiEDOd4hPKxU",
-        "title": "Piece By Piece",
-        "artist": "Knocked Loose",
-        "album": "You Won't Go Before You're Supposed To",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-        "url": "https://open.spotify.com/track/7sSnydn10cmiEDOd4hPKxU",
-        "durationMs": 171176,
-        "playedAt": "2026-11-18T07:06:30.891Z"
+        "id": "72uLmqwDYMqdGVzTtICmtn",
+        "title": "Speak",
+        "artist": "Appleseed",
+        "album": "Speak",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b82977e29f71f60d681ceb90",
+        "url": "https://open.spotify.com/track/72uLmqwDYMqdGVzTtICmtn",
+        "durationMs": 162080,
+        "playedAt": "2026-11-19T17:52:41.861Z"
       },
       {
-        "id": "14EuELXdHDP7l4pJI8afRp",
-        "title": "The Demon of Unreality Limping Like a Dog",
-        "artist": "The Callous Daoboys",
-        "album": "I Don’t Want to See You in Heaven",
-        "image": "https://i.scdn.co/image/ab67616d0000b27318bcc8eb098ce09078aa13d7",
-        "url": "https://open.spotify.com/track/14EuELXdHDP7l4pJI8afRp",
-        "durationMs": 225183,
-        "playedAt": "2026-11-18T07:04:52.724Z"
+        "id": "3fvkpzCdClLaEZWmf4f9QA",
+        "title": "Side Effects May Include:",
+        "artist": "Appleseed",
+        "album": "Side Effects May Include:",
+        "image": "https://i.scdn.co/image/ab67616d0000b273200aa6ebdbcf4627c1f91366",
+        "url": "https://open.spotify.com/track/3fvkpzCdClLaEZWmf4f9QA",
+        "durationMs": 199398,
+        "playedAt": "2026-11-19T17:49:59.258Z"
       }
     ],
     "observed": {
@@ -7810,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 263,
+          "plays": 297,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -8068,7 +8060,7 @@
               "id": "09RKiiT2NAJ7qYoAGOYu9w",
               "name": "Foreign Hands",
               "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "6W6evBk6uISlk45PTCPzky",
@@ -8230,13 +8222,13 @@
               "id": "4qrHkx5cgWIslciLXUMrYw",
               "name": "Knocked Loose",
               "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw",
-              "plays": 25
+              "plays": 31
             },
             {
               "id": "5mlbvTfWUOfDrUIK6dkNzv",
               "name": "Poppy",
               "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv",
-              "plays": 5
+              "plays": 6
             },
             {
               "id": "3e9iOsz5fwUAp3oX5Tcyyr",
@@ -8566,25 +8558,25 @@
               "id": "4wf6GGNBqaU79839E6yjfn",
               "name": "Speed",
               "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "7a29ko2je7GUMrbmwn4t3I",
               "name": "Boundaries",
               "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "5LyRnL0rysObxDRxzSfV1z",
               "name": "Counterparts",
               "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "4igS2MSwOIf3F9YeL929IO",
               "name": "Dying Wish",
               "url": "https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO",
-              "plays": 2
+              "plays": 4
             },
             {
               "id": "2tjnvrUmP46XNjFh9V0NGc",
@@ -8596,7 +8588,7 @@
               "id": "0TpKwhxtfxaPTaWsHqpVqP",
               "name": "Dealer",
               "url": "https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4MzJMcHQBl9SIYSjwWn8QW",
@@ -8608,13 +8600,37 @@
               "id": "5eBCPtU2iPbzuMRre9BePt",
               "name": "thrown",
               "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "4ZWRLOs7c4drt9mKGc0Ds0",
               "name": "The Callous Daoboys",
               "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0",
-              "plays": 2
+              "plays": 3
+            },
+            {
+              "id": "5M5tZKYazaZLsl9HZouMoj",
+              "name": "Appleseed",
+              "url": "https://open.spotify.com/artist/5M5tZKYazaZLsl9HZouMoj",
+              "plays": 9
+            },
+            {
+              "id": "3zmfs9cQwzJl575W1ZYXeT",
+              "name": "Men I Trust",
+              "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT",
+              "plays": 8
+            },
+            {
+              "id": "6EFV3PmaXblKwNbvpkGv9l",
+              "name": "Varials",
+              "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l",
+              "plays": 1
+            },
+            {
+              "id": "7CbcN4VBt2aG1NzFlB8uJE",
+              "name": "Brendan Murphy",
+              "url": "https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE",
+              "plays": 1
             }
           ],
           "tracks": [
@@ -9760,7 +9776,7 @@
               "artist": "Knocked Loose",
               "url": "https://open.spotify.com/track/12KkNzIniU4U2LAHNgVDvw",
               "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-              "plays": 4
+              "plays": 6
             },
             {
               "id": "7xQYVjs4wZNdCwO0EeAWMC",
@@ -10080,7 +10096,7 @@
               "artist": "Knocked Loose",
               "url": "https://open.spotify.com/track/304147FnUgPZ5ko2sFDSFm",
               "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "5hPjTibz6wInfJQvImFp9I",
@@ -10120,7 +10136,7 @@
               "artist": "Poppy",
               "url": "https://open.spotify.com/track/5PZZ3G5djpINln9xcMxcmB",
               "image": "https://i.scdn.co/image/ab67616d0000b273861d5b1470e2d95fe9aeba7c",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "7iIdwZzxs7cqoX49mrUMOI",
@@ -10216,7 +10232,7 @@
               "artist": "Speed",
               "url": "https://open.spotify.com/track/39ck7heNE281iLwpUqW7Oh",
               "image": "https://i.scdn.co/image/ab67616d0000b273e12d7d38c5abbb16013606d3",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "1kfkiqeFGSm4rmVUr6WvTu",
@@ -10256,7 +10272,7 @@
               "artist": "Knocked Loose",
               "url": "https://open.spotify.com/track/4VksDJS5zhseecrsTD8uPr",
               "image": "https://i.scdn.co/image/ab67616d0000b273e5f143a6fbd201f53f38e86d",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3ExlReuvyQzfQbIxMOWvsv",
@@ -10289,26 +10305,234 @@
               "url": "https://open.spotify.com/track/3B8T0EQP044msqax1UciBX",
               "image": "https://i.scdn.co/image/ab67616d0000b273b05985de138dc87afca4ac81",
               "plays": 1
+            },
+            {
+              "id": "0eBiJ9ffG8F0NUDnsjMohR",
+              "title": "Is it the Glow of Street Lights or Heaven?",
+              "artist": "Appleseed",
+              "url": "https://open.spotify.com/track/0eBiJ9ffG8F0NUDnsjMohR",
+              "image": "https://i.scdn.co/image/ab67616d0000b273bc2e3687a7f1e6df2126a98a",
+              "plays": 2
+            },
+            {
+              "id": "3x0sXz9N9oRt5fSfYOfhF3",
+              "title": "Listen to Me",
+              "artist": "Appleseed",
+              "url": "https://open.spotify.com/track/3x0sXz9N9oRt5fSfYOfhF3",
+              "image": "https://i.scdn.co/image/ab67616d0000b273fb828351073dfa04c359aa10",
+              "plays": 2
+            },
+            {
+              "id": "21n7rdWjnZVIkJHwLZ7wk4",
+              "title": "System",
+              "artist": "Appleseed",
+              "url": "https://open.spotify.com/track/21n7rdWjnZVIkJHwLZ7wk4",
+              "image": "https://i.scdn.co/image/ab67616d0000b273598b1204edfd35e112b4da67",
+              "plays": 1
+            },
+            {
+              "id": "69JRmmkM58WZRUbhnzEVMT",
+              "title": "Ride the Wave",
+              "artist": "Appleseed",
+              "url": "https://open.spotify.com/track/69JRmmkM58WZRUbhnzEVMT",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737090eb6025cbf1c3297df844",
+              "plays": 1
+            },
+            {
+              "id": "4hrL6mHfQ6JjnLt83vLkpl",
+              "title": "Where I Sit",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/4hrL6mHfQ6JjnLt83vLkpl",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "394RVGS5QnrYpDDxDGE7dI",
+              "title": "Is it the Glow of Street Lights or Heaven? - Acoustic Version",
+              "artist": "Appleseed",
+              "url": "https://open.spotify.com/track/394RVGS5QnrYpDDxDGE7dI",
+              "image": "https://i.scdn.co/image/ab67616d0000b273598b1204edfd35e112b4da67",
+              "plays": 1
+            },
+            {
+              "id": "72uLmqwDYMqdGVzTtICmtn",
+              "title": "Speak",
+              "artist": "Appleseed",
+              "url": "https://open.spotify.com/track/72uLmqwDYMqdGVzTtICmtn",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b82977e29f71f60d681ceb90",
+              "plays": 1
+            },
+            {
+              "id": "3fvkpzCdClLaEZWmf4f9QA",
+              "title": "Side Effects May Include:",
+              "artist": "Appleseed",
+              "url": "https://open.spotify.com/track/3fvkpzCdClLaEZWmf4f9QA",
+              "image": "https://i.scdn.co/image/ab67616d0000b273200aa6ebdbcf4627c1f91366",
+              "plays": 1
+            },
+            {
+              "id": "50ASFow3YrVJJpqdzaM1YD",
+              "title": "Carried Away",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "3DjcaX0PRpvbC19ffTsz9z",
+              "title": "Husk (2025)",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/3DjcaX0PRpvbC19ffTsz9z",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "5RHhmGMV3FKxRa63AIfIgZ",
+              "title": "Another Stone",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "13UqmpJo3DKZOJkGA6aH5U",
+              "title": "Ring Of Past (2025)",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/13UqmpJo3DKZOJkGA6aH5U",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "6R2YSITVeRTFwDczaxSnQS",
+              "title": "Hard To See",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/6R2YSITVeRTFwDczaxSnQS",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "04H7h3KJAQp9JHCSPGlp9A",
+              "title": "Come Back Down",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/04H7h3KJAQp9JHCSPGlp9A",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "2HcMkGeghyXdJRT1g85u0t",
+              "title": "To Ease You",
+              "artist": "Men I Trust",
+              "url": "https://open.spotify.com/track/2HcMkGeghyXdJRT1g85u0t",
+              "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+              "plays": 1
+            },
+            {
+              "id": "0c6yj4sF8zFaIDsNGN3hNX",
+              "title": "Hollowed by Affliction",
+              "artist": "Dying Wish",
+              "url": "https://open.spotify.com/track/0c6yj4sF8zFaIDsNGN3hNX",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739e0ab23eb5a278a9e364d5fd",
+              "plays": 1
+            },
+            {
+              "id": "7g3OmlRZ15Gq5Lo3WBMol0",
+              "title": "Counting Worms",
+              "artist": "Knocked Loose",
+              "url": "https://open.spotify.com/track/7g3OmlRZ15Gq5Lo3WBMol0",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f87207e3c1f0e58ab9dc84e2",
+              "plays": 1
+            },
+            {
+              "id": "7EK4pxLGNPrWhtYAWB9fTp",
+              "title": "Laceration Wings",
+              "artist": "Foreign Hands",
+              "url": "https://open.spotify.com/track/7EK4pxLGNPrWhtYAWB9fTp",
+              "image": "https://i.scdn.co/image/ab67616d0000b273df5fa010d41d96c5f3fe173f",
+              "plays": 1
+            },
+            {
+              "id": "7hC4IIkOu1KDbkf2e0iIyp",
+              "title": "South Of One",
+              "artist": "Varials, Brendan Murphy",
+              "url": "https://open.spotify.com/track/7hC4IIkOu1KDbkf2e0iIyp",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734499d4e61bf6b5029873fea0",
+              "plays": 1
+            },
+            {
+              "id": "61a2WiofGziTrkjRPqxbhU",
+              "title": "No Lamb Was Lost",
+              "artist": "Counterparts",
+              "url": "https://open.spotify.com/track/61a2WiofGziTrkjRPqxbhU",
+              "image": "https://i.scdn.co/image/ab67616d0000b2730d27d521536cd8454d1255d8",
+              "plays": 1
+            },
+            {
+              "id": "7FXvVh5vQU1WBQwf1MkuFi",
+              "title": "Darkness Shared",
+              "artist": "Boundaries",
+              "url": "https://open.spotify.com/track/7FXvVh5vQU1WBQwf1MkuFi",
+              "image": "https://i.scdn.co/image/ab67616d0000b273374ae24b5f9631915b0e5271",
+              "plays": 1
+            },
+            {
+              "id": "2l4Fc0Zl0A5FQxpPu52ZJt",
+              "title": "Show Me The Body",
+              "artist": "Dealer",
+              "url": "https://open.spotify.com/track/2l4Fc0Zl0A5FQxpPu52ZJt",
+              "image": "https://i.scdn.co/image/ab67616d0000b27373e061311215f730ee10f6e4",
+              "plays": 1
+            },
+            {
+              "id": "20Ca4ZNar3pWniVbnT3uVh",
+              "title": "so done",
+              "artist": "thrown",
+              "url": "https://open.spotify.com/track/20Ca4ZNar3pWniVbnT3uVh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736af7afbbc0d7e59820bf691e",
+              "plays": 1
+            },
+            {
+              "id": "031dSGnIbvmnSoeRhAXbAD",
+              "title": "Schizophrenia Legacy",
+              "artist": "The Callous Daoboys",
+              "url": "https://open.spotify.com/track/031dSGnIbvmnSoeRhAXbAD",
+              "image": "https://i.scdn.co/image/ab67616d0000b27318bcc8eb098ce09078aa13d7",
+              "plays": 1
+            },
+            {
+              "id": "5PkH7Lk5kzdPANVtXbJCzE",
+              "title": "Symptoms of Survival",
+              "artist": "Dying Wish",
+              "url": "https://open.spotify.com/track/5PkH7Lk5kzdPANVtXbJCzE",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ece908ee29519009aec02ab9",
+              "plays": 1
+            },
+            {
+              "id": "6S8bbJngqmtHj2w8zWseSl",
+              "title": "Deadringer",
+              "artist": "Knocked Loose",
+              "url": "https://open.spotify.com/track/6S8bbJngqmtHj2w8zWseSl",
+              "image": "https://i.scdn.co/image/ab6742d3000053b7e07d62ff022a835087d19dd7",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-18T19:09:54.179Z",
+      "lastPlayedAt": "2026-11-19T19:19:18.699Z",
       "lastKeys": [
-        "[1795028994179,\"12KkNzIniU4U2LAHNgVDvw\"]"
+        "[1795115958699,\"0eBiJ9ffG8F0NUDnsjMohR\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-18T19:09:54.179Z"
+      "through": "2026-11-19T19:19:18.699Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-18T20:33:01.546Z",
-    "updatedAt": "2026-11-18T20:33:01.546Z"
+    "checkedAt": "2026-11-19T20:38:34.213Z",
+    "updatedAt": "2026-11-19T20:38:34.213Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-18T20:33:01.546Z",
-    "updatedAt": "2026-11-18T20:33:01.546Z"
+    "checkedAt": "2026-11-19T20:38:34.213Z",
+    "updatedAt": "2026-11-19T20:38:34.213Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -10318,156 +10542,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-18T20:33:03.055Z",
+    "snapshotAt": "2026-11-19T20:38:35.447Z",
     "skills": [
       {
         "key": "overall",
         "value": 1788,
-        "rank": 183745,
-        "xp": 36420341
+        "rank": 183825,
+        "xp": 36445059
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 238117,
-        "xp": 1165775
+        "rank": 238179,
+        "xp": 1166911
       },
       {
         "key": "defence",
         "value": 76,
-        "rank": 194476,
-        "xp": 1394254
+        "rank": 194443,
+        "xp": 1398290
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 232982,
+        "rank": 233060,
         "xp": 2464141
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 208928,
-        "xp": 3246341
+        "rank": 208852,
+        "xp": 3253203
       },
       {
         "key": "ranged",
         "value": 79,
-        "rank": 218262,
-        "xp": 1866275
+        "rank": 218228,
+        "xp": 1869587
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 176747,
+        "rank": 176813,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 172006,
-        "xp": 3438237
+        "rank": 171968,
+        "xp": 3443619
       },
       {
         "key": "cooking",
         "value": 72,
-        "rank": 255201,
-        "xp": 902772
+        "rank": 255099,
+        "xp": 903657
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275480,
-        "xp": 885706
+        "rank": 275509,
+        "xp": 885986
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 261346,
+        "rank": 261429,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 293360,
-        "xp": 858062
+        "rank": 293316,
+        "xp": 858762
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199310,
+        "rank": 199350,
         "xp": 6713942
       },
       {
         "key": "crafting",
         "value": 73,
-        "rank": 210607,
-        "xp": 1062488
+        "rank": 210646,
+        "xp": 1063353
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190682,
-        "xp": 962010
+        "rank": 190678,
+        "xp": 962875
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 272958,
-        "xp": 946333
+        "rank": 273010,
+        "xp": 946633
       },
       {
         "key": "herblore",
         "value": 72,
-        "rank": 177707,
-        "xp": 924283
+        "rank": 177766,
+        "xp": 924343
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 163525,
+        "rank": 163585,
         "xp": 1439125
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 242436,
+        "rank": 242515,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 211916,
+        "rank": 211983,
         "xp": 722135
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179512,
-        "xp": 2026269
+        "rank": 179586,
+        "xp": 2026304
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152580,
+        "rank": 152633,
         "xp": 784158
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 237781,
+        "rank": 237858,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 163188,
+        "rank": 163243,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 96181,
+        "rank": 96294,
         "xp": 430576
       }
     ],
@@ -10480,27 +10704,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144917
+        "rank": 144960
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 56208
+        "rank": 56260
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 83115
+        "rank": 83172
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 91091
+        "rank": 91107
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60443
+        "rank": 60458
       },
       {
         "key": "giant_mole",
@@ -10510,17 +10734,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140387
+        "rank": 140433
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 93272
+        "rank": 93328
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 36909
+        "rank": 36994
       },
       {
         "key": "obor",
@@ -10530,12 +10754,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 81266
+        "rank": 81292
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109476
+        "rank": 109527
       },
       {
         "key": "the_gauntlet",
@@ -10544,13 +10768,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 201,
-        "rank": 80410
+        "value": 203,
+        "rank": 80145
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 107388
+        "rank": 107456
       },
       {
         "key": "tztok_jad",
@@ -10560,12 +10784,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165609
+        "rank": 165635
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50491
+        "rank": 50498
       }
     ],
     "activities": [
@@ -10582,27 +10806,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 161123
+        "rank": 161157
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93671
+        "rank": 93704
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 118074
+        "rank": 118101
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151906
+        "rank": 151945
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 164361
+        "rank": 164397
       },
       {
         "key": "clue_scrolls_elite",
@@ -10617,7 +10841,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82441
+        "rank": 82444
       },
       {
         "key": "pvp_arena",
@@ -10632,7 +10856,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 119619
+        "rank": 119674
       },
       {
         "key": "colosseum_glory",
@@ -10646,8 +10870,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-18T20:33:01.546Z",
-    "updatedAt": "2026-11-18T20:33:01.546Z"
+    "checkedAt": "2026-11-19T20:38:34.213Z",
+    "updatedAt": "2026-11-19T20:38:34.213Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -11604,7 +11828,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-18T20:33:01.546Z",
-    "updatedAt": "2026-11-18T20:33:01.546Z"
+    "checkedAt": "2026-11-19T20:38:34.213Z",
+    "updatedAt": "2026-11-19T20:38:34.213Z"
   }
 }
