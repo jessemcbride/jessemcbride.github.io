@@ -1,79 +1,59 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T20:38:34.213Z",
+  "generatedAt": "2026-11-20T20:22:43.929Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "0eBiJ9ffG8F0NUDnsjMohR",
-        "title": "Is it the Glow of Street Lights or Heaven?",
-        "artist": "Appleseed",
-        "album": "Is it the Glow of Street Lights or Heaven?",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bc2e3687a7f1e6df2126a98a",
-        "url": "https://open.spotify.com/track/0eBiJ9ffG8F0NUDnsjMohR",
-        "durationMs": 175000,
-        "playedAt": "2026-11-19T19:19:18.699Z"
+        "id": "7o2CcBCoun96kz0ElBTXkv",
+        "title": "And You Know It",
+        "artist": "Love Rarely",
+        "album": "And You Know It",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a127a6f2a64ac9ab1acd86c",
+        "url": "https://open.spotify.com/track/7o2CcBCoun96kz0ElBTXkv",
+        "durationMs": 198775,
+        "playedAt": "2026-11-20T16:42:49.839Z"
       },
       {
-        "id": "3x0sXz9N9oRt5fSfYOfhF3",
-        "title": "Listen to Me",
-        "artist": "Appleseed",
-        "album": "Listen to Me",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fb828351073dfa04c359aa10",
-        "url": "https://open.spotify.com/track/3x0sXz9N9oRt5fSfYOfhF3",
-        "durationMs": 192938,
-        "playedAt": "2026-11-19T19:16:23.209Z"
+        "id": "5UMltx4PE50jf9GCEMA3t8",
+        "title": "Dissolve Me",
+        "artist": "Movements",
+        "album": "Happier Now",
+        "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+        "url": "https://open.spotify.com/track/5UMltx4PE50jf9GCEMA3t8",
+        "durationMs": 207514,
+        "playedAt": "2026-11-20T16:39:30.567Z"
       },
       {
-        "id": "21n7rdWjnZVIkJHwLZ7wk4",
-        "title": "System",
-        "artist": "Appleseed",
-        "album": "Appleseed",
-        "image": "https://i.scdn.co/image/ab67616d0000b273598b1204edfd35e112b4da67",
-        "url": "https://open.spotify.com/track/21n7rdWjnZVIkJHwLZ7wk4",
-        "durationMs": 176805,
-        "playedAt": "2026-11-19T19:13:09.805Z"
+        "id": "31mdtbN2VooDM0ybXE41DC",
+        "title": "Severed",
+        "artist": "Love Rarely",
+        "album": "Pain Travels",
+        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+        "url": "https://open.spotify.com/track/31mdtbN2VooDM0ybXE41DC",
+        "durationMs": 192191,
+        "playedAt": "2026-11-20T16:36:02.567Z"
       },
       {
-        "id": "69JRmmkM58WZRUbhnzEVMT",
-        "title": "Ride the Wave",
-        "artist": "Appleseed",
-        "album": "Appleseed",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737090eb6025cbf1c3297df844",
-        "url": "https://open.spotify.com/track/69JRmmkM58WZRUbhnzEVMT",
-        "durationMs": 209665,
-        "playedAt": "2026-11-19T19:09:47.831Z"
+        "id": "0B2iyFSWtM3hWTNpKwgLPs",
+        "title": "Disguised in Pins",
+        "artist": "concealer.",
+        "album": "Disguised in Pins / Pleading",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
+        "url": "https://open.spotify.com/track/0B2iyFSWtM3hWTNpKwgLPs",
+        "durationMs": 189735,
+        "playedAt": "2026-11-20T15:54:53.734Z"
       },
       {
-        "id": "4hrL6mHfQ6JjnLt83vLkpl",
-        "title": "Where I Sit",
-        "artist": "Men I Trust",
-        "album": "Equus Caballus",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
-        "url": "https://open.spotify.com/track/4hrL6mHfQ6JjnLt83vLkpl",
-        "durationMs": 195877,
-        "playedAt": "2026-11-19T19:09:40.708Z"
-      },
-      {
-        "id": "394RVGS5QnrYpDDxDGE7dI",
-        "title": "Is it the Glow of Street Lights or Heaven? - Acoustic Version",
-        "artist": "Appleseed",
-        "album": "Appleseed",
-        "image": "https://i.scdn.co/image/ab67616d0000b273598b1204edfd35e112b4da67",
-        "url": "https://open.spotify.com/track/394RVGS5QnrYpDDxDGE7dI",
-        "durationMs": 182397,
-        "playedAt": "2026-11-19T17:55:44.763Z"
-      },
-      {
-        "id": "72uLmqwDYMqdGVzTtICmtn",
-        "title": "Speak",
-        "artist": "Appleseed",
-        "album": "Speak",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b82977e29f71f60d681ceb90",
-        "url": "https://open.spotify.com/track/72uLmqwDYMqdGVzTtICmtn",
-        "durationMs": 162080,
-        "playedAt": "2026-11-19T17:52:41.861Z"
+        "id": "4z1g9uUW4elJ5yesqhrJ0L",
+        "title": "yourfacelooksdifferentinbrokenglass",
+        "artist": "concealer.",
+        "album": "dissonance (all that keeps me away)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a74979636111aa4bb52cd598",
+        "url": "https://open.spotify.com/track/4z1g9uUW4elJ5yesqhrJ0L",
+        "durationMs": 209790,
+        "playedAt": "2026-11-20T15:48:09.841Z"
       },
       {
         "id": "3fvkpzCdClLaEZWmf4f9QA",
@@ -83,7 +63,27 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273200aa6ebdbcf4627c1f91366",
         "url": "https://open.spotify.com/track/3fvkpzCdClLaEZWmf4f9QA",
         "durationMs": 199398,
-        "playedAt": "2026-11-19T17:49:59.258Z"
+        "playedAt": "2026-11-20T15:47:59.942Z"
+      },
+      {
+        "id": "365AcpwhDY2vYTexPCYEwp",
+        "title": "fourthgradeknifefight",
+        "artist": "concealer.",
+        "album": "dissonance (all that keeps me away)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a74979636111aa4bb52cd598",
+        "url": "https://open.spotify.com/track/365AcpwhDY2vYTexPCYEwp",
+        "durationMs": 123701,
+        "playedAt": "2026-11-20T06:49:51.549Z"
+      },
+      {
+        "id": "0WRJ0PWSZ38dktVVfgX4P9",
+        "title": "cindy, the tv is leaking…",
+        "artist": "concealer.",
+        "album": "dissonance (all that keeps me away)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a74979636111aa4bb52cd598",
+        "url": "https://open.spotify.com/track/0WRJ0PWSZ38dktVVfgX4P9",
+        "durationMs": 101696,
+        "playedAt": "2026-11-20T06:47:47.792Z"
       }
     ],
     "observed": {
@@ -7802,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 297,
+          "plays": 334,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -8612,7 +8612,7 @@
               "id": "5M5tZKYazaZLsl9HZouMoj",
               "name": "Appleseed",
               "url": "https://open.spotify.com/artist/5M5tZKYazaZLsl9HZouMoj",
-              "plays": 9
+              "plays": 10
             },
             {
               "id": "3zmfs9cQwzJl575W1ZYXeT",
@@ -8631,6 +8631,24 @@
               "name": "Brendan Murphy",
               "url": "https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE",
               "plays": 1
+            },
+            {
+              "id": "3vfL7qtWVnyObFrObnBkmM",
+              "name": "Love Rarely",
+              "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM",
+              "plays": 3
+            },
+            {
+              "id": "1kkyfIopIiVvaPHHlbsfac",
+              "name": "Movements",
+              "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac",
+              "plays": 1
+            },
+            {
+              "id": "5y2ymtnwjo4qwclZR9512J",
+              "name": "concealer.",
+              "url": "https://open.spotify.com/artist/5y2ymtnwjo4qwclZR9512J",
+              "plays": 32
             }
           ],
           "tracks": [
@@ -10368,7 +10386,7 @@
               "artist": "Appleseed",
               "url": "https://open.spotify.com/track/3fvkpzCdClLaEZWmf4f9QA",
               "image": "https://i.scdn.co/image/ab67616d0000b273200aa6ebdbcf4627c1f91366",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "50ASFow3YrVJJpqdzaM1YD",
@@ -10513,26 +10531,194 @@
               "url": "https://open.spotify.com/track/6S8bbJngqmtHj2w8zWseSl",
               "image": "https://i.scdn.co/image/ab6742d3000053b7e07d62ff022a835087d19dd7",
               "plays": 1
+            },
+            {
+              "id": "7o2CcBCoun96kz0ElBTXkv",
+              "title": "And You Know It",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/7o2CcBCoun96kz0ElBTXkv",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732a127a6f2a64ac9ab1acd86c",
+              "plays": 1
+            },
+            {
+              "id": "5UMltx4PE50jf9GCEMA3t8",
+              "title": "Dissolve Me",
+              "artist": "Movements",
+              "url": "https://open.spotify.com/track/5UMltx4PE50jf9GCEMA3t8",
+              "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
+              "plays": 1
+            },
+            {
+              "id": "31mdtbN2VooDM0ybXE41DC",
+              "title": "Severed",
+              "artist": "Love Rarely",
+              "url": "https://open.spotify.com/track/31mdtbN2VooDM0ybXE41DC",
+              "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
+              "plays": 2
+            },
+            {
+              "id": "0B2iyFSWtM3hWTNpKwgLPs",
+              "title": "Disguised in Pins",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/0B2iyFSWtM3hWTNpKwgLPs",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
+              "plays": 9
+            },
+            {
+              "id": "4z1g9uUW4elJ5yesqhrJ0L",
+              "title": "yourfacelooksdifferentinbrokenglass",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/4z1g9uUW4elJ5yesqhrJ0L",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a74979636111aa4bb52cd598",
+              "plays": 1
+            },
+            {
+              "id": "365AcpwhDY2vYTexPCYEwp",
+              "title": "fourthgradeknifefight",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/365AcpwhDY2vYTexPCYEwp",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a74979636111aa4bb52cd598",
+              "plays": 1
+            },
+            {
+              "id": "0WRJ0PWSZ38dktVVfgX4P9",
+              "title": "cindy, the tv is leaking…",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/0WRJ0PWSZ38dktVVfgX4P9",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a74979636111aa4bb52cd598",
+              "plays": 1
+            },
+            {
+              "id": "4PmfAg398mj2K0NTJC4QWf",
+              "title": "porcelain [a violet memory]",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/4PmfAg398mj2K0NTJC4QWf",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a74979636111aa4bb52cd598",
+              "plays": 1
+            },
+            {
+              "id": "3eJYD6cL4MktOjIEqLjjkq",
+              "title": "Pleading",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/3eJYD6cL4MktOjIEqLjjkq",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
+              "plays": 7
+            },
+            {
+              "id": "6BTLv6L6Gtz1ZlFUyM0pUL",
+              "title": "In This Moment",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/6BTLv6L6Gtz1ZlFUyM0pUL",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
+              "plays": 1
+            },
+            {
+              "id": "3TfkjRmb8lxbmw05svQavF",
+              "title": "I",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/3TfkjRmb8lxbmw05svQavF",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
+              "plays": 1
+            },
+            {
+              "id": "2avteiAqqhlxgjmhcYHBAc",
+              "title": "II",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/2avteiAqqhlxgjmhcYHBAc",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
+              "plays": 1
+            },
+            {
+              "id": "4sDpySrcCkxSJrW7P4qpad",
+              "title": "The Stillness Between Us",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/4sDpySrcCkxSJrW7P4qpad",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
+              "plays": 1
+            },
+            {
+              "id": "14Lp3QCFy8fYqEqClxeJ7i",
+              "title": "A Quiet Ending",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/14Lp3QCFy8fYqEqClxeJ7i",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
+              "plays": 1
+            },
+            {
+              "id": "125clvOp70K9plL94Zv7o5",
+              "title": "This Room Could Be Heaven",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/125clvOp70K9plL94Zv7o5",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
+              "plays": 1
+            },
+            {
+              "id": "2phYYOds8qJvlgJrZsTtx0",
+              "title": "Claymore",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/2phYYOds8qJvlgJrZsTtx0",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
+              "plays": 1
+            },
+            {
+              "id": "2crh1GYmPwf53tEKsfTmMQ",
+              "title": "tarnished",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/2crh1GYmPwf53tEKsfTmMQ",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731b8efae90836d91382653ac2",
+              "plays": 1
+            },
+            {
+              "id": "1SyOEezaekXlpguSX7a82W",
+              "title": "Vanity, a Fractured Promise",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/1SyOEezaekXlpguSX7a82W",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
+              "plays": 1
+            },
+            {
+              "id": "5FiwlpvBo2tqoLYfiUiryx",
+              "title": "ableedingsky",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/5FiwlpvBo2tqoLYfiUiryx",
+              "image": "https://i.scdn.co/image/ab67616d0000b2731b8efae90836d91382653ac2",
+              "plays": 1
+            },
+            {
+              "id": "1TzXbjWOobQU7UEkdduBg1",
+              "title": "…And the Sunlight Spoke",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/1TzXbjWOobQU7UEkdduBg1",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
+              "plays": 1
+            },
+            {
+              "id": "0IFShrsIChPNQNvxC6DLLu",
+              "title": "Color Slowly Fading",
+              "artist": "concealer.",
+              "url": "https://open.spotify.com/track/0IFShrsIChPNQNvxC6DLLu",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-19T19:19:18.699Z",
+      "lastPlayedAt": "2026-11-20T16:42:49.839Z",
       "lastKeys": [
-        "[1795115958699,\"0eBiJ9ffG8F0NUDnsjMohR\"]"
+        "[1795192969839,\"7o2CcBCoun96kz0ElBTXkv\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-19T19:19:18.699Z"
+      "through": "2026-11-20T16:42:49.839Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-19T20:38:34.213Z",
-    "updatedAt": "2026-11-19T20:38:34.213Z"
+    "checkedAt": "2026-11-20T20:22:43.929Z",
+    "updatedAt": "2026-11-20T20:22:43.929Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-19T20:38:34.213Z",
-    "updatedAt": "2026-11-19T20:38:34.213Z"
+    "checkedAt": "2026-11-20T20:22:43.929Z",
+    "updatedAt": "2026-11-20T20:22:43.929Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -10542,157 +10728,157 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 99,
-    "snapshotAt": "2026-11-19T20:38:35.447Z",
+    "snapshotAt": "2026-11-20T20:22:45.423Z",
     "skills": [
       {
         "key": "overall",
         "value": 1788,
-        "rank": 183825,
-        "xp": 36445059
+        "rank": 183919,
+        "xp": 36481458
       },
       {
         "key": "attack",
         "value": 74,
-        "rank": 238179,
-        "xp": 1166911
+        "rank": 238233,
+        "xp": 1169199
       },
       {
         "key": "defence",
         "value": 76,
-        "rank": 194443,
-        "xp": 1398290
+        "rank": 194508,
+        "xp": 1399171
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 233060,
+        "rank": 233150,
         "xp": 2464141
       },
       {
         "key": "hitpoints",
         "value": 84,
-        "rank": 208852,
-        "xp": 3253203
+        "rank": 208858,
+        "xp": 3257925
       },
       {
         "key": "ranged",
         "value": 79,
-        "rank": 218228,
-        "xp": 1869587
+        "rank": 217992,
+        "xp": 1879958
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 176813,
+        "rank": 176885,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 171968,
-        "xp": 3443619
+        "rank": 171995,
+        "xp": 3445078
       },
       {
         "key": "cooking",
         "value": 72,
-        "rank": 255099,
-        "xp": 903657
+        "rank": 255058,
+        "xp": 904197
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275509,
-        "xp": 885986
+        "rank": 275567,
+        "xp": 886126
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 261429,
+        "rank": 261514,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 293316,
-        "xp": 858762
+        "rank": 293355,
+        "xp": 859102
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199350,
-        "xp": 6713942
+        "rank": 199409,
+        "xp": 6714107
       },
       {
         "key": "crafting",
         "value": 73,
-        "rank": 210646,
-        "xp": 1063353
+        "rank": 210706,
+        "xp": 1063773
       },
       {
         "key": "smithing",
         "value": 72,
-        "rank": 190678,
-        "xp": 962875
+        "rank": 190736,
+        "xp": 963295
       },
       {
         "key": "mining",
         "value": 72,
-        "rank": 273010,
-        "xp": 946633
+        "rank": 273121,
+        "xp": 946773
       },
       {
         "key": "herblore",
         "value": 72,
-        "rank": 177766,
-        "xp": 924343
+        "rank": 177781,
+        "xp": 924883
       },
       {
         "key": "agility",
         "value": 76,
-        "rank": 163585,
+        "rank": 163662,
         "xp": 1439125
       },
       {
         "key": "thieving",
         "value": 72,
-        "rank": 242515,
+        "rank": 242593,
         "xp": 940245
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 211983,
-        "xp": 722135
+        "rank": 212027,
+        "xp": 722292
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179586,
-        "xp": 2026304
+        "rank": 179654,
+        "xp": 2026320
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152633,
+        "rank": 152673,
         "xp": 784158
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 237858,
+        "rank": 237940,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 163243,
+        "rank": 163327,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 96294,
-        "xp": 430576
+        "rank": 95512,
+        "xp": 444376
       }
     ],
     "bosses": [
@@ -10704,27 +10890,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 144960
+        "rank": 145010
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 56260
+        "rank": 56312
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 83172
+        "rank": 83229
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 91107
+        "rank": 91134
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60458
+        "rank": 60477
       },
       {
         "key": "giant_mole",
@@ -10734,17 +10920,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140433
+        "rank": 140466
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 93328
+        "rank": 93382
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 36994
+        "rank": 37082
       },
       {
         "key": "obor",
@@ -10754,12 +10940,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 81292
+        "rank": 81337
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109527
+        "rank": 109574
       },
       {
         "key": "the_gauntlet",
@@ -10769,12 +10955,12 @@
       {
         "key": "the_corrupted_gauntlet",
         "value": 203,
-        "rank": 80145
+        "rank": 80179
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 107456
+        "rank": 107532
       },
       {
         "key": "tztok_jad",
@@ -10784,12 +10970,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165635
+        "rank": 165678
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50498
+        "rank": 50503
       }
     ],
     "activities": [
@@ -10806,27 +10992,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 161157
+        "rank": 161199
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93704
+        "rank": 93727
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 118101
+        "rank": 118131
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 151945
+        "rank": 151987
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 164397
+        "rank": 164434
       },
       {
         "key": "clue_scrolls_elite",
@@ -10841,7 +11027,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82444
+        "rank": 82451
       },
       {
         "key": "pvp_arena",
@@ -10856,7 +11042,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 119674
+        "rank": 119730
       },
       {
         "key": "colosseum_glory",
@@ -10870,8 +11056,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-19T20:38:34.213Z",
-    "updatedAt": "2026-11-19T20:38:34.213Z"
+    "checkedAt": "2026-11-20T20:22:43.929Z",
+    "updatedAt": "2026-11-20T20:22:43.929Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -11828,7 +12014,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-19T20:38:34.213Z",
-    "updatedAt": "2026-11-19T20:38:34.213Z"
+    "checkedAt": "2026-11-20T20:22:43.929Z",
+    "updatedAt": "2026-11-20T20:22:43.929Z"
   }
 }
