@@ -1,10 +1,38 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T19:41:43.921Z",
+  "generatedAt": "2026-11-23T23:54:41.708Z",
   "spotify": {
-    "current": null,
-    "isPlaying": false,
+    "current": {
+      "id": "6YkeaJLKrR6RtSY2pJB2fs",
+      "title": "Red String",
+      "artist": "Sweet Pill",
+      "album": "Where the Heart Is",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b9368400e3af542f39b0c3c3",
+      "url": "https://open.spotify.com/track/6YkeaJLKrR6RtSY2pJB2fs",
+      "durationMs": 196828
+    },
+    "isPlaying": true,
     "recent": [
+      {
+        "id": "03i4WqxWormLKeXQP7eZPi",
+        "title": "Self-Destruct",
+        "artist": "Origami Angel",
+        "album": "GAMI GANG",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cb52ad10ec66268e5dca73f1",
+        "url": "https://open.spotify.com/track/03i4WqxWormLKeXQP7eZPi",
+        "durationMs": 180264,
+        "playedAt": "2026-11-23T23:51:47.763Z"
+      },
+      {
+        "id": "7bc8fhrLacnKOpcbVygC0j",
+        "title": "Doki Doki Slaughter Club",
+        "artist": "Bubblegum Chainsaw, Hentai Holocaust",
+        "album": "Kawaii Brutality",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738cf981b228e8afc43bf89575",
+        "url": "https://open.spotify.com/track/7bc8fhrLacnKOpcbVygC0j",
+        "durationMs": 222857,
+        "playedAt": "2026-11-23T00:36:17.725Z"
+      },
       {
         "id": "0IFShrsIChPNQNvxC6DLLu",
         "title": "Color Slowly Fading",
@@ -13,7 +41,7 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
         "url": "https://open.spotify.com/track/0IFShrsIChPNQNvxC6DLLu",
         "durationMs": 176557,
-        "playedAt": "2026-11-21T17:00:05.674Z"
+        "playedAt": "2026-11-23T00:30:19.553Z"
       },
       {
         "id": "3eJYD6cL4MktOjIEqLjjkq",
@@ -23,7 +51,7 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
         "url": "https://open.spotify.com/track/3eJYD6cL4MktOjIEqLjjkq",
         "durationMs": 213666,
-        "playedAt": "2026-11-21T16:57:08.585Z"
+        "playedAt": "2026-11-23T00:27:22.503Z"
       },
       {
         "id": "0B2iyFSWtM3hWTNpKwgLPs",
@@ -33,7 +61,17 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
         "url": "https://open.spotify.com/track/0B2iyFSWtM3hWTNpKwgLPs",
         "durationMs": 189735,
-        "playedAt": "2026-11-21T16:53:34.901Z"
+        "playedAt": "2026-11-23T00:23:48.834Z"
+      },
+      {
+        "id": "4UvUJaQ1oTrRXsvdqDqACh",
+        "title": "Out Of My Skin",
+        "artist": "Scro",
+        "album": "Out Of My Skin",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735eb6f80a5cbc051a8d29921a",
+        "url": "https://open.spotify.com/track/4UvUJaQ1oTrRXsvdqDqACh",
+        "durationMs": 397818,
+        "playedAt": "2026-11-23T00:00:08.924Z"
       },
       {
         "id": "5UMltx4PE50jf9GCEMA3t8",
@@ -54,36 +92,6 @@
         "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT",
         "durationMs": 168365,
         "playedAt": "2026-11-21T04:23:36.659Z"
-      },
-      {
-        "id": "31mdtbN2VooDM0ybXE41DC",
-        "title": "Severed",
-        "artist": "Love Rarely",
-        "album": "Pain Travels",
-        "image": "https://i.scdn.co/image/ab67616d0000b273831d82e8f6caa7382eef0084",
-        "url": "https://open.spotify.com/track/31mdtbN2VooDM0ybXE41DC",
-        "durationMs": 192191,
-        "playedAt": "2026-11-21T04:04:18.212Z"
-      },
-      {
-        "id": "7o2CcBCoun96kz0ElBTXkv",
-        "title": "And You Know It",
-        "artist": "Love Rarely",
-        "album": "And You Know It",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732a127a6f2a64ac9ab1acd86c",
-        "url": "https://open.spotify.com/track/7o2CcBCoun96kz0ElBTXkv",
-        "durationMs": 198775,
-        "playedAt": "2026-11-20T16:42:49.839Z"
-      },
-      {
-        "id": "4z1g9uUW4elJ5yesqhrJ0L",
-        "title": "yourfacelooksdifferentinbrokenglass",
-        "artist": "concealer.",
-        "album": "dissonance (all that keeps me away)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a74979636111aa4bb52cd598",
-        "url": "https://open.spotify.com/track/4z1g9uUW4elJ5yesqhrJ0L",
-        "durationMs": 209790,
-        "playedAt": "2026-11-20T15:48:09.841Z"
       }
     ],
     "observed": {
@@ -7802,7 +7810,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 340,
+          "plays": 349,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -8648,12 +8656,36 @@
               "id": "5y2ymtnwjo4qwclZR9512J",
               "name": "concealer.",
               "url": "https://open.spotify.com/artist/5y2ymtnwjo4qwclZR9512J",
-              "plays": 35
+              "plays": 41
             },
             {
               "id": "0fNyhBvhR5Xw6s0EYQewUa",
               "name": "Sweet Pill",
               "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa",
+              "plays": 1
+            },
+            {
+              "id": "0cmSXx965Hnm6fP42oW6vY",
+              "name": "Origami Angel",
+              "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY",
+              "plays": 1
+            },
+            {
+              "id": "5HGQacMSdklGxPLxvDDi7b",
+              "name": "Bubblegum Chainsaw",
+              "url": "https://open.spotify.com/artist/5HGQacMSdklGxPLxvDDi7b",
+              "plays": 1
+            },
+            {
+              "id": "1o00CNepN4TRYcG3bVlVpA",
+              "name": "Hentai Holocaust",
+              "url": "https://open.spotify.com/artist/1o00CNepN4TRYcG3bVlVpA",
+              "plays": 1
+            },
+            {
+              "id": "2TFI4R2CXBQ0RyfHhF7oQW",
+              "name": "Scro",
+              "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW",
               "plays": 1
             }
           ],
@@ -10568,7 +10600,7 @@
               "artist": "concealer.",
               "url": "https://open.spotify.com/track/0B2iyFSWtM3hWTNpKwgLPs",
               "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
-              "plays": 10
+              "plays": 12
             },
             {
               "id": "4z1g9uUW4elJ5yesqhrJ0L",
@@ -10608,7 +10640,7 @@
               "artist": "concealer.",
               "url": "https://open.spotify.com/track/3eJYD6cL4MktOjIEqLjjkq",
               "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
-              "plays": 8
+              "plays": 10
             },
             {
               "id": "6BTLv6L6Gtz1ZlFUyM0pUL",
@@ -10704,7 +10736,7 @@
               "artist": "concealer.",
               "url": "https://open.spotify.com/track/0IFShrsIChPNQNvxC6DLLu",
               "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
-              "plays": 2
+              "plays": 4
             },
             {
               "id": "22dSB54PbIpU2mgGqYhCaT",
@@ -10713,26 +10745,50 @@
               "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT",
               "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
               "plays": 1
+            },
+            {
+              "id": "03i4WqxWormLKeXQP7eZPi",
+              "title": "Self-Destruct",
+              "artist": "Origami Angel",
+              "url": "https://open.spotify.com/track/03i4WqxWormLKeXQP7eZPi",
+              "image": "https://i.scdn.co/image/ab67616d0000b273cb52ad10ec66268e5dca73f1",
+              "plays": 1
+            },
+            {
+              "id": "7bc8fhrLacnKOpcbVygC0j",
+              "title": "Doki Doki Slaughter Club",
+              "artist": "Bubblegum Chainsaw, Hentai Holocaust",
+              "url": "https://open.spotify.com/track/7bc8fhrLacnKOpcbVygC0j",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738cf981b228e8afc43bf89575",
+              "plays": 1
+            },
+            {
+              "id": "4UvUJaQ1oTrRXsvdqDqACh",
+              "title": "Out Of My Skin",
+              "artist": "Scro",
+              "url": "https://open.spotify.com/track/4UvUJaQ1oTrRXsvdqDqACh",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735eb6f80a5cbc051a8d29921a",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-21T17:00:05.674Z",
+      "lastPlayedAt": "2026-11-23T23:51:47.763Z",
       "lastKeys": [
-        "[1795280405674,\"0IFShrsIChPNQNvxC6DLLu\"]"
+        "[1795477907763,\"03i4WqxWormLKeXQP7eZPi\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-21T17:00:05.674Z"
+      "through": "2026-11-23T23:51:47.763Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-22T19:41:43.921Z",
-    "updatedAt": "2026-11-22T19:41:43.921Z"
+    "checkedAt": "2026-11-23T23:54:41.708Z",
+    "updatedAt": "2026-11-23T23:54:41.708Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-22T19:41:43.921Z",
-    "updatedAt": "2026-11-22T19:41:43.921Z"
+    "checkedAt": "2026-11-23T23:54:41.708Z",
+    "updatedAt": "2026-11-23T23:54:41.708Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -10742,156 +10798,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 100,
-    "snapshotAt": "2026-11-22T19:41:44.956Z",
+    "snapshotAt": "2026-11-23T23:54:42.829Z",
     "skills": [
       {
         "key": "overall",
         "value": 1796,
-        "rank": 181499,
-        "xp": 36980904
+        "rank": 181602,
+        "xp": 37006544
       },
       {
         "key": "attack",
         "value": 75,
-        "rank": 226534,
-        "xp": 1219199
+        "rank": 226607,
+        "xp": 1219295
       },
       {
         "key": "defence",
         "value": 76,
-        "rank": 194684,
-        "xp": 1399171
+        "rank": 194731,
+        "xp": 1401420
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 233335,
+        "rank": 233436,
         "xp": 2464141
       },
       {
         "key": "hitpoints",
         "value": 85,
-        "rank": 208880,
-        "xp": 3266038
+        "rank": 208794,
+        "xp": 3272877
       },
       {
         "key": "ranged",
         "value": 79,
-        "rank": 215979,
-        "xp": 1950514
+        "rank": 215778,
+        "xp": 1960892
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 177040,
+        "rank": 177128,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 172011,
-        "xp": 3451349
+        "rank": 171995,
+        "xp": 3455134
       },
       {
         "key": "cooking",
         "value": 73,
-        "rank": 243880,
-        "xp": 992927
+        "rank": 243787,
+        "xp": 993542
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275777,
-        "xp": 886126
+        "rank": 275850,
+        "xp": 886266
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 261723,
+        "rank": 261850,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 293506,
-        "xp": 859102
+        "rank": 293562,
+        "xp": 859502
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199536,
+        "rank": 199579,
         "xp": 6714107
       },
       {
         "key": "crafting",
         "value": 74,
-        "rank": 210003,
-        "xp": 1096781
+        "rank": 210053,
+        "xp": 1097251
       },
       {
         "key": "smithing",
         "value": 73,
-        "rank": 181497,
-        "xp": 1043295
+        "rank": 181547,
+        "xp": 1043765
       },
       {
         "key": "mining",
         "value": 73,
-        "rank": 265215,
-        "xp": 1006773
+        "rank": 265311,
+        "xp": 1006913
       },
       {
         "key": "herblore",
         "value": 72,
-        "rank": 177942,
-        "xp": 924883
+        "rank": 178023,
+        "xp": 924923
       },
       {
         "key": "agility",
         "value": 77,
-        "rank": 158499,
+        "rank": 158561,
         "xp": 1489125
       },
       {
         "key": "thieving",
         "value": 73,
-        "rank": 237247,
+        "rank": 237344,
         "xp": 993013
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 212188,
+        "rank": 212270,
         "xp": 722292
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179782,
-        "xp": 2026320
+        "rank": 179849,
+        "xp": 2026338
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152797,
+        "rank": 152868,
         "xp": 784158
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 238149,
+        "rank": 238240,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 163485,
+        "rank": 163566,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 95767,
+        "rank": 95908,
         "xp": 444376
       }
     ],
@@ -10904,27 +10960,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 145120
+        "rank": 145174
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 56429
+        "rank": 56500
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 83329
+        "rank": 83376
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 91182
+        "rank": 91201
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60517
+        "rank": 60545
       },
       {
         "key": "giant_mole",
@@ -10934,17 +10990,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140547
+        "rank": 140594
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 93512
+        "rank": 93599
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 37314
+        "rank": 37437
       },
       {
         "key": "obor",
@@ -10954,12 +11010,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 81417
+        "rank": 81460
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109662
+        "rank": 109728
       },
       {
         "key": "the_gauntlet",
@@ -10968,13 +11024,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 203,
-        "rank": 80248
+        "value": 205,
+        "rank": 79995
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 107696
+        "rank": 107792
       },
       {
         "key": "tztok_jad",
@@ -10984,12 +11040,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165784
+        "rank": 165833
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50549
+        "rank": 50572
       }
     ],
     "activities": [
@@ -11006,27 +11062,27 @@
       {
         "key": "clue_scrolls_all",
         "value": 100,
-        "rank": 161284
+        "rank": 161330
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93808
+        "rank": 93849
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 118201
+        "rank": 118238
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 152081
+        "rank": 152136
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 164513
+        "rank": 164562
       },
       {
         "key": "clue_scrolls_elite",
@@ -11041,7 +11097,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82470
+        "rank": 82473
       },
       {
         "key": "pvp_arena",
@@ -11056,7 +11112,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 119840
+        "rank": 119906
       },
       {
         "key": "colosseum_glory",
@@ -11070,8 +11126,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-22T19:41:43.921Z",
-    "updatedAt": "2026-11-22T19:41:43.921Z"
+    "checkedAt": "2026-11-23T23:54:41.708Z",
+    "updatedAt": "2026-11-23T23:54:41.708Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -12028,7 +12084,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-22T19:41:43.921Z",
-    "updatedAt": "2026-11-22T19:41:43.921Z"
+    "checkedAt": "2026-11-23T23:54:41.708Z",
+    "updatedAt": "2026-11-23T23:54:41.708Z"
   }
 }
