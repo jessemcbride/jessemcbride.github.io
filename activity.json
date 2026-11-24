@@ -1,97 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T23:54:41.708Z",
+  "generatedAt": "2026-11-24T22:27:37.301Z",
   "spotify": {
-    "current": {
-      "id": "6YkeaJLKrR6RtSY2pJB2fs",
-      "title": "Red String",
-      "artist": "Sweet Pill",
-      "album": "Where the Heart Is",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b9368400e3af542f39b0c3c3",
-      "url": "https://open.spotify.com/track/6YkeaJLKrR6RtSY2pJB2fs",
-      "durationMs": 196828
-    },
-    "isPlaying": true,
+    "current": null,
+    "isPlaying": false,
     "recent": [
       {
-        "id": "03i4WqxWormLKeXQP7eZPi",
-        "title": "Self-Destruct",
-        "artist": "Origami Angel",
-        "album": "GAMI GANG",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cb52ad10ec66268e5dca73f1",
-        "url": "https://open.spotify.com/track/03i4WqxWormLKeXQP7eZPi",
-        "durationMs": 180264,
-        "playedAt": "2026-11-23T23:51:47.763Z"
+        "id": "6RObeP8IVb4X4nCLUCJ9Dx",
+        "title": "Second & Sebring",
+        "artist": "Of Mice & Men",
+        "album": "Of Mice & Men",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d9779d9ab3ddf6877bca573",
+        "url": "https://open.spotify.com/track/6RObeP8IVb4X4nCLUCJ9Dx",
+        "durationMs": 229120,
+        "playedAt": "2026-11-24T21:59:47.268Z"
       },
       {
-        "id": "7bc8fhrLacnKOpcbVygC0j",
-        "title": "Doki Doki Slaughter Club",
-        "artist": "Bubblegum Chainsaw, Hentai Holocaust",
-        "album": "Kawaii Brutality",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738cf981b228e8afc43bf89575",
-        "url": "https://open.spotify.com/track/7bc8fhrLacnKOpcbVygC0j",
-        "durationMs": 222857,
-        "playedAt": "2026-11-23T00:36:17.725Z"
+        "id": "2TxQSN7djLMAotU1HoVyLD",
+        "title": "They Don't Call It the South for Nothing",
+        "artist": "Of Mice & Men",
+        "album": "Of Mice & Men",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d9779d9ab3ddf6877bca573",
+        "url": "https://open.spotify.com/track/2TxQSN7djLMAotU1HoVyLD",
+        "durationMs": 186653,
+        "playedAt": "2026-11-24T21:55:58.167Z"
       },
       {
-        "id": "0IFShrsIChPNQNvxC6DLLu",
-        "title": "Color Slowly Fading",
-        "artist": "concealer.",
-        "album": "This Room Could Be Heaven.",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
-        "url": "https://open.spotify.com/track/0IFShrsIChPNQNvxC6DLLu",
-        "durationMs": 176557,
-        "playedAt": "2026-11-23T00:30:19.553Z"
+        "id": "2NTSMVgnKucsxW2MNzNZz4",
+        "title": "YDG",
+        "artist": "Of Mice & Men",
+        "album": "Of Mice & Men",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d9779d9ab3ddf6877bca573",
+        "url": "https://open.spotify.com/track/2NTSMVgnKucsxW2MNzNZz4",
+        "durationMs": 197920,
+        "playedAt": "2026-11-24T21:52:51.568Z"
       },
       {
-        "id": "3eJYD6cL4MktOjIEqLjjkq",
-        "title": "Pleading",
-        "artist": "concealer.",
-        "album": "Disguised in Pins / Pleading",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
-        "url": "https://open.spotify.com/track/3eJYD6cL4MktOjIEqLjjkq",
-        "durationMs": 213666,
-        "playedAt": "2026-11-23T00:27:22.503Z"
+        "id": "7MLB8n8YqUV4cRV8pl70g2",
+        "title": "Rough Hands",
+        "artist": "Alexisonfire",
+        "album": "Crisis",
+        "image": "https://i.scdn.co/image/ab67616d0000b27348a530da393aaa1ad196277f",
+        "url": "https://open.spotify.com/track/7MLB8n8YqUV4cRV8pl70g2",
+        "durationMs": 330986,
+        "playedAt": "2026-11-24T21:48:57.768Z"
       },
       {
-        "id": "0B2iyFSWtM3hWTNpKwgLPs",
-        "title": "Disguised in Pins",
-        "artist": "concealer.",
-        "album": "Disguised in Pins / Pleading",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
-        "url": "https://open.spotify.com/track/0B2iyFSWtM3hWTNpKwgLPs",
-        "durationMs": 189735,
-        "playedAt": "2026-11-23T00:23:48.834Z"
+        "id": "2hSpvEjeA8y2yGcFBCgwHd",
+        "title": "Here I Stand",
+        "artist": "Madina Lake",
+        "album": "From Them, Through Us, To You",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738167a64bdfa4184332977f2a",
+        "url": "https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd",
+        "durationMs": 203200,
+        "playedAt": "2026-11-24T21:43:01.466Z"
       },
       {
-        "id": "4UvUJaQ1oTrRXsvdqDqACh",
-        "title": "Out Of My Skin",
-        "artist": "Scro",
-        "album": "Out Of My Skin",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735eb6f80a5cbc051a8d29921a",
-        "url": "https://open.spotify.com/track/4UvUJaQ1oTrRXsvdqDqACh",
-        "durationMs": 397818,
-        "playedAt": "2026-11-23T00:00:08.924Z"
+        "id": "0WnaprahtIVTUWsgGc2hYK",
+        "title": "Where Can I Stab Myself In The Ears",
+        "artist": "Hawthorne Heights",
+        "album": "If Only You Were Lonely",
+        "image": "https://i.scdn.co/image/ab67616d0000b27353537f76fc9b81d7d067fa43",
+        "url": "https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK",
+        "durationMs": 222240,
+        "playedAt": "2026-11-24T21:39:08.330Z"
       },
       {
-        "id": "5UMltx4PE50jf9GCEMA3t8",
-        "title": "Dissolve Me",
-        "artist": "Movements",
-        "album": "Happier Now",
-        "image": "https://i.scdn.co/image/ab67616d0000b273995aa978f059e51dc3d78b35",
-        "url": "https://open.spotify.com/track/5UMltx4PE50jf9GCEMA3t8",
-        "durationMs": 207514,
-        "playedAt": "2026-11-21T04:23:58.085Z"
+        "id": "55BYnMUhDNtRo4HLvay6hk",
+        "title": "Summer Shudder",
+        "artist": "AFI",
+        "album": "DECEMBERUNDERGROUND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736c050d183c1fff7158c7bcd3",
+        "url": "https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk",
+        "durationMs": 186973,
+        "playedAt": "2026-11-24T21:35:25.569Z"
       },
       {
-        "id": "22dSB54PbIpU2mgGqYhCaT",
-        "title": "Sunblind",
-        "artist": "Sweet Pill",
-        "album": "Still There’s a Glow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736611cc5e8d2f537c708d7469",
-        "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT",
-        "durationMs": 168365,
-        "playedAt": "2026-11-21T04:23:36.659Z"
+        "id": "48H6uWuBYeeZUiXwb5f69K",
+        "title": "Holding On",
+        "artist": "Scary Kids Scaring Kids",
+        "album": "Scary Kids Scaring Kids",
+        "image": "https://i.scdn.co/image/ab67616d0000b27318c2d8df739d22fe238ba669",
+        "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K",
+        "durationMs": 261240,
+        "playedAt": "2026-11-24T21:32:18.066Z"
       }
     ],
     "observed": {
@@ -7810,7 +7802,7 @@
         },
         {
           "month": "2026-11",
-          "plays": 349,
+          "plays": 399,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
@@ -7846,13 +7838,13 @@
               "id": "2MHDadaguMvdlKiOFMP4B5",
               "name": "Broadway",
               "url": "https://open.spotify.com/artist/2MHDadaguMvdlKiOFMP4B5",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5aYf0AInMznHfXGaemKEBv",
               "name": "Craig Owens",
               "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5Wj0an60VgRckYV9zlDe1e",
@@ -7894,7 +7886,7 @@
               "id": "3cdos5vq3wSUR8mEvMiqq9",
               "name": "Scary Kids Scaring Kids",
               "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "0hxmHf6CqXsOLWgGXjmr7I",
@@ -7954,7 +7946,7 @@
               "id": "4feAxLUxIU7G4KXhH0h2ni",
               "name": "Emery",
               "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni",
-              "plays": 9
+              "plays": 10
             },
             {
               "id": "6AcOTCYBMvjKYy4zms0kaC",
@@ -8548,7 +8540,7 @@
               "id": "19I4tYiChJoxEO5EuviXpz",
               "name": "AFI",
               "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "6MwPCCR936cYfM1dLsGVnl",
@@ -8656,7 +8648,7 @@
               "id": "5y2ymtnwjo4qwclZR9512J",
               "name": "concealer.",
               "url": "https://open.spotify.com/artist/5y2ymtnwjo4qwclZR9512J",
-              "plays": 41
+              "plays": 46
             },
             {
               "id": "0fNyhBvhR5Xw6s0EYQewUa",
@@ -8686,6 +8678,144 @@
               "id": "2TFI4R2CXBQ0RyfHhF7oQW",
               "name": "Scro",
               "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW",
+              "plays": 1
+            },
+            {
+              "id": "4tususHNaR68xdgLstlGBA",
+              "name": "Of Mice & Men",
+              "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA",
+              "plays": 3
+            },
+            {
+              "id": "53RsXctnNmj9oKXvcbvzI2",
+              "name": "Alexisonfire",
+              "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2",
+              "plays": 1
+            },
+            {
+              "id": "43QrUqvhiL71U9A9gJtAfA",
+              "name": "Madina Lake",
+              "url": "https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA",
+              "plays": 2
+            },
+            {
+              "id": "126FigDBtqwS2YsOYMTPQe",
+              "name": "Hawthorne Heights",
+              "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe",
+              "plays": 1
+            },
+            {
+              "id": "7t2C8WwLyKUKRe0LVh8zl9",
+              "name": "blessthefall",
+              "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9",
+              "plays": 1
+            },
+            {
+              "id": "7omnn7IRrrxdMwSwchVxNP",
+              "name": "Eyes Set To Kill",
+              "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP",
+              "plays": 1
+            },
+            {
+              "id": "5ojhEavq6altxW8fWIlLum",
+              "name": "Escape the Fate",
+              "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum",
+              "plays": 1
+            },
+            {
+              "id": "3niqfoc7C6lIeCNVz8iZYE",
+              "name": "Framing Hanley",
+              "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE",
+              "plays": 11
+            },
+            {
+              "id": "3LkSiHbjqOHCKCqBfEZOTv",
+              "name": "Atreyu",
+              "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv",
+              "plays": 1
+            },
+            {
+              "id": "4ZIBrskTJWmkJUvM7uAu1o",
+              "name": "Chiodos",
+              "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o",
+              "plays": 1
+            },
+            {
+              "id": "46MmlFKM8ivDsUnGOejvSM",
+              "name": "Jonny Craig",
+              "url": "https://open.spotify.com/artist/46MmlFKM8ivDsUnGOejvSM",
+              "plays": 1
+            },
+            {
+              "id": "7uOmFnJCUVRGHgM3f9S7Cb",
+              "name": "Mark Of The Altar",
+              "url": "https://open.spotify.com/artist/7uOmFnJCUVRGHgM3f9S7Cb",
+              "plays": 1
+            },
+            {
+              "id": "6ZzsWpAHrtGkuEtmseym5p",
+              "name": "Gabe Ochoa",
+              "url": "https://open.spotify.com/artist/6ZzsWpAHrtGkuEtmseym5p",
+              "plays": 1
+            },
+            {
+              "id": "6UcO509nWHNHlMhDYbuel2",
+              "name": "Mauled",
+              "url": "https://open.spotify.com/artist/6UcO509nWHNHlMhDYbuel2",
+              "plays": 1
+            },
+            {
+              "id": "5p62veiIRA1sgEM1miwamk",
+              "name": "Houses We Die In",
+              "url": "https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk",
+              "plays": 1
+            },
+            {
+              "id": "6d9ZmTpKF910yIhbTuKwPv",
+              "name": "Curselifter",
+              "url": "https://open.spotify.com/artist/6d9ZmTpKF910yIhbTuKwPv",
+              "plays": 2
+            },
+            {
+              "id": "4zPfeiDr33N22EHBKScoTT",
+              "name": "PAZ47",
+              "url": "https://open.spotify.com/artist/4zPfeiDr33N22EHBKScoTT",
+              "plays": 12
+            },
+            {
+              "id": "6FNcW65Jp1HeuoyNHdjRh6",
+              "name": "Bluey Bluetooth",
+              "url": "https://open.spotify.com/artist/6FNcW65Jp1HeuoyNHdjRh6",
+              "plays": 2
+            },
+            {
+              "id": "7eoLO7NzIZsAo7iY5iAokh",
+              "name": "DubzCo",
+              "url": "https://open.spotify.com/artist/7eoLO7NzIZsAo7iY5iAokh",
+              "plays": 5
+            },
+            {
+              "id": "1qTTvqANO9JBKnWQVAe1lS",
+              "name": "Segway",
+              "url": "https://open.spotify.com/artist/1qTTvqANO9JBKnWQVAe1lS",
+              "plays": 1
+            },
+            {
+              "id": "0jWMItGPVIbCLO7sNp95FM",
+              "name": "LJ",
+              "url": "https://open.spotify.com/artist/0jWMItGPVIbCLO7sNp95FM",
+              "plays": 1
+            },
+            {
+              "id": "2ZVYStBASfWeBA5J7aTDzM",
+              "name": "LLTBeats",
+              "url": "https://open.spotify.com/artist/2ZVYStBASfWeBA5J7aTDzM",
+              "plays": 1
+            },
+            {
+              "id": "4QeAQIF8AfLBgykFCEPbtQ",
+              "name": "MyNamesError",
+              "url": "https://open.spotify.com/artist/4QeAQIF8AfLBgykFCEPbtQ",
               "plays": 1
             }
           ],
@@ -8728,7 +8858,7 @@
               "artist": "Broadway, Craig Owens",
               "url": "https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh",
               "image": "https://i.scdn.co/image/ab67616d0000b2734e6e1264e7b5ea39c7bd2310",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "4Ze7DFjyVa0smRqY2Fxcnz",
@@ -8920,7 +9050,7 @@
               "artist": "Emery",
               "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z",
               "image": "https://i.scdn.co/image/ab67616d0000b273c3f775ff365006607d11d8c5",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "7zVv1G1EB8k7BbrTF6f2SQ",
@@ -10600,7 +10730,7 @@
               "artist": "concealer.",
               "url": "https://open.spotify.com/track/0B2iyFSWtM3hWTNpKwgLPs",
               "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
-              "plays": 12
+              "plays": 14
             },
             {
               "id": "4z1g9uUW4elJ5yesqhrJ0L",
@@ -10640,7 +10770,7 @@
               "artist": "concealer.",
               "url": "https://open.spotify.com/track/3eJYD6cL4MktOjIEqLjjkq",
               "image": "https://i.scdn.co/image/ab67616d0000b273ed404e5693bbfbf701f24515",
-              "plays": 10
+              "plays": 12
             },
             {
               "id": "6BTLv6L6Gtz1ZlFUyM0pUL",
@@ -10712,7 +10842,7 @@
               "artist": "concealer.",
               "url": "https://open.spotify.com/track/1SyOEezaekXlpguSX7a82W",
               "image": "https://i.scdn.co/image/ab67616d0000b273b4dd2e0a535fc1c9564db432",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "5FiwlpvBo2tqoLYfiUiryx",
@@ -10769,26 +10899,330 @@
               "url": "https://open.spotify.com/track/4UvUJaQ1oTrRXsvdqDqACh",
               "image": "https://i.scdn.co/image/ab67616d0000b2735eb6f80a5cbc051a8d29921a",
               "plays": 1
+            },
+            {
+              "id": "6RObeP8IVb4X4nCLUCJ9Dx",
+              "title": "Second & Sebring",
+              "artist": "Of Mice & Men",
+              "url": "https://open.spotify.com/track/6RObeP8IVb4X4nCLUCJ9Dx",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734d9779d9ab3ddf6877bca573",
+              "plays": 1
+            },
+            {
+              "id": "2TxQSN7djLMAotU1HoVyLD",
+              "title": "They Don't Call It the South for Nothing",
+              "artist": "Of Mice & Men",
+              "url": "https://open.spotify.com/track/2TxQSN7djLMAotU1HoVyLD",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734d9779d9ab3ddf6877bca573",
+              "plays": 1
+            },
+            {
+              "id": "2NTSMVgnKucsxW2MNzNZz4",
+              "title": "YDG",
+              "artist": "Of Mice & Men",
+              "url": "https://open.spotify.com/track/2NTSMVgnKucsxW2MNzNZz4",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734d9779d9ab3ddf6877bca573",
+              "plays": 1
+            },
+            {
+              "id": "7MLB8n8YqUV4cRV8pl70g2",
+              "title": "Rough Hands",
+              "artist": "Alexisonfire",
+              "url": "https://open.spotify.com/track/7MLB8n8YqUV4cRV8pl70g2",
+              "image": "https://i.scdn.co/image/ab67616d0000b27348a530da393aaa1ad196277f",
+              "plays": 1
+            },
+            {
+              "id": "2hSpvEjeA8y2yGcFBCgwHd",
+              "title": "Here I Stand",
+              "artist": "Madina Lake",
+              "url": "https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd",
+              "image": "https://i.scdn.co/image/ab67616d0000b2738167a64bdfa4184332977f2a",
+              "plays": 1
+            },
+            {
+              "id": "0WnaprahtIVTUWsgGc2hYK",
+              "title": "Where Can I Stab Myself In The Ears",
+              "artist": "Hawthorne Heights",
+              "url": "https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK",
+              "image": "https://i.scdn.co/image/ab67616d0000b27353537f76fc9b81d7d067fa43",
+              "plays": 1
+            },
+            {
+              "id": "55BYnMUhDNtRo4HLvay6hk",
+              "title": "Summer Shudder",
+              "artist": "AFI",
+              "url": "https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736c050d183c1fff7158c7bcd3",
+              "plays": 1
+            },
+            {
+              "id": "48H6uWuBYeeZUiXwb5f69K",
+              "title": "Holding On",
+              "artist": "Scary Kids Scaring Kids",
+              "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K",
+              "image": "https://i.scdn.co/image/ab67616d0000b27318c2d8df739d22fe238ba669",
+              "plays": 1
+            },
+            {
+              "id": "6RbeLGGRcELEeKjMAplpap",
+              "title": "Hey Baby, Here's That Song You Wanted",
+              "artist": "blessthefall",
+              "url": "https://open.spotify.com/track/6RbeLGGRcELEeKjMAplpap",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733c3cb1455beac96c582af575",
+              "plays": 1
+            },
+            {
+              "id": "2QdHtYadE88jxHOU82qWOG",
+              "title": "Reach",
+              "artist": "Eyes Set To Kill",
+              "url": "https://open.spotify.com/track/2QdHtYadE88jxHOU82qWOG",
+              "image": "https://i.scdn.co/image/ab67616d0000b2735f0cbbb2a5fa8ad240a1d21b",
+              "plays": 1
+            },
+            {
+              "id": "50NQdrO55nqwZrDwKny5NH",
+              "title": "Not Good Enough For Truth In Cliché",
+              "artist": "Escape the Fate",
+              "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH",
+              "image": "https://i.scdn.co/image/ab67616d0000b2732541614ba5551322c8a1a478",
+              "plays": 1
+            },
+            {
+              "id": "4G2YS8ReDp4bQKJdBKNHkc",
+              "title": "You Stupid Girl",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/4G2YS8ReDp4bQKJdBKNHkc",
+              "image": "https://i.scdn.co/image/ab67616d0000b27381adcf2da47dc9aa11166d2a",
+              "plays": 1
+            },
+            {
+              "id": "7FbxYGA0oaiqR24fkMr3HZ",
+              "title": "The Crimson",
+              "artist": "Atreyu",
+              "url": "https://open.spotify.com/track/7FbxYGA0oaiqR24fkMr3HZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d3129712ceff55a3278ccb6a",
+              "plays": 1
+            },
+            {
+              "id": "6q4sKIPW9XQ4kYVyhXlSlx",
+              "title": "One Last Kiss",
+              "artist": "Madina Lake",
+              "url": "https://open.spotify.com/track/6q4sKIPW9XQ4kYVyhXlSlx",
+              "image": "https://i.scdn.co/image/ab67616d0000b2739f5382fe6079a086c85911a8",
+              "plays": 1
+            },
+            {
+              "id": "78WDQpXxWN1UE1d7oZlE0C",
+              "title": "Notes In Constellations",
+              "artist": "Chiodos",
+              "url": "https://open.spotify.com/track/78WDQpXxWN1UE1d7oZlE0C",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b4ee607f22f88ea914eb17b4",
+              "plays": 1
+            },
+            {
+              "id": "0wnlSJ0aiTMZcGuSfmxFpB",
+              "title": "Istillfeelher, Pt. 3",
+              "artist": "Jonny Craig",
+              "url": "https://open.spotify.com/track/0wnlSJ0aiTMZcGuSfmxFpB",
+              "image": "https://i.scdn.co/image/ab67616d0000b27352fa4ef9aed17b3812cfd450",
+              "plays": 1
+            },
+            {
+              "id": "1hNLr08dVbx9hXPRJSLo23",
+              "title": "Wave Goodbye",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/1hNLr08dVbx9hXPRJSLo23",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d197a4e5cfe06453cdb52fb7",
+              "plays": 1
+            },
+            {
+              "id": "2MEZdgIaCntrsElqYKTcGN",
+              "title": "Alone In This Bed (Capeside)",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/2MEZdgIaCntrsElqYKTcGN",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d197a4e5cfe06453cdb52fb7",
+              "plays": 1
+            },
+            {
+              "id": "1LwFP0MJ54B9A7NlJxeIzH",
+              "title": "Count Me In",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/1LwFP0MJ54B9A7NlJxeIzH",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d197a4e5cfe06453cdb52fb7",
+              "plays": 1
+            },
+            {
+              "id": "4qSiJEeSnMcgHVowYYmazH",
+              "title": "23 Days",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/4qSiJEeSnMcgHVowYYmazH",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d197a4e5cfe06453cdb52fb7",
+              "plays": 1
+            },
+            {
+              "id": "3a3uuBKgNhHaLtj0JDaCEA",
+              "title": "It's Not What They Said",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/3a3uuBKgNhHaLtj0JDaCEA",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d197a4e5cfe06453cdb52fb7",
+              "plays": 1
+            },
+            {
+              "id": "0ZFzhR4oNOhmAyFnu68Jkj",
+              "title": "All In Your Hands",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/0ZFzhR4oNOhmAyFnu68Jkj",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d197a4e5cfe06453cdb52fb7",
+              "plays": 1
+            },
+            {
+              "id": "0UNsZnB1DNSQoTR2YYDKgr",
+              "title": "Slow Dance",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/0UNsZnB1DNSQoTR2YYDKgr",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d197a4e5cfe06453cdb52fb7",
+              "plays": 1
+            },
+            {
+              "id": "2KDg2bTfe7IjndYkCv1DoY",
+              "title": "Hear Me Now",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/2KDg2bTfe7IjndYkCv1DoY",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d197a4e5cfe06453cdb52fb7",
+              "plays": 1
+            },
+            {
+              "id": "53vgUW1O3NhBBW8VwEi1fo",
+              "title": "Built For Sin",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/53vgUW1O3NhBBW8VwEi1fo",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d197a4e5cfe06453cdb52fb7",
+              "plays": 1
+            },
+            {
+              "id": "6Z4KcICXn9Sn2XCvQCFFoT",
+              "title": "Home",
+              "artist": "Framing Hanley",
+              "url": "https://open.spotify.com/track/6Z4KcICXn9Sn2XCvQCFFoT",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d197a4e5cfe06453cdb52fb7",
+              "plays": 1
+            },
+            {
+              "id": "0I4mRUSaeGFrd18LVvmtjo",
+              "title": "Judas Cradle",
+              "artist": "Mark Of The Altar, Gabe Ochoa",
+              "url": "https://open.spotify.com/track/0I4mRUSaeGFrd18LVvmtjo",
+              "image": "https://i.scdn.co/image/ab67616d0000b27312526253728d5701e36d8ca3",
+              "plays": 1
+            },
+            {
+              "id": "6e1Xhj4ZKjJA9s21djpr8W",
+              "title": "Dead Asleep",
+              "artist": "Mauled",
+              "url": "https://open.spotify.com/track/6e1Xhj4ZKjJA9s21djpr8W",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ce398a479d27544019b51029",
+              "plays": 1
+            },
+            {
+              "id": "3mbAagmLw0DsmHjGmvFTZ6",
+              "title": "dead seeds",
+              "artist": "Houses We Die In",
+              "url": "https://open.spotify.com/track/3mbAagmLw0DsmHjGmvFTZ6",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733a82e22a6ba8225c9eafffb5",
+              "plays": 1
+            },
+            {
+              "id": "3CVFALzLiJ8DQo21kgSqAZ",
+              "title": "Fear Tactics",
+              "artist": "Curselifter",
+              "url": "https://open.spotify.com/track/3CVFALzLiJ8DQo21kgSqAZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273793f44dc5abed8f4932fd25c",
+              "plays": 2
+            },
+            {
+              "id": "350HLPUq7aGyNDs6DLNPIY",
+              "title": "5'5\"",
+              "artist": "PAZ47, Bluey Bluetooth",
+              "url": "https://open.spotify.com/track/350HLPUq7aGyNDs6DLNPIY",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f6ae9128cbf7fec45e2d0cbd",
+              "plays": 2
+            },
+            {
+              "id": "4lBsxEQFwB06TcZ01SIe77",
+              "title": "PHOTOSYNTH",
+              "artist": "PAZ47, DubzCo",
+              "url": "https://open.spotify.com/track/4lBsxEQFwB06TcZ01SIe77",
+              "image": "https://i.scdn.co/image/ab67616d0000b273fdb2106924b62c151a568966",
+              "plays": 3
+            },
+            {
+              "id": "0KNlcX4akDSLNyfzfHVm3k",
+              "title": "Small Talk (Wot 4)",
+              "artist": "PAZ47, DubzCo",
+              "url": "https://open.spotify.com/track/0KNlcX4akDSLNyfzfHVm3k",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737f5290aa696a04933dd7cd3b",
+              "plays": 2
+            },
+            {
+              "id": "3qhOoPx6zFeiH2ABUkWkkt",
+              "title": "FU",
+              "artist": "PAZ47, Segway, LJ",
+              "url": "https://open.spotify.com/track/3qhOoPx6zFeiH2ABUkWkkt",
+              "image": "https://i.scdn.co/image/ab67616d0000b27328a25a34b86805ac186b9edd",
+              "plays": 1
+            },
+            {
+              "id": "78OBEQKOTC2l7qvxEuiTmI",
+              "title": "TOO MUCH",
+              "artist": "PAZ47, LLTBeats",
+              "url": "https://open.spotify.com/track/78OBEQKOTC2l7qvxEuiTmI",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c2fbb25e1ecd76088c07070e",
+              "plays": 1
+            },
+            {
+              "id": "06limCXzyn0WYX9RvssXQe",
+              "title": "i feel amazing",
+              "artist": "PAZ47",
+              "url": "https://open.spotify.com/track/06limCXzyn0WYX9RvssXQe",
+              "image": "https://i.scdn.co/image/ab67616d0000b27300c0e9c38e48846951b6ac70",
+              "plays": 1
+            },
+            {
+              "id": "02PAAelW8LFZ76wrHmu88B",
+              "title": "Levels",
+              "artist": "PAZ47",
+              "url": "https://open.spotify.com/track/02PAAelW8LFZ76wrHmu88B",
+              "image": "https://i.scdn.co/image/ab67616d0000b27364141f555e4f5f0c4d90b301",
+              "plays": 1
+            },
+            {
+              "id": "7l8FQC3DluqlQaCqUySuCN",
+              "title": "WiFi",
+              "artist": "MyNamesError, PAZ47",
+              "url": "https://open.spotify.com/track/7l8FQC3DluqlQaCqUySuCN",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a68043c24355264c170c1149",
+              "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-23T23:51:47.763Z",
+      "lastPlayedAt": "2026-11-24T21:59:47.268Z",
       "lastKeys": [
-        "[1795477907763,\"03i4WqxWormLKeXQP7eZPi\"]"
+        "[1795557587268,\"6RObeP8IVb4X4nCLUCJ9Dx\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-23T23:51:47.763Z"
+      "through": "2026-11-24T21:59:47.268Z"
     },
     "status": "ok",
-    "checkedAt": "2026-11-23T23:54:41.708Z",
-    "updatedAt": "2026-11-23T23:54:41.708Z"
+    "checkedAt": "2026-11-24T22:27:37.301Z",
+    "updatedAt": "2026-11-24T22:27:37.301Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-23T23:54:41.708Z",
-    "updatedAt": "2026-11-23T23:54:41.708Z"
+    "checkedAt": "2026-11-24T22:27:37.301Z",
+    "updatedAt": "2026-11-24T22:27:37.301Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -10798,156 +11232,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 100,
-    "snapshotAt": "2026-11-23T23:54:42.829Z",
+    "snapshotAt": "2026-11-24T22:27:38.423Z",
     "skills": [
       {
         "key": "overall",
-        "value": 1796,
-        "rank": 181602,
-        "xp": 37006544
+        "value": 1797,
+        "rank": 181309,
+        "xp": 37160886
       },
       {
         "key": "attack",
         "value": 75,
-        "rank": 226607,
-        "xp": 1219295
+        "rank": 225618,
+        "xp": 1222143
       },
       {
         "key": "defence",
         "value": 76,
-        "rank": 194731,
-        "xp": 1401420
+        "rank": 194351,
+        "xp": 1418691
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 233436,
-        "xp": 2464141
+        "rank": 233496,
+        "xp": 2464968
       },
       {
         "key": "hitpoints",
         "value": 85,
-        "rank": 208794,
-        "xp": 3272877
+        "rank": 207964,
+        "xp": 3313049
       },
       {
         "key": "ranged",
-        "value": 79,
-        "rank": 215778,
-        "xp": 1960892
+        "value": 80,
+        "rank": 213353,
+        "xp": 2009091
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 177128,
+        "rank": 177185,
         "xp": 797030
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 171995,
-        "xp": 3455134
+        "rank": 171513,
+        "xp": 3482467
       },
       {
         "key": "cooking",
         "value": 73,
-        "rank": 243787,
-        "xp": 993542
+        "rank": 243084,
+        "xp": 998162
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275850,
-        "xp": 886266
+        "rank": 275730,
+        "xp": 887491
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 261850,
+        "rank": 261924,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 293562,
-        "xp": 859502
+        "rank": 293244,
+        "xp": 862012
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199579,
+        "rank": 199620,
         "xp": 6714107
       },
       {
         "key": "crafting",
         "value": 74,
-        "rank": 210053,
-        "xp": 1097251
+        "rank": 209938,
+        "xp": 1101051
       },
       {
         "key": "smithing",
         "value": 73,
-        "rank": 181547,
-        "xp": 1043765
+        "rank": 181131,
+        "xp": 1047715
       },
       {
         "key": "mining",
         "value": 73,
-        "rank": 265311,
-        "xp": 1006913
+        "rank": 265245,
+        "xp": 1008013
       },
       {
         "key": "herblore",
         "value": 72,
-        "rank": 178023,
-        "xp": 924923
+        "rank": 178058,
+        "xp": 925233
       },
       {
         "key": "agility",
         "value": 77,
-        "rank": 158561,
-        "xp": 1489125
+        "rank": 158601,
+        "xp": 1489175
       },
       {
         "key": "thieving",
         "value": 73,
-        "rank": 237344,
+        "rank": 237405,
         "xp": 993013
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 212270,
+        "rank": 212329,
         "xp": 722292
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179849,
-        "xp": 2026338
+        "rank": 179885,
+        "xp": 2026465
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152868,
+        "rank": 152913,
         "xp": 784158
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 238240,
+        "rank": 238321,
         "xp": 946280
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 163566,
+        "rank": 163627,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 95908,
+        "rank": 96025,
         "xp": 444376
       }
     ],
@@ -10960,27 +11394,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 145174
+        "rank": 145209
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 56500
+        "rank": 56556
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 83376
+        "rank": 83422
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 91201
+        "rank": 91222
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60545
+        "rank": 60566
       },
       {
         "key": "giant_mole",
@@ -10990,17 +11424,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140594
+        "rank": 140628
       },
       {
         "key": "lunar_chests",
         "value": 115,
-        "rank": 93599
+        "rank": 93662
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 37437
+        "rank": 37514
       },
       {
         "key": "obor",
@@ -11010,12 +11444,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 81460
+        "rank": 81502
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109728
+        "rank": 109767
       },
       {
         "key": "the_gauntlet",
@@ -11024,13 +11458,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 205,
-        "rank": 79995
+        "value": 217,
+        "rank": 78113
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 107792
+        "rank": 107842
       },
       {
         "key": "tztok_jad",
@@ -11040,12 +11474,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165833
+        "rank": 165848
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50572
+        "rank": 50580
       }
     ],
     "activities": [
@@ -11061,33 +11495,33 @@
       },
       {
         "key": "clue_scrolls_all",
-        "value": 100,
-        "rank": 161330
+        "value": 101,
+        "rank": 160758
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93849
+        "rank": 93869
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 118238
+        "rank": 118264
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 152136
+        "rank": 152167
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 164562
+        "rank": 164605
       },
       {
         "key": "clue_scrolls_elite",
-        "value": 0,
-        "rank": null
+        "value": 1,
+        "rank": 164389
       },
       {
         "key": "clue_scrolls_master",
@@ -11097,7 +11531,7 @@
       {
         "key": "last_man_standing",
         "value": 583,
-        "rank": 82473
+        "rank": 82478
       },
       {
         "key": "pvp_arena",
@@ -11112,7 +11546,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 119906
+        "rank": 119948
       },
       {
         "key": "colosseum_glory",
@@ -11121,20 +11555,20 @@
       },
       {
         "key": "collections_logged",
-        "value": 189,
+        "value": 190,
         "rank": null
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-23T23:54:41.708Z",
-    "updatedAt": "2026-11-23T23:54:41.708Z"
+    "checkedAt": "2026-11-24T22:27:37.301Z",
+    "updatedAt": "2026-11-24T22:27:37.301Z"
   },
   "collectionLog": {
     "username": "Nonduality",
     "availability": "synced",
     "obtained": 189,
     "available": 1734,
-    "syncedAt": "2026-11-17 06:08:15",
+    "syncedAt": "2026-11-24 02:29:20",
     "items": [
       {
         "id": 29895,
@@ -12084,7 +12518,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-23T23:54:41.708Z",
-    "updatedAt": "2026-11-23T23:54:41.708Z"
+    "checkedAt": "2026-11-24T22:27:37.301Z",
+    "updatedAt": "2026-11-24T22:27:37.301Z"
   }
 }
