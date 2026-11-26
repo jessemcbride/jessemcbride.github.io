@@ -1,89 +1,89 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T21:43:03.526Z",
+  "generatedAt": "2026-11-26T21:33:11.653Z",
   "spotify": {
     "current": null,
     "isPlaying": false,
     "recent": [
       {
-        "id": "6RObeP8IVb4X4nCLUCJ9Dx",
-        "title": "Second & Sebring",
-        "artist": "Of Mice & Men",
-        "album": "Of Mice & Men",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734d9779d9ab3ddf6877bca573",
-        "url": "https://open.spotify.com/track/6RObeP8IVb4X4nCLUCJ9Dx",
-        "durationMs": 229120,
-        "playedAt": "2026-11-24T21:59:47.268Z"
+        "id": "0oeJvpE3d84fwBAcANz9y5",
+        "title": "Dissonance",
+        "artist": "From Indian Lakes, Soren Bryce",
+        "album": "Dimly Lit",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736666c18e8434a3632493bacc",
+        "url": "https://open.spotify.com/track/0oeJvpE3d84fwBAcANz9y5",
+        "durationMs": 178291,
+        "playedAt": "2026-11-26T17:33:06.346Z"
       },
       {
-        "id": "2TxQSN7djLMAotU1HoVyLD",
-        "title": "They Don't Call It the South for Nothing",
-        "artist": "Of Mice & Men",
-        "album": "Of Mice & Men",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734d9779d9ab3ddf6877bca573",
-        "url": "https://open.spotify.com/track/2TxQSN7djLMAotU1HoVyLD",
-        "durationMs": 186653,
-        "playedAt": "2026-11-24T21:55:58.167Z"
+        "id": "4cBEjZhCBgXf2ZKmPb84be",
+        "title": "black0ut",
+        "artist": "Reysha Rami",
+        "album": "black0ut",
+        "image": "https://i.scdn.co/image/ab67616d0000b273242f9bb1dc0931917ca854f3",
+        "url": "https://open.spotify.com/track/4cBEjZhCBgXf2ZKmPb84be",
+        "durationMs": 116280,
+        "playedAt": "2026-11-26T17:30:07.543Z"
       },
       {
-        "id": "2NTSMVgnKucsxW2MNzNZz4",
-        "title": "YDG",
-        "artist": "Of Mice & Men",
-        "album": "Of Mice & Men",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734d9779d9ab3ddf6877bca573",
-        "url": "https://open.spotify.com/track/2NTSMVgnKucsxW2MNzNZz4",
-        "durationMs": 197920,
-        "playedAt": "2026-11-24T21:52:51.568Z"
+        "id": "5DxDLsW6PsLz5gkwC7Mk5S",
+        "title": "Free",
+        "artist": "Rumi, Jinu, KPop Demon Hunters Cast, EJAE, Andrew Choi",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+        "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S",
+        "durationMs": 187963,
+        "playedAt": "2026-11-26T17:26:59.642Z"
       },
       {
-        "id": "7MLB8n8YqUV4cRV8pl70g2",
-        "title": "Rough Hands",
-        "artist": "Alexisonfire",
-        "album": "Crisis",
-        "image": "https://i.scdn.co/image/ab67616d0000b27348a530da393aaa1ad196277f",
-        "url": "https://open.spotify.com/track/7MLB8n8YqUV4cRV8pl70g2",
-        "durationMs": 330986,
-        "playedAt": "2026-11-24T21:48:57.768Z"
+        "id": "6zpSvSBqQL8u3RS4mUYfEd",
+        "title": "evil cute angel bb",
+        "artist": "AMARA ctk100, DBBD",
+        "album": "evil cute angel bb",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c95e701ea45e0e08aba96ff3",
+        "url": "https://open.spotify.com/track/6zpSvSBqQL8u3RS4mUYfEd",
+        "durationMs": 203089,
+        "playedAt": "2026-11-26T17:18:13.682Z"
       },
       {
-        "id": "2hSpvEjeA8y2yGcFBCgwHd",
-        "title": "Here I Stand",
-        "artist": "Madina Lake",
-        "album": "From Them, Through Us, To You",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738167a64bdfa4184332977f2a",
-        "url": "https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd",
-        "durationMs": 203200,
-        "playedAt": "2026-11-24T21:43:01.466Z"
+        "id": "350HLPUq7aGyNDs6DLNPIY",
+        "title": "5'5\"",
+        "artist": "PAZ47, Bluey Bluetooth",
+        "album": "5'5\"",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f6ae9128cbf7fec45e2d0cbd",
+        "url": "https://open.spotify.com/track/350HLPUq7aGyNDs6DLNPIY",
+        "durationMs": 114312,
+        "playedAt": "2026-11-26T17:14:02.130Z"
       },
       {
-        "id": "0WnaprahtIVTUWsgGc2hYK",
-        "title": "Where Can I Stab Myself In The Ears",
-        "artist": "Hawthorne Heights",
-        "album": "If Only You Were Lonely",
-        "image": "https://i.scdn.co/image/ab67616d0000b27353537f76fc9b81d7d067fa43",
-        "url": "https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK",
-        "durationMs": 222240,
-        "playedAt": "2026-11-24T21:39:08.330Z"
+        "id": "7l8FQC3DluqlQaCqUySuCN",
+        "title": "WiFi",
+        "artist": "MyNamesError, PAZ47",
+        "album": "WiFi",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a68043c24355264c170c1149",
+        "url": "https://open.spotify.com/track/7l8FQC3DluqlQaCqUySuCN",
+        "durationMs": 168000,
+        "playedAt": "2026-11-26T17:12:07.332Z"
       },
       {
-        "id": "55BYnMUhDNtRo4HLvay6hk",
-        "title": "Summer Shudder",
-        "artist": "AFI",
-        "album": "DECEMBERUNDERGROUND",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736c050d183c1fff7158c7bcd3",
-        "url": "https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk",
-        "durationMs": 186973,
-        "playedAt": "2026-11-24T21:35:25.569Z"
+        "id": "0KNlcX4akDSLNyfzfHVm3k",
+        "title": "Small Talk (Wot 4)",
+        "artist": "PAZ47, DubzCo",
+        "album": "Small Talk (Wot 4)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737f5290aa696a04933dd7cd3b",
+        "url": "https://open.spotify.com/track/0KNlcX4akDSLNyfzfHVm3k",
+        "durationMs": 110035,
+        "playedAt": "2026-11-26T17:09:18.524Z"
       },
       {
-        "id": "48H6uWuBYeeZUiXwb5f69K",
-        "title": "Holding On",
-        "artist": "Scary Kids Scaring Kids",
-        "album": "Scary Kids Scaring Kids",
-        "image": "https://i.scdn.co/image/ab67616d0000b27318c2d8df739d22fe238ba669",
-        "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K",
-        "durationMs": 261240,
-        "playedAt": "2026-11-24T21:32:18.066Z"
+        "id": "07NveIpJuj1jY7FbyzSNtA",
+        "title": "Burst My Bubble - Remix",
+        "artist": "Vibe Chemistry, Elro, Local, JayaHadADream, Lupole",
+        "album": "Burst My Bubble (Remix)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273011b623e19c66107926b650e",
+        "url": "https://open.spotify.com/track/07NveIpJuj1jY7FbyzSNtA",
+        "durationMs": 150955,
+        "playedAt": "2026-11-26T17:06:46.826Z"
       }
     ],
     "observed": {
@@ -7802,25 +7802,25 @@
         },
         {
           "month": "2026-11",
-          "plays": 399,
+          "plays": 449,
           "artists": [
             {
               "id": "6g40AmE4t6z5wPuFbytdsy",
               "name": "AMARA ctk100",
               "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "69UVGTxhvI9zrl4tVafMgC",
               "name": "DBBD",
               "url": "https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "3V3EAJjX9EmvSsjm79J32j",
               "name": "Reysha Rami",
               "url": "https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3WGpXCj9YhhfX11TToZcXP",
@@ -8768,7 +8768,7 @@
               "id": "5p62veiIRA1sgEM1miwamk",
               "name": "Houses We Die In",
               "url": "https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "6d9ZmTpKF910yIhbTuKwPv",
@@ -8780,19 +8780,19 @@
               "id": "4zPfeiDr33N22EHBKScoTT",
               "name": "PAZ47",
               "url": "https://open.spotify.com/artist/4zPfeiDr33N22EHBKScoTT",
-              "plays": 12
+              "plays": 19
             },
             {
               "id": "6FNcW65Jp1HeuoyNHdjRh6",
               "name": "Bluey Bluetooth",
               "url": "https://open.spotify.com/artist/6FNcW65Jp1HeuoyNHdjRh6",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "7eoLO7NzIZsAo7iY5iAokh",
               "name": "DubzCo",
               "url": "https://open.spotify.com/artist/7eoLO7NzIZsAo7iY5iAokh",
-              "plays": 5
+              "plays": 7
             },
             {
               "id": "1qTTvqANO9JBKnWQVAe1lS",
@@ -8816,6 +8816,282 @@
               "id": "4QeAQIF8AfLBgykFCEPbtQ",
               "name": "MyNamesError",
               "url": "https://open.spotify.com/artist/4QeAQIF8AfLBgykFCEPbtQ",
+              "plays": 11
+            },
+            {
+              "id": "3YvQkjWJ5ykJVUNP7YbTy9",
+              "name": "From Indian Lakes",
+              "url": "https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9",
+              "plays": 1
+            },
+            {
+              "id": "3EPBoq3UlOpWoABQpdDSCB",
+              "name": "Soren Bryce",
+              "url": "https://open.spotify.com/artist/3EPBoq3UlOpWoABQpdDSCB",
+              "plays": 1
+            },
+            {
+              "id": "18Z49sdpTYjv4TmBJPHMCb",
+              "name": "Rumi",
+              "url": "https://open.spotify.com/artist/18Z49sdpTYjv4TmBJPHMCb",
+              "plays": 1
+            },
+            {
+              "id": "1CUhHjPhPbMDlGJyUGxzP2",
+              "name": "Jinu",
+              "url": "https://open.spotify.com/artist/1CUhHjPhPbMDlGJyUGxzP2",
+              "plays": 1
+            },
+            {
+              "id": "7mW7Tv7NvywKKXqafZo0Lc",
+              "name": "KPop Demon Hunters Cast",
+              "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc",
+              "plays": 1
+            },
+            {
+              "id": "0RMJOzHDhAKY1o2j0W0vxY",
+              "name": "EJAE",
+              "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY",
+              "plays": 1
+            },
+            {
+              "id": "7JBaynR7JFeniONqbnn1U4",
+              "name": "Andrew Choi",
+              "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4",
+              "plays": 1
+            },
+            {
+              "id": "1L5GuSYb4gktP74dqFkJpi",
+              "name": "Vibe Chemistry",
+              "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi",
+              "plays": 6
+            },
+            {
+              "id": "4E4DrQ87tUDHmrcrdZNgch",
+              "name": "Elro",
+              "url": "https://open.spotify.com/artist/4E4DrQ87tUDHmrcrdZNgch",
+              "plays": 3
+            },
+            {
+              "id": "5pNualCkz8Fih2WjCYwEZ2",
+              "name": "Local",
+              "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2",
+              "plays": 1
+            },
+            {
+              "id": "1Zr6I0quVpqoCSTs6TRCpo",
+              "name": "JayaHadADream",
+              "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo",
+              "plays": 1
+            },
+            {
+              "id": "2wIt3VbNab71W41xXhZHMl",
+              "name": "Lupole",
+              "url": "https://open.spotify.com/artist/2wIt3VbNab71W41xXhZHMl",
+              "plays": 3
+            },
+            {
+              "id": "7vvicoei9BbKpZix8qSeLg",
+              "name": "Hamdi",
+              "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg",
+              "plays": 2
+            },
+            {
+              "id": "682SntJ7VKoFfssPfDAmDZ",
+              "name": "Flava D",
+              "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ",
+              "plays": 2
+            },
+            {
+              "id": "3bICaFrkiRTZgXE5cMLv2y",
+              "name": "Riko Dan",
+              "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y",
+              "plays": 2
+            },
+            {
+              "id": "5QlHGPrtXeYq5YtSCpxy87",
+              "name": "CA$PAR",
+              "url": "https://open.spotify.com/artist/5QlHGPrtXeYq5YtSCpxy87",
+              "plays": 2
+            },
+            {
+              "id": "6wSxVh97cc5ZTSXvPgvv81",
+              "name": "New Machine",
+              "url": "https://open.spotify.com/artist/6wSxVh97cc5ZTSXvPgvv81",
+              "plays": 1
+            },
+            {
+              "id": "3iFFwtOFnPNh46v3Gusm2k",
+              "name": "Lando",
+              "url": "https://open.spotify.com/artist/3iFFwtOFnPNh46v3Gusm2k",
+              "plays": 1
+            },
+            {
+              "id": "3l1C23aRp4lfkBK3lLAp2m",
+              "name": "Toddla T",
+              "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m",
+              "plays": 4
+            },
+            {
+              "id": "4thIP9ruwthrnBaBU9Wz8U",
+              "name": "Gardna",
+              "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U",
+              "plays": 1
+            },
+            {
+              "id": "2zCVHn7t4ZTQrh4UQHSqIc",
+              "name": "Nine and Dex",
+              "url": "https://open.spotify.com/artist/2zCVHn7t4ZTQrh4UQHSqIc",
+              "plays": 5
+            },
+            {
+              "id": "4489Zgs4RNq2ZtSh3UnOxZ",
+              "name": "Khary",
+              "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ",
+              "plays": 3
+            },
+            {
+              "id": "1LYEClqx2NlBfH5yM245vD",
+              "name": "Quade PoundSign",
+              "url": "https://open.spotify.com/artist/1LYEClqx2NlBfH5yM245vD",
+              "plays": 2
+            },
+            {
+              "id": "116wu7x5KhkTLzZoUUwWym",
+              "name": "Benelli Vinchi",
+              "url": "https://open.spotify.com/artist/116wu7x5KhkTLzZoUUwWym",
+              "plays": 2
+            },
+            {
+              "id": "2dooeNiK9dxlHsM8tm9VrR",
+              "name": "MORGAN DA SAVAGE",
+              "url": "https://open.spotify.com/artist/2dooeNiK9dxlHsM8tm9VrR",
+              "plays": 3
+            },
+            {
+              "id": "59xO9fcBe57gUp4VH2wDk8",
+              "name": "STEEZE FACTORY",
+              "url": "https://open.spotify.com/artist/59xO9fcBe57gUp4VH2wDk8",
+              "plays": 4
+            },
+            {
+              "id": "4PY51S3HuOMhnZA0Sx8FRN",
+              "name": "The Skinner Brothers",
+              "url": "https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN",
+              "plays": 2
+            },
+            {
+              "id": "4cvDKey36qaisU4OMIalq3",
+              "name": "Hargo",
+              "url": "https://open.spotify.com/artist/4cvDKey36qaisU4OMIalq3",
+              "plays": 1
+            },
+            {
+              "id": "76fFlbX737z6RGZrTJ5yY5",
+              "name": "Shocka",
+              "url": "https://open.spotify.com/artist/76fFlbX737z6RGZrTJ5yY5",
+              "plays": 2
+            },
+            {
+              "id": "7lxRM3KhctJs2WfiEs5U2s",
+              "name": "Jafro",
+              "url": "https://open.spotify.com/artist/7lxRM3KhctJs2WfiEs5U2s",
+              "plays": 2
+            },
+            {
+              "id": "1uEVvjjSsBzSJ15mxDcR4J",
+              "name": "Billy Khan",
+              "url": "https://open.spotify.com/artist/1uEVvjjSsBzSJ15mxDcR4J",
+              "plays": 2
+            },
+            {
+              "id": "6ExHodMpTnxmN4VgMZMl2T",
+              "name": "Monticolombi",
+              "url": "https://open.spotify.com/artist/6ExHodMpTnxmN4VgMZMl2T",
+              "plays": 2
+            },
+            {
+              "id": "7rlqgIDPLE1RWZTTB5aRNg",
+              "name": "nbposted",
+              "url": "https://open.spotify.com/artist/7rlqgIDPLE1RWZTTB5aRNg",
+              "plays": 2
+            },
+            {
+              "id": "2ycTuWzeewjBC6SHxF1gID",
+              "name": "Eklipse",
+              "url": "https://open.spotify.com/artist/2ycTuWzeewjBC6SHxF1gID",
+              "plays": 2
+            },
+            {
+              "id": "4if49KlQEdVNk97CQYSFvt",
+              "name": "Pete & Bas",
+              "url": "https://open.spotify.com/artist/4if49KlQEdVNk97CQYSFvt",
+              "plays": 2
+            },
+            {
+              "id": "1tPcm7nlLFtOsr42qq19Ej",
+              "name": "DixonBeats",
+              "url": "https://open.spotify.com/artist/1tPcm7nlLFtOsr42qq19Ej",
+              "plays": 1
+            },
+            {
+              "id": "0rDKqHGVAr2uveD7FEyVCE",
+              "name": "Confz",
+              "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE",
+              "plays": 1
+            },
+            {
+              "id": "46UwhbFeBTomehI8g7tGFu",
+              "name": "Lunar C",
+              "url": "https://open.spotify.com/artist/46UwhbFeBTomehI8g7tGFu",
+              "plays": 1
+            },
+            {
+              "id": "3HS2yysRUozFmRqPUZoY14",
+              "name": "OMGCHRIS",
+              "url": "https://open.spotify.com/artist/3HS2yysRUozFmRqPUZoY14",
+              "plays": 1
+            },
+            {
+              "id": "7Gbh8pvx5pN6yGgYIh0k0u",
+              "name": "Mike Miller",
+              "url": "https://open.spotify.com/artist/7Gbh8pvx5pN6yGgYIh0k0u",
+              "plays": 1
+            },
+            {
+              "id": "6C8LAJEJGdwB4DFv9NNzej",
+              "name": "Cunning MC",
+              "url": "https://open.spotify.com/artist/6C8LAJEJGdwB4DFv9NNzej",
+              "plays": 1
+            },
+            {
+              "id": "73nEd2GvjMYNSsFnxKSDAK",
+              "name": "Devilman",
+              "url": "https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK",
+              "plays": 1
+            },
+            {
+              "id": "5cBZZuan5Jn4TcIQoh58QV",
+              "name": "JC Stormz",
+              "url": "https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV",
+              "plays": 1
+            },
+            {
+              "id": "7eMGuk3PEbgaD6RaL9R4m4",
+              "name": "Forbes",
+              "url": "https://open.spotify.com/artist/7eMGuk3PEbgaD6RaL9R4m4",
+              "plays": 1
+            },
+            {
+              "id": "76jXqVvxWJNHFGF5DDkVjb",
+              "name": "K Dot",
+              "url": "https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb",
+              "plays": 1
+            },
+            {
+              "id": "4PW6TRoX9GI8eZt18LQ1aW",
+              "name": "Casper Walsh",
+              "url": "https://open.spotify.com/artist/4PW6TRoX9GI8eZt18LQ1aW",
               "plays": 1
             }
           ],
@@ -8826,7 +9102,7 @@
               "artist": "AMARA ctk100, DBBD",
               "url": "https://open.spotify.com/track/6zpSvSBqQL8u3RS4mUYfEd",
               "image": "https://i.scdn.co/image/ab67616d0000b273c95e701ea45e0e08aba96ff3",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "4cBEjZhCBgXf2ZKmPb84be",
@@ -8834,7 +9110,7 @@
               "artist": "Reysha Rami",
               "url": "https://open.spotify.com/track/4cBEjZhCBgXf2ZKmPb84be",
               "image": "https://i.scdn.co/image/ab67616d0000b273242f9bb1dc0931917ca854f3",
-              "plays": 1
+              "plays": 2
             },
             {
               "id": "3OEhcaHabVo4Oc2fdMb6DO",
@@ -11146,7 +11422,7 @@
               "artist": "PAZ47, Bluey Bluetooth",
               "url": "https://open.spotify.com/track/350HLPUq7aGyNDs6DLNPIY",
               "image": "https://i.scdn.co/image/ab67616d0000b273f6ae9128cbf7fec45e2d0cbd",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "4lBsxEQFwB06TcZ01SIe77",
@@ -11154,7 +11430,7 @@
               "artist": "PAZ47, DubzCo",
               "url": "https://open.spotify.com/track/4lBsxEQFwB06TcZ01SIe77",
               "image": "https://i.scdn.co/image/ab67616d0000b273fdb2106924b62c151a568966",
-              "plays": 3
+              "plays": 4
             },
             {
               "id": "0KNlcX4akDSLNyfzfHVm3k",
@@ -11162,7 +11438,7 @@
               "artist": "PAZ47, DubzCo",
               "url": "https://open.spotify.com/track/0KNlcX4akDSLNyfzfHVm3k",
               "image": "https://i.scdn.co/image/ab67616d0000b2737f5290aa696a04933dd7cd3b",
-              "plays": 2
+              "plays": 3
             },
             {
               "id": "3qhOoPx6zFeiH2ABUkWkkt",
@@ -11202,29 +11478,267 @@
               "artist": "MyNamesError, PAZ47",
               "url": "https://open.spotify.com/track/7l8FQC3DluqlQaCqUySuCN",
               "image": "https://i.scdn.co/image/ab67616d0000b273a68043c24355264c170c1149",
+              "plays": 2
+            },
+            {
+              "id": "0oeJvpE3d84fwBAcANz9y5",
+              "title": "Dissonance",
+              "artist": "From Indian Lakes, Soren Bryce",
+              "url": "https://open.spotify.com/track/0oeJvpE3d84fwBAcANz9y5",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736666c18e8434a3632493bacc",
+              "plays": 1
+            },
+            {
+              "id": "5DxDLsW6PsLz5gkwC7Mk5S",
+              "title": "Free",
+              "artist": "Rumi, Jinu, KPop Demon Hunters Cast, EJAE, Andrew Choi",
+              "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+              "plays": 1
+            },
+            {
+              "id": "07NveIpJuj1jY7FbyzSNtA",
+              "title": "Burst My Bubble - Remix",
+              "artist": "Vibe Chemistry, Elro, Local, JayaHadADream, Lupole",
+              "url": "https://open.spotify.com/track/07NveIpJuj1jY7FbyzSNtA",
+              "image": "https://i.scdn.co/image/ab67616d0000b273011b623e19c66107926b650e",
+              "plays": 1
+            },
+            {
+              "id": "4hyna1OUGNIwK85AdAioO0",
+              "title": "CHEESE & PICKLE",
+              "artist": "Vibe Chemistry, MyNamesError",
+              "url": "https://open.spotify.com/track/4hyna1OUGNIwK85AdAioO0",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e538db0c3724bbc10259e922",
+              "plays": 4
+            },
+            {
+              "id": "4fMiFMWDNhDodpgZyHjtc5",
+              "title": "Dubstep Proper",
+              "artist": "Hamdi, Flava D, Riko Dan",
+              "url": "https://open.spotify.com/track/06hW3CBqIcAQjlJsLLZM33",
+              "image": "https://i.scdn.co/image/ab67616d0000b2737a2528afccf6cbcd5226d006",
+              "plays": 2
+            },
+            {
+              "id": "3XwVXslhAXXYKTzOuY8MHG",
+              "title": "as angels fall",
+              "artist": "Houses We Die In",
+              "url": "https://open.spotify.com/track/3XwVXslhAXXYKTzOuY8MHG",
+              "image": "https://i.scdn.co/image/ab67616d0000b273d3f094e85c84a9a4c0606cd5",
+              "plays": 1
+            },
+            {
+              "id": "4g35WcQD9svOqozb7RN09o",
+              "title": "BREATHE",
+              "artist": "CA$PAR, New Machine",
+              "url": "https://open.spotify.com/track/4g35WcQD9svOqozb7RN09o",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f8a7e904221a04c4a789d253",
+              "plays": 1
+            },
+            {
+              "id": "1klPmCXKitRuueylANUI8A",
+              "title": "Steve McFadden",
+              "artist": "MyNamesError",
+              "url": "https://open.spotify.com/track/1klPmCXKitRuueylANUI8A",
+              "image": "https://i.scdn.co/image/ab67616d0000b27392a1dde1e6f3d909b655626f",
+              "plays": 1
+            },
+            {
+              "id": "0kKmFepc27BzLlWmlQaYNl",
+              "title": "Swings & Roundabouts - Freestyle",
+              "artist": "PAZ47, Lando",
+              "url": "https://open.spotify.com/track/0kKmFepc27BzLlWmlQaYNl",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e53f913b60a9f50e1ef1db94",
+              "plays": 1
+            },
+            {
+              "id": "48PfbIahsOizVisoVmUElv",
+              "title": "INTER SELECTA",
+              "artist": "Toddla T, Gardna",
+              "url": "https://open.spotify.com/track/48PfbIahsOizVisoVmUElv",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736c235c08c32d832b0f9dd8ff",
+              "plays": 1
+            },
+            {
+              "id": "1dB7aDUiAh4GaAlIXJbQZL",
+              "title": "Postman Pat",
+              "artist": "Nine and Dex",
+              "url": "https://open.spotify.com/track/1dB7aDUiAh4GaAlIXJbQZL",
+              "image": "https://i.scdn.co/image/ab67616d0000b2734fbd2d95df29eabddfbcbb69",
+              "plays": 2
+            },
+            {
+              "id": "1g3Jn0XqXH8486nL6Bc4Ir",
+              "title": "BIG MAN",
+              "artist": "Khary",
+              "url": "https://open.spotify.com/track/1g3Jn0XqXH8486nL6Bc4Ir",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ccafdcb00d736b2118577d9e",
+              "plays": 3
+            },
+            {
+              "id": "16H9hvOR9ogGsFvp8GDEQo",
+              "title": "Doghouse",
+              "artist": "MyNamesError",
+              "url": "https://open.spotify.com/track/16H9hvOR9ogGsFvp8GDEQo",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a67fbb2054baa6c72642480a",
+              "plays": 3
+            },
+            {
+              "id": "3PSmHvKQaZYPsOIPNVRftX",
+              "title": "I Love Women",
+              "artist": "Quade PoundSign, Benelli Vinchi",
+              "url": "https://open.spotify.com/track/3PSmHvKQaZYPsOIPNVRftX",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f597bc98ba95e92d6f8b01b7",
+              "plays": 2
+            },
+            {
+              "id": "00WhsTNidM7bcevhmOPVDp",
+              "title": "INNIT",
+              "artist": "Toddla T, MORGAN DA SAVAGE, STEEZE FACTORY",
+              "url": "https://open.spotify.com/track/00WhsTNidM7bcevhmOPVDp",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c095ee666becc2e808d2c71c",
+              "plays": 1
+            },
+            {
+              "id": "5TkyhgsHsk1a1Us0PVKtGw",
+              "title": "Morgan Freeman",
+              "artist": "Nine and Dex",
+              "url": "https://open.spotify.com/track/5TkyhgsHsk1a1Us0PVKtGw",
+              "image": "https://i.scdn.co/image/ab67616d0000b273e931321776c5194c644f0a41",
+              "plays": 1
+            },
+            {
+              "id": "74LTgQDeA06OPcZRYlMhaZ",
+              "title": "Privately",
+              "artist": "PAZ47",
+              "url": "https://open.spotify.com/track/74LTgQDeA06OPcZRYlMhaZ",
+              "image": "https://i.scdn.co/image/ab67616d0000b273080ca3b974be3f2affc0711a",
+              "plays": 1
+            },
+            {
+              "id": "0sSeAZPCt7l68DYXsaD05G",
+              "title": "APEX PREDATOR",
+              "artist": "The Skinner Brothers",
+              "url": "https://open.spotify.com/track/0sSeAZPCt7l68DYXsaD05G",
+              "image": "https://i.scdn.co/image/ab67616d0000b273504bd3414cbdbf57a1d35b72",
+              "plays": 2
+            },
+            {
+              "id": "6sWZxrYxa970SRSt4qROar",
+              "title": "I don't NO",
+              "artist": "CA$PAR, Hargo",
+              "url": "https://open.spotify.com/track/6sWZxrYxa970SRSt4qROar",
+              "image": "https://i.scdn.co/image/ab67616d0000b273740919e5c55ba2c8f7a47810",
+              "plays": 1
+            },
+            {
+              "id": "51D9ejBoYpBC2mbPlIafZ0",
+              "title": "SF Cypher 28",
+              "artist": "Toddla T, Shocka, Jafro, STEEZE FACTORY, Billy Khan, Monticolombi, nbposted, MORGAN DA SAVAGE, Eklipse",
+              "url": "https://open.spotify.com/track/51D9ejBoYpBC2mbPlIafZ0",
+              "image": "https://i.scdn.co/image/ab67616d0000b273fac982c2df64aeac9bacd40c",
+              "plays": 2
+            },
+            {
+              "id": "1cM9EY6X7p8Sou98s8WbMo",
+              "title": "Power Ranger",
+              "artist": "Nine and Dex",
+              "url": "https://open.spotify.com/track/1cM9EY6X7p8Sou98s8WbMo",
+              "image": "https://i.scdn.co/image/ab67616d0000b273ca298f478a5a11568ae3caf5",
+              "plays": 2
+            },
+            {
+              "id": "3XV346WYlW4lq1Qv4hyRIL",
+              "title": "T Pain Remix (Feat. T-Pain)",
+              "artist": "Pete & Bas",
+              "url": "https://open.spotify.com/track/3XV346WYlW4lq1Qv4hyRIL",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b2f5746650568d52dd31a353",
+              "plays": 2
+            },
+            {
+              "id": "6X6AIAaIXGUvdQsQvFyZAg",
+              "title": "Company Man",
+              "artist": "MyNamesError, DixonBeats",
+              "url": "https://open.spotify.com/track/6X6AIAaIXGUvdQsQvFyZAg",
+              "image": "https://i.scdn.co/image/ab67616d0000b2736ae91ceab3343ef5cd2681c2",
+              "plays": 1
+            },
+            {
+              "id": "1gVTRdyaBWT17zs2M0fxtt",
+              "title": "MAD!",
+              "artist": "Confz",
+              "url": "https://open.spotify.com/track/1gVTRdyaBWT17zs2M0fxtt",
+              "image": "https://i.scdn.co/image/ab67616d0000b27378a613f254592208a3cf88a4",
+              "plays": 1
+            },
+            {
+              "id": "0qwCLv12yAVd3h7iBUwE9s",
+              "title": "Rasputin",
+              "artist": "Lunar C",
+              "url": "https://open.spotify.com/track/0qwCLv12yAVd3h7iBUwE9s",
+              "image": "https://i.scdn.co/image/ab67616d0000b273b652cbc52d711c8a21508cce",
+              "plays": 1
+            },
+            {
+              "id": "1Tlb80Wu4kCHz4Hxn5j6bq",
+              "title": "Family Tree",
+              "artist": "PAZ47, OMGCHRIS",
+              "url": "https://open.spotify.com/track/1Tlb80Wu4kCHz4Hxn5j6bq",
+              "image": "https://i.scdn.co/image/ab67616d0000b273c1a72ecb7f863bb9f770ea33",
+              "plays": 1
+            },
+            {
+              "id": "2vkF91indPJcqYSFF8wnHO",
+              "title": "Surflow",
+              "artist": "Mike Miller",
+              "url": "https://open.spotify.com/track/2vkF91indPJcqYSFF8wnHO",
+              "image": "https://i.scdn.co/image/ab67616d0000b273a86387d2e509a9eef7e98bd7",
+              "plays": 1
+            },
+            {
+              "id": "3vGEm8ZN8wvi00YEWspbjc",
+              "title": "WALLY",
+              "artist": "Elro, Cunning MC, Vibe Chemistry, Lupole",
+              "url": "https://open.spotify.com/track/3vGEm8ZN8wvi00YEWspbjc",
+              "image": "https://i.scdn.co/image/ab67616d0000b2733b009d7465e7fbf35bda2e6e",
+              "plays": 1
+            },
+            {
+              "id": "4Q9AvcKkWmIR4rfBe0pLar",
+              "title": "SF Cypher 21",
+              "artist": "Lupole, Elro, Devilman, STEEZE FACTORY, JC Stormz, Forbes, K Dot",
+              "url": "https://open.spotify.com/track/4Q9AvcKkWmIR4rfBe0pLar",
+              "image": "https://i.scdn.co/image/ab67616d0000b273eb944bfb65f4b61bdd17dba2",
+              "plays": 1
+            },
+            {
+              "id": "5RW7cIeTypnP0S8S6JlN0c",
+              "title": "Hustler Boogie",
+              "artist": "Casper Walsh",
+              "url": "https://open.spotify.com/track/5RW7cIeTypnP0S8S6JlN0c",
+              "image": "https://i.scdn.co/image/ab67616d0000b273f216f62c4ecdcb49fcb897c2",
               "plays": 1
             }
           ]
         }
       ],
-      "lastPlayedAt": "2026-11-24T21:59:47.268Z",
+      "lastPlayedAt": "2026-11-26T17:33:06.346Z",
       "lastKeys": [
-        "[1795557587268,\"6RObeP8IVb4X4nCLUCJ9Dx\"]"
+        "[1795714386346,\"0oeJvpE3d84fwBAcANz9y5\"]"
       ],
       "from": "2026-09-08T21:25:30.393Z",
-      "through": "2026-11-24T21:59:47.268Z"
+      "through": "2026-11-26T17:33:06.346Z"
     },
-    "status": "stale",
-    "checkedAt": "2026-11-25T21:43:03.526Z",
-    "updatedAt": "2026-11-24T22:27:37.301Z",
-    "error": "503",
-    "retryAt": null
+    "status": "ok",
+    "checkedAt": "2026-11-26T21:33:11.653Z",
+    "updatedAt": "2026-11-26T21:33:11.653Z"
   },
   "github": {
     "events": [],
     "status": "ok",
-    "checkedAt": "2026-11-25T21:43:03.526Z",
-    "updatedAt": "2026-11-25T21:43:03.526Z"
+    "checkedAt": "2026-11-26T21:33:11.653Z",
+    "updatedAt": "2026-11-26T21:33:11.653Z"
   },
   "canvasapi": {
     "status": "disabled"
@@ -11234,156 +11748,156 @@
     "playerId": 3375407,
     "type": "ironman",
     "combat": 100,
-    "snapshotAt": "2026-11-25T21:43:04.811Z",
+    "snapshotAt": "2026-11-26T21:33:13.496Z",
     "skills": [
       {
         "key": "overall",
         "value": 1797,
-        "rank": 181374,
-        "xp": 37291446
+        "rank": 181443,
+        "xp": 37341871
       },
       {
         "key": "attack",
         "value": 75,
-        "rank": 224800,
-        "xp": 1225071
+        "rank": 220065,
+        "xp": 1241927
       },
       {
         "key": "defence",
         "value": 76,
         "rank": 194071,
-        "xp": 1434017
+        "xp": 1438134
       },
       {
         "key": "strength",
         "value": 82,
-        "rank": 233575,
-        "xp": 2464968
+        "rank": 233519,
+        "xp": 2469860
       },
       {
         "key": "hitpoints",
         "value": 85,
-        "rank": 207315,
-        "xp": 3344398
+        "rank": 207098,
+        "xp": 3356908
       },
       {
         "key": "ranged",
         "value": 80,
-        "rank": 212067,
-        "xp": 2039115
+        "rank": 212016,
+        "xp": 2042073
       },
       {
         "key": "prayer",
         "value": 70,
-        "rank": 177268,
+        "rank": 177388,
         "xp": 797055
       },
       {
         "key": "magic",
         "value": 85,
-        "rank": 171139,
-        "xp": 3504499
+        "rank": 171105,
+        "xp": 3508446
       },
       {
         "key": "cooking",
         "value": 73,
-        "rank": 242605,
-        "xp": 1002542
+        "rank": 242468,
+        "xp": 1004268
       },
       {
         "key": "woodcutting",
         "value": 71,
-        "rank": 275273,
-        "xp": 890781
+        "rank": 275350,
+        "xp": 890921
       },
       {
         "key": "fletching",
         "value": 69,
-        "rank": 262009,
+        "rank": 262097,
         "xp": 673770
       },
       {
         "key": "fishing",
         "value": 71,
-        "rank": 292975,
-        "xp": 864722
+        "rank": 293004,
+        "xp": 865072
       },
       {
         "key": "firemaking",
         "value": 92,
-        "rank": 199658,
+        "rank": 199714,
         "xp": 6714107
       },
       {
         "key": "crafting",
         "value": 74,
-        "rank": 209584,
-        "xp": 1114531
+        "rank": 209651,
+        "xp": 1115056
       },
       {
         "key": "smithing",
         "value": 73,
-        "rank": 180809,
-        "xp": 1051250
+        "rank": 180831,
+        "xp": 1051775
       },
       {
         "key": "mining",
         "value": 73,
-        "rank": 265204,
-        "xp": 1009083
+        "rank": 265309,
+        "xp": 1009223
       },
       {
         "key": "herblore",
         "value": 72,
-        "rank": 178082,
-        "xp": 925513
+        "rank": 178157,
+        "xp": 925553
       },
       {
         "key": "agility",
         "value": 77,
-        "rank": 158697,
+        "rank": 158855,
         "xp": 1489175
       },
       {
         "key": "thieving",
         "value": 73,
-        "rank": 237489,
+        "rank": 237591,
         "xp": 993013
       },
       {
         "key": "slayer",
         "value": 69,
-        "rank": 212390,
+        "rank": 212463,
         "xp": 722292
       },
       {
         "key": "farming",
         "value": 80,
-        "rank": 179941,
-        "xp": 2026596
+        "rank": 180003,
+        "xp": 2026614
       },
       {
         "key": "runecrafting",
         "value": 70,
-        "rank": 152983,
+        "rank": 153070,
         "xp": 784158
       },
       {
         "key": "hunter",
         "value": 72,
-        "rank": 238410,
-        "xp": 946280
+        "rank": 238351,
+        "xp": 947961
       },
       {
         "key": "construction",
         "value": 71,
-        "rank": 163685,
+        "rank": 163775,
         "xp": 830134
       },
       {
         "key": "sailing",
         "value": 64,
-        "rank": 96271,
+        "rank": 96603,
         "xp": 444376
       }
     ],
@@ -11396,27 +11910,27 @@
       {
         "key": "barrows_chests",
         "value": 151,
-        "rank": 145247
+        "rank": 145288
       },
       {
         "key": "brutus",
         "value": 122,
-        "rank": 56610
+        "rank": 56664
       },
       {
         "key": "calvarion",
         "value": 17,
-        "rank": 83465
+        "rank": 83508
       },
       {
         "key": "crazy_archaeologist",
         "value": 31,
-        "rank": 91239
+        "rank": 91272
       },
       {
         "key": "dagannoth_rex",
         "value": 237,
-        "rank": 60580
+        "rank": 60597
       },
       {
         "key": "giant_mole",
@@ -11426,17 +11940,17 @@
       {
         "key": "hespori",
         "value": 24,
-        "rank": 140660
+        "rank": 140703
       },
       {
         "key": "lunar_chests",
-        "value": 115,
-        "rank": 93732
+        "value": 118,
+        "rank": 93003
       },
       {
         "key": "mad_angel",
         "value": 19,
-        "rank": 37611
+        "rank": 37717
       },
       {
         "key": "obor",
@@ -11446,12 +11960,12 @@
       {
         "key": "scurrius",
         "value": 19,
-        "rank": 81546
+        "rank": 81587
       },
       {
         "key": "tempoross",
         "value": 96,
-        "rank": 109811
+        "rank": 109858
       },
       {
         "key": "the_gauntlet",
@@ -11460,13 +11974,13 @@
       },
       {
         "key": "the_corrupted_gauntlet",
-        "value": 228,
-        "rank": 76293
+        "value": 229,
+        "rank": 76155
       },
       {
         "key": "the_royal_titans",
         "value": 40,
-        "rank": 107908
+        "rank": 107984
       },
       {
         "key": "tztok_jad",
@@ -11476,12 +11990,12 @@
       {
         "key": "wintertodt",
         "value": 354,
-        "rank": 165884
+        "rank": 165928
       },
       {
         "key": "zalcano",
         "value": 46,
-        "rank": 50591
+        "rank": 50598
       }
     ],
     "activities": [
@@ -11498,32 +12012,32 @@
       {
         "key": "clue_scrolls_all",
         "value": 101,
-        "rank": 160780
+        "rank": 160818
       },
       {
         "key": "clue_scrolls_beginner",
         "value": 26,
-        "rank": 93905
+        "rank": 93930
       },
       {
         "key": "clue_scrolls_easy",
         "value": 26,
-        "rank": 118294
+        "rank": 118330
       },
       {
         "key": "clue_scrolls_medium",
         "value": 25,
-        "rank": 152209
+        "rank": 152251
       },
       {
         "key": "clue_scrolls_hard",
         "value": 23,
-        "rank": 164647
+        "rank": 164687
       },
       {
         "key": "clue_scrolls_elite",
         "value": 1,
-        "rank": 164396
+        "rank": 164400
       },
       {
         "key": "clue_scrolls_master",
@@ -11548,7 +12062,7 @@
       {
         "key": "guardians_of_the_rift",
         "value": 119,
-        "rank": 120009
+        "rank": 120068
       },
       {
         "key": "colosseum_glory",
@@ -11562,8 +12076,8 @@
       }
     ],
     "status": "ok",
-    "checkedAt": "2026-11-25T21:43:03.526Z",
-    "updatedAt": "2026-11-25T21:43:03.526Z"
+    "checkedAt": "2026-11-26T21:33:11.653Z",
+    "updatedAt": "2026-11-26T21:33:11.653Z"
   },
   "collectionLog": {
     "username": "Nonduality",
@@ -12520,7 +13034,7 @@
     ],
     "notable": [],
     "status": "ok",
-    "checkedAt": "2026-11-25T21:43:03.526Z",
-    "updatedAt": "2026-11-25T21:43:03.526Z"
+    "checkedAt": "2026-11-26T21:33:11.653Z",
+    "updatedAt": "2026-11-26T21:33:11.653Z"
   }
 }
